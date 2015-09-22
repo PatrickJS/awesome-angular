@@ -62,7 +62,7 @@ Table of contents:
 * [Angular 2 Official Blog](http://angularjs.blogspot.com/)
 * [Angular 2 Official Documentation](https://angular.io/docs/js/latest/)
 * [Angular 2 Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [github] [Angular 2 Official GitHub Repo](https://github.com/angular/angular)
+* [Angular 2 Official GitHub Repo](https://github.com/angular/angular)
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server

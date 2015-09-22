@@ -152,6 +152,8 @@ Table of contents:
   * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2)
 * Yeoman
   * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2)
+* stagehand (for dart)
+  * [kasperpeulen/stagehand](https://github.com/kasperpeulen/stagehand)
 
 #### Angular 2 TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)

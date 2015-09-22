@@ -57,8 +57,9 @@ Table of contents:
 
 #### Angular 2 General Resources
 * [Angular 2 Official Site](https://angular.io/)
-* [github] [Angular 2 GitHub Repo](https://github.com/angular/angular)
-* [Angular 2 Documentation](https://angular.io/docs/js/latest/)
+* [github] [Angular 2 Official GitHub Repo](https://github.com/angular/angular)
+* [Angular 2 Official Documentation](https://angular.io/docs/js/latest/)
+* [Angular 2 Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -71,6 +72,8 @@ Table of contents:
 * [AngularJS on Google+](https://plus.google.com/u/0/+AngularJS/posts)
 * [AngularAir](http://angular-air.com/)
 * [ng-newsletter](http://www.ng-newsletter.com)
+* [tryangular2](http://www.tryangular2.com/)
+* [Built With Angular 2](http://builtwithangular2.com/)
 
 #### Angular 2 Server-Side Rendering
 * [github] [Angular 2 Universal](https://github.com/angular/universal)

@@ -162,7 +162,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### TypeScript General Resources
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
-* [github] [Repo](https://github.com/Microsoft/TypeScript) Official Github Repo for TypeScript
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official Github Repo for TypeScript
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
 * [github] [DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 

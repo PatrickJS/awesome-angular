@@ -97,7 +97,7 @@ Table of contents:
   * Angular 2
     * [Working with Pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
     * [Domain Models and Dependency Injection](https://auth0.com/blog/2015/09/17/angular-2-series-part-2-domain-models-and-dependency-injection/)
-* Thoughtram
+* thoughtram
   * Angular 2 Template Syntax Demystified
     * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
     * [Part 2](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-2.html)
@@ -115,7 +115,7 @@ Table of contents:
 * [AngularClass](https://angularclass.com)
 
 #### Angular 2 Approach and Explanation
-* Thoughtram
+* thoughtram
   * [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
   * [Developing a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
   * [Resolving Service Dependencies in Angular 2](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)

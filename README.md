@@ -15,7 +15,7 @@ Table of contents:
   * [Angular 2 Community](#angular-2-community)
   * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
   * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
-  
+  * [Angular 2 Books](#angular-2-books)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
@@ -58,6 +58,11 @@ Table of contents:
 * [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+
+#### Angular 2 Books
+* [ng-book 2](https://ng-book.com/2) `fullstack.io`
+* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
+
 
 ### Universal Angular 2
 > Universal (isomorphic) javascript support for Angular 2

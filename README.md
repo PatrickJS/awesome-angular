@@ -84,13 +84,16 @@ Table of contents:
 
 #### Angular 2 Series
 * Ionic
-  * [Introduction](http://blog.ionic.io/angular-2-series-introduction/)
-  * [Components](http://blog.ionic.io/angular-2-series-components/)
+  * Angular 2
+    * [Introduction](http://blog.ionic.io/angular-2-series-introduction/)
+    * [Components](http://blog.ionic.io/angular-2-series-components/)
 * Auth0
-  * [Working with Pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
-  * [Domain Models and Dependency Injection](https://auth0.com/blog/2015/09/17/angular-2-series-part-2-domain-models-and-dependency-injection/)
+  * Angular 2
+    * [Working with Pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
+    * [Domain Models and Dependency Injection](https://auth0.com/blog/2015/09/17/angular-2-series-part-2-domain-models-and-dependency-injection/)
 * Thoughtram
-  * [Angular 2 Template Syntax Demystified - Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+  * Angular 2 Template Syntax Demystified
+    * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 
 #### Angular 2 Video Tutorials
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)

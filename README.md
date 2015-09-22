@@ -16,7 +16,7 @@ Table of contents:
 * [Angular 2 Official Site](https://angular.io/)
 * [Angular 2 GitHub](https://github.com/angular/angular)
 
-#### React Community
+#### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
 * `#angular2` hashtag on Twitter
 * [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/angular2)

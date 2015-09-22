@@ -111,6 +111,9 @@ Table of contents:
 
 #### Angular 2 On-Site Training
 * [AngularClass](https://angularclass.com)
+* [Angular 2 Master Class by thoughtram](http://thoughtram.io)
+* [egghead.io](http://egghead.io)
+* [Fullstack.io/ng-book](https://www.ng-book.com/2/)
 
 #### Angular 2 Approach and Explanation
 * thoughtram

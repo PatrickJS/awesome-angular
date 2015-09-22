@@ -14,6 +14,10 @@ Table of contents:
   * [Angular 2 General Resources](#angular-2-general-resources)
   * [Angular 2 Community](#angular-2-community)
   * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
+  * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
+* [Universal](#universal-angular-2)
+  * [Universal General Resources](#universal-general-resources)
+  * [Seed Projects](#universal-seed-projects)
 * [TypeScript](#angular-2-in-typescript)
   * [Angular 2 Online Playground](#typescript-angular-2-online-playground)
   * [Seed Projects](#typescript-seed-projects)
@@ -32,7 +36,8 @@ Table of contents:
 
 #### Angular 2 General Resources
 * [Angular 2 Official Site](https://angular.io/)
-* [Angular 2 GitHub](https://github.com/angular/angular)
+* [Angular 2 GitHub Repo](https://github.com/angular/angular)
+
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -47,6 +52,20 @@ Table of contents:
 
 #### Angular 2 Server-Side Rendering
 * [Angular 2 Universal](https://github.com/angular/universal)
+
+#### Angular 2 Cheatsheet
+* [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
+* [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
+* [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+
+### Universal Angular 2
+> Universal (isomorphic) javascript support for Angular 2
+
+#### Universal General Resources
+* [Universal Angular 2 GitHub Repo](https://github.com/angular/universal)
+
+#### Universal Seed Projects
+* [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
 
 ### Angular 2 in TypeScript
 > TypeScript lets you write JavaScript the way you really want to.

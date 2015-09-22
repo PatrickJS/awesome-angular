@@ -144,7 +144,7 @@ Table of contents:
   * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2)
 
 #### Angular 2 TodoMVC
-* [Official Angular 2.0](http://todomvc.com/examples/angular2/)
+* [Official Angular 2](http://todomvc.com/examples/angular2/)
 
 ### Universal Angular 2
 > Universal (isomorphic) javascript support for Angular 2

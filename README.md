@@ -28,6 +28,7 @@ Table of contents:
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
 * [TypeScript](#angular-2-in-typescript)
+  * [TypeScript General Resources](#typescript-general-resources)
   * [Angular 2 Online Playground](#typescript-angular-2-online-playground)
   * [Seed Projects](#typescript-seed-projects)
 * [Dart](#angular-2-in-dart)
@@ -103,6 +104,13 @@ Table of contents:
 > TypeScript lets you write JavaScript the way you really want to.
 TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
+#### TypeScript General Resources
+* [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
+* [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
+* [github] [Repo](https://github.com/Microsoft/TypeScript) Official Github Repo for TypeScript
+* [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
+* [github] [DefinitelyTyped](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+
 #### TypeScript Angular 2 Online Playground
 
 #### TypeScript Seed Projects
@@ -117,6 +125,11 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 ### Angular 2 in Babel
 > The compiler for writing next generation JavaScript.
+
+#### Babel General Resources
+* [Babel](https://babeljs.io/) Official Website for Babel
+* [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
+* [github] [Repo](https://github.com/babel/babel) Official Github Repo for Babel
 
 #### Babel Angular 2 Online Playground
 

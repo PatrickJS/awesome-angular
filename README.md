@@ -59,9 +59,10 @@ Table of contents:
 
 #### Angular 2 General Resources
 * [Angular 2 Official Site](https://angular.io/)
-* [github] [Angular 2 Official GitHub Repo](https://github.com/angular/angular)
+* [Angular 2 Official Blog](http://angularjs.blogspot.com/)
 * [Angular 2 Official Documentation](https://angular.io/docs/js/latest/)
 * [Angular 2 Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
+* [github] [Angular 2 Official GitHub Repo](https://github.com/angular/angular)
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -113,7 +114,7 @@ Table of contents:
 #### Angular 2 On-Site Training
 * [AngularClass](https://angularclass.com)
 
-#### Angular 2 Approach Explanation
+#### Angular 2 Approach and Explanation
 * Thoughtram
   * [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
   * [Developing a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)

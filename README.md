@@ -71,7 +71,7 @@ Table of contents:
 * [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/angular2)
 * [@AngularJS on Twitter](https://twitter.com/angularjs)
 * [/r/Angular2 Subreddit](http://www.reddit.com/r/angular2/)
-* [Angular 2 Group on Facebook](https://www.facebook.com/groups/angular2/)
+* [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [AngularJS on Google+](https://plus.google.com/u/0/+AngularJS/posts)
 * [AngularAir](http://angular-air.com/)
 * [ng-newsletter](http://www.ng-newsletter.com)

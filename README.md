@@ -4,10 +4,12 @@
   </a>
 </p>
 
-# Awesome Angular 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Angular 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
 
 Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular 2 ecosystem
 
+##### Current Angular 2 version:
+[![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
 
 Table of contents:
 * [Angular 2](#angular-2)
@@ -20,6 +22,7 @@ Table of contents:
   * [Angular 2 Books](#angular-2-books)
   * [Angular 2 On-Site Training](#angular-2-on-site-training)
   * [Angular 2 Explained](#angular-2-explained)
+  * [Angular 2 Integrations](#angular-2-integrations)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
@@ -41,7 +44,7 @@ Table of contents:
 
 #### Angular 2 General Resources
 * [Angular 2 Official Site](https://angular.io/)
-* [Angular 2 GitHub Repo](https://github.com/angular/angular)
+* [github] [Angular 2 GitHub Repo](https://github.com/angular/angular)
 * [Angular 2 Documentation](https://angular.io/docs/js/latest/)
 
 #### Angular 2 Community
@@ -57,12 +60,12 @@ Table of contents:
 * [ng-newsletter](http://www.ng-newsletter.com)
 
 #### Angular 2 Server-Side Rendering
-* [Angular 2 Universal](https://github.com/angular/universal)
+* [github] [Angular 2 Universal](https://github.com/angular/universal)
 
 #### Angular 2 Cheatsheet
-* [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
-* [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
-* [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+* [docs] [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
+* [docs] [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
+* [github] [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 
 #### Angular 2 Tutorials
 
@@ -77,14 +80,19 @@ Table of contents:
 #### Angular 2 On-Site Training
 * [AngularClass](https://angularclass.com)
 
+
+#### Angular 2 Integrations
+* [video] [FalcorJS + Angular2](https://youtu.be/z8UgDZ4rXBU)
+* [Angular2-Meteor](http://angular-meteor.com/angular2)
+
 ### Universal Angular 2
 > Universal (isomorphic) javascript support for Angular 2
 
 #### Universal General Resources
-* [Universal Angular 2 GitHub Repo](https://github.com/angular/universal)
+* [github] [Universal Angular 2 GitHub Repo](https://github.com/angular/universal)
 
 #### Universal Seed Projects
-* [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
+* [github] [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
 
 ### Angular 2 in TypeScript
 > TypeScript lets you write JavaScript the way you really want to.
@@ -93,7 +101,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### TypeScript Angular 2 Online Playground
 
 #### TypeScript Seed Projects
-* [angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
+* [github] [angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
 
 ### Angular 2 in Dart
 > Platform for scalable web app engineering that compiles to JavaScript.

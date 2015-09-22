@@ -45,6 +45,9 @@ Table of contents:
 * [ES5](#angular-2-in-es5)
   * [Angular 2 Online Playground](#es5-angular-2-online-playground)
   * [Seed Projects](#es5-seed-projects)
+* [Haxe](#angular-2-in-haxe)
+  * [Angular 2 Online Playground](#haxe-angular-2-online-playground)
+  * [Seed Projects](#haxe-seed-projects)
 * [Platforms](#platforms)
   * [Ionic 2](#ionic-2)
     * [Ionic 2 General Resources](#ionic-2-general-resources)
@@ -204,6 +207,15 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### ES5 Angular 2 Online Playground
 
 #### ES5 Seed Projects
+
+### Angular 2 in Haxe
+> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language.
+
+#### Haxe Angular 2 Online Playground
+
+#### Haxe Seed Projects
+* [angular2haxe](https://github.com/nweedon/angular2haxe)
+
 
 
 ### Platforms

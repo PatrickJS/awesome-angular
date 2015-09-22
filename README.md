@@ -23,7 +23,7 @@ Table of contents:
   * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
   * [Angular 2 Books](#angular-2-books)
   * [Angular 2 On-Site Training](#angular-2-on-site-training)
-  * [Angular 2 Approach Explanation](#angular-2-approach-explanation)
+  * [Angular 2 Approach and Explanation](#angular-2-approach-and-explanation)
   * [Angular 2 Integrations](#angular-2-integrations)
   * [Angular 2 Components](#angular-2-components)
   * [Angular 2 Generators](#angular-2-generators)

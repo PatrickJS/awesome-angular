@@ -182,6 +182,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Dart Seed Projects
 
+ * https://github.com/ng2-dart-samples
+
 ### Angular 2 in Babel
 > The compiler for writing next generation JavaScript.
 

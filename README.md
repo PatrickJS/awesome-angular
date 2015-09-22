@@ -159,7 +159,9 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### TypeScript Angular 2 Online Playground
 
 #### TypeScript Seed Projects
-* [github] [angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
+* [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter/) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
+* [Angular 2 Seed](http://mgechev.github.io/angular2-seed/) Seed project for Angular 2 apps
+* [ng2-play.ts](A minimal Angular2 playground using TypeScript)
 
 ### Angular 2 in Dart
 > Platform for scalable web app engineering that compiles to JavaScript.
@@ -179,6 +181,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Babel Angular 2 Online Playground
 
 #### Babel Seed Projects
+* [gituhb] [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with babel.
 
 ### Angular 2 in ES5
 > An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
@@ -186,6 +189,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### ES5 Angular 2 Online Playground
 
 #### ES5 Seed Projects
+
 
 ### Platforms
 

@@ -15,6 +15,7 @@ Table of contents:
   * [Angular 2 Community](#angular-2-community)
   * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
   * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
+  
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
@@ -37,7 +38,7 @@ Table of contents:
 #### Angular 2 General Resources
 * [Angular 2 Official Site](https://angular.io/)
 * [Angular 2 GitHub Repo](https://github.com/angular/angular)
-
+* [Angular 2 Documentation](https://angular.io/docs/js/latest/)
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server

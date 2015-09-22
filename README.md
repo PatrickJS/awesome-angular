@@ -18,7 +18,6 @@ Table of contents:
   * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
   * [Angular 2 Material Design](#angular-2-material-design)
   * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
-  * [Angular 2 TodoMVC](#angular-2-todomvc)
   * [Angular 2 Tutorials](#angular-2-tutorials)
   * [Angular 2 Series](#angular-2-series)
   * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
@@ -27,6 +26,8 @@ Table of contents:
   * [Angular 2 Approach Explanation](#angular-2-approach-explanation)
   * [Angular 2 Integrations](#angular-2-integrations)
   * [Angular 2 Components](#angular-2-components)
+  * [Angular 2 Generators](#angular-2-generators)
+  * [Angular 2 TodoMVC](#angular-2-todomvc)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
@@ -136,6 +137,12 @@ Table of contents:
 
 ### Angular 2 Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
+
+### Angular 2 Generators
+* Slush
+  * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2)
+* Yeoman
+  * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2)
 
 #### Angular 2 TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)

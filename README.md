@@ -26,6 +26,7 @@ Table of contents:
   * [Angular 2 On-Site Training](#angular-2-on-site-training)
   * [Angular 2 Approach Explanation](#angular-2-approach-explanation)
   * [Angular 2 Integrations](#angular-2-integrations)
+  * [Angular 2 Components](#angular-2-components)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
@@ -133,6 +134,9 @@ Table of contents:
 * [github] [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [github] https://github.com/angular/react-native-renderer
 
+### Angular 2 Components
+* [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
+
 #### Angular 2 TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
 
@@ -162,7 +166,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter/) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
 * [Angular 2 Seed](http://mgechev.github.io/angular2-seed/) Seed project for Angular 2 apps
 * [ng2-play.ts](A minimal Angular2 playground using TypeScript)
-
+ 
 ### Angular 2 in Dart
 > Platform for scalable web app engineering that compiles to JavaScript.
 

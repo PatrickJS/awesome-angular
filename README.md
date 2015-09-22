@@ -148,10 +148,14 @@ Table of contents:
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 
 ### Angular 2 Generators
-* Slush
-  * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2)
-* Yeoman
-  * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2)
+* Node.js
+  * Slush
+    * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2)
+  * Yeoman
+    * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2)
+* Dart
+  * Stagehand
+    * [kasperpeulen/stagehand](https://github.com/kasperpeulen/stagehand)
 
 #### Angular 2 TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)

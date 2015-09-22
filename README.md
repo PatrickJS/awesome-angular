@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Awesome Angular 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
+# Awesome Angular 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular 2 ecosystem
 
@@ -16,9 +16,11 @@ Table of contents:
   * [Angular 2 General Resources](#angular-2-general-resources)
   * [Angular 2 Community](#angular-2-community)
   * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
+  * [Angular 2 Material Design](#angular-2-material-design)
   * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
   * [Angular 2 TodoMVC](#angular-2-todomvc)
   * [Angular 2 Tutorials](#angular-2-tutorials)
+  * [Angular 2 Series](#angular-2-series)
   * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
   * [Angular 2 Books](#angular-2-books)
   * [Angular 2 On-Site Training](#angular-2-on-site-training)
@@ -41,7 +43,15 @@ Table of contents:
 * [ES5](#angular-2-in-es5)
   * [Angular 2 Online Playground](#es5-angular-2-online-playground)
   * [Seed Projects](#es5-seed-projects)
-  
+* [Platforms](#platforms)
+  * [Ionic 2](#ionic-2)
+    * [Ionic 2 General Resources](#ionic-2-general-resources)
+  * [NativeScript](#nativescript-in-angular-2)
+    * [NativeScript General Resources](#nativescript-general-resources)
+    * [Seed Projects](#nativescript-seed-projects)
+  * [React Native](#react-native)
+    * [React Native General Resources](#react-native-general-resources)
+    
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
 
@@ -72,6 +82,16 @@ Table of contents:
 
 #### Angular 2 Tutorials
 
+#### Angular 2 Series
+* Ionic
+  * [Introduction](http://blog.ionic.io/angular-2-series-introduction/)
+  * [Components](http://blog.ionic.io/angular-2-series-components/)
+* Auth0
+  * [Working with Pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
+  * [Domain Models and Dependency Injection](https://auth0.com/blog/2015/09/17/angular-2-series-part-2-domain-models-and-dependency-injection/)
+* Thoughtram
+  * [Angular 2 Template Syntax Demystified - Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+
 #### Angular 2 Video Tutorials
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
@@ -84,10 +104,26 @@ Table of contents:
 * [AngularClass](https://angularclass.com)
 
 #### Angular 2 Approach Explanation
-
+* Thoughtram
+  * [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
+  * [Developing a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
+  * [Resolving Service Dependencies in Angular 2](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
+  * [Forward references in Angular 2](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
+  * [Host and Visibility in Angular 2's Dependency Injection](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
+  * [Dependency Injection in Angular 2](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
+  * [Routing in Angular 2](http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
+  * [Angular 2 Template Syntax Demystified - Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+  * [View Encapsulation in Angular 2](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
+  * [Styling Angular 2 components](http://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
+  * [Even better ES5 code for Angular 2](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
+  * [Writing Angular 2 code in ES5](http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
+  * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
+  
 #### Angular 2 Integrations
 * [video] [FalcorJS + Angular2](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
+* [github] [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
+* [github] https://github.com/angular/react-native-renderer
 
 #### Angular 2 TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
@@ -142,6 +178,27 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### ES5 Angular 2 Online Playground
 
 #### ES5 Seed Projects
+
+### Platforms
+
+##### Ionic 2 General Resources
+* [github] [Repo](https://github.com/driftyco/ionic2)
+
+#### Angular 2 in NativeScript 
+> Build truly native iOS, Android and Windows Phone apps with Javascript and CSS. Try NativeScript open-source framework for cross-platform development.
+
+##### NativeScript General Resources
+* [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
+
+#### NativeScript Seed Projects
+* [github] [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
+
+#### Angular 2 in React Native
+> React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript
+
+##### React Native General Resources
+* [React Native](https://facebook.github.io/react-native/) Official Website for React Native
+
 
 ## License
 

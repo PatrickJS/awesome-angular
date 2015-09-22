@@ -15,7 +15,11 @@ Table of contents:
   * [Angular 2 Community](#angular-2-community)
   * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
   * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
+  * [Angular 2 Tutorials](#angular-2-tutorials)
+  * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
   * [Angular 2 Books](#angular-2-books)
+  * [Angular 2 On-Site Training](#angular-2-on-site-training)
+  * [Angular 2 Explained](#angular-2-explained)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
@@ -50,6 +54,7 @@ Table of contents:
 * [Angular 2 Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [AngularJS on Google+](https://plus.google.com/u/0/+AngularJS/posts)
 * [AngularAir](http://angular-air.com/)
+* [ng-newsletter](http://www.ng-newsletter.com)
 
 #### Angular 2 Server-Side Rendering
 * [Angular 2 Universal](https://github.com/angular/universal)
@@ -59,10 +64,18 @@ Table of contents:
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 
+#### Angular 2 Tutorials
+
+#### Angular 2 Video Tutorials
+* [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+* [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
+
 #### Angular 2 Books
 * [ng-book 2](https://ng-book.com/2) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
 
+#### Angular 2 On-Site Training
+* [AngularClass](https://angularclass.com)
 
 ### Universal Angular 2
 > Universal (isomorphic) javascript support for Angular 2

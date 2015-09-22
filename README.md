@@ -13,8 +13,20 @@ Table of contents:
 * [Angular 2](#angular-2)
   * [Angular 2 General Resources](#angular-2-general-resources)
   * [Angular 2 Community](#angular-2-community)
-  * [Seed Projects](#seed-projects)
-
+  * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
+* [TypeScript](#angular-2-in-typescript)
+  * [Angular 2 Online Playground](#typescript-angular-2-online-playground)
+  * [Seed Projects](#typescript-seed-projects)
+* [Dart](#angular-2-in-dart)
+  * [Angular 2 Online Playground](#dart-angular-2-online-playground)
+  * [Seed Projects](#dart-seed-projects)
+* [Babel](#angular-2-in-babel)
+  * [Angular 2 Online Playground](#babel-angular-2-online-playground)
+  * [Seed Projects](#babel-seed-projects)
+* [ES5](#angular-2-in-es5)
+  * [Angular 2 Online Playground](#es5-angular-2-online-playground)
+  * [Seed Projects](#es5-seed-projects)
+  
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
 
@@ -25,14 +37,46 @@ Table of contents:
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
 * [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
+* [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/angular2)
 * [@AngularJS on Twitter](https://twitter.com/angularjs)
 * [/r/Angular2 Subreddit](http://www.reddit.com/r/angular2/)
+* [Angular 2 Group on Facebook](https://www.facebook.com/groups/angular2/)
+* [AngularJS on Google+](https://plus.google.com/u/0/+AngularJS/posts)
 * [AngularAir](http://angular-air.com/)
 
+#### Angular 2 Server-Side Rendering
+* [Angular 2 Universal](https://github.com/angular/universal)
 
-## Seed Projects
+### Angular 2 in TypeScript
+> TypeScript lets you write JavaScript the way you really want to.
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+
+#### TypeScript Angular 2 Online Playground
+
+#### TypeScript Seed Projects
 * [angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
+
+### Angular 2 in Dart
+> Platform for scalable web app engineering that compiles to JavaScript.
+
+#### Dart Angular 2 Online Playground
+
+#### Dart Seed Projects
+
+### Angular 2 in Babel
+> The compiler for writing next generation JavaScript.
+
+#### Babel Angular 2 Online Playground
+
+#### Babel Seed Projects
+
+### Angular 2 in ES5
+> An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
+
+#### ES5 Angular 2 Online Playground
+
+#### ES5 Seed Projects
 
 ## License
 

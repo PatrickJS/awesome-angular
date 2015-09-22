@@ -66,17 +66,17 @@ Table of contents:
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
-* [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
+* [`#dart`](https://twitter.com/hashtag/dart) hashtag on Twitter
 * [Gitter Channel](https://gitter.im/angular/angular)
-* [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/angular2)
+* [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/dart)
 * [@AngularJS on Twitter](https://twitter.com/angularjs)
-* [/r/Angular2 Subreddit](http://www.reddit.com/r/angular2/)
-* [Angular 2 Group on Facebook](https://www.facebook.com/groups/angular2/)
+* [/r/dart Subreddit](http://www.reddit.com/r/dart/)
+* [Angular 2 Group on Facebook](https://www.facebook.com/groups/dart/)
 * [AngularJS on Google+](https://plus.google.com/u/0/+AngularJS/posts)
 * [AngularAir](http://angular-air.com/)
 * [ng-newsletter](http://www.ng-newsletter.com)
-* [tryangular2](http://www.tryangular2.com/)
-* [Built With Angular 2](http://builtwithangular2.com/)
+* [trydart](http://www.trydart.com/)
+* [Built With Angular 2](http://builtwithdart.com/)
 
 #### Angular 2 Server-Side Rendering
 * [github] [Angular 2 Universal](https://github.com/angular/universal)
@@ -84,7 +84,7 @@ Table of contents:
 #### Angular 2 Cheatsheet
 * [docs] [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
 * [docs] [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
-* [github] [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+* [github] [dart Dart cheatsheet](https://github.com/andresaraujo/dart_cheatsheet_dart)
 
 #### Angular 2 Tutorials
 
@@ -95,7 +95,7 @@ Table of contents:
     * [Components](http://blog.ionic.io/angular-2-series-components/)
 * Auth0
   * Angular 2
-    * [Working with Pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
+    * [Working with Pipes](https://auth0.com/blog/2015/09/03/dart-series-working-with-pipes/)
     * [Domain Models and Dependency Injection](https://auth0.com/blog/2015/09/17/angular-2-series-part-2-domain-models-and-dependency-injection/)
 * Thoughtram
   * Angular 2 Template Syntax Demystified
@@ -104,7 +104,7 @@ Table of contents:
     * [Part 3](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-3.html)
 
 #### Angular 2 Video Tutorials
-* [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+* [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-dart/)
 * [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
 
 #### Angular 2 Books
@@ -182,7 +182,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Dart Seed Projects
 
- * https://github.com/ng2-dart-samples
+ * [ng2-dart-samples](https://github.com/ng2-dart-samples)
 
 ### Angular 2 in Babel
 > The compiler for writing next generation JavaScript.

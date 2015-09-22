@@ -79,7 +79,7 @@ Table of contents:
 * [Built With Angular 2](http://builtwithangular2.com/)
 
 #### Angular 2 Server-Side Rendering
-* [github] [Angular 2 Universal](https://github.com/angular/universal)
+* [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
 
 #### Angular 2 Cheatsheet
 * [docs] [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)

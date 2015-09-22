@@ -187,12 +187,12 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Babel General Resources
 * [Babel](https://babeljs.io/) Official Website for Babel
 * [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-* [github] [Repo](https://github.com/babel/babel) Official Github Repo for Babel
+* [Babel Repository (GitHub)](https://github.com/babel/babel) Official Github Repo for Babel
 
 #### Babel Angular 2 Online Playground
 
 #### Babel Seed Projects
-* [gituhb] [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with babel.
+* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with babel.
 
 ### Angular 2 in ES5
 > An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
@@ -205,7 +205,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 ### Platforms
 
 ##### Ionic 2 General Resources
-* [github] [Repo](https://github.com/driftyco/ionic2)
+* [Repository (GitHub)](https://github.com/driftyco/ionic2)
 
 #### Angular 2 in NativeScript 
 > Build truly native iOS, Android and Windows Phone apps with Javascript and CSS. Try NativeScript open-source framework for cross-platform development.
@@ -214,7 +214,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
 
 #### NativeScript Seed Projects
-* [github] [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
+* [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
 
 #### Angular 2 in React Native
 > React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript

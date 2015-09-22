@@ -58,11 +58,11 @@ Table of contents:
 > Angular is a development platform for building mobile and desktop web applications.
 
 #### Angular 2 General Resources
-* [Angular 2 Official Site](https://angular.io/)
-* [Angular 2 Official Blog](http://angularjs.blogspot.com/)
-* [Angular 2 Official Documentation](https://angular.io/docs/js/latest/)
-* [Angular 2 Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Angular 2 Official GitHub Repo](https://github.com/angular/angular)
+* [Official Site](https://angular.io/)
+* [Official Blog](http://angularjs.blogspot.com/)
+* [Official Documentation](https://angular.io/docs/js/latest/)
+* [Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
+* [Official GitHub Repo](https://github.com/angular/angular)
 
 #### Angular 2 Community
 * `#angular2` channel on Freenode IRC Server
@@ -102,8 +102,8 @@ Table of contents:
     * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 
 #### Angular 2 Video Tutorials
-* [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
-* [Egghead.io Angular 2](https://egghead.io/technologies/angular2)
+* [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
+* [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 
 #### Angular 2 Books
 * [ng-book 2](https://ng-book.com/2) `fullstack.io`
@@ -111,13 +111,12 @@ Table of contents:
 
 #### Angular 2 On-Site Training
 * [AngularClass](https://angularclass.com)
-* [Angular 2 Master Class by thoughtram](http://thoughtram.io)
-* [egghead.io](http://egghead.io)
-* [Fullstack.io/ng-book](https://www.ng-book.com/2/)
+* [thoughtram](http://thoughtram.io/training.html)
+* [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
+* [ng-book](https://www.ng-book.com/2/)
 
 #### Angular 2 Approach and Explanation
 * thoughtram
-  * [Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2) - A curated collection of high quality articles to explore the Angular 2 framework
   * [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
   * [Developing a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
   * [Resolving Service Dependencies in Angular 2](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)

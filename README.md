@@ -22,7 +22,7 @@ Table of contents:
   * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
   * [Angular 2 Books](#angular-2-books)
   * [Angular 2 On-Site Training](#angular-2-on-site-training)
-  * [Angular 2 Explained](#angular-2-explained)
+  * [Angular 2 Approach Explanation](#angular-2-approach-explanation)
   * [Angular 2 Integrations](#angular-2-integrations)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
@@ -81,6 +81,7 @@ Table of contents:
 #### Angular 2 On-Site Training
 * [AngularClass](https://angularclass.com)
 
+#### Angular 2 Approach Explanation
 
 #### Angular 2 Integrations
 * [video] [FalcorJS + Angular2](https://youtu.be/z8UgDZ4rXBU)

@@ -94,6 +94,8 @@ Table of contents:
 * Thoughtram
   * Angular 2 Template Syntax Demystified
     * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+    * [Part 2](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-2.html)
+    * [Part 3](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-3.html)
 
 #### Angular 2 Video Tutorials
 * [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)

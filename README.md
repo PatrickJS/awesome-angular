@@ -35,6 +35,7 @@ Table of contents:
   * [Angular 2 Online Playground](#dart-angular-2-online-playground)
   * [Seed Projects](#dart-seed-projects)
 * [Babel](#angular-2-in-babel)
+  * [Babel General Resources](#babel-general-resources)
   * [Angular 2 Online Playground](#babel-angular-2-online-playground)
   * [Seed Projects](#babel-seed-projects)
 * [ES5](#angular-2-in-es5)

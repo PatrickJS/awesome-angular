@@ -82,6 +82,7 @@ Table of contents:
 * [ng-newsletter](http://www.ng-newsletter.com)
 * [tryangular2](http://www.tryangular2.com/)
 * [Built With Angular 2](http://builtwithangular2.com/)
+* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 
 #### Angular 2 Server-Side Rendering
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)

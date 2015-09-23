@@ -147,6 +147,7 @@ Table of contents:
 
 ### Angular 2 Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
+* [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap)
 
 ### Angular 2 Generators
 * Node.js

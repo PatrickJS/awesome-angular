@@ -189,6 +189,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 Seed](http://mgechev.github.io/angular2-seed#awesome-angular2) Seed project for Angular 2 apps
 * [ng2-play.ts](https://github.com/pkozlowski-opensource/ng2-play.ts#awesome-angular2) A minimal Angular2 playground using TypeScript
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
+* [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
  
 ### Angular 2 in Dart
 > Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.

@@ -83,6 +83,7 @@ Table of contents:
 * [tryangular2](http://www.tryangular2.com/)
 * [Built With Angular 2](http://builtwithangular2.com/)
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
+* [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
 #### Angular 2 Server-Side Rendering
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)

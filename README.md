@@ -89,6 +89,7 @@ Table of contents:
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
 
 #### Angular 2 Material Design
+* [Official Angular 2 Material Design (Github)](https://github.com/angular/angular/tree/master/modules/angular2_material)
 
 #### Angular 2 Cheatsheet
 * [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)

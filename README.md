@@ -284,6 +284,15 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### React Native Projects
 * [Angular 2 React Native Renderer (Github)](https://github.com/angular/react-native-renderer)
 
+---
+
+#### Angular 2 in Meteor
+> Build Realtime Web and Mobile Apps With Angular and Meteor
+
+##### Meteor General Resources
+* [Angular Meteor](http://angular-meteor.com) Official Website for Angular Meteor
+* [Angular 2 Meteor](http://angular-meteor.com/angular2)
+
 
 ## License
 

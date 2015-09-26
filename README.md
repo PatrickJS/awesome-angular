@@ -163,6 +163,7 @@ Table of contents:
 
 #### Angular 2 TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
+* [Angular 2 Dart](https://github.com/ng2-dart-samples/todomvc)
 
 ### Universal Angular 2
 > Universal (isomorphic) javascript support for Angular 2

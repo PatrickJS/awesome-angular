@@ -281,6 +281,9 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 ##### React Native General Resources
 * [React Native](https://facebook.github.io/react-native/) Official Website for React Native
 
+#### React Native Projects
+* [Angular 2 React Native Renderer (Github)](https://github.com/angular/react-native-renderer)
+
 
 ## License
 

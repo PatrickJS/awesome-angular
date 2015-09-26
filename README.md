@@ -33,20 +33,15 @@ Table of contents:
   * [Seed Projects](#universal-seed-projects)
 * [TypeScript](#angular-2-in-typescript)
   * [TypeScript General Resources](#typescript-general-resources)
-  * [Angular 2 Online Playground](#typescript-angular-2-online-playground)
   * [Seed Projects](#typescript-seed-projects)
 * [Dart](#angular-2-in-dart)
-  * [Angular 2 Online Playground](#dart-angular-2-online-playground)
   * [Seed Projects](#dart-seed-projects)
 * [Babel](#angular-2-in-babel)
   * [Babel General Resources](#babel-general-resources)
-  * [Angular 2 Online Playground](#babel-angular-2-online-playground)
   * [Seed Projects](#babel-seed-projects)
 * [ES5](#angular-2-in-es5)
-  * [Angular 2 Online Playground](#es5-angular-2-online-playground)
   * [Seed Projects](#es5-seed-projects)
 * [Haxe](#angular-2-in-haxe)
-  * [Angular 2 Online Playground](#haxe-angular-2-online-playground)
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
@@ -58,7 +53,9 @@ Table of contents:
     * [Seed Projects](#nativescript-seed-projects)
   * [React Native](#react-native)
     * [React Native General Resources](#react-native-general-resources)
-    
+    * [React Native Projects](#react-native-projects)
+  * [Meteor](#meteor)
+
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
 
@@ -151,7 +148,7 @@ Table of contents:
   * [Even better ES5 code for Angular 2](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
   * [Writing Angular 2 code in ES5](http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
-  
+
 #### Angular 2 Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
@@ -177,6 +174,8 @@ Table of contents:
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
 * [Angular 2 Dart](https://github.com/ng2-dart-samples/todomvc)
 
+---
+
 ### Universal Angular 2
 > Universal (isomorphic) javascript support for Angular 2
 
@@ -185,6 +184,8 @@ Table of contents:
 
 #### Universal Seed Projects
 * [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
+
+---
 
 ### Angular 2 in TypeScript
 > TypeScript lets you write JavaScript the way you really want to.
@@ -197,7 +198,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
 * [DefinitelyTyped Repository (GitHub)](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
-#### TypeScript Angular 2 Online Playground
 
 #### TypeScript Seed Projects
 * [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter#awesome-angular2) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
@@ -205,7 +205,9 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [ng2-play.ts](https://github.com/pkozlowski-opensource/ng2-play.ts#awesome-angular2) A minimal Angular2 playground using TypeScript
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
- 
+
+---
+
 ### Angular 2 in Dart
 > Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
 
@@ -217,7 +219,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
 * [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
 
-#### Dart Angular 2 Online Playground
 
 #### Dart Seed Projects
 * [Angular 2 Dart Quickstart](https://github.com/andresaraujo/ng2_dart_quickstart) A minimal quick start project.
@@ -228,6 +229,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 
+---
+
 ### Angular 2 in Babel
 > The compiler for writing next generation JavaScript.
 
@@ -236,22 +239,24 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
 * [Babel Repository (GitHub)](https://github.com/babel/babel) Official Github Repo for Babel
 
-#### Babel Angular 2 Online Playground
 
 #### Babel Seed Projects
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with babel.
+* [Github: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
+
+---
 
 ### Angular 2 in ES5
 > An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
 
-#### ES5 Angular 2 Online Playground
 
 #### ES5 Seed Projects
+
+---
 
 ### Angular 2 in Haxe
 > Haxe is an open source toolkit based on a modern, high level, strictly typed programming language.
 
-#### Haxe Angular 2 Online Playground
 
 #### Haxe Seed Projects
 * [angular2haxe](https://github.com/nweedon/angular2haxe)
@@ -262,6 +267,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Scala Seed Projects
 * [play-angular2](https://github.com/gdi2290/play-angular2)
 
+---
 ### Platforms
 
 #### Angular 2 in Ionic 2
@@ -274,7 +280,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 ---
 
-#### Angular 2 in NativeScript 
+#### Angular 2 in NativeScript
 > Build truly native iOS, Android and Windows Phone apps with Javascript and CSS. Try NativeScript open-source framework for cross-platform development.
 
 ##### NativeScript General Resources
@@ -282,6 +288,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### NativeScript Seed Projects
 * [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
+
+---
 
 #### Angular 2 in React Native
 > React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript

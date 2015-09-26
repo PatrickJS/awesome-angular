@@ -263,8 +263,15 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 ### Platforms
 
+#### Angular 2 in Ionic 2
+> Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
+
+* [Ionic Framework](http://ionicframework.com) Official Website for Ionic Framework
+
 ##### Ionic 2 General Resources
-* [Repository (GitHub)](https://github.com/driftyco/ionic2)
+* [Ionic 2 Repository (GitHub)](https://github.com/driftyco/ionic2)
+
+---
 
 #### Angular 2 in NativeScript 
 > Build truly native iOS, Android and Windows Phone apps with Javascript and CSS. Try NativeScript open-source framework for cross-platform development.

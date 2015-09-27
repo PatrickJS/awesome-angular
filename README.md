@@ -36,6 +36,9 @@ Table of contents:
   * [Seed Projects](#typescript-seed-projects)
 * [Dart](#angular-2-in-dart)
   * [Seed Projects](#dart-seed-projects)
+* [Traceur](#angular-2-in-traceur)
+  * [Traceur General Resources](#traceur-general-resources)
+  * [Seed Projects](#traceur-seed-projects)
 * [Babel](#angular-2-in-babel)
   * [Babel General Resources](#babel-general-resources)
   * [Seed Projects](#babel-seed-projects)
@@ -86,7 +89,7 @@ Table of contents:
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
 
 #### Angular 2 Material Design
-* [Official Angular 2 Material Design (Github)](https://github.com/angular/angular/tree/master/modules/angular2_material)
+* [Official Angular 2 Material Design (GitHub)](https://github.com/angular/angular/tree/master/modules/angular2_material)
 
 #### Angular 2 Cheatsheet
 * [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
@@ -195,7 +198,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### TypeScript General Resources
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official Github Repo for TypeScript
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
 * [DefinitelyTyped Repository (GitHub)](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
@@ -216,7 +219,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Dart General Resources
 * [Dart](https://www.dartlang.org/) Official Website for Dart
 * [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
-* [Dart Organization (GitHub)](https://github.com/dart-lang) Official Github Organization for Dart
+* [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
 * [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
 * [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
 * [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
@@ -233,18 +236,33 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 ---
 
+### Angular 2 in Traceur
+
+> Traceur is a JavaScript.next-to-JavaScript-of-today compiler
+
+#### Traceur General Resources
+
+* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+
+#### Traceur Seed Projects
+
+* [GitHub: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
+
+---
+
 ### Angular 2 in Babel
 > The compiler for writing next generation JavaScript.
 
 #### Babel General Resources
 * [Babel](https://babeljs.io/) Official Website for Babel
 * [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-* [Babel Repository (GitHub)](https://github.com/babel/babel) Official Github Repo for Babel
+* [Babel Repository (GitHub)](https://github.com/babel/babel) Official GitHub Repo for Babel
 
+#### Babel Angular 2 Online Playground
+* [Plunker: Angular 2 + Babel](http://plnkr.co/edit/PxCzCu?p=preview)
 
 #### Babel Seed Projects
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with babel.
-* [Github: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
 
 ---
 
@@ -301,7 +319,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [React Native](https://facebook.github.io/react-native/) Official Website for React Native
 
 #### React Native Projects
-* [Angular 2 React Native Renderer (Github)](https://github.com/angular/react-native-renderer)
+* [Angular 2 React Native Renderer (GitHub)](https://github.com/angular/react-native-renderer)
 
 ---
 

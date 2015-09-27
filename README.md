@@ -36,6 +36,9 @@ Table of contents:
   * [Seed Projects](#typescript-seed-projects)
 * [Dart](#angular-2-in-dart)
   * [Seed Projects](#dart-seed-projects)
+* [Traceur](#angular-2-in-traceur)
+  * [Traceur General Resources](#traceur-general-resources)
+  * [Seed Projects](#traceur-seed-projects)
 * [Babel](#angular-2-in-babel)
   * [Babel General Resources](#babel-general-resources)
   * [Seed Projects](#babel-seed-projects)
@@ -233,6 +236,20 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 ---
 
+### Angular 2 in Traceur
+
+> Traceur is a JavaScript.next-to-JavaScript-of-today compiler
+
+#### Traceur General Resources
+
+* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+
+#### Traceur Seed Projects
+
+* [GitHub: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
+
+---
+
 ### Angular 2 in Babel
 > The compiler for writing next generation JavaScript.
 
@@ -244,7 +261,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Babel Seed Projects
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with babel.
-* [Github: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
 
 ---
 

@@ -258,6 +258,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
 * [Babel Repository (GitHub)](https://github.com/babel/babel) Official GitHub Repo for Babel
 
+#### Babel Angular 2 Online Playground
+* [Plunker: Angular 2 + Babel](http://plnkr.co/edit/PxCzCu?p=preview)
 
 #### Babel Seed Projects
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with babel.

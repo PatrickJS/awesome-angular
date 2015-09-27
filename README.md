@@ -252,6 +252,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 
 #### ES5 Seed Projects
+* [ng2-play](https://github.com/pkozlowski-opensource/ng2-play#awesome-angular2) A minimal ES6 project using Angular 2.0.
 
 ---
 

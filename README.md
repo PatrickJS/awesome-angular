@@ -20,39 +20,15 @@ Table of contents:
   * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
   * [Angular 2 Features](#angular-2-features)
     * [Annotations](#annotations)
-      * [Directives](#directives)
-      * [Components](#components)
     * [View](#view)
-      * [Overview](#overview)
-      * [Simple View](#simple-view)
-      * [Composed View](#composed-view)
-      * [Component Views](#component-view)
-      * [Evaluation Context](#evaluation-context)
-      * [Lifecycle (Hydration and Dehydration)](#lifecycle-hydration-and-dehydration)
     * [Templates](#templates)
-      * [Property bindings](#property-bindings)
-      * [Binding events](#binding-events)
-      * [String Interpolation](#string-interpolation)
-      * [Inline Templates](#inline-templates)
-      * [Template Microsyntax](#template-microsyntax)
     * [Change detection](#change-detection)
-      * [Immutable Objects](#immutable-objects)
-      * [Observable Objects](#observable-objects)
-    * [DI](#di)
-      * [Core Abstractions](#core-abstractions)
-      * [Example](#example)
-      * [Child Injectors and Dependencies](#child-injectors-and-dependencies)
-        * [Constraints](#constraints)
-        * [DI Does Not Walk Down](#di-does-not-walk-down)
-      * [Bindings](#bindings)
-        * [Resolved Bindings](#resolved-bindings)
-      * [Transient Dependencies](#transient-dependencies)
-    * [HTTP](#http)
+    * [Dependency Injection](#dependency-injection)
     * [Pipes](#pipes)
+    * [Web Workers](#web-workers)
+    * [HTTP](#http)
     * [Router](#router)
     * [Test](#test)
-    * [Web Workers](#web-workers)
-    * [Server-Rendering](#web-workers)
   * [Angular 2 Tutorials](#angular-2-tutorials)
   * [Angular 2 Series](#angular-2-series)
   * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
@@ -136,41 +112,47 @@ Table of contents:
 
 #### Angular 2 Features
 
-* Annotations
-* Directives
-* Components
-* View
-* Overview
-* Simple View
-* Composed View
-* Component Views
-* Evaluation Context
-* Lifecycle (Hydration and Dehydration)
-* Templates
-* Property bindings
-* Binding events
-* String Interpolation
-* Inline Templates
-* Template Microsyntax
-* Change detection
-* Immutable Objects
-* Observable Objects
-* DI
-* Core Abstractions
-* Example
-* Child Injectors and Dependencies
-* Constraints
-* DI Does Not Walk Down
-* Bindings
-* Resolved Bindings
-* Transient Dependencies
-* HTTP
-* Pipes
-* Router
-* Test
-* Web Workers
-* Server-Rendering
+##### Annotations
+###### Directives
+Directives allow you to attach behavior to elements in the DOM.
+[Read more..](features/Annotations.md#directives)
 
+###### Components
+A component is a directive which uses shadow DOM to create encapsulate visual behavior. Components are typically used to create UI widgets or to break up the application into smaller components.
+[Read more..](features/Annotations.md#components)
+
+##### View
+A View is a core primitive used by angular to render the DOM tree.
+[Read more..](features/View.md)
+
+##### Templates
+Templates are markup which is added to HTML to declaratively describe how the application model should be
+projected to DOM as well as which DOM events should invoke which methods on the controller.
+[Read more..](features/Templates.md)
+
+##### Change detection
+Every component gets a change detector responsible for checking the bindings defined in its template.
+[Read more..](features/ChangeDetection.md)
+
+##### Dependency Injection
+Angular 1.x has two APIs for injecting dependencies into a directive. Angular 2 unifies the two APIs, making the code easier to understand and test.
+[Read more..](features/DI.md)
+
+##### Pipes
+Pipes can be appended on the end of the expressions to translate the value to a different format.
+[Read more..](features/Pipes.md)
+
+##### Web Workers
+WebWorker support in Angular2 is designed to make it easy to leverage parallelization in your web application.
+When you choose to run your application in a WebWorker angular runs both your application's logic and the
+majority of the core angular framework in a WebWorker.
+[Read more..](features/WebWorkers.md)
+
+##### HTTP
+
+##### Router
+
+##### Test
 
 #### Angular 2 Tutorials
 

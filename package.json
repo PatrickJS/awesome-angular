@@ -1,0 +1,27 @@
+{
+  "name": "awesome-angular2",
+  "version": "0.0.0",
+  "description": "A curated list of awesome Angular 2 resources",
+  "main": "readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular2",
+    "angular 2",
+    "AngularClass",
+    "awesome",
+    "awesome list",
+    "awesome angular 2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular-class/awesome-angular2.git"
+  },
+  "author": "AngularClass",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/angular-class/awesome-angular2/issues"
+  },
+  "homepage": "https://github.com/angular-class/awesome-angular2#readme"
+}

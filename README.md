@@ -76,7 +76,9 @@ Table of contents:
   * [Seed Projects](#traceur-seed-projects)
 * [Babel](#angular-2-in-babel)
   * [Babel General Resources](#babel-general-resources)
+  * [Online Playground](#babel-angular-2-online-playground)
   * [Seed Projects](#babel-seed-projects)
+  * [Babel Plugins](#babel-plugins)
 * [ES5](#angular-2-in-es5)
   * [Seed Projects](#es5-seed-projects)
 * [Ionic 2](#ionic-2-in-angular-2)
@@ -342,6 +344,11 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Babel Seed Projects
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
 * [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+
+#### Babel Plugins
+
+* [babel-plugin-angular2-annotations](https://github.com/shuhei/babel-plugin-angular2-annotations) An experimental babel transformer plugin for Angular 2 annotations
+* [babel-plugin-type-assertion](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts_assert
 
 ---
 

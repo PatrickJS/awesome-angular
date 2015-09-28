@@ -79,20 +79,21 @@ Table of contents:
   * [Seed Projects](#babel-seed-projects)
 * [ES5](#angular-2-in-es5)
   * [Seed Projects](#es5-seed-projects)
+* [Ionic 2](#ionic-2-in-angular-2)
+  * [Ionic 2 General Resources](#ionic-2-general-resources)
+* [Meteor](#meteor-in-angular-2)
+  * [Meteor General Resources](#meteor-general-resources)
+  * [Seed Projects](#meteor-seed-projects)
+* [NativeScript](#angular-2-in-nativescript)
+  * [NativeScript General Resources](#nativescript-general-resources)
+  * [Seed Projects](#nativescript-seed-projects)
+* [React Native](#angular-2-in-react-native)
+  * [React Native General Resources](#react-native-general-resources)
+  * [React Native Projects](#react-native-projects)
 * [Haxe](#angular-2-in-haxe)
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
-* [Platforms](#platforms)
-  * [Ionic 2](#ionic-2)
-    * [Ionic 2 General Resources](#ionic-2-general-resources)
-  * [NativeScript](#nativescript-in-angular-2)
-    * [NativeScript General Resources](#nativescript-general-resources)
-    * [Seed Projects](#nativescript-seed-projects)
-  * [React Native](#react-native)
-    * [React Native General Resources](#react-native-general-resources)
-    * [React Native Projects](#react-native-projects)
-  * [Meteor](#meteor)
 
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
@@ -283,6 +284,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [NG2 Lab](https://github.com/rolandjitsu/ng2-lab#awesome-angular2) A simple Angular 2 setup using TypeScript, SystemJS and Firebase that also includes a few examples of unit testing and CI with Travis and Saucelabs.
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -306,6 +308,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Pipes](https://github.com/ng2-dart-samples/pipes) Examples of Pipes in Angular 2 for Dart.
 * [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -321,6 +324,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 * [GitHub: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
 * [GitHub: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play#awesome-angular2) A minimal ES6 project using Angular 2.0.
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -337,40 +341,42 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Babel Seed Projects
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
 ### Angular 2 in ES5
 > An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
 
+##### ES5 General Resources
+* [**{{** help_add_resources **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 #### ES5 Seed Projects
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
-### Angular 2 in Haxe
-> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language.
-
-
-#### Haxe Seed Projects
-* [angular2haxe](https://github.com/nweedon/angular2haxe)
-
-### Angular 2 in Scala
-> General purpose language; multiparadigm (object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
-
-#### Scala Seed Projects
-* [play-angular2](https://github.com/gdi2290/play-angular2)
-
----
-### Platforms
-
-#### Angular 2 in Ionic 2
+#### Ionic 2 in Angular 2
 > Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
 
 * [Ionic Framework](http://ionicframework.com) Official Website for Ionic Framework
+* [Ionic Documentation](http://ionicframework.com/docs/v2/) Official for Ionic Framework
 
 ##### Ionic 2 General Resources
 * [Ionic 2 Repository (GitHub)](https://github.com/driftyco/ionic2)
+
+---
+
+#### Meteor in Angular 2
+> Build Realtime Web and Mobile Apps With Angular and Meteor
+
+##### Meteor General Resources
+* [Angular Meteor](http://angular-meteor.com) Official Website for Angular Meteor
+* [Angular 2 Meteor](http://angular-meteor.com/angular2)
+
+#### Meteor Seed Projects
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+
 
 ---
 
@@ -382,6 +388,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### NativeScript Seed Projects
 * [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -394,14 +401,34 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### React Native Projects
 * [Angular 2 React Native Renderer (GitHub)](https://github.com/angular/react-native-renderer)
 
+#### React Native Seed Projects
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+
 ---
 
-#### Angular 2 in Meteor
-> Build Realtime Web and Mobile Apps With Angular and Meteor
+### Angular 2 in Haxe
+> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language.
 
-##### Meteor General Resources
-* [Angular Meteor](http://angular-meteor.com) Official Website for Angular Meteor
-* [Angular 2 Meteor](http://angular-meteor.com/angular2)
+##### Haxe General Resources
+* [**{{** help_add_resources **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+
+#### Haxe Seed Projects
+* [angular2haxe](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+
+---
+
+### Angular 2 in Scala
+> General purpose language; multiparadigm (object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
+
+##### Scala General Resources
+* [**{{** help_add_resources **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+
+#### Scala Seed Projects
+* [play-angular2](https://github.com/gdi2290/play-angular2)
+* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+
+---
 
 
 ## License

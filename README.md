@@ -18,6 +18,7 @@ Table of contents:
   * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
   * [Angular 2 Material Design](#angular-2-material-design)
   * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
+  * [Angular 2 Features](#angular-2-features)
   * [Angular 2 Tutorials](#angular-2-tutorials)
   * [Angular 2 Series](#angular-2-series)
   * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
@@ -95,6 +96,44 @@ Table of contents:
 * [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+
+#### Angular 2 Features
+
+* Annotations
+* Directives
+* Components
+* View
+* Overview
+* Simple View
+* Composed View
+* Component Views
+* Evaluation Context
+* Lifecycle (Hydration and Dehydration)
+* Templates
+* Property bindings
+* Binding events
+* String Interpolation
+* Inline Templates
+* Template Microsyntax
+* Change detection
+* Immutable Objects
+* Observable Objects
+* DI
+* Core Abstractions
+* Example
+* Child Injectors and Dependencies
+* Constraints
+* DI Does Not Walk Down
+* Bindings
+* Resolved Bindings
+* Transient Dependencies
+* HTTP
+* Pipes
+* Router
+* Test
+* Web Workers
+* Server-Rendering
+
 
 #### Angular 2 Tutorials
 

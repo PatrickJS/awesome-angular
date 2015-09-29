@@ -149,6 +149,8 @@ majority of the core angular framework in a WebWorker.
 [Read more..](features/WebWorkers.md)
 
 ##### HTTP
+Http is available as an injectable class, with methods to perform http requests. Calling request returns an EventEmitter which will emit a single Response when a response is received.
+[Read more..](features/HTTP.md)
 
 ##### Router
 

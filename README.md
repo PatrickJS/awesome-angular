@@ -75,6 +75,8 @@ Table of contents:
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
+* [Angular 2 experts on Twitter](#angular-2-experts-on-twitter)
+
 
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
@@ -422,6 +424,19 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Scala Seed Projects
 * [play-angular2](https://github.com/gdi2290/play-angular2)
 * [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+
+#### Angular 2 experts on Twitter
+> List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
+* [@gdi2290](https://twitter.com/gdi2290)
+* [@jeffwhelpley](https://twitter.com/jeffwhelpley)
+* [@pkozlowski_os](https://twitter.com/pkozlowski_os)
+* [@kentcdodds](https://twitter.com/kentcdodds)
+* [@mhevery](https://twitter.com/mhevery)
+* [@victorsavkin](https://twitter.com/victorsavkin)
+* [@tbosch1009](https://twitter.com/tbosch1009)
+* [@teropa](https://twitter.com/teropa)
+* [@eggheadio](https://twitter.com/eggheadio)
+ 
 
 ---
 

@@ -11,6 +11,9 @@ Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerpla
 ##### Current Angular 2 version:
 [![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
 
+##### Current Browser support for Angular 2:
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
+
 Table of contents:
 * [Angular 2](#angular-2)
   * [Angular 2 General Resources](#angular-2-general-resources)

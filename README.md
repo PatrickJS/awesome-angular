@@ -106,6 +106,7 @@ Table of contents:
 
 #### Experts on Twitter
 > List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
+
 * [@gdi2290](https://twitter.com/gdi2290)
 * [@jeffwhelpley](https://twitter.com/jeffwhelpley)
 * [@pkozlowski_os](https://twitter.com/pkozlowski_os)
@@ -115,6 +116,7 @@ Table of contents:
 * [@tbosch1009](https://twitter.com/tbosch1009)
 * [@teropa](https://twitter.com/teropa)
 * [@eggheadio](https://twitter.com/eggheadio)
+* [**{{** add_expert **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 
 #### Server-Side Rendering

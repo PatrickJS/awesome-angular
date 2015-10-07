@@ -133,48 +133,51 @@ Table of contents:
 ##### Annotations
 ###### Directives
 Directives allow you to attach behavior to elements in the DOM.
-[Read more..](features/Annotations.md#directives)
+<br>[Read more »](features/Annotations.md#directives)
 
 ###### Components
 A component is a directive which uses shadow DOM to create encapsulate visual behavior. Components are typically used to create UI widgets or to break up the application into smaller components.
-[Read more..](features/Annotations.md#components)
+<br>[Read more »](features/Annotations.md#components)
 
 ##### View
 A View is a core primitive used by angular to render the DOM tree.
-[Read more..](features/View.md)
+<br>[Read more »](features/View.md)
 
 ##### Templates
 Templates are markup which is added to HTML to declaratively describe how the application model should be
 projected to DOM as well as which DOM events should invoke which methods on the controller.
-[Read more..](features/Templates.md)
+<br>[Read more »](features/Templates.md)
 
 ##### Change detection
 Every component gets a change detector responsible for checking the bindings defined in its template.
-[Read more..](features/ChangeDetection.md)
+<br>[Read more »](features/ChangeDetection.md)
 
 ##### Dependency Injection
 Angular 1.x has two APIs for injecting dependencies into a directive. Angular 2 unifies the two APIs, making the code easier to understand and test.
-[Read more..](features/DI.md)
+<br>[Read more »](features/DI.md)
 
 ##### Pipes
 Pipes can be appended on the end of the expressions to translate the value to a different format.
-[Read more..](features/Pipes.md)
+<br>[Read more »](features/Pipes.md)
 
 ##### Web Workers
 WebWorker support in Angular2 is designed to make it easy to leverage parallelization in your web application.
 When you choose to run your application in a WebWorker angular runs both your application's logic and the
 majority of the core angular framework in a WebWorker.
-[Read more..](features/WebWorkers.md)
+<br>[Read more »](features/WebWorkers.md)
 
 ##### HTTP
 Http is available as an injectable class, with methods to perform http requests. Calling request returns an EventEmitter which will emit a single Response when a response is received.
-[Read more..](features/HTTP.md)
+<br>[Read more »](features/HTTP.md)
 
 ##### Router
+[**{{** help_out **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+<br>[Read more »](features/Router.md)
 
 ##### Test
+[**{{** help_out **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+<br>[Read more »](features/Test.md)
 
-#### Tutorials
 
 #### Series
 * Ionic

@@ -16,8 +16,9 @@ Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerpla
 
 Table of contents:
 * [Angular 2](#angular-2)
-  * [General Resources](#general-resources)
+  * [Official Resources](#official-resources)
   * [Community](#community)
+  * [Experts on Twitter](#experts-on-twitter)
   * [Server-Side Rendering](#server-side-rendering)
   * [Material Design](#material-design)
   * [Cheatsheet](#cheatsheet)
@@ -75,20 +76,19 @@ Table of contents:
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
-* [Angular 2 experts on Twitter](#angular-2-experts-on-twitter)
 
 
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
 
-#### Angular 2 General Resources
-* [Official Site](https://angular.io/)
-* [Official Blog](http://angularjs.blogspot.com/)
-* [Official Documentation](https://angular.io/docs/js/latest/)
-* [Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Official GitHub Repo](https://github.com/angular/angular)
+#### Official Resources
+* [Site](https://angular.io/)
+* [Blog](http://angularjs.blogspot.com/)
+* [Documentation](https://angular.io/docs/js/latest/)
+* [Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
+* [GitHub Repo](https://github.com/angular/angular)
 
-#### Angular 2 Community
+#### Community
 * `#angular2` channel on Freenode IRC Server
 * [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
 * [Gitter Channel](https://gitter.im/angular/angular)
@@ -103,6 +103,19 @@ Table of contents:
 * [Built With Angular 2](http://builtwithangular2.com/)
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
+
+#### Experts on Twitter
+> List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
+* [@gdi2290](https://twitter.com/gdi2290)
+* [@jeffwhelpley](https://twitter.com/jeffwhelpley)
+* [@pkozlowski_os](https://twitter.com/pkozlowski_os)
+* [@kentcdodds](https://twitter.com/kentcdodds)
+* [@mhevery](https://twitter.com/mhevery)
+* [@victorsavkin](https://twitter.com/victorsavkin)
+* [@tbosch1009](https://twitter.com/tbosch1009)
+* [@teropa](https://twitter.com/teropa)
+* [@eggheadio](https://twitter.com/eggheadio)
+
 
 #### Server-Side Rendering
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
@@ -424,18 +437,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Scala Seed Projects
 * [play-angular2](https://github.com/gdi2290/play-angular2)
 * [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
-
-#### Angular 2 experts on Twitter
-> List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
-* [@gdi2290](https://twitter.com/gdi2290)
-* [@jeffwhelpley](https://twitter.com/jeffwhelpley)
-* [@pkozlowski_os](https://twitter.com/pkozlowski_os)
-* [@kentcdodds](https://twitter.com/kentcdodds)
-* [@mhevery](https://twitter.com/mhevery)
-* [@victorsavkin](https://twitter.com/victorsavkin)
-* [@tbosch1009](https://twitter.com/tbosch1009)
-* [@teropa](https://twitter.com/teropa)
-* [@eggheadio](https://twitter.com/eggheadio)
 
 
 ---

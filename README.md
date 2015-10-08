@@ -97,8 +97,9 @@ Table of contents:
 * [/r/Angular2 Subreddit](http://www.reddit.com/r/angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [AngularJS on Google+](https://plus.google.com/u/0/+AngularJS/posts)
-* [AngularAir](http://angular-air.com/) podcast
-* [ng-newsletter](http://www.ng-newsletter.com)
+* [AngularAir](http://angular-air.com/) podcast and live broadcast
+* [Adventures in Angular](https://devchat.tv/adventures-in-angular) podcast
+* [ng-newsletter](http://www.ng-newsletter.com) email newsletter
 * [tryangular2](http://www.tryangular2.com/)
 * [Built With Angular 2](http://builtwithangular2.com/)
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))

@@ -117,6 +117,8 @@ Table of contents:
 * [@tbosch1009](https://twitter.com/tbosch1009)
 * [@teropa](https://twitter.com/teropa)
 * [@eggheadio](https://twitter.com/eggheadio)
+* [@john_papa](https://twitter.com/john_papa)
+* [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
 * [**{{** add_expert **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 

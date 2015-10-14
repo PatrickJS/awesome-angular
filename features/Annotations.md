@@ -17,7 +17,7 @@ Here is a trivial example of a tooltip decorator. The directive will log a toolt
 ``` javascript
 @Directive({
   selector: '[tooltip]',     | CSS Selector which triggers the decorator
-  properties: [              | List which properties need to be bound
+  inputs: [                  | List which properties need to be bound
     'text: tooltip'          |  - DOM element tooltip property should be
   ],                         |    mapped to the directive text property.
   host: {                    | List which events need to be mapped.
@@ -71,7 +71,7 @@ Example of a component:
 ``` javascript
 @Component({                      | Component annotation
   selector: 'pane',               | CSS selector on <pane> element
-  properties: [                   | List which property need to be bound
+  inputs: [                   | List which property need to be bound
     'title',                      |  - title mapped to component title
     'open'                        |  - open attribute mapped to component open property
   ],                              |

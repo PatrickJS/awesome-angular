@@ -18,6 +18,7 @@ Table of contents:
 * [Angular 2](#angular-2)
   * [Official Resources](#official-resources)
   * [Community](#community)
+  * [Angular Google Developer Experts on Twitter](#angular-google-developer-experts)
   * [Experts on Twitter](#experts-on-twitter)
   * [Server-Side Rendering](#server-side-rendering)
   * [Material Design](#material-design)
@@ -105,6 +106,27 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
+### Angular Google Developer Experts
+> List of [Google Developer Experts](https://developers.google.com/experts/) for AngularJS you should follow on Twitter (in no particular order). This list by no means complete.
+
+* [Jack Franklin](https://twitter.com/jack_franklin)
+* [Thierry Chatel](https://twitter.com/ThierryChatel)
+* [Uri Shaked](https://twitter.com/urishaked)
+* [Gonzalo Ruiz de Villa Suárez](https://twitter.com/gruizdevilla)
+* [Sharon DiOrio](https://twitter.com/sharondio)
+* [John Papa](https://twitter.com/John_Papa)
+* [Dan Wahlin](https://twitter.com/danwahlin)
+* [Donald Sutherland](https://twitter.com/beardyco)
+* [Christian Weyer](https://twitter.com/christianweyer)
+* [Todd Motto](https://twitter.com/toddmotto)
+* [Tim Ruffles](https://twitter.com/timruffles)
+* [Wassim Chegham](https://twitter.com/manekinekko)
+* [Aaron Frost](https://twitter.com/js_dev)
+* [Wilson Mendes](https://twitter.com/willmendesneto)
+* [Jared Williams](https://twitter.com/jaredwilli)
+* [Gerard Sans](https://twitter.com/gerardsans)
+* [Pascal Precht](https://twitter.com/PascalPrecht)
+
 #### Experts on Twitter
 > List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
 
@@ -120,7 +142,6 @@ Table of contents:
 * [@john_papa](https://twitter.com/john_papa)
 * [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
 * [**{{** add_expert **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
-
 
 #### Server-Side Rendering
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)

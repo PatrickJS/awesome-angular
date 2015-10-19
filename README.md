@@ -18,7 +18,6 @@ Table of contents:
 * [Angular 2](#angular-2)
   * [Official Resources](#official-resources)
   * [Community](#community)
-  * [Angular Google Developer Experts on Twitter](#angular-google-developer-experts)
   * [Experts on Twitter](#experts-on-twitter)
   * [Server-Side Rendering](#server-side-rendering)
   * [Material Design](#material-design)
@@ -106,9 +105,21 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
-### Angular Google Developer Experts
-> List of [Google Developer Experts](https://developers.google.com/experts/) for AngularJS you should follow on Twitter (in no particular order). This list by no means complete.
+#### Experts on Twitter
+> List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
 
+* [@gdi2290](https://twitter.com/gdi2290)
+* [@jeffwhelpley](https://twitter.com/jeffwhelpley)
+* [@pkozlowski_os](https://twitter.com/pkozlowski_os)
+* [@kentcdodds](https://twitter.com/kentcdodds)
+* [@mhevery](https://twitter.com/mhevery)
+* [@victorsavkin](https://twitter.com/victorsavkin)
+* [@tbosch1009](https://twitter.com/tbosch1009)
+* [@teropa](https://twitter.com/teropa)
+* [@eggheadio](https://twitter.com/eggheadio)
+* [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
+ 
+#####[Google Developer Experts](https://developers.google.com/experts/)
 * [Jack Franklin](https://twitter.com/jack_franklin)
 * [Thierry Chatel](https://twitter.com/ThierryChatel)
 * [Uri Shaked](https://twitter.com/urishaked)
@@ -126,21 +137,6 @@ Table of contents:
 * [Jared Williams](https://twitter.com/jaredwilli)
 * [Gerard Sans](https://twitter.com/gerardsans)
 * [Pascal Precht](https://twitter.com/PascalPrecht)
-
-#### Experts on Twitter
-> List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
-
-* [@gdi2290](https://twitter.com/gdi2290)
-* [@jeffwhelpley](https://twitter.com/jeffwhelpley)
-* [@pkozlowski_os](https://twitter.com/pkozlowski_os)
-* [@kentcdodds](https://twitter.com/kentcdodds)
-* [@mhevery](https://twitter.com/mhevery)
-* [@victorsavkin](https://twitter.com/victorsavkin)
-* [@tbosch1009](https://twitter.com/tbosch1009)
-* [@teropa](https://twitter.com/teropa)
-* [@eggheadio](https://twitter.com/eggheadio)
-* [@john_papa](https://twitter.com/john_papa)
-* [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
 * [**{{** add_expert **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

@@ -137,6 +137,7 @@ Table of contents:
 * [Jared Williams](https://twitter.com/jaredwilli)
 * [Gerard Sans](https://twitter.com/gerardsans)
 * [Pascal Precht](https://twitter.com/PascalPrecht)
+* [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
 * [**{{** add_expert **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

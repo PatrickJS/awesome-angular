@@ -220,6 +220,19 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 
+#### Angular Connect
+* [Keynote – Brad Green, Igor Minar and Jules Kremer](https://www.youtube.com/watch?v=UxjgUjVpe24)
+* [Testing strategies with Angular 2 – Julie Ralph](https://www.youtube.com/watch?v=C0F2E-PRm44)
+* [Building native mobile apps with Angular 2 0 and NativeScript​ - Sebastian Witalec](https://www.youtube.com/watch?v=4SbiiyRSIwo)
+* [Angular 2 Data Flow – Jeff Cross, Rob Wormald and Alex Rickabaugh](https://www.youtube.com/watch?v=bVI5gGTEQ_U)
+* [Iterative version upgrade strategies for large Angular applications – Jen Bourey](https://www.youtube.com/watch?v=8tGcdaItj0I)
+* [Debugging Angular 2 Apps with Batarangle – Yuri Takhteyev and Igor Krivanov](https://www.youtube.com/watch?v=cAC4d3KIQcM)
+* [Building apps with Firebase and Angular 2 - Sara Robinson](https://www.youtube.com/watch?v=RD0xYicNcaY)
+* [Better concepts, less code in Angular 2 - Victor Savkin and Tobias Bosch](https://www.youtube.com/watch?v=4YmnbGoh49U)
+* [Modularity and Packaging for Angular2 Applications – Pawel Kozlowski](https://www.youtube.com/watch?v=9odY9Rh5kTQ)
+* [Creating realtime apps with Angular 2 and Meteor - Uri Goldshtein](https://www.youtube.com/watch?v=3FT0BqYASCo)
+* [Angular 2 Data Flow – Jeff Cross, Rob Wormald and Alex Rickabaugh](https://www.youtube.com/watch?v=bVI5gGTEQ_U)
+
 #### Books
 * [ng-book 2](https://ng-book.com/2) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`

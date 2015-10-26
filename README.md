@@ -36,6 +36,7 @@ Table of contents:
   * [Tutorials](#tutorials)
   * [Series](#series)
   * [Video Tutorials](#video-tutorials)
+  * [Angular Connect](#angular-connect)
   * [Books](#books)
   * [On-Site Training](#on-site-training)
   * [Approach and Explanation](#approach-and-explanation)

@@ -237,6 +237,7 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Books
 * [ng-book 2](https://ng-book.com/2) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
+* [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
 
 #### On-Site Training
 * [AngularClass](https://angularclass.com)

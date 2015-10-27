@@ -119,7 +119,7 @@ Table of contents:
 * [@teropa](https://twitter.com/teropa)
 * [@eggheadio](https://twitter.com/eggheadio)
 * [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
- 
+
 #####[Google Developer Experts](https://developers.google.com/experts/)
 * [Jack Franklin](https://twitter.com/jack_franklin)
 * [Thierry Chatel](https://twitter.com/ThierryChatel)
@@ -238,6 +238,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng-book 2](https://ng-book.com/2) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
+* [Angular 2 in Action](https://www.manning.com/books/angular-2-in-action) `Manning Publications`
 
 #### On-Site Training
 * [AngularClass](https://angularclass.com)

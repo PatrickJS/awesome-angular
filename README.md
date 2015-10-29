@@ -120,7 +120,7 @@ Table of contents:
 * [@eggheadio](https://twitter.com/eggheadio)
 * [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
 
-#####[Google Developer Experts](https://developers.google.com/experts/)
+#####[Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 * [Jack Franklin](https://twitter.com/jack_franklin)
 * [Thierry Chatel](https://twitter.com/ThierryChatel)
 * [Uri Shaked](https://twitter.com/urishaked)

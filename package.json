@@ -16,12 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angular-class/awesome-angular2.git"
+    "url": "git+https://github.com/AngularClass/awesome-angular2.git"
   },
   "author": "AngularClass",
   "license": "CC0",
   "bugs": {
-    "url": "https://github.com/angular-class/awesome-angular2/issues"
+    "url": "https://github.com/AngularClass/awesome-angular2/issues"
   },
-  "homepage": "https://github.com/angular-class/awesome-angular2#readme"
+  "homepage": "https://github.com/AngularClass/awesome-angular2#readme"
 }

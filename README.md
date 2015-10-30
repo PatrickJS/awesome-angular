@@ -139,7 +139,7 @@ Table of contents:
 * [Gerard Sans](https://twitter.com/gerardsans)
 * [Pascal Precht](https://twitter.com/PascalPrecht)
 * [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
-* [**{{** add_expert **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_expert **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
@@ -195,11 +195,11 @@ Http is available as an injectable class, with methods to perform http requests.
 <br>[Read more »](features/HTTP.md)
 
 ##### Router
-[**{{** help_out **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+[**{{** help_out **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 <br>[Read more »](features/Router.md)
 
 ##### Test
-[**{{** help_out **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+[**{{** help_out **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 <br>[Read more »](features/Test.md)
 
 
@@ -311,7 +311,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal)
 
 #### Universal Seed Projects
-* [angular2-universal-starter](https://github.com/angular-class/angular2-universal-starter) - Angular 2 Universal starter kit by @Angular-Class
+* [angular2-universal-starter](https://github.com/angularclass/angular2-universal-starter) - Angular 2 Universal starter kit by @Angular-Class
 
 ---
 
@@ -334,7 +334,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [NG2 Lab](https://github.com/rolandjitsu/ng2-lab#awesome-angular2) A simple Angular 2 setup using TypeScript, SystemJS and Firebase that also includes a few examples of unit testing and CI with Travis and Saucelabs.
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -358,7 +358,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Pipes](https://github.com/ng2-dart-samples/pipes) Examples of Pipes in Angular 2 for Dart.
 * [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -374,7 +374,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 * [GitHub: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
 * [GitHub: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play#awesome-angular2) A minimal ES6 project using Angular 2.0.
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -391,7 +391,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Babel Seed Projects
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Babel Plugins
 
@@ -404,10 +404,10 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 > An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
 
 ##### ES5 General Resources
-* [**{{** help_add_resources **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### ES5 Seed Projects
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -430,7 +430,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 Meteor](http://angular-meteor.com/angular2)
 
 #### Meteor Seed Projects
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 
 ---
@@ -443,7 +443,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### NativeScript Seed Projects
 * [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -457,7 +457,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 React Native Renderer (GitHub)](https://github.com/angular/react-native-renderer)
 
 #### React Native Seed Projects
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -465,11 +465,11 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 > Haxe is an open source toolkit based on a modern, high level, strictly typed programming language.
 
 ##### Haxe General Resources
-* [**{{** help_add_resources **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Haxe Seed Projects
 * [angular2haxe](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
 
@@ -477,11 +477,11 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 > General purpose language; multiparadigm (object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
 
 ##### Scala General Resources
-* [**{{** help_add_resources **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Scala Seed Projects
 * [play-angular2](https://github.com/gdi2290/play-angular2)
-* [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 
 ---

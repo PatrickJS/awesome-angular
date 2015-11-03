@@ -336,6 +336,9 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
+#### TypeScript Demos, Samples, and Examples
+* [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
+
 ---
 
 ### Angular 2 in Dart

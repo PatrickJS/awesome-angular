@@ -107,7 +107,7 @@ Table of contents:
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
 #### Experts on Twitter
-> List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
+> List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 
 * [@gdi2290](https://twitter.com/gdi2290)
 * [@jeffwhelpley](https://twitter.com/jeffwhelpley)

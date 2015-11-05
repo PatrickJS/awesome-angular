@@ -86,6 +86,7 @@ Table of contents:
 * [Site](https://angular.io/)
 * [Blog](http://angularjs.blogspot.com/)
 * [Documentation](https://angular.io/docs/js/latest/)
+* [Cheatsheet](https://angular.io/cheatsheet)
 * [Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
 * [GitHub Repo](https://github.com/angular/angular)
 
@@ -148,7 +149,7 @@ Table of contents:
 * [Official Angular 2 Material Design (GitHub)](https://github.com/angular/angular/tree/master/modules/angular2_material)
 
 #### Cheatsheet
-* [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
+* [Official Angular 2 Cheatsheet](https://angular.io/cheatsheet)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 

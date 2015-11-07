@@ -432,6 +432,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 Meteor](http://angular-meteor.com/angular2)
 
 #### Meteor Seed Projects
+* [Angular Meteor Chatting Application](https://github.com/a-magdy/parlote)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 

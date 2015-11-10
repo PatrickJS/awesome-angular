@@ -331,7 +331,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### TypeScript Seed Projects
 * [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter#awesome-angular2) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
 * [Angular 2 Seed](http://mgechev.github.io/angular2-seed#awesome-angular2) Seed project for Angular 2 apps
-* [ng2-play.ts](https://github.com/pkozlowski-opensource/ng2-play.ts#awesome-angular2) A minimal Angular2 playground using TypeScript
+* [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
 * [NG2 Lab](https://github.com/rolandjitsu/ng2-lab#awesome-angular2) A simple Angular 2 setup using TypeScript, SystemJS and Firebase that also includes a few examples of unit testing and CI with Travis and Saucelabs.
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
@@ -375,7 +375,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Traceur Seed Projects
 
 * [GitHub: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
-* [GitHub: ng2-play (Pawel Kozlowski)](https://github.com/pkozlowski-opensource/ng2-play#awesome-angular2) A minimal ES6 project using Angular 2.0.
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---

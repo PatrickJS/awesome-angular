@@ -96,9 +96,9 @@ Table of contents:
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/angular2)
 * [@AngularJS on Twitter](https://twitter.com/angularjs)
-* [/r/Angular2 Subreddit](http://www.reddit.com/r/angular2/)
+* [/r/Angular2 Subreddit](https://www.reddit.com/r/angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
-* [AngularJS on Google+](https://plus.google.com/u/0/+AngularJS/posts)
+* [AngularJS on Google+](https://plus.google.com/+AngularJS/posts)
 * [AngularAir](http://angular-air.com/) podcast and live broadcast
 * [Adventures in Angular](https://devchat.tv/adventures-in-angular) podcast
 * [ng-newsletter](http://www.ng-newsletter.com) email newsletter
@@ -236,7 +236,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular 2 Data Flow – Jeff Cross, Rob Wormald and Alex Rickabaugh](https://www.youtube.com/watch?v=bVI5gGTEQ_U)
 
 #### Books
-* [ng-book 2](https://ng-book.com/2) `fullstack.io`
+* [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
 * [Angular 2 in Action](https://www.manning.com/books/angular-2-in-action) `Manning Publications`
@@ -324,8 +324,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
 * [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-* [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
-* [DefinitelyTyped Repository (GitHub)](https://github.com/borisyankov/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+* [TSD](http://definitelytyped.org/tsd/) TypeScript Definition manager for DefinitelyTyped
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
 
 #### TypeScript Seed Projects

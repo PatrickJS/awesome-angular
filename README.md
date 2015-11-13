@@ -336,6 +336,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
+* [Spring Boot and Angular2 tutorial](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---

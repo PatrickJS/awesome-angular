@@ -243,6 +243,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### On-Site Training
 * [AngularClass](https://angularclass.com)
+* [Angular Boot Camp](http://angularbootcamp.com)
 * [thoughtram](http://thoughtram.io/training.html)
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)

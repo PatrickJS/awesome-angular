@@ -314,7 +314,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal)
 
 #### Universal Seed Projects
-* [angular2-universal-starter](https://github.com/angularclass/angular2-universal-starter) - Angular 2 Universal starter kit by @Angular-Class
+* [universal-starter](https://github.com/angular/universal-starter) - Angular 2 Universal starter kit by @Angular-Class
 
 ---
 

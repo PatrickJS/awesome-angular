@@ -299,7 +299,7 @@ Http is available as an injectable class, with methods to perform http requests.
     * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2)
 * Dart
   * Stagehand
-    * [kasperpeulen/stagehand](https://github.com/kasperpeulen/stagehand)
+    * [google/stagehand](https://github.com/google/stagehand)
 
 #### TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)

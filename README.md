@@ -214,6 +214,7 @@ Http is available as an injectable class, with methods to perform http requests.
     * [Working with Pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
     * [Domain Models and Dependency Injection](https://auth0.com/blog/2015/09/17/angular-2-series-part-2-domain-models-and-dependency-injection/)
     * [Using Http](https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/)
+    * [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/2015/12/15/create-a-desktop-app-with-angular-2-and-electron/)
 * thoughtram
   * Angular 2 Template Syntax Demystified
     * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)

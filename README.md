@@ -400,6 +400,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Babel Seed Projects
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
 * [angular2-fullstack-starter](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
+* [angular2-es6-starter](https://github.com/blacksonic/angular2-es6-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Babel Plugins

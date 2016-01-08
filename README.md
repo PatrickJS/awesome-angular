@@ -106,7 +106,7 @@ Table of contents:
 * [Built With Angular 2](http://builtwithangular2.com/)
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
-
+s
 #### Experts on Twitter
 > List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 
@@ -344,6 +344,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Spring Boot and Angular2 tutorial](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 * [Angular 2 Goldilocks seed](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
 * [Angular 2 Starter](https://github.com/antonybudianto/angular2-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
+* [Angular 2 Starter (Without Node)](https://github.com/antoaravinth/hello-world-angular-2) - Simple Angular 2 Hello World Without Node 
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---

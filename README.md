@@ -348,6 +348,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 Goldilocks seed](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
 * [Angular 2 Starter](https://github.com/antonybudianto/angular2-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
 * [Angular 2 Leaflet Starter](https://github.com/haoliangyu/angular2-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
+* [Angular 2 reconnecting websockets quickstart](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---

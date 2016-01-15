@@ -147,7 +147,7 @@ Table of contents:
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
 
 #### Material Design
-* [Official Angular 2 Material Design (GitHub)](https://github.com/angular/angular/tree/master/modules/angular2_material)
+* [Official Angular 2 Material Design (GitHub)](https://github.com/angular/material2)
 
 #### Cheatsheet
 * [Official Angular 2 Cheatsheet](https://angular.io/cheatsheet)

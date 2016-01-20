@@ -279,7 +279,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
-* [Angular2-Meteor](http://angular-meteor.com/angular2)
+* [Angular2-Meteor](http://www.angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 
@@ -446,7 +446,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 > Build Realtime Web and Mobile Apps With Angular and Meteor
 
 ##### Meteor General Resources
-* [Angular Meteor](http://angular-meteor.com) Official Website for Angular Meteor
+* [Angular Meteor](http://www.angular-meteor.com) Official Website for Angular Meteor
 * [Angular 2 Meteor](http://angular-meteor.com/angular2)
 
 #### Meteor Seed Projects

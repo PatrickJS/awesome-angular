@@ -482,9 +482,14 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 ---
 
 ### Angular 2 in Haxe
-> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language.
+> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. General purpose language, with Haxe, you can easily build cross-platform tools targeting all the mainstream platforms natively. "Write once compile anywhere", strong macro driven, isomorphic, possible to share the same code client side in javascript and server side in pyhton (or java/php/node).
 
 ##### Haxe General Resources
+* [Haxe.org](http://haxe.org) 
+* [Haxe compiler targets](http://haxe.org/documentation/introduction/compiler-targets.html) compiler targets: C++, C#, Java, Python, PHP, ActionScript 3, and Flash or Neko bytecode
+* [Haxe discussion group](http://groups.google.com/group/haxelang) - community 
+* [Haxe and Node.js](matthijskamstra.github.io/haxenode/) 
+* [Haxe Resource][http://haxeresource.meteor.com/) - some "hub" for articles
 * [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Haxe Seed Projects

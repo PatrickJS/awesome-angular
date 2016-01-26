@@ -389,6 +389,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Traceur Seed Projects
 
 * [GitHub: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
+* [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---

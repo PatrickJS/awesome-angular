@@ -36,6 +36,7 @@ Table of contents:
   * [Tutorials](#tutorials)
   * [Series](#series)
   * [Video Tutorials](#video-tutorials)
+  * [Style Guides](#style-guides)
   * [Angular Connect](#angular-connect)
   * [Books](#books)
   * [On-Site Training](#on-site-training)
@@ -223,6 +224,10 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Video Tutorials
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+
+#### Style Guides
+
+* [Community-driven style guide for Angular 2 application development](https://github.com/mgechev/angular2-style-guide)
 
 #### Angular Connect
 * [Keynote – Brad Green, Igor Minar and Jules Kremer](https://www.youtube.com/watch?v=UxjgUjVpe24)

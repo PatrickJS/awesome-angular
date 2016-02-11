@@ -130,7 +130,7 @@ keeping `null` and `undefined` as empty strings.
 ## Inline Templates
 Data binding allows updating the DOM's properties, but it does not allow for changing of the DOM structure. To change
 DOM structure we need the ability to define child templates, and then instantiate these templates into Views. The
-Views than can be inserted and removed as needed to change the DOM structure.
+Views then can be inserted and removed as needed to change the DOM structure.
 
 **Short form:**
 ``` html

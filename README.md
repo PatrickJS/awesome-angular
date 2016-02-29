@@ -421,6 +421,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Babel Demo, Samples, and Examples
 * [angular2-es6-todomvc](https://github.com/blacksonic/angular2-es6-todomvc) Angular 2 TodoMVC implementation with ES6.
+* [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Babel Plugins

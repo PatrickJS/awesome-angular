@@ -358,7 +358,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 reconnecting websockets quickstart](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
 * [ng2-start](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
 * [ng2Boilerplate](https://github.com/born2net/ng2Boilerplate) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular2.
-<<<<<<< HEAD
 * [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme. 
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)

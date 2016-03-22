@@ -121,6 +121,7 @@ Table of contents:
 * [@teropa](https://twitter.com/teropa)
 * [@eggheadio](https://twitter.com/eggheadio)
 * [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
+* [@amcdnl](https://twitter.com/amcdnl)
 
 #####[Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 * [Jack Franklin](https://twitter.com/jack_franklin)

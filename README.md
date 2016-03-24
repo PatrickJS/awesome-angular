@@ -292,6 +292,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 
 #### Components
+* [Material 2](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 Bootstrap 3&4 components
 * [ng2-charts](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js

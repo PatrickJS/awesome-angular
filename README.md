@@ -226,10 +226,14 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Video Tutorials
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+* [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
+* [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
+* [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 
 #### Style Guides
 
 * [Community-driven style guide for Angular 2 application development](https://github.com/mgechev/angular2-style-guide)
+* [John Papa - Angular 2 style guide](https://github.com/johnpapa/angular-styleguide/tree/master/a2)
 
 #### Angular Connect
 * [Keynote – Brad Green, Igor Minar and Jules Kremer](https://www.youtube.com/watch?v=UxjgUjVpe24)

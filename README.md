@@ -74,7 +74,7 @@ Table of contents:
 * [React Native](#angular-2-in-react-native)
   * [React Native General Resources](#react-native-general-resources)
   * [React Native Projects](#react-native-projects)
-* [Haxe](#angular-2-in-haxe)Angular 2 Starter
+* [Haxe](#angular-2-in-haxe)
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)

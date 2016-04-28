@@ -200,7 +200,7 @@ Http is available as an injectable class, with methods to perform http requests.
 <br>[Read more »](features/HTTP.md)
 
 ##### Router
-[**{{** help_out **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
+* [ui-router](https://github.com/angular-ui/ui-router)
 <br>[Read more »](features/Router.md)
 
 ##### Test

@@ -313,6 +313,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 * [ag-grid](http://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
+* [angular2-cookie](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
 * [angular2-locker](https://github.com/MikaAK/angular2-locker) Library for interfacing with Localstorage/session/cookies with in-memory backup
 * [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps
 * [ng2-radio-group](https://github.com/pleerock/ng2-radio-group) Angular2 directives for radio and checkbox inputs and radio input groups

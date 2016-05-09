@@ -477,6 +477,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 ##### Ionic 2 General Resources
 * [Ionic 2 Repository (GitHub)](https://github.com/driftyco/ionic2)
+* [Ionic 2 Awesome](https://github.com/candelibas/awesome-ionic2)
 
 ---
 

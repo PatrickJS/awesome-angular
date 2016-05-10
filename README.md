@@ -453,7 +453,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Babel Plugins
 
-* [babel-plugin-angular2-annotations](https://github.com/shuhei/babel-plugin-angular2-annotations) An experimental babel transformer plugin for Angular 2 annotations
+* [babel-preset-angular2](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
 * [babel-plugin-type-assertion](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts_assert
 
 ---

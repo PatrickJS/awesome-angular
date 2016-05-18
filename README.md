@@ -33,7 +33,7 @@ Table of contents:
     * [HTTP](#http)
     * [Router](#router)
     * [Test](#test)
-  * [Tutorials](#tutorials)
+  * [Angular CLI](#angular-cli)
   * [Series](#series)
   * [Video Tutorials](#video-tutorials)
   * [Style Guides](#style-guides)
@@ -209,6 +209,9 @@ Http is available as an injectable class, with methods to perform http requests.
 [**{{** help_out **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 <br>[Read more »](features/Test.md)
 
+#### Angular CLI
+* [Official web page](https://cli.angular.io/)
+* [Official repository](https://github.com/angular/angular-cli)
 
 #### Series
 * Ionic

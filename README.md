@@ -330,6 +330,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-storage](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
 * [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
 * [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
+* [angular2-text-mask](https://github.com/msafi/text-mask) Angular 2 text masking directive for input elements
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

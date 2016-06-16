@@ -342,6 +342,8 @@ Http is available as an injectable class, with methods to perform http requests.
     * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2)
   * Yeoman
     * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2)
+  * Faristo
+    * [majodi/generator-angular2](https://github.com/majodi/Faristo)
 * Dart
   * Stagehand
     * [google/stagehand](https://github.com/google/stagehand)

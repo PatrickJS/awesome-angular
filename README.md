@@ -334,6 +334,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
 * [angular2-text-mask](https://github.com/msafi/text-mask) Angular 2 text masking directive for input elements
 * [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
+* [file-droppa](https://github.com/ptkach/fileDroppa) Simple files drop and upload component with files list
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

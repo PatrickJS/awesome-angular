@@ -236,6 +236,8 @@ Http is available as an injectable class, with methods to perform http requests.
 * [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 * [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 * [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started)
+* [Channel9 - The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries](https://channel9.msdn.com/Events/Build/2015/3-644)
+* [Channel9 - Creating Cross-Platform Apps with Angular 2](https://channel9.msdn.com/Events/Build/2016/T627)
 
 #### Style Guides
 
@@ -256,10 +258,12 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Books
 * [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
-* [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript)
+* [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
 * [Angular 2 in Action](https://www.manning.com/books/angular-2-in-action) `Manning Publications`
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
+* [Testing Angular 2 Applications](https://www.manning.com/books/testing-angular-2-applications) `Manning Publications`
+* [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
 
 #### On-Site Training
 * [AngularClass](https://angularclass.com)

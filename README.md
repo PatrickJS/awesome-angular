@@ -142,7 +142,6 @@ Table of contents:
 * [Jared Williams](https://twitter.com/jaredwilli)
 * [Gerard Sans](https://twitter.com/gerardsans)
 * [Pascal Precht](https://twitter.com/PascalPrecht)
-* [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
 * [Raúl Jiménez](https://twitter.com/elecash/)
 * [Ciro Nunes](https://twitter.com/cironunesdev/)
 * [**{{** add_expert **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)

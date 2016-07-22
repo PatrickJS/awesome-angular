@@ -79,6 +79,7 @@ Table of contents:
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
+* [Security](#security)
 
 
 ### Angular 2
@@ -221,7 +222,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular 2 Webpack with Visual Studio ASP.NET Core from damienbod](https://github.com/damienbod/Angular2WebpackVisualStudio)
 * [Angular 2 Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
 * [Angular 2 Webpack  Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
-* [Angular2 ASP.NET Core Spa from SteveSandersonMS](https://github.com/aspnet/JavaScriptServices/tree/dev/templates/Angular2Spa)
+* [Angular 2 ASP.NET Core Spa from SteveSandersonMS](https://github.com/aspnet/JavaScriptServices/tree/dev/templates/Angular2Spa)
 
 #### Series
 * Ionic
@@ -592,6 +593,13 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Scala Seed Projects
 * [play-angular2](https://github.com/gdi2290/play-angular2)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
+
+
+#### Security
+* [Angular 2 with OpenID Connect Implicit Flow from @damienbod Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
+* [Angular 2 bootstrap4 OAuth2 Webpack from @michaeloryl, Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
+* [Angular 2OAuth2 OIDC from Manfred Steyer](http://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
+* [Angular 2 authentication sample from auth0-blog](https://github.com/auth0-blog/angular2-authentication-sample)
 
 
 ---

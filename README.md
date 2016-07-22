@@ -80,10 +80,6 @@ Table of contents:
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
 * [Security](#security)
-  * [OpenID Connect Implicit Flow](#openid-connect-implicit-flow)
-  * [Angular 2 bootstrap4 OAuth2 Webpack](#angular2-bootstrap4-oauth2-webpack)
-  * [Angular 2 OAuth2 OIDC](#angular2-oauth2-oidc)
-  * [auth0 authentication sample](#auth0-authenication-sample)
 
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
@@ -601,7 +597,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Security
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from @michaeloryl, Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
-* [Angular 2OAuth2 OIDC from Manfred Steyer](http://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
+* [Angular 2 OAuth2 OIDC from Manfred Steyer](http://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
 * [Angular 2 authentication sample from auth0-blog](https://github.com/auth0-blog/angular2-authentication-sample)
 
 

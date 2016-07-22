@@ -34,6 +34,7 @@ Table of contents:
     * [Router](#router)
     * [Test](#test)
   * [Angular CLI](#angular-cli)
+  * [Webpack](#webpack)
   * [Series](#series)
   * [Video Tutorials](#video-tutorials)
   * [Style Guides](#style-guides)
@@ -212,6 +213,13 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Angular CLI
 * [Official web page](https://cli.angular.io/)
 * [Official repository](https://github.com/angular/angular-cli)
+
+#### Webpack
+* [Official web page](https://webpack.github.io/)
+* [angular2-webpack](https://github.com/preboot/angular2-webpack)
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)
+* [angular2 Webpack with VisualStudio ASP.NET Core](https://github.com/damienbod/Angular2WebpackVisualStudio)
+* [angular2-typescript-webpack](https://github.com/schempy/angular2-typescript-webpack)
 
 #### Series
 * Ionic

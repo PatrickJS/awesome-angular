@@ -306,7 +306,7 @@ Http is available as an injectable class, with methods to perform http requests.
   * [Host and Visibility in Angular 2's Dependency Injection](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
   * [Dependency Injection in Angular 2](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
   * [Routing in Angular 2 **Depreciated**](http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
-  * [Routing in Angular 2 Revisited](http://http://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
+  * [Routing in Angular 2 Revisited](http://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
   * [Angular 2 Template Syntax Demystified - Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
   * [View Encapsulation in Angular 2](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
   * [Styling Angular 2 components](http://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)

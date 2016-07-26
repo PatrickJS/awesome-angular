@@ -356,6 +356,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular2-data-table](https://github.com/swimlane/angular2-data-table) A feature-rich yet lightweight data-table crafted for Angular2
 * [angular2-busy](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
 * [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
+* [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

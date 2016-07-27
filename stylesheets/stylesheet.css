@@ -13,7 +13,9 @@ a {
   color: rgb(25,118,210);
   text-decoration: none; }
   a:hover {
-    text-decoration: underline; }
+    text-decoration: underline;
+    text-decoration-skip: ink;
+  }
 
 .btn {
   display: inline-block;

@@ -42,7 +42,6 @@ Table of contents:
   * [Books](#books)
   * [On-Site Training](#on-site-training)
   * [Approach and Explanation](#approach-and-explanation)
-  * [NgRx](#ngrx)
   * [Integrations](#integrations)
   * [Components](#components)
   * [Generators](#generators)
@@ -81,6 +80,7 @@ Table of contents:
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
 * [Security](#security)
+* [NgRx](#ngrx)
 
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
@@ -314,13 +314,6 @@ Http is available as an injectable class, with methods to perform http requests.
   * [Even better ES5 code for Angular 2](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
   * [Writing Angular 2 code in ES5](http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
-#### NgRx
-* [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
-* [Adding Redux With NgRx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/)
-* [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing Reducers)](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
-* [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
-* [Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions](http://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/)
-
 
 #### Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
@@ -611,6 +604,12 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 OAuth2 OIDC from Manfred Steyer](http://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
 * [Angular 2 authentication sample from auth0-blog](https://github.com/auth0-blog/angular2-authentication-sample)
 
+#### NgRx
+* [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
+* [Adding Redux With NgRx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/)
+* [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing Reducers)](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
+* [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
+* [Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions](http://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/)
 
 ---
 

@@ -86,8 +86,8 @@ Table of contents:
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
-* [Security](#security)
 * [NgRx](#ngrx)
+* [Security](#security)
 
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
@@ -605,13 +605,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [play-angular2](https://github.com/gdi2290/play-angular2)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
-
-#### Security
-* [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
-* [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
-* [Angular 2 OAuth2 OIDC from Manfred Steyer](http://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
-* [Angular 2 authentication sample from auth0-blog](https://github.com/auth0-blog/angular2-authentication-sample)
-
 #### NgRx
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
 * [Adding Redux With NgRx/store and Angular2 - Part 1](http://orizens.com/wp/topics/adding-redux-with-ngrxstore-to-angular-2-part-1/)
@@ -621,6 +614,15 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 ---
 
+### Security
+> Links, information and resources for implementing security features in Angular 2.
+
+* [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
+* [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
+* [Angular 2 OAuth2 OIDC from Manfred Steyer](http://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
+* [Angular 2 authentication sample from auth0-blog](https://github.com/auth0-blog/angular2-authentication-sample)
+
+---
 
 ## License
 

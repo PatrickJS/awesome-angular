@@ -117,16 +117,24 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
+#### Angular Team on twitter
+
+* [@mhevery](https://twitter.com/mhevery)
+* [@IgorMinar](https://twitter.com/IgorMinar)
+* [@bradlygreen](https://twitter.com/bradlygreen)
+* [@naomitraveller](https://twitter.com/naomitraveller)
+* [@victorsavkin](https://twitter.com/victorsavkin)
+* [@tbosch1009](https://twitter.com/tbosch1009)
+* [@jeffbcross](https://twitter.com/jeffbcross)
+* [@karaforthewin](https://twitter.com/karaforthewin)
+* [@robwormald](https://twitter.com/robwormald)
+
 #### Experts on Twitter
 > List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 
 * [@gdi2290](https://twitter.com/gdi2290)
-* [@jeffwhelpley](https://twitter.com/jeffwhelpley)
+* [@scotups](https://twitter.com/scotups)
 * [@pkozlowski_os](https://twitter.com/pkozlowski_os)
-* [@kentcdodds](https://twitter.com/kentcdodds)
-* [@mhevery](https://twitter.com/mhevery)
-* [@victorsavkin](https://twitter.com/victorsavkin)
-* [@tbosch1009](https://twitter.com/tbosch1009)
 * [@teropa](https://twitter.com/teropa)
 * [@eggheadio](https://twitter.com/eggheadio)
 * [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
@@ -209,6 +217,7 @@ Http is available as an injectable class, with methods to perform http requests.
 <br>[Read more »](features/HTTP.md)
 
 ##### Router
+* [Offical Router](https://angular.io/docs/ts/latest/guide/router.html#!#sts=Router%20imports)
 * [ui-router](https://github.com/angular-ui/ui-router)
 <br>[Read more »](features/Router.md)
 
@@ -224,8 +233,8 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Webpack
 * [Official web page](https://webpack.github.io/)
+* [Angular 2 Webpack Starter from AngularClass](https://github.com/AngularClass/angular2-webpack-starter)
 * [Angular 2 Webpack from preboot](https://github.com/preboot/angular2-webpack)
-* [Angular 2 Webpack starter from AngularClass](https://github.com/AngularClass/angular2-webpack-starter)
 * [Angular 2 Webpack with Visual Studio ASP.NET Core from Damien Bowden](https://github.com/damienbod/Angular2WebpackVisualStudio)
 * [Angular 2 Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
 * [Angular 2 Webpack  Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
@@ -306,6 +315,11 @@ Http is available as an injectable class, with methods to perform http requests.
   * [Better Support For Functional Programming In](http://victorsavkin.com/post/108837493941/better-support-for-functional-programming-in)
   * [Angular 2 Bits Unified Dependency Injection](http://victorsavkin.com/post/102965317996/angular-2-bits-unified-dependency-injection)
   * [Angular 2 Router](http://http://victorsavkin.com/post/145672529346/angular-router)
+
+* AngularClass
+  * [Automated Angular 2 Conventions with Webpack](https://angularclass.com/blog/automated-angular-2-conventions-with-webpack/)
+  * [Angular 2 for AngularJS deverlopers](https://angularclass.com/blog/angular-2-for-angularjs-developers/)
+  * [Angular 2 for ReactJS deverlopers](https://angularclass.com/blog/angular-2-for-react-developers/)
 
 * thoughtram
   * [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)

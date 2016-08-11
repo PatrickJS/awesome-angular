@@ -352,6 +352,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
 * [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
+* [ng2-safe-img](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
 * [ng2-table](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
 * [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 * [ag-grid](http://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components

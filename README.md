@@ -377,7 +377,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-storage](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
 * [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
 * [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
-* [angular2-text-mask](https://github.com/msafi/text-mask) Angular 2 text masking directive for input elements
+* [angular2-text-mask](https://github.com/text-mask/text-mask) Angular 2 input mask directive
 * [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
 * [file-droppa](https://github.com/ptkach/fileDroppa) Simple files drop and upload component with files list
 * [ng2-img-fallback](https://github.com/VadimDez/ng2-img-fallback) Load placeholder image on image error

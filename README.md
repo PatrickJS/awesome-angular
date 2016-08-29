@@ -147,9 +147,36 @@ Table of contents:
 
 ### Angular 2 Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
+<<<<<<< Updated upstream
 * [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap)
 
 ### Angular 2 Generators
+=======
+* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 Bootstrap 3&4 components
+* [ng2-charts](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
+* [ng2-dragula](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!
+* [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
+* [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
+* [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
+* [ng2-table](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
+* [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
+* [ag-grid](http://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
+* [angular2-jwt](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
+* [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps
+* [ng2-radio-group](https://github.com/pleerock/ng2-radio-group) Angular2 directives for radio and checkbox inputs and radio input groups
+* [ng2-dropdown](https://github.com/pleerock/ng2-dropdown) Dropdown menu for angular2 and bootstrap 3
+* [ng2-progress-bar](https://github.com/pleerock/ng2-progress-bar) Simple progress bar for angular2 and bootstrap 3
+* [ng2-tabs](https://github.com/pleerock/ng2-tabs) Tabs control for angular2 and bootstrap 3
+* [ng2-modal](https://github.com/pleerock/ng2-modal) Modal window for angular2 and bootstrap 3
+* [ng2-paginator](https://github.com/pleerock/ng2-paginator) Pagination control for angular2 and bootstrap 3
+* [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
+* [Wijmo 5](http://wijmo.com/products/wijmo-5/) New generation of JavaScript controls for Angular 2
+
+#### Pipes
+* [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
+
+#### Generators
+>>>>>>> Stashed changes
 * Node.js
   * Slush
     * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2)

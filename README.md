@@ -388,6 +388,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables) 
 * [ng2-card](https://github.com/c-bata/ng2-card) - Card view component for Angular2
+* [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

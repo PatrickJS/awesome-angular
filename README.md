@@ -343,6 +343,7 @@ Http is available as an injectable class, with methods to perform http requests.
   
 * Hristo Georgiev
   * [Debugging Angular 2 Applications](http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications)
+
 #### Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://www.angular-meteor.com/angular2)

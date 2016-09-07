@@ -240,6 +240,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Official web page](https://webpack.github.io/)
 * [Angular 2 Webpack Starter from AngularClass](https://github.com/AngularClass/angular2-webpack-starter)
 * [Angular 2 Webpack from preboot](https://github.com/preboot/angular2-webpack)
+* [Angular 2 Nightly Webpack Starter](https://github.com/qdouble/angular2webpack2-starter)
 * [Angular 2 Webpack with Visual Studio ASP.NET Core from Damien Bowden](https://github.com/damienbod/Angular2WebpackVisualStudio)
 * [Angular 2 Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
 * [Angular 2 Webpack  Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack

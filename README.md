@@ -466,6 +466,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using RC4 .. Demonstrates unit testing and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
 * [ng2-boiler](https://github.com/amcdnl/ng2-boiler) - A bare-bones simple starter with Angular2, TypeScript and Webpack configured.
+* [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, and Tree-shaking
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---

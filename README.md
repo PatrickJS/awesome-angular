@@ -533,10 +533,10 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Babel Demo, Samples, and Examples
 * [angular2-es6-todomvc](https://github.com/blacksonic/angular2-es6-todomvc) Angular 2 TodoMVC implementation with ES6.
+* [ng1-ng2-webpack-lazy-uirouter](https://github.com/swimlane/ng1-ng2-webpack-lazy-uirouter) Hybrid lazy-loading Angular1 + Angular2 using UI-Router, Webpack2 and Babel.
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Babel Plugins
-
 * [babel-preset-angular2](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
 * [babel-plugin-type-assertion](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts_assert
 

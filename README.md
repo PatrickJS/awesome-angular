@@ -586,6 +586,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### NativeScript Seed Projects
 * [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
+* [angular2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---

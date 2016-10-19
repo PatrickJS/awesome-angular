@@ -474,6 +474,18 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 ---
 
+#### Ionic 2 in Angular 2
+> Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
+
+* [Ionic Framework](http://ionicframework.com) Official Website for Ionic Framework
+* [Ionic Documentation](http://ionicframework.com/docs/v2/) Official for Ionic Framework
+
+##### Ionic 2 General Resources
+* [Ionic 2 Repository (GitHub)](https://github.com/driftyco/ionic)
+* [Ionic 2 Awesome](https://github.com/candelibas/awesome-ionic2)
+
+---
+
 ### Angular 2 in Dart
 > Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
 
@@ -552,18 +564,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### ES5 Seed Projects
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
-
----
-
-#### Ionic 2 in Angular 2
-> Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
-
-* [Ionic Framework](http://ionicframework.com) Official Website for Ionic Framework
-* [Ionic Documentation](http://ionicframework.com/docs/v2/) Official for Ionic Framework
-
-##### Ionic 2 General Resources
-* [Ionic 2 Repository (GitHub)](https://github.com/driftyco/ionic)
-* [Ionic 2 Awesome](https://github.com/candelibas/awesome-ionic2)
 
 ---
 

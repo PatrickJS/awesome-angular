@@ -1,0 +1,11 @@
+language: ruby
+
+install:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md
+
+notifications:
+  email:
+    on_success: never

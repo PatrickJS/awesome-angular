@@ -1,4 +1,6 @@
 language: ruby
+rvm:
+  - 2.2
 
 # Travis does not build the gh-pages branch by default, so we add it to the safelist
 # https://docs.travis-ci.com/user/customizing-the-build/#Safelisting-or-blocklisting-branches

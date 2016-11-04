@@ -162,6 +162,7 @@ Table of contents:
 * [Raúl Jiménez](https://twitter.com/elecash/)
 * [Ciro Nunes](https://twitter.com/cironunesdev/)
 * [Maxim Salnikov](https://twitter.com/webmaxru)
+* [Deborah Kurata](https://twitter.com/deborahkurata)
 * [**{{** add_expert **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

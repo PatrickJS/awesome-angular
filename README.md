@@ -114,7 +114,6 @@ Table of contents:
 * [ng-newsletter](http://www.ng-newsletter.com) email newsletter
 * [tryangular2](http://www.tryangular2.com/)
 * [Built With Angular 2](http://builtwithangular2.com/)
-* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
 #### Angular Team on twitter
@@ -148,7 +147,6 @@ Table of contents:
 * [Sharon DiOrio](https://twitter.com/sharondio)
 * [John Papa](https://twitter.com/John_Papa)
 * [Dan Wahlin](https://twitter.com/danwahlin)
-* [Donald Sutherland](https://twitter.com/beardyco)
 * [Christian Weyer](https://twitter.com/christianweyer)
 * [Todd Motto](https://twitter.com/toddmotto)
 * [Tim Ruffles](https://twitter.com/timruffles)
@@ -400,6 +398,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 * [ng2d3](https://github.com/swimlane/ng2d3) - Native Angular2 Chart Rendering Framework with D3 for utils
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2 
+* [ng2-date-picker](https://vlio20.github.io/ng2-date-picker) - Highly configurable date picker built for Angular 2
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
@@ -419,7 +418,6 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
-* [Angular 2 Dart](https://github.com/ng2-dart-samples/todomvc)
 
 ---
 
@@ -447,7 +445,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 
 #### TypeScript Seed Projects
-* [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter#awesome-angular2) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
+- An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
 * [Angular 2 Seed](http://mgechev.github.io/angular2-seed#awesome-angular2) Seed project for Angular 2 apps
 * [angular2-ts-seed](https://github.com/codewareio/angular2-ts-seed) - A complete, yet simple, starter for Angular 2 using TypeScript
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
@@ -504,7 +502,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Dart Demo, Samples, and Examples
 * [Angular 2 Samples](https://github.com/ng2-dart-samples) Angular 2 for Dart demos and samples from the community.
-* [Pipes](https://github.com/ng2-dart-samples/pipes) Examples of Pipes in Angular 2 for Dart.
 * [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
@@ -521,7 +518,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### Traceur Seed Projects
 
-* [GitHub: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
 * [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 

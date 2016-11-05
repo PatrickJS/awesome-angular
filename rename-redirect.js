@@ -3,8 +3,9 @@ var readme = fs.readFileSync('README.md', 'utf8');
 var arr = JSON.parse(fs.readFileSync('ab-results-README.md-filtered.json', 'utf8'));
 
 
-arr.forEach((item) => {
-  console.log(item.link);
+arr.filter((item) => {
+  return item.status === 301 || item.status === 302;
+}).forEach((item) => {
   readme = readme.replace(item.link, item.redirect);
 });
 

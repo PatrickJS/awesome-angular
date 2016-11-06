@@ -222,6 +222,7 @@ majority of the core angular framework in a WebWorker.
 
 ##### HTTP
 Http is available as an injectable class, with methods to perform http requests. Calling request returns an EventEmitter which will emit a single Response when a response is received.
+* [Introduction to HTTP in Angular 2](http://www.syntaxsuccess.com/viewarticle/angular-2.0-and-http)
 <br>[Read more »](features/HTTP.md)
 
 ##### Router
@@ -348,6 +349,12 @@ Http is available as an injectable class, with methods to perform http requests.
   
 * Hristo Georgiev
   * [Debugging Angular 2 Applications](http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications)
+
+* Helgevold Consulting
+  * [Web Workers in Angular 2.0](http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0)
+  * [Creating a Virtualized Grid](http://www.syntaxsuccess.com/viewarticle/virtualized-spreadsheet-component-in-angular-2.0)
+  * [Socket.io with Observables](http://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0)
+  * [Change Detection](http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0)
 
 #### Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
@@ -599,6 +606,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ##### NativeScript General Resources
 * [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
+* [Using NativeScript](http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0)
 
 #### NativeScript Seed Projects
 * [sample-Angular2](https://github.com/NativeScript/sample-Angular2)

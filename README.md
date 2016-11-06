@@ -364,7 +364,9 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Components
 * [Material 2](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
-* [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) Native Angular2 Bootstrap 3&4 components
+* [ng2-
+
+](https://github.com/valor-software/ng2-bootstrap) Native Angular2 Bootstrap 3&4 components
 * [ng2-charts](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
 * [ng2-dragula](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
@@ -407,6 +409,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 * [ng2d3](https://github.com/swimlane/ng2d3) - Native Angular2 Chart Rendering Framework with D3 for utils
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2 
+* [ng-semantic](https://github.com/vladotesanovic/ngSemantic) - Building blocks based on Semantic UI
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

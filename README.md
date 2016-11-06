@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Awesome Angular 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular2.svg?branch=master)](https://travis-ci.org/AngularClass/awesome-angular2)
+# Awesome Angular 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular2.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular2)
 
 Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular 2 ecosystem
 
@@ -106,15 +106,14 @@ Table of contents:
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/angular2)
 * [@AngularJS on Twitter](https://twitter.com/angularjs)
-* [/r/Angular2 Subreddit](https://www.reddit.com/r/angular2/)
+* [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
-* [AngularJS on Google+](https://plus.google.com/+AngularJS/posts)
+* [AngularJS on Google+](https://plus.google.com/+AngularJS)
 * [AngularAir](http://angular-air.com/) podcast and live broadcast
-* [Adventures in Angular](https://devchat.tv/adventures-in-angular) podcast
+* [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
 * [ng-newsletter](http://www.ng-newsletter.com) email newsletter
-* [tryangular2](http://www.tryangular2.com/)
 * [Built With Angular 2](http://builtwithangular2.com/)
-* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
+* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
 #### Angular Team on twitter
@@ -148,7 +147,6 @@ Table of contents:
 * [Sharon DiOrio](https://twitter.com/sharondio)
 * [John Papa](https://twitter.com/John_Papa)
 * [Dan Wahlin](https://twitter.com/danwahlin)
-* [Donald Sutherland](https://twitter.com/beardyco)
 * [Christian Weyer](https://twitter.com/christianweyer)
 * [Todd Motto](https://twitter.com/toddmotto)
 * [Tim Ruffles](https://twitter.com/timruffles)
@@ -180,7 +178,7 @@ Table of contents:
 * [Official Angular 2 Cheatsheet](https://angular.io/cheatsheet)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
-* [Angular 2 Performance Checklist](https://github.com/mgechev/angular2-performance-checklist)
+* [Angular 2 Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 
 #### Features
 
@@ -244,7 +242,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Official web page](https://webpack.github.io/)
 * [Angular 2 Webpack Starter from AngularClass](https://github.com/AngularClass/angular2-webpack-starter)
 * [Angular 2 Webpack from preboot](https://github.com/preboot/angular2-webpack)
-* [Angular 2 Nightly Webpack Starter](https://github.com/qdouble/angular2webpack2-starter)
+* [Angular 2 Nightly Webpack Starter](https://github.com/qdouble/angular-webpack2-starter)
 * [Angular 2 Webpack with Visual Studio ASP.NET Core from Damien Bowden](https://github.com/damienbod/Angular2WebpackVisualStudio)
 * [Angular 2 Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
 * [Angular 2 Webpack  Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
@@ -258,10 +256,10 @@ Http is available as an injectable class, with methods to perform http requests.
     * [Components](http://blog.ionic.io/angular-2-series-components/)
 * Auth0
   * Angular 2
-    * [Working with Pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
-    * [Domain Models and Dependency Injection](https://auth0.com/blog/2015/09/17/angular-2-series-part-2-domain-models-and-dependency-injection/)
-    * [Using Http](https://auth0.com/blog/2015/10/15/angular-2-series-part-3-using-http/)
-    * [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/2015/12/15/create-a-desktop-app-with-angular-2-and-electron/)
+    * [Working with Pipes](https://auth0.com/blog/angular2-series-working-with-pipes/)
+    * [Domain Models and Dependency Injection](https://auth0.com/blog/angular-2-series-part-2-domain-models-and-dependency-injection/)
+    * [Using Http](https://auth0.com/blog/angular-2-series-part-3-using-http/)
+    * [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/)
 * thoughtram
   * Angular 2 Template Syntax Demystified
     * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
@@ -269,7 +267,7 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Video Tutorials
 * [AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
-* [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/series/building-a-time-machine-with-angular-2-and-rxjs)
+* [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 * [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
@@ -307,7 +305,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### On-Site Training
 * [AngularClass](https://angularclass.com)
-* [Angular Boot Camp](http://angularbootcamp.com)
+* [Angular Boot Camp](https://angularbootcamp.com)
 * [thoughtram](http://thoughtram.io/training.html)
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
@@ -317,15 +315,15 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Approach and Explanation
 
 * Victor Savkin
-  * [Dependency Injection in Angular 1 and Angular 2](http://victorsavkin.com/post/126514197956/dependency-injection-in-angular-1-and-angular-2)
-  * [Writing Angular 2 in Typescript](http://victorsavkin.com/post/123555572351/writing-angular-2-in-typescript)
-  * [Angular 2 Template Syntax](http://victorsavkin.com/post/119943127151/angular-2-template-syntax)
-  * [The Core Concepts of Angular 2](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
-  * [Two Phases of Angular 2 Applications](http://victorsavkin.com/post/114168430846/two-phases-of-angular-2-applications)
-  * [Change Detection in Angular 2](http://victorsavkin.com/post/110170125256/change-detection-in-angular-2)
-  * [Better Support For Functional Programming In](http://victorsavkin.com/post/108837493941/better-support-for-functional-programming-in)
-  * [Angular 2 Bits Unified Dependency Injection](http://victorsavkin.com/post/102965317996/angular-2-bits-unified-dependency-injection)
-  * [Angular 2 Router](http://http://victorsavkin.com/post/145672529346/angular-router)
+  * [Dependency Injection in Angular 1 and Angular 2](https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18)
+  * [Writing Angular 2 in Typescript](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
+  * [Angular 2 Template Syntax](https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a)
+  * [The Core Concepts of Angular 2](https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04)
+  * [Two Phases of Angular 2 Applications](https://vsavkin.com/two-phases-of-angular-2-applications-fda2517604be)
+  * [Change Detection in Angular 2](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
+  * [Better Support For Functional Programming In](https://vsavkin.tumblr.com/post/108837493941/better-support-for-functional-programming-in)
+  * [Angular 2 Bits Unified Dependency Injection](https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection)
+  * [Angular 2 Router](https://vsavkin.com/angular-2-router-d9e30599f9ea)
 
 * AngularClass
   * [Automated Angular 2 Conventions with Webpack](https://angularclass.com/blog/automated-angular-2-conventions-with-webpack/)
@@ -358,8 +356,8 @@ Http is available as an injectable class, with methods to perform http requests.
   * [Change Detection](http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0)
 
 #### Integrations
-* [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
-* [Angular2-Meteor](http://www.angular-meteor.com/angular2)
+* [FalcorJS + Angular2 (Video)](https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be)
+* [Angular2-Meteor](https://www.angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 
@@ -377,14 +375,14 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-smart-table](https://github.com/akveo/ng2-smart-table) Smart data table library with sorting, filtering, pagination & add/edit/delete functions.
 * [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 * [ng-lightning](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
-* [ag-grid](http://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
+* [ag-grid](https://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
 * [angular2-grid](https://github.com/BTMorton/angular2-grid) A drag/drop/resize grid-based plugin directive for angular2.
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
 * [angular2-cookie](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
 * [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
 * [angular2-locker](https://github.com/MikaAK/angular2-locker) Library for interfacing with Localstorage/session/cookies with in-memory backup
 * [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps
-* [ng2-radio-group](https://github.com/pleerock/ng2-radio-group) Angular2 directives for radio and checkbox inputs and radio input groups
+* [ng2-radio-group](https://github.com/pleerock/ng2-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 * [ng2-dropdown](https://github.com/pleerock/ng2-dropdown) Dropdown menu for angular2 and bootstrap 3
 * [ng2-progress-bar](https://github.com/pleerock/ng2-progress-bar) Simple progress bar for angular2 and bootstrap 3
 * [ng2-tabs](https://github.com/pleerock/ng2-tabs) Tabs control for angular2 and bootstrap 3
@@ -417,9 +415,9 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Generators
 * Node.js
   * Slush
-    * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2)
+    * [TheVelourFog/slush-angular2](https://github.com/RyanMetin/slush-angular2)
   * Yeoman
-    * [swirlycheetah/generator-angular2](https://github.com/swirlycheetah/generator-angular2)
+    * [swirlycheetah/generator-angular2](https://github.com/chrisdwheatley/generator-angular2)
   * Faristo
     * [majodi/generator-angular2](https://github.com/majodi/Faristo)
 * Dart
@@ -428,7 +426,6 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
-* [Angular 2 Dart](https://github.com/ng2-dart-samples/todomvc)
 
 ---
 
@@ -449,15 +446,14 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### TypeScript General Resources
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
-* [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
+* [REPL](http://www.typescriptlang.org/play/) Official TypeScript REPL that runs entirely in your browser
 * [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-* [TSD](http://definitelytyped.org/tsd/) TypeScript Definition manager for DefinitelyTyped
 * [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
 
 #### TypeScript Seed Projects
-* [Angular 2 Webpack Starter](https://angularclass.com/angular2-webpack-starter#awesome-angular2) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
-* [Angular 2 Seed](http://mgechev.github.io/angular2-seed#awesome-angular2) Seed project for Angular 2 apps
+* [Angular 2 Webpack Starter](https://angularclass.github.io/angular2-webpack-starter/) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
+* [Angular 2 Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular 2 apps
 * [angular2-ts-seed](https://github.com/codewareio/angular2-ts-seed) - A complete, yet simple, starter for Angular 2 using TypeScript
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
 * [NG2 Lab](https://github.com/rolandjitsu/ng2-lab#awesome-angular2) A simple Angular 2 setup using TypeScript, SystemJS and Firebase that also includes a few examples of unit testing and CI with Travis and Saucelabs.
@@ -471,7 +467,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 MapboxGL Starter](https://github.com/haoliangyu/angular2-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
 * [Angular 2 reconnecting websockets quickstart](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
 * [ng2-start](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
-* [ng2Boilerplate](https://github.com/born2net/ng2Boilerplate) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular2.
+* [ng2Boilerplate](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular2.
 * [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
 * [ng2-admin](https://github.com/akveo/ng2-admin) - Beautiful admin panel framework based on Angular 2, Bootstrap 4 and Webpack
@@ -524,8 +520,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Angular 2 Dart Quickstart](https://github.com/andresaraujo/ng2_dart_quickstart) A minimal quick start project.
 
 #### Dart Demo, Samples, and Examples
-* [Angular 2 Samples](https://github.com/ng2-dart-samples) Angular 2 for Dart demos and samples from the community.
-* [Pipes](https://github.com/ng2-dart-samples/pipes) Examples of Pipes in Angular 2 for Dart.
 * [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
@@ -542,7 +536,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Traceur Seed Projects
 
-* [GitHub: Angular2 ES6 Starter Kit (Dan Wahlin)](https://github.com/DanWahlin/Angular2-ES6-Starter/)
 * [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
@@ -562,13 +555,13 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 #### Babel Seed Projects
 * [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
 * [angular2-fullstack-starter](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
-* [angular2-es6-starter](https://github.com/blacksonic/angular2-es6-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
+* [angular2-es6-starter](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
 * [angular2-es-seed](https://github.com/codewareio/angular2-es-seed) A complete, yet simple, starter for Angular 2 using ES2016.
 * [angular2-babel-quickstart](https://github.com/rbnlffl/angular2-babel-quickstart) The super simple Angular 2 quickstarter with ES6/Babel
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Babel Demo, Samples, and Examples
-* [angular2-es6-todomvc](https://github.com/blacksonic/angular2-es6-todomvc) Angular 2 TodoMVC implementation with ES6.
+* [angular2-es6-todomvc](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
 * [ng1-ng2-webpack-lazy-uirouter](https://github.com/swimlane/ng1-ng2-webpack-lazy-uirouter) Hybrid lazy-loading Angular1 + Angular2 using UI-Router, Webpack2 and Babel.
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
@@ -593,8 +586,8 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 > Build Realtime Web and Mobile Apps With Angular and Meteor
 
 ##### Meteor General Resources
-* [Angular Meteor](http://www.angular-meteor.com) Official Website for Angular Meteor
-* [Angular 2 Meteor](http://angular-meteor.com/angular2)
+* [Angular Meteor](https://www.angular-meteor.com) Official Website for Angular Meteor
+* [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
 
 #### Meteor Seed Projects
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
@@ -611,7 +604,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### NativeScript Seed Projects
 * [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
-* [angular2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced)
+* [angular2-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
@@ -640,13 +633,12 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Haxe Playground ](http://try.haxe.org/)
 * [Haxe compiler targets](http://haxe.org/documentation/introduction/compiler-targets.html) compiler targets: C++, C#, Java, Python, PHP, ActionScript 3, and Flash or Neko bytecode
 * [Haxe Usage Survey results](blog.onthewings.net/2015/11/14/haxe_usage_survey/)
-* [Haxe discussion group](http://groups.google.com/group/haxelang) - community 
+* [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) - community 
 * [Haxe and Node.js](matthijskamstra.github.io/haxenode/) 
-* [Haxe Resource](http://haxeresource.meteor.com/) - some "hub" for articles
 * [Haxe: working with JavaScript libraries](http://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/)
 * [Learn haxe in Y minutes](https://learnxinyminutes.com/docs/haxe/)
 * [A success story for Haxe](http://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe) - about porting JavaScript to haxe targeting both JavaScript and C# "without interrupting the development of actual game by the rest of the team!", "AWESOME BONUS", "there are only benefits"
-* [News And Information For Haxe Developers](http://haxe.io/) 
+* [News And Information For Haxe Developers](https://haxe.io/) 
 * [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Haxe Seed Projects
@@ -669,7 +661,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 #### Security
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
-* [Angular 2 OAuth2 OIDC from Manfred Steyer](http://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
+* [Angular 2 OAuth2 OIDC from Manfred Steyer](https://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
 * [Angular 2 authentication sample from auth0-blog](https://github.com/auth0-blog/angular2-authentication-sample)
 
 #### NgRx
@@ -684,4 +676,4 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

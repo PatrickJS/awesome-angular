@@ -11,6 +11,16 @@ blog.thoughtram.io,\
 github.com/angular/react-native-renderer,\
 github.com/FuelInteractive/fuel-ui,\
 babeljs.io,\
-ng-book.com
+ng-book.com,\
+angularjs.blogspot.com,\
+dartlang.slack.com,\
+angularbuddies.slack.com,\
+vsavkin.com,\
+vsavkin.tumblr.com,\
+angular-meteor.com,\
+badge.fury.io,\
+travis-ci.org,\
+softwarearchitekt.at,\
+https://plus.google.com/+AngularJS
 
 awesome_bot README.md --white-list ${WHITELIST_URLS}

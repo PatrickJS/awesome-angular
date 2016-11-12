@@ -112,7 +112,7 @@ Table of contents:
 * [AngularAir](http://angular-air.com/) podcast and live broadcast
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
 * [ng-newsletter](http://www.ng-newsletter.com) email newsletter
-* [Built With Angular 2](http://builtwithangular2.com/)
+* [Angular Expo](http://angularexpo.com/) showcase
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 

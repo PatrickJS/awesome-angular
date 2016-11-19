@@ -408,7 +408,8 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2d3](https://github.com/swimlane/ng2d3) - Native Angular2 Chart Rendering Framework with D3 for utils
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2 
 * [ng2-date-picker](https://vlio20.github.io/ng2-date-picker/) - Highly configurable date picker built for Angular 2 applications
-* [ngSemantic]([ng-semantic](https://github.com/vladotesanovic/ngSemantic) UI components based on Semantic UI
+* [ngSemantic](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
+* [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

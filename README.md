@@ -40,6 +40,7 @@ Table of contents:
     * [HTTP](#http)
     * [Router](#router)
     * [Test](#test)
+    * [Ahead-of-Time Compilation](#ahead-of-time-compilation)
   * [Angular CLI](#angular-cli)
   * [Webpack](#webpack)
   * [Series](#series)
@@ -233,6 +234,14 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Testing UI Components with the TestComponentBuilder](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 [**{{** help_out **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 <br>[Read more »](features/Test.md)
+
+##### Ahead-of-Time Compilation
+* [Official Documentation](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
+* [Ahead-of-Time Compilation in Angular 2](http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
+* [Building an Angular 2 Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
+* [Demystifying Ahead-Of-Time Compilation In Angular 2](http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit)
+* [Code Example with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
+* [Code Example with Rollup](https://github.com/mgechev/angular2-ngc-rollup-build)
 
 #### Angular CLI
 * [Official web page](https://cli.angular.io/)

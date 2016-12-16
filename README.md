@@ -419,6 +419,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-date-picker](https://vlio20.github.io/ng2-date-picker/) - Highly configurable date picker built for Angular 2 applications
 * [ngSemantic](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
 * [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
+* [ngx-ui](https://github.com/swimlane/ngx-ui) - A style and component library for Angular2+.
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

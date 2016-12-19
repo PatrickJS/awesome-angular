@@ -423,7 +423,7 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
 * [ng2-filter-pipe](https://github.com/VadimDez/ng2-filter-pipe) Pipe for filtering arrays
-* [ng2-pipes](https://github.com/danrevah/ng2-pipes) Bunch of useful pipes for Angular2
+* [ng-pipes](https://github.com/danrevah/ng-pipes) Bunch of useful pipes for Angular2
 
 #### Generators
 * Node.js

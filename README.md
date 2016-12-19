@@ -53,6 +53,7 @@ Table of contents:
   * [Integrations](#integrations)
   * [Components](#components)
   * [Generators](#generators)
+  * [Documentation tools](#documentation-tools)
   * [TodoMVC](#todomvc)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
@@ -309,7 +310,6 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular 2 in Action](https://www.manning.com/books/angular-2-in-action) `Manning Publications`
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
-* [Testing Angular 2 Applications](https://www.manning.com/books/testing-angular-2-applications) `Manning Publications`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
 
 #### On-Site Training
@@ -354,7 +354,7 @@ Http is available as an injectable class, with methods to perform http requests.
   * [Even better ES5 code for Angular 2](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
   * [Writing Angular 2 code in ES5](http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
-  
+
 * Hristo Georgiev
   * [Debugging Angular 2 Applications](http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications)
 
@@ -407,15 +407,15 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
 * [file-droppa](https://github.com/ptkach/fileDroppa) Simple files drop and upload component with files list
 * [ng2-img-fallback](https://github.com/VadimDez/ng2-img-fallback) Load placeholder image on image error
-* [angular2-data-table](https://github.com/swimlane/angular2-data-table) A feature-rich yet lightweight data-table crafted for Angular2
+* [angular2-data-table](https://github.com/swimlane/ngx-datatable) A feature-rich yet lightweight data-table crafted for Angular2
 * [angular2-busy](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
 * [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
 * [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
-* [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables) 
+* [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
 * [ng2-card](https://github.com/c-bata/ng2-card) - Card view component for Angular2
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 * [ng2d3](https://github.com/swimlane/ng2d3) - Native Angular2 Chart Rendering Framework with D3 for utils
-* [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2 
+* [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2
 * [ng2-date-picker](https://vlio20.github.io/ng2-date-picker/) - Highly configurable date picker built for Angular 2 applications
 * [ngSemantic](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
 * [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
@@ -436,6 +436,12 @@ Http is available as an injectable class, with methods to perform http requests.
 * Dart
   * Stagehand
     * [google/stagehand](https://github.com/google/stagehand)
+
+#### Documentation tools
+
+* [Compodoc](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
+
+* [AngularDoc](http://angulardoc.io/) : Website that display "Architectural analysis and visualization for Angular 2 projects", integrate only with a github repository
 
 #### TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
@@ -490,7 +496,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [ng2-boiler](https://github.com/amcdnl/ng2-boiler) - A bare-bones simple starter with Angular2, TypeScript and Webpack configured.
 * [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, and Tree-shaking
 * [Reaper](https://github.com/Xamber/Reaper) - Angular 2 Webpack Starter Boilerplate w/o 2269 dependencies
-* [famn](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side 
+* [famn](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 ---
@@ -499,7 +505,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 > Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
 
 * [Ionic Framework](http://ionicframework.com) Official Website for Ionic Framework
-* [Ionic Documentation](http://ionicframework.com/docs/v2/) Official for Ionic Framework
+* [Ionic Documentation](http://ionicframework.com/docs/) Official for Ionic Framework
 
 ##### Ionic 2 General Resources
 * [Ionic 2 Repository (GitHub)](https://github.com/driftyco/ionic)
@@ -638,21 +644,21 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 ---
 
 ### Angular 2 in Haxe
-> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. General purpose language, with Haxe, you can easily build cross-platform tools targeting all the mainstream platforms natively. "Write once compile anywhere", with strong easily extendable macro system and powerfull, highly optimizing compiler with DCE (and f.e. using inline constructors). Can be used for server side rendering and in isomorphic way - possible to share the same source code compiling into client side in javascript and server side in pyhton (or java/php/node - can be choosen later/changed at scaling). Haxe code can contain (inline) any target language fragments (can be used to step by step porting), the externs mechanism provides access to the native APIs and libraries in a type-safe manner. 
+> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. General purpose language, with Haxe, you can easily build cross-platform tools targeting all the mainstream platforms natively. "Write once compile anywhere", with strong easily extendable macro system and powerfull, highly optimizing compiler with DCE (and f.e. using inline constructors). Can be used for server side rendering and in isomorphic way - possible to share the same source code compiling into client side in javascript and server side in pyhton (or java/php/node - can be choosen later/changed at scaling). Haxe code can contain (inline) any target language fragments (can be used to step by step porting), the externs mechanism provides access to the native APIs and libraries in a type-safe manner.
 > Server, client, mobile (Android and iOS at once), desktop, embedded (Raspbery, award winning TIVO set top boxes), Playstation ... all can be reached natively with much less typing, more error-proof, more stable and compile-time type checked code even for non type-safe targets (f.e. JavaScript, PHP)!
 
 ##### Haxe General Resources
-* [Haxe.org](http://haxe.org) 
+* [Haxe.org](http://haxe.org)
 * [Haxe on Wikipedia](https://en.wikipedia.org/wiki/Haxe)
 * [Haxe Playground ](http://try.haxe.org/)
 * [Haxe compiler targets](http://haxe.org/documentation/introduction/compiler-targets.html) compiler targets: C++, C#, Java, Python, PHP, ActionScript 3, and Flash or Neko bytecode
 * [Haxe Usage Survey results](blog.onthewings.net/2015/11/14/haxe_usage_survey/)
-* [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) - community 
-* [Haxe and Node.js](matthijskamstra.github.io/haxenode/) 
+* [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) - community
+* [Haxe and Node.js](matthijskamstra.github.io/haxenode/)
 * [Haxe: working with JavaScript libraries](http://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/)
 * [Learn haxe in Y minutes](https://learnxinyminutes.com/docs/haxe/)
 * [A success story for Haxe](http://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe) - about porting JavaScript to haxe targeting both JavaScript and C# "without interrupting the development of actual game by the rest of the team!", "AWESOME BONUS", "there are only benefits"
-* [News And Information For Haxe Developers](https://haxe.io/) 
+* [News And Information For Haxe Developers](https://haxe.io/)
 * [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### Haxe Seed Projects

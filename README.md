@@ -310,7 +310,6 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular 2 in Action](https://www.manning.com/books/angular-2-in-action) `Manning Publications`
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
-* [Testing Angular 2 Applications](https://www.manning.com/books/testing-angular-2-applications) `Manning Publications`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
 
 #### On-Site Training

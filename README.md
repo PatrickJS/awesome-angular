@@ -421,6 +421,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
 * [Teradata covalent](https://github.com/Teradata/covalent/) - UI Platform built on @angular/material 2.0
 * [ng2-quill-editor](https://github.com/surmon-china/ng2-quill-editor) - Quill editor component for Angular2
+* [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular >= 2.
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

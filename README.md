@@ -4,9 +4,9 @@
   </a>
 </p>
 
-# Awesome Angular 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular2.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular2)
+# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular2.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular2)
 
-Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular 2 ecosystem
+Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular 2 ecosystem
 
 ##### Current Angular 2 version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
@@ -22,7 +22,7 @@ Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerpla
 </p>
 
 Table of contents:
-* [Angular 2](#angular-2)
+* [Angular](#angular)
   * [Official Resources](#official-resources)
   * [Community](#community)
   * [Experts on Twitter](#experts-on-twitter)
@@ -91,7 +91,7 @@ Table of contents:
 * [Security](#security)
 * [NgRx](#ngrx)
 
-### Angular 2
+### Angular
 > Angular is a development platform for building mobile and desktop web applications.
 
 #### Official Resources

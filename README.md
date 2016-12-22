@@ -407,21 +407,21 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
 * [file-droppa](https://github.com/ptkach/fileDroppa) Simple files drop and upload component with files list
 * [ng2-img-fallback](https://github.com/VadimDez/ng2-img-fallback) Load placeholder image on image error
-* [ngx-datatable](https://github.com/swimlane/ngx-datatable) A feature-rich yet lightweight data-table crafted for Angular2 for handling large sets of complex data.
 * [angular2-busy](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
 * [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
 * [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
 * [ng2-card](https://github.com/c-bata/ng2-card) - Card view component for Angular2
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
-* [ng2d3](https://github.com/swimlane/ng2d3) - Native Angular2 Chart Rendering Framework with D3 for utils
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2
 * [ng2-date-picker](https://vlio20.github.io/ng2-date-picker/) - Highly configurable date picker built for Angular 2 applications
 * [ngSemantic](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
 * [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
 * [Teradata covalent](https://github.com/Teradata/covalent/) - UI Platform built on @angular/material 2.0
 * [ng2-quill-editor](https://github.com/surmon-china/ng2-quill-editor) - Quill editor component for Angular2
-* [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular >= 2.
+* [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
+* [ngx-datatable](https://github.com/swimlane/ngx-datatable)  A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
+* [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

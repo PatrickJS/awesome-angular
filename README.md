@@ -613,6 +613,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
 
 #### Meteor Seed Projects
+* [Angular2 Meteor Seed](https://github.com/KyneSilverhide/angular2-meteor-seed)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 

@@ -112,6 +112,7 @@ Table of contents:
 #### Angular 2 Video Tutorials
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+* [Codementor - Angular 2 Video Course](https://www.codementor.io/classes/learn-beginner-angular2-video-course)
 
 #### Angular 2 Books
 * [ng-book 2](https://ng-book.com/2) `fullstack.io`

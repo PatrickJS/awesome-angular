@@ -307,7 +307,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
-* [Angular 2 in Action](https://www.manning.com/books/angular-2-in-action) `Manning Publications`
+* [Angular 2 in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
@@ -356,7 +356,7 @@ Http is available as an injectable class, with methods to perform http requests.
   * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
 * Hristo Georgiev
-  * [Debugging Angular 2 Applications](http://tutorials.pluralsight.com/front-end-javascript/debugging-angular-2-applications)
+  * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/front-end-javascript/debugging-angular-2-applications)
 
 * Helgevold Consulting
   * [Web Workers in Angular 2.0](http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0)
@@ -426,7 +426,7 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
 * [ng2-filter-pipe](https://github.com/VadimDez/ng2-filter-pipe) Pipe for filtering arrays
-* [ng-pipes](https://github.com/danrevah/ng-pipes) Bunch of useful pipes for Angular2
+* [ngx-pipes](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular2 and beyond!
 
 #### Generators
 * Node.js

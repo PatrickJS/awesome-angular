@@ -111,7 +111,7 @@ Table of contents:
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [AngularJS on Google+](https://plus.google.com/+AngularJS)
-* [AngularAir](http://angular-air.com/) podcast and live broadcast
+* [AngularAir](http://angularair.com/) podcast and live broadcast
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
 * [ng-newsletter](http://www.ng-newsletter.com) email newsletter
 * [Angular Expo](http://angularexpo.com/) showcase

@@ -307,7 +307,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Books
 * [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
-* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
+* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
 * [Angular 2 in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
@@ -321,7 +321,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
 * [Angular 2 Workshop](http://chariotsolutions.com/course/angular2-workshop-fundamentals-architecture/)
-* [Web Age Solutions](http://www.webagesolutions.com/courses/WA2533-angular-2-programming)
+* [Web Age Solutions](http://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
 
 #### Approach and Explanation
 
@@ -617,6 +617,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
 
 #### Meteor Seed Projects
+* [Angular2 Meteor Seed](https://github.com/KyneSilverhide/angular2-meteor-seed)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 

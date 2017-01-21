@@ -605,7 +605,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
 
 #### ES5 Seed Projects
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular2/edit/gh-pages/README.md)
+[angular2-es5-starter-kit](https://github.com/islam-muhammad/angular2-es5) Angular2 ES5 Starter Kit
 
 ---
 

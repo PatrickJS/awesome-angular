@@ -424,6 +424,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ngx-datatable](https://github.com/swimlane/ngx-datatable)  A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
+* [Cloudinary](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

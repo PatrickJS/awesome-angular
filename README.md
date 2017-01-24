@@ -313,7 +313,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
-* [揭秘Angular 2](https://www.amazon.cn/dp/B01NBOQCJW/ref=sr_1_1) `GF Securities`
+* [揭秘Angular 2](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01NBOQCJW) `GF Securities`
 
 #### On-Site Training
 * [AngularClass](https://angularclass.com)

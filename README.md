@@ -426,12 +426,14 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-datatable](https://github.com/swimlane/ngx-datatable)  A feature-rich yet lightweight data-table crafted for Angular2 and beyond!
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 * [Cloudinary](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
+* [angular2-simple-countdown](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
 * [ng2-filter-pipe](https://github.com/VadimDez/ng2-filter-pipe) Pipe for filtering arrays
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular2 and beyond!
 * [ng2-order-pipe](https://github.com/VadimDez/ng2-order-pipe) OrderBy pipe for Angular2 - sort collection by a field
+* [angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
 
 #### Generators
 * Node.js

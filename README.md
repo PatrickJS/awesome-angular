@@ -392,7 +392,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
 * [angular2-cookie](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2
 * [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
-* [angular2-locker](https://github.com/MikaAK/angular2-locker) Library for interfacing with Localstorage/session/cookies with in-memory backup
+* [angular-safeguard](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
 * [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) Angular2 directives for Google Maps
 * [ng2-radio-group](https://github.com/pleerock/ng2-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 * [ng2-dropdown](https://github.com/pleerock/ng2-dropdown) Dropdown menu for angular2 and bootstrap 3
@@ -532,7 +532,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova
 
 ##### Cordova Seed Projects
-* [Angular 2 Seed CLI Admin (Template)](https://github.com/jvitor83/angular-seed-cli-admin) Multiplatform Angular 2 project (Web, Mobile and Desktop) with a admin template applied.
+* [Angular 2 Seed CLI Admin (Template)](https://github.com/jvitor83/angular-pwa-seed) Multi-platform Angular 2 project (Web/PWA, Mobile and Desktop) with Ionic 2 (and optionally Bootstrap).
 
 ---
 

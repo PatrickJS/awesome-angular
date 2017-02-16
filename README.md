@@ -485,7 +485,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular 2 apps
 * [angular2-ts-seed](https://github.com/codewareio/angular2-ts-seed) - A complete, yet simple, starter for Angular 2 using TypeScript
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
-* [NG2 Lab](https://github.com/rolandjitsu/ng2-lab#awesome-angular2) A simple Angular 2 setup using TypeScript, SystemJS and Firebase that also includes a few examples of unit testing and CI with Travis and Saucelabs.
+* [Angular Lab](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](http://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)

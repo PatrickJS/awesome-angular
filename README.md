@@ -181,7 +181,7 @@ Table of contents:
 * [Official Angular 2 Cheatsheet](https://angular.io/cheatsheet)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
-* [Angular 2 Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
+* [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 
 #### Features
 
@@ -239,8 +239,8 @@ Http is available as an injectable class, with methods to perform http requests.
 
 ##### Ahead-of-Time Compilation
 * [Official Documentation](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
-* [Ahead-of-Time Compilation in Angular 2](http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
-* [Building an Angular 2 Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
+* [Ahead-of-Time Compilation in Angular](http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
+* [Building an Angular Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [Demystifying Ahead-Of-Time Compilation In Angular 2](http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit)
 * [Code Example with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
 * [Code Example with Rollup](https://github.com/mgechev/angular2-ngc-rollup-build)
@@ -483,7 +483,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### TypeScript Seed Projects
 * [Angular 2 Webpack Starter](https://angularclass.github.io/angular2-webpack-starter/) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @Angular-Class
-* [Angular 2 Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular 2 apps
+* [Angular Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular apps
 * [angular2-ts-seed](https://github.com/codewareio/angular2-ts-seed) - A complete, yet simple, starter for Angular 2 using TypeScript
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
 * [Angular Lab](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](http://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).

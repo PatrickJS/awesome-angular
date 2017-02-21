@@ -175,6 +175,7 @@ Table of contents:
 * [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
 * [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
 * [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carusel, grid, lightbox, selectfield, sticky header, ...)
+* [ng2-materialize](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
 
 #### Cheatsheet
 * [Official Angular 2 Cheatsheet](https://angular.io/cheatsheet)

@@ -456,6 +456,8 @@ Http is available as an injectable class, with methods to perform http requests.
 
 * [AngularDoc](http://angulardoc.io/) : Website that display "Architectural analysis and visualization for Angular 2 projects", integrate only with a github repository
 
+* [NgModule-Viz](https://github.com/politie/ngmodule-viz) : Visualize the dependencies between the NgModules in your Angular 2+ application.
+
 #### TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
 

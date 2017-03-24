@@ -3,7 +3,7 @@
 WHITELIST_URLS=angularclass.com,\
 angular.io,\
 https://dartlang-slack.herokuapp.com/,\
-github.com/angularclass/awesome-angular2,\
+github.com/angularclass/awesome-angular,\
 github.com/angular/universal,\
 github.com/angular/material2,\
 https://github.com/michaelbazos/angular2-starter,\

@@ -254,7 +254,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular 2 Webpack Starter from AngularClass](https://github.com/AngularClass/angular2-webpack-starter)
 * [Angular 2 Webpack from preboot](https://github.com/preboot/angular2-webpack)
 * [Angular 2 Nightly Webpack Starter](https://github.com/qdouble/angular-webpack2-starter)
-* [Angular 2 Webpack with Visual Studio ASP.NET Core from Damien Bowden](https://github.com/damienbod/Angular2WebpackVisualStudio)
+* [Angular 2 Webpack with Visual Studio ASP.NET Core from Damien Bowden](https://github.com/damienbod/AngularWebpackVisualStudio)
 * [Angular 2 Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
 * [Angular 2 Webpack  Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
 * [Angular 2 Webpack + rxjs + modules](https://github.com/jorgeas80/angular2-webpack-toh)
@@ -286,7 +286,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 * [Channel9 - The Future of TypeScript: ECMAScript 6, Async/Await and Richer Libraries](https://channel9.msdn.com/Events/Build/2015/3-644)
 * [Channel9 - Creating Cross-Platform Apps with Angular 2](https://channel9.msdn.com/Events/Build/2016/T627)
-* [Code School - Accelerating Through Angular 2](https://www.codeschool.com/courses/accelerating-through-angular-2/)
+* [Code School - Accelerating Through Angular 2](https://www.codeschool.com/courses/accelerating-through-angular)
 * [Angular typed Store](https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be)
 * [Angular advanced tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
 
@@ -322,7 +322,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [thoughtram](http://thoughtram.io/training.html)
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
-* [Angular 2 Workshop](http://chariotsolutions.com/course/angular2-workshop-fundamentals-architecture/)
+* [Angular 2 Workshop](http://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/)
 * [Web Age Solutions](http://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
 * [Letsboot.com](http://www.letsboot.com/angular-2-in-house-training-support)
 
@@ -403,7 +403,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-modal](https://github.com/pleerock/ng2-modal) Modal window for angular2 and bootstrap 3
 * [ng2-paginator](https://github.com/pleerock/ng2-paginator) Pagination control for angular2 and bootstrap 3
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
-* [prime-ng](http://www.primefaces.org/primeng/)  Collection of rich UI components for Angular 2
+* [prime-ng](https://www.primefaces.org/primeng/)  Collection of rich UI components for Angular 2
 * [ng2-ace](https://github.com/seiyria/ng2-ace) Ace editor directive made for Angular 2
 * [ng2-storage](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
 * [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.

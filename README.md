@@ -141,7 +141,7 @@ Table of contents:
 * [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
 * [@amcdnl](https://twitter.com/amcdnl)
 
-#####[Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 * [Jack Franklin](https://twitter.com/jack_franklin)
 * [Thierry Chatel](https://twitter.com/ThierryChatel)
 * [Uri Shaked](https://twitter.com/urishaked)

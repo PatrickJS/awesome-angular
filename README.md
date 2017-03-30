@@ -171,6 +171,7 @@ Table of contents:
 
 #### Universal Seed Projects
 * [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
+* [universal-example-app](https://github.com/nglibs/universal-example-app) - Example app showcasing both Universal and lean Angular on a single project by @fulls1z3
 
 ### Angular 2 in TypeScript
 > TypeScript lets you write JavaScript the way you really want to.

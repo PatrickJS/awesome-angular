@@ -126,9 +126,7 @@ Table of contents:
 * [@IgorMinar](https://twitter.com/IgorMinar)
 * [@bradlygreen](https://twitter.com/bradlygreen)
 * [@naomitraveller](https://twitter.com/naomitraveller)
-* [@victorsavkin](https://twitter.com/victorsavkin)
 * [@tbosch1009](https://twitter.com/tbosch1009)
-* [@jeffbcross](https://twitter.com/jeffbcross)
 * [@karaforthewin](https://twitter.com/karaforthewin)
 * [@robwormald](https://twitter.com/robwormald)
 
@@ -142,6 +140,8 @@ Table of contents:
 * [@eggheadio](https://twitter.com/eggheadio)
 * [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
 * [@amcdnl](https://twitter.com/amcdnl)
+* [@victorsavkin](https://twitter.com/victorsavkin)
+* [@jeffbcross](https://twitter.com/jeffbcross)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 * [Jack Franklin](https://twitter.com/jack_franklin)

@@ -178,6 +178,7 @@ Table of contents:
 * [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
 * [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carusel, grid, lightbox, selectfield, sticky header, ...)
 * [ng2-materialize](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
+* [Material Light](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 
 #### Cheatsheet
 * [Official Angular 2 Cheatsheet](https://angular.io/cheatsheet)

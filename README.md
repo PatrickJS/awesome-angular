@@ -169,7 +169,7 @@ Table of contents:
 #### Server-Side Rendering
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
 
-#### Design
+#### Material Design
 * [Official Angular 2 Material Design (GitHub)](https://github.com/angular/material2)
 * [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
 * [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core

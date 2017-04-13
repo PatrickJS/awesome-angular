@@ -520,6 +520,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Reaper](https://github.com/Xamber/Reaper) - Angular 2 Webpack Starter Boilerplate w/o 2269 dependencies
 * [famn](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
 * [Angular NPM Module Seed](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
+* [Angular2 D3v4 Seed](https://github.com/gp187/angular2-d3v4-graph) - Angular2 D3v4 implementation of charts, graphs, area and view porting seed project
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 

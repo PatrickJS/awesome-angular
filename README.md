@@ -245,6 +245,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Ahead-of-Time Compilation in Angular](http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
 * [Building an Angular Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [Demystifying Ahead-Of-Time Compilation In Angular 2](http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit)
+* [Multiple solutions for Angular Ahead of Time (AOT) Compilation](https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508)
 * [Code Example with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
 * [Code Example with Rollup](https://github.com/mgechev/angular2-ngc-rollup-build)
 

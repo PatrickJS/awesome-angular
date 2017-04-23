@@ -437,7 +437,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng-http-cache](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
 * [lottie-angular2](https://github.com/chenqingspring/lottie-angular2) - Render After Effects animations on Angular2 based on Bodymovin.
 * [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
-* [ngfb-sortable-table](https://github.com/NodeArt/Angular-Firebase-Sortable-Table - Angular Firebase Sortable Table. Ability to filter
+* [ngfb-sortable-table](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter
 and sort data with own firebase quering tools.
 
 #### Pipes

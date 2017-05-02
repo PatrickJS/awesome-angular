@@ -440,6 +440,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngfb-sortable-table](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
 * [angular-split](https://github.com/bertrandg/angular-split) Angular split component
 * [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
+* [angular2-froala-wysiwyg](https://github.com/froala/angular2-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

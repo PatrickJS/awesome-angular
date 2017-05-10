@@ -297,6 +297,7 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Style Guides
 
 * [Official Angular 2 Style guide](https://angular.io/styleguide)
+* [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/fulls1z3/angular-tslint-rules)
 
 #### Angular Connect
 * [Keynote – Brad Green, Igor Minar and Jules Kremer](https://www.youtube.com/watch?v=UxjgUjVpe24)
@@ -374,6 +375,9 @@ Http is available as an injectable class, with methods to perform http requests.
   * [Socket.io with Observables](http://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0)
   * [Change Detection](http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0)
 
+* Burak Tasci (fulls1z3)
+  * [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
+
 #### Integrations
 * [FalcorJS + Angular2 (Video)](https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be)
 * [Angular2-Meteor](https://www.angular-meteor.com/angular2)
@@ -441,6 +445,10 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-split](https://github.com/bertrandg/angular-split) Angular split component
 * [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
 * [angular2-froala-wysiwyg](https://github.com/froala/angular2-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
+* [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
+* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
+* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
+* [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
@@ -482,7 +490,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Universal Seed Projects
 * [universal-starter](https://github.com/angular/universal-starter) - Angular 2 Universal starter kit by @Angular-Class
-* [universal-example-app](https://github.com/nglibs/universal-example-app) - Example app showcasing both Universal and lean Angular on a single project by @fulls1z3
+* [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
 
 ---
 
@@ -527,6 +535,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [famn](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
 * [Angular NPM Module Seed](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
 * [Angular2 D3v4 Seed](https://github.com/gp187/angular2-d3v4-graph) - Angular2 D3v4 implementation of charts, graphs, area and view porting seed project
+* [ng-seed/spa](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 

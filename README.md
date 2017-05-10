@@ -58,7 +58,7 @@ Table of contents:
     * [Seed Projects](#nativescript-seed-projects)
   * [React Native](#react-native)
     * [React Native General Resources](#react-native-general-resources)
-    
+
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
 
@@ -139,7 +139,10 @@ Table of contents:
   * [Even better ES5 code for Angular 2](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
   * [Writing Angular 2 code in ES5](http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
-  
+
+* Burak Tasci (fulls1z3)
+  * [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
+
 #### Angular 2 Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
@@ -149,6 +152,10 @@ Table of contents:
 ### Angular 2 Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap)
+* [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
+* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
+* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
+* [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3
 
 ### Angular 2 Generators
 * Node.js
@@ -171,7 +178,7 @@ Table of contents:
 
 #### Universal Seed Projects
 * [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
-* [universal-example-app](https://github.com/nglibs/universal-example-app) - Example app showcasing both Universal and lean Angular on a single project by @fulls1z3
+* [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
 
 ### Angular 2 in TypeScript
 > TypeScript lets you write JavaScript the way you really want to.
@@ -192,7 +199,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [ng2-play.ts](https://github.com/pkozlowski-opensource/ng2-play.ts#awesome-angular2) A minimal Angular2 playground using TypeScript
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
- 
+* [ng-seed/spa](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
+
 ### Angular 2 in Dart
 > Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
 
@@ -254,7 +262,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 ##### Ionic 2 General Resources
 * [Repository (GitHub)](https://github.com/driftyco/ionic2)
 
-#### Angular 2 in NativeScript 
+#### Angular 2 in NativeScript
 > Build truly native iOS, Android and Windows Phone apps with Javascript and CSS. Try NativeScript open-source framework for cross-platform development.
 
 ##### NativeScript General Resources

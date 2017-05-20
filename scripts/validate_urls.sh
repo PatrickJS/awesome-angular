@@ -21,6 +21,7 @@ angular-meteor.com,\
 badge.fury.io,\
 travis-ci.org,\
 softwarearchitekt.at,\
-https://plus.google.com/+AngularJS
+https://plus.google.com/+AngularJS,\
+https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508
 
 awesome_bot README.md --white-list ${WHITELIST_URLS}

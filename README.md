@@ -90,6 +90,7 @@ Table of contents:
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
+* [Bit](#angular-2-components-with-bit)
 * [Security](#security)
 * [NgRx](#ngrx)
 
@@ -715,6 +716,17 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [play-angular2](https://github.com/gdi2290/play-angular2)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
+---
+
+### Angular 2 components with Bit
+> Bit is an open source virtual repository (code base) built to make components easily manageable and usable across applications. You can quickly export any Angular component from any context while working on any project to a bit distributed Scope. Bit's reusbale component environment cuts the overhead of configuring build and test environments for exporting every new component. The Scope is a virtual component repository which stores, organizes, manages and tests your components. Once modeled on a Scope, your components can be easily found and used in any Angular application. Components can be organized together and still modified and used individually without pulling in entire libraries.
+
+##### Bit Resources
+* [Bit](https://github.com/teambit/bit)
+* [Bit-Javascript](https://github.com/teambit/bit-javascript)
+* [bitsrc](https://www.bitsrc.io) - Free community hub for sharing, managing and finding open source components. 
+
+---
 
 #### Security
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)

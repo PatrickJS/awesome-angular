@@ -109,7 +109,7 @@ Table of contents:
 * `#angular2` channel on Freenode IRC Server
 * [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
 * [Gitter Channel](https://gitter.im/angular/angular)
-* [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/angular)
+* [Angular 2 StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
@@ -548,8 +548,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Ionic Documentation](http://ionicframework.com/docs/) Official for Ionic Framework
 
 ##### Ionic 2 General Resources
-* [Ionic 2 Repository (GitHub)](https://github.com/driftyco/ionic)
-* [Ionic 2 Awesome](https://github.com/candelibas/awesome-ionic2)
+* [Ionic 2 Repository (GitHub)](https://github.com//ionic-team/ionic)
+* [Ionic 2 Awesome](https://github.com/candelibas/awesome-ionic)
 
 ---
 

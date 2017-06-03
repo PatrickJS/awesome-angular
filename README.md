@@ -450,6 +450,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3
 * [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
 * [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
+* [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

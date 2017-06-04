@@ -451,6 +451,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
 * [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
 * [ngx-popper](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(https://popper.js.org/)
+* [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
@@ -458,7 +459,6 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular2 and beyond!
 * [ng2-order-pipe](https://github.com/VadimDez/ng2-order-pipe) OrderBy pipe for Angular2 - sort collection by a field
 * [angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
-* [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 
 #### Generators
 * Node.js

@@ -458,6 +458,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular2 and beyond!
 * [ng2-order-pipe](https://github.com/VadimDez/ng2-order-pipe) OrderBy pipe for Angular2 - sort collection by a field
 * [angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
+* [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 
 #### Generators
 * Node.js

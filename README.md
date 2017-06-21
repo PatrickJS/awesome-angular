@@ -421,7 +421,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular2-text-mask](https://github.com/text-mask/text-mask) Angular 2 input mask directive
 * [ng2-fullpage](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
 * [file-droppa](https://github.com/ptkach/fileDroppa) Simple files drop and upload component with files list
-* [ng2-img-fallback](https://github.com/VadimDez/ng2-img-fallback) Load placeholder image on image error
+* [ngx-img-fallback](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
 * [angular2-busy](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
 * [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
 * [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design

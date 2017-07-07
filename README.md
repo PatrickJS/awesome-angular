@@ -293,6 +293,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Code School - Accelerating Through Angular 2](https://www.codeschool.com/courses/accelerating-through-angular)
 * [Angular typed Store](https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be)
 * [Angular advanced tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
+* [Angular Fullstack JavaScript Channel](https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw)
 
 #### Style Guides
 

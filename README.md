@@ -473,6 +473,10 @@ Http is available as an injectable class, with methods to perform http requests.
     * [swirlycheetah/generator-angular2](https://github.com/chrisdwheatley/generator-angular2)
   * Faristo
     * [majodi/generator-angular2](https://github.com/majodi/Faristo)
+  * ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
+    * [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket)
+    * [ngx-rocket/cli](https://github.com/ngx-rocket/cli)
+    * [ngx-rocket/core](https://github.com/ngx-rocket/core)
 * Dart
   * Stagehand
     * [google/stagehand](https://github.com/google/stagehand)

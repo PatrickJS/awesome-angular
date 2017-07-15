@@ -93,6 +93,7 @@ Table of contents:
 * [Bit](#angular-2-components-with-bit)
 * [Security](#security)
 * [NgRx](#ngrx)
+* [Permission](#permission)
 
 ### Angular
 > Angular is a development platform for building mobile and desktop web applications.
@@ -759,6 +760,29 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions](http://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/)
 
 ---
+
+#### permission
+
+> Backward compatibility of [`angular-permission`](https://github.com/Narzerus/angular-permission). Fully featured permission based access control for your angular 2.0 applications.
+
+##### Managing permissions
+
+* [Defining permissions](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#defining-permissions)
+* [Add permission](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#add-permission)
+* [Has defined permission](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#has-defined-permission)
+* [Has one defined](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#has-one-defined)
+* [Removing permissions](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#removing-permissions)
+* [Retrieving permission definitions](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#retrieving-permission-definitions)
+
+##### Router guard permission
+
+* [Router guard permission](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/router-guard-permission.md)
+
+##### Controlling access in views
+
+* [Permission directive](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/controlling-access-in-views.md#permission-directive)
+* [Basic usage](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/controlling-access-in-views.md#basic-usage)
+* [Custom behaviour](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/controlling-access-in-views.md#custom-behaviour)
 
 
 ## License

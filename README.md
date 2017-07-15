@@ -54,6 +54,7 @@ Table of contents:
   * [Approach and Explanation](#approach-and-explanation)
   * [Integrations](#integrations)
   * [Components](#components)
+  * [Site Templates](#site-templates)
   * [Generators](#generators)
   * [Documentation tools](#documentation-tools)
   * [TodoMVC](#todomvc)
@@ -463,6 +464,8 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 * [ngx-qrcode2](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes .
 
+#### Site Templates
+* [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](https://yagolopez.js.org/ng-dashboard/dist)
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2

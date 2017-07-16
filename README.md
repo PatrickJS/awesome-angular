@@ -93,7 +93,6 @@ Table of contents:
 * [Bit](#angular-2-components-with-bit)
 * [Security](#security)
 * [NgRx](#ngrx)
-* [Permission](#permission)
 
 ### Angular
 > Angular is a development platform for building mobile and desktop web applications.
@@ -462,8 +461,8 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
 * [ngx-popper](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(https://popper.js.org/)
 * [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
-* [ngx-qrcode2](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes .
-
+* [ngx-qrcode2](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes 
+* [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
@@ -760,30 +759,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions](http://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/)
 
 ---
-
-#### permission
-
-> Backward compatibility of [`angular-permission`](https://github.com/Narzerus/angular-permission). Fully featured permission based access control for your angular 2.0 applications.
-
-##### Managing permissions
-
-* [Defining permissions](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#defining-permissions)
-* [Add permission](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#add-permission)
-* [Has defined permission](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#has-defined-permission)
-* [Has one defined](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#has-one-defined)
-* [Removing permissions](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#removing-permissions)
-* [Retrieving permission definitions](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/managing-permissions.md#retrieving-permission-definitions)
-
-##### Router guard permission
-
-* [Router guard permission](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/router-guard-permission.md)
-
-##### Controlling access in views
-
-* [Permission directive](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/controlling-access-in-views.md#permission-directive)
-* [Basic usage](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/controlling-access-in-views.md#basic-usage)
-* [Custom behaviour](https://github.com/JavadRasouli/ng2-permission/blob/master/doc/controlling-access-in-views.md#custom-behaviour)
-
 
 ## License
 

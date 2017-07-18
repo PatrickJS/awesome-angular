@@ -717,7 +717,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Haxe and Node.js](matthijskamstra.github.io/haxenode/)
 * [Haxe: working with JavaScript libraries](http://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/)
 * [Learn haxe in Y minutes](https://learnxinyminutes.com/docs/haxe/)
-* [A success story for Haxe](http://lightspeed1.nsnet.net/access/web?id=1b894aeb-6bd8-11e7-8b13-00e0ed148814) - about porting JavaScript to haxe targeting both JavaScript and C# "without interrupting the development of actual game by the rest of the team!", "AWESOME BONUS", "there are only benefits"
+* [A success story for Haxe](http://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe) - about porting JavaScript to haxe targeting both JavaScript and C# "without interrupting the development of actual game by the rest of the team!", "AWESOME BONUS", "there are only benefits"
 * [News And Information For Haxe Developers](https://haxe.io/)
 * [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 

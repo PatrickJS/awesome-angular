@@ -18,7 +18,7 @@ Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, start
 
 
 <p align="center">
-  <a href="http://courses.angularclass.com/courses/angular-2-fundamentals?utm_source=github-awesome-angular-2&utm_medium=open-source&utm_campaign=awesomeangular2" target="_blank">
+  <a href="http://courses.angularclass.com/p/angular-2-fundamentals/?utm_source=github-awesome-angular-2&utm_medium=open-source&utm_campaign=awesomeangular2" target="_blank">
     <img width="438" alt="Angular 2 Fundamentals" src="https://cloud.githubusercontent.com/assets/1016365/17200649/085798c6-543c-11e6-8ad0-2484f0641624.png">
   </a>
 </p>
@@ -103,7 +103,7 @@ Table of contents:
 * [Blog](http://angularjs.blogspot.com/)
 * [Documentation](https://angular.io/docs/js/latest/)
 * [Cheatsheet](https://angular.io/guide/cheatsheet)
-* [Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
+* [Getting Started Guide](https://angular.io/docs/js/latest/quickstart)
 * [GitHub Repo](https://github.com/angular/angular)
 
 #### Community
@@ -232,7 +232,7 @@ Http is available as an injectable class, with methods to perform http requests.
 <br>[Read more »](features/HTTP.md)
 
 ##### Router
-* [Offical Router](https://angular.io/docs/ts/latest/guide/router.html#!#sts=Router%20imports)
+* [Offical Router](https://angular.io/guide/router.html#sts=Router%20imports)
 * [ui-router](https://github.com/angular-ui/ui-router)
 <br>[Read more »](features/Router.md)
 
@@ -243,7 +243,7 @@ Http is available as an injectable class, with methods to perform http requests.
 <br>[Read more »](features/Test.md)
 
 ##### Ahead-of-Time Compilation
-* [Official Documentation](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
+* [Official Documentation](https://angular.io/guide/aot-compiler)
 * [Ahead-of-Time Compilation in Angular](http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
 * [Building an Angular Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
 * [Demystifying Ahead-Of-Time Compilation In Angular 2](http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit)
@@ -262,7 +262,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular Nightly Webpack Starter](https://github.com/qdouble/angular-webpack2-starter)
 * [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden](https://github.com/damienbod/AngularWebpackVisualStudio)
 * [Angular Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
-* [Angular Webpack  Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
+* [Angular Webpack  Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 * [Angular Webpack + rxjs + modules](https://github.com/jorgeas80/angular2-webpack-toh)
 
 #### Series
@@ -278,7 +278,7 @@ Http is available as an injectable class, with methods to perform http requests.
     * [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/)
 * thoughtram
   * Angular 2 Template Syntax Demystified
-    * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+    * [Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 * [letsboot.com](https://medium.com/letsboot)
   * Test Driven Development
     * [Part 1 Angular TDD, Karma, Jasmine, PhantomJS, Gitlab-CI](https://medium.com/letsboot/angular-4-and-testing-angular-cli-gitlab-ci-ng-test-phantomjs-tdd-afc20f50b928)
@@ -286,7 +286,7 @@ Http is available as an injectable class, with methods to perform http requests.
     * [Part 1 Let’s learn how to install and setup AngularFire2 4.0](https://medium.com/letsboot/lets-learn-how-to-install-and-setup-angularfire2-4-0-135d72bb0a41)
 
 #### Video Tutorials
-* [AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/courses/angular-2-fundamentals)
+* [AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/p/angular-2-fundamentals)
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
@@ -303,7 +303,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Style Guides
 
-* [Official Angular 2 Style guide](https://angular.io/styleguide)
+* [Official Angular 2 Style guide](https://angular.io/guide/styleguide)
 * [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/fulls1z3/angular-tslint-rules)
 
 #### Angular Connect
@@ -338,7 +338,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng-book](https://www.ng-book.com/2/)
 * [Angular 2 Workshop](http://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/)
 * [Web Age Solutions](http://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
-* [Letsboot.com](http://www.letsboot.com/angular-2-in-house-training-support)
+* [Letsboot.com](https://www.letsboot.com/angular-2-in-house-training-support)
 * [Free on-site 2-days training delivered by SFEIR (in France)](https://school.sfeir.com/project/sa200/)
 
 #### Approach and Explanation
@@ -360,20 +360,20 @@ Http is available as an injectable class, with methods to perform http requests.
   * [Angular 2 for ReactJS deverlopers](https://angularclass.com/blog/angular-2-for-react-developers/)
 
 * thoughtram
-  * [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
-  * [Developing a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
-  * [Resolving Service Dependencies in Angular 2](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
-  * [Forward references in Angular 2](http://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
-  * [Host and Visibility in Angular 2's Dependency Injection](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
-  * [Dependency Injection in Angular 2](http://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
-  * [Routing in Angular 2 **Depreciated**](http://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
-  * [Routing in Angular 2 Revisited](http://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
+  * [Developing a tabs component in Angular 2](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
+  * [Developing a zippy component in Angular 2](https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
+  * [Resolving Service Dependencies in Angular 2](https://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
+  * [Forward references in Angular 2](https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
+  * [Host and Visibility in Angular 2's Dependency Injection](https://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
+  * [Dependency Injection in Angular 2](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
+  * [Routing in Angular 2 **Depreciated**](https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
+  * [Routing in Angular 2 Revisited](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
   * [Angular 2 Template Syntax Demystified - Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
-  * [View Encapsulation in Angular 2](http://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
-  * [Styling Angular 2 components](http://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
-  * [Even better ES5 code for Angular 2](http://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
-  * [Writing Angular 2 code in ES5](http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
-  * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
+  * [View Encapsulation in Angular 2](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
+  * [Styling Angular 2 components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
+  * [Even better ES5 code for Angular 2](https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
+  * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
+  * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
 * Hristo Georgiev
   * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/front-end-javascript/debugging-angular-2-applications)
@@ -389,7 +389,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Integrations
 * [FalcorJS + Angular2 (Video)](https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be)
-* [Angular2-Meteor](https://www.angular-meteor.com/angular2)
+* [Angular2-Meteor](http://angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 
@@ -453,7 +453,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngfb-sortable-table](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
 * [angular-split](https://github.com/bertrandg/angular-split) Angular split component
 * [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
-* [angular2-froala-wysiwyg](https://github.com/froala/angular2-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
+* [angular2-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
 * [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 * [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
 * [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
@@ -466,7 +466,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
 
 #### Site Templates
-* [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](https://yagolopez.js.org/ng-dashboard/dist)
+* [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
@@ -533,7 +533,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular Lab](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](http://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
 * [Angular2Go](https://github.com/johnpapa/angular-go) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
-* [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular2-firebase)
+* [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular-firebase)
 * [Spring Boot and Angular2 tutorial](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 * [Angular 2 Goldilocks seed](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
 * [Angular 2 Starter](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
@@ -665,7 +665,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 > Build Realtime Web and Mobile Apps With Angular and Meteor
 
 ##### Meteor General Resources
-* [Angular Meteor](https://www.angular-meteor.com) Official Website for Angular Meteor
+* [Angular Meteor](http://angular-meteor.com/) Official Website for Angular Meteor
 * [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
 
 #### Meteor Seed Projects
@@ -745,7 +745,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 ##### Bit Resources
 * [Bit](https://github.com/teambit/bit)
 * [Bit-Javascript](https://github.com/teambit/bit-javascript)
-* [bitsrc](https://www.bitsrc.io) - Free community hub for sharing, managing and finding open source components. 
+* [bitsrc](https://bitsrc.io/) - Free community hub for sharing, managing and finding open source components. 
 
 ---
 

@@ -16,10 +16,9 @@ Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, start
 ##### Current Browser support for Angular:
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
-
 <p align="center">
-  <a href="http://courses.angularclass.com/p/angular-2-fundamentals/?utm_source=github-awesome-angular-2&utm_medium=open-source&utm_campaign=awesomeangular2" target="_blank">
-    <img width="438" alt="Angular 2 Fundamentals" src="https://cloud.githubusercontent.com/assets/1016365/17200649/085798c6-543c-11e6-8ad0-2484f0641624.png">
+  <a href="https://onespeed.io/" target="_blank">
+    <img  alt="OneSpeed" src="https://user-images.githubusercontent.com/1016365/28739734-462f5210-73b2-11e7-92f7-2aabe05cfefa.png">
   </a>
 </p>
 
@@ -762,7 +761,18 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
 * [Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions](http://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/)
 
----
+___
+
+enjoy — **AngularClass** a **OneSpeed** company
+
+<br><br>
+
+[![OneSpeed](https://user-images.githubusercontent.com/1016365/28739734-462f5210-73b2-11e7-92f7-2aabe05cfefa.png  "OneSpeed")](https://onespeed.io)
+## [OneSpeed](https://onespeed.io)
+> Our experience is vast with OneSpeed successfully creating and delivering solutions for companies like Bloomberg, American Airlines, and IBM.
+> We will tailor our solutions to fit your needs. Web App Development Services, Mobile App Services, Corporate Training contact us at Patrick@OneSpeed.io
+
+___
 
 ## License
 

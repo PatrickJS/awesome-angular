@@ -102,7 +102,7 @@ Table of contents:
 * [Blog](http://angularjs.blogspot.com/)
 * [Documentation](https://angular.io/docs/js/latest/)
 * [Cheatsheet](https://angular.io/guide/cheatsheet)
-* [Getting Started Guide](https://angular.io/docs/js/latest/quickstart)
+* [Getting Started Guide](https://angular.io/guide/quickstart)
 * [GitHub Repo](https://github.com/angular/angular)
 
 #### Community

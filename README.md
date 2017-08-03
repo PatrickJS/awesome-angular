@@ -419,6 +419,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-progress-bar](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
 * [ng2-tabs](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 * [ng2-modal](https://github.com/pleerock/ngx-modal) Modal window for angular2 and bootstrap 3
+* [ng2-sheet](https://github.com/lexikteam/ng2-sheet) Angular2 Components to add yours components inside a sheet window and repeatedly
 * [ng2-paginator](https://github.com/pleerock/ngx-paginator) Pagination control for angular2 and bootstrap 3
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
 * [prime-ng](https://www.primefaces.org/primeng/)  Collection of rich UI components for Angular 2

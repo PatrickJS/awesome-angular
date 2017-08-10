@@ -285,6 +285,7 @@ Http is available as an injectable class, with methods to perform http requests.
     * [Part 1 Let’s learn how to install and setup AngularFire2 4.0](https://medium.com/letsboot/lets-learn-how-to-install-and-setup-angularfire2-4-0-135d72bb0a41)
 
 #### Video Tutorials
+* [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners)
 * [AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/p/angular-2-fundamentals)
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)

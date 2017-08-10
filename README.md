@@ -99,7 +99,7 @@ Table of contents:
 
 #### Official Resources
 * [Site](https://angular.io/)
-* [Blog](http://angularjs.blogspot.com/)
+* [Blog](http://angularjs.blogspot.co.uk/)
 * [Documentation](https://angular.io/docs/js/latest/)
 * [Cheatsheet](https://angular.io/guide/cheatsheet)
 * [Getting Started Guide](https://angular.io/guide/quickstart)
@@ -118,8 +118,8 @@ Table of contents:
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
 * [ng-newsletter](http://www.ng-newsletter.com) email newsletter
 * [Angular Expo](http://angularexpo.com/) showcase
-* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
-* [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
+* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2) on AngularBuddies
+* [`#angular2 Slack Channel`](https://dartlang.slack.com/?redir=%2Fmessages%2Fangular2) on dartlang.slack.com ([Sign up](https://gitter.im/dart-lang/home))
 
 #### Angular Team on twitter
 
@@ -167,7 +167,7 @@ Table of contents:
 * [Maxim Salnikov](https://twitter.com/webmaxru)
 * [Deborah Kurata](https://twitter.com/deborahkurata)
 * [Minko Gechev](https://twitter.com/mgechev)
-* [**{{** add_expert **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_expert **}}**](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fangularclass%2Fawesome-angular%2Fedit%2Fgh-pages%2FREADME.md)
 
 #### Server-Side Rendering
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
@@ -231,7 +231,7 @@ Http is available as an injectable class, with methods to perform http requests.
 <br>[Read more »](features/HTTP.md)
 
 ##### Router
-* [Offical Router](https://angular.io/guide/router.html#sts=Router%20imports)
+* [Offical Router](https://angular.io/guide/router)
 * [ui-router](https://github.com/angular-ui/ui-router)
 <br>[Read more »](features/Router.md)
 
@@ -368,7 +368,7 @@ Http is available as an injectable class, with methods to perform http requests.
   * [Dependency Injection in Angular 2](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
   * [Routing in Angular 2 **Depreciated**](https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
   * [Routing in Angular 2 Revisited](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
-  * [Angular 2 Template Syntax Demystified - Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+  * [Angular 2 Template Syntax Demystified - Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
   * [View Encapsulation in Angular 2](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
   * [Styling Angular 2 components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
   * [Even better ES5 code for Angular 2](https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
@@ -467,7 +467,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
 
 #### Site Templates
-* [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)
+* [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](https://yagolopez.js.org/ng-dashboard/dist/)
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
@@ -531,7 +531,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### TypeScript Seed Projects
 * [Angular Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular apps
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
-* [Angular Lab](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](http://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
+* [Angular Lab](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](http://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/guide/aot-compiler), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
 * [Angular2Go](https://github.com/johnpapa/angular-go) Angular 2 Go !
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular-firebase)
@@ -549,7 +549,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [ng2-admin](https://github.com/akveo/ng2-admin) - Beautiful admin panel framework based on Angular 2, Bootstrap 4 and Webpack
 * [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
 * [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit testing and full code coverage
-* [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
+* [Angular 2 webpack](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 * [ng2-boiler](https://github.com/amcdnl/ng2-boiler) - A bare-bones simple starter with Angular2, TypeScript and Webpack configured.
 * [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, and Tree-shaking
 * [Reaper](https://github.com/Xamber/Reaper) - Angular 2 Webpack Starter Boilerplate w/o 2269 dependencies
@@ -667,7 +667,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ##### Meteor General Resources
 * [Angular Meteor](http://angular-meteor.com/) Official Website for Angular Meteor
-* [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
+* [Angular 2 Meteor](http://angular-meteor.com/angular2)
 
 #### Meteor Seed Projects
 * [Angular2 Meteor Seed](https://github.com/KyneSilverhide/angular2-meteor-seed)

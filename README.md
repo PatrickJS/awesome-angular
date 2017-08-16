@@ -120,6 +120,7 @@ Table of contents:
 * [Angular Expo](http://angularexpo.com/) showcase
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
+* [Twitter's Most Shared `#angular2` Content in a Simple Weekly Digest](http://theherdlocker.com/tweet/popularity/angular2) via The Herd Locker
 
 #### Angular Team on twitter
 

@@ -108,7 +108,6 @@ Table of contents:
 #### Community
 * `#angular2` channel on Freenode IRC Server
 * [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
-* [Twitter's most shared `#angular2` content in a simple weekly digest](http://theherdlocker.com/tweet/popularity/angular2) via The Herd Locker
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular 2 StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
@@ -121,6 +120,7 @@ Table of contents:
 * [Angular Expo](http://angularexpo.com/) showcase
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
+* [Twitter's most shared `#angular2` content in a simple weekly digest](http://theherdlocker.com/tweet/popularity/angular2) via The Herd Locker
 
 #### Angular Team on twitter
 

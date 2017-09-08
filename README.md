@@ -305,7 +305,7 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Style Guides
 
 * [Official Angular 2 Style guide](https://angular.io/guide/styleguide)
-* [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/fulls1z3/angular-tslint-rules)
+* [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/ng-seed/angular-tslint-rules)
 
 #### Angular Connect
 * [Keynote – Brad Green, Igor Minar and Jules Kremer](https://www.youtube.com/watch?v=UxjgUjVpe24)

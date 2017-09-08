@@ -457,10 +457,11 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-split](https://github.com/bertrandg/angular-split) Angular split component
 * [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
 * [angular2-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
-* [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
-* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
-* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
-* [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3
+* [ngx-meta](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
+* [ngx-config](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
+* [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
+* [ngx-i18n-router](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
+* [ngx-auth](https://github.com/fulls1z3/ngx-auth) -Authentication utility for Angular by @fulls1z3
 * [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
 * [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
 * [ngx-popper](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(https://popper.js.org/)

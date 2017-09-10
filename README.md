@@ -264,6 +264,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
 * [Angular Webpack  Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 * [Angular Webpack + rxjs + modules](https://github.com/jorgeas80/angular2-webpack-toh)
+* [Shared Webpack config for Angular development by fulls1z3](https://github.com/ng-seed/angular-webpack-config)
 
 #### Series
 * Ionic
@@ -305,7 +306,7 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Style Guides
 
 * [Official Angular 2 Style guide](https://angular.io/guide/styleguide)
-* [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/fulls1z3/angular-tslint-rules)
+* [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/ng-seed/angular-tslint-rules)
 
 #### Angular Connect
 * [Keynote – Brad Green, Igor Minar and Jules Kremer](https://www.youtube.com/watch?v=UxjgUjVpe24)
@@ -457,10 +458,11 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-split](https://github.com/bertrandg/angular-split) Angular split component
 * [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
 * [angular2-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
-* [ngx-meta/core](https://github.com/ngx-meta/core) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
-* [ngx-config/core](https://github.com/ngx-config/core) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
-* [ngx-cache/core](https://github.com/ngx-cache/core) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
-* [ngx-i18n-router/core](https://github.com/ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3
+* [ngx-meta](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
+* [ngx-config](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
+* [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
+* [ngx-i18n-router](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
+* [ngx-auth](https://github.com/fulls1z3/ngx-auth) -Authentication utility for Angular by @fulls1z3
 * [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
 * [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
 * [ngx-popper](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(https://popper.js.org/)

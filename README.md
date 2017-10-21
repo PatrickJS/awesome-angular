@@ -419,6 +419,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-cesium](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
 * [ng2-radio-group](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 * [ng2-dropdown](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
+* [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
 * [ng2-progress-bar](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
 * [ng2-tabs](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 * [ng2-modal](https://github.com/pleerock/ngx-modal) Modal window for angular2 and bootstrap 3

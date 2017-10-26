@@ -394,6 +394,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
+* [GraphQL + Angular](https://github.com/apollographql/apollo-angular)
 
 #### Components
 * [Material 2](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2

@@ -321,7 +321,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Creating realtime apps with Angular 2 and Meteor - Uri Goldshtein](https://www.youtube.com/watch?v=3FT0BqYASCo)
 
 #### Books
-* [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
+* [ng-book 4](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
 * [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
 * [Angular 2 in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`

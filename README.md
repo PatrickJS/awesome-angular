@@ -17,8 +17,8 @@ Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, start
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
 <p align="center">
-  <a href="https://onespeed.io/" target="_blank">
-    <img  alt="OneSpeed" src="https://user-images.githubusercontent.com/1016365/28739734-462f5210-73b2-11e7-92f7-2aabe05cfefa.png">
+  <a href="https://tipe.io/" target="_blank">
+    <img  alt="Tipe" src="https://user-images.githubusercontent.com/1016365/30999155-30430eb8-a488-11e7-850e-a7c38dad77c1.png" class="img-responsive">
   </a>
 </p>
 
@@ -785,14 +785,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ___
 
-enjoy — **AngularClass** a **OneSpeed** company
-
-<br><br>
-
-[![OneSpeed](https://user-images.githubusercontent.com/1016365/28739734-462f5210-73b2-11e7-92f7-2aabe05cfefa.png  "OneSpeed")](https://onespeed.io)
-## [OneSpeed](https://onespeed.io)
-> Our experience is vast with OneSpeed successfully creating and delivering solutions for companies like Bloomberg, American Airlines, and IBM.
-> We will tailor our solutions to fit your needs. Web App Development Services, Mobile App Services, Corporate Training contact us at Patrick@OneSpeed.io
+enjoy — [**PatrickJS**](https://twitter.com/gdi2290)
 
 ___
 

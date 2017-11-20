@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://angularclass.com" target="_blank">
-    <img src="/media/awesome-angular.png" alt="Awesome Angular 2" />
+  <a href="https://tipe.io" target="_blank">
+    <img src="/media/awesome-angular.png" alt="Awesome Angular" />
   </a>
 </p>
 
 # Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
 
-Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://angularclass.github.io/awesome-angular/)
+Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://angularclass.github.io/awesome-angular/)
 
 > If you're looking for AngularJS (version 1.x.x) please visit https://github.com/gianarb/awesome-angularjs
 
@@ -109,7 +109,7 @@ Table of contents:
 * `#angular2` channel on Freenode IRC Server
 * [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
 * [Gitter Channel](https://gitter.im/angular/angular)
-* [Angular 2 StackOverflow](https://stackoverflow.com/questions/tagged/angular)
+* [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
@@ -173,10 +173,10 @@ Table of contents:
 * [**{{** add_expert **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
-* [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
+* [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
 
 #### Material Design
-* [Official Angular 2 Material Design (GitHub)](https://github.com/angular/material2)
+* [Official Angular Material Design (GitHub)](https://github.com/angular/material2)
 * [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
 * [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
 * [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
@@ -186,9 +186,9 @@ Table of contents:
 * [Blox Material](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
 
 #### Cheatsheet
-* [Official Angular 2 Cheatsheet](https://angular.io/guide/cheatsheet)
+* [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
-* [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+* [Angular Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 * [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 
 #### Features
@@ -204,40 +204,32 @@ A component is a directive which uses shadow DOM to create encapsulate visual be
 
 ##### View
 A View is a core primitive used by angular to render the DOM tree.
-<br>[Read more »](features/View.md)
 
 ##### Templates
 Templates are markup which is added to HTML to declaratively describe how the application model should be
 projected to DOM as well as which DOM events should invoke which methods on the controller.
-<br>[Read more »](features/Templates.md)
 
 ##### Change detection
 Every component gets a change detector responsible for checking the bindings defined in its template.
-<br>[Read more »](features/ChangeDetection.md)
 
 ##### Dependency Injection
 Angular 1.x has two APIs for injecting dependencies into a directive. Angular 2 unifies the two APIs, making the code easier to understand and test.
-<br>[Read more »](features/DI.md)
 
 ##### Pipes
 Pipes can be appended on the end of the expressions to translate the value to a different format.
-<br>[Read more »](features/Pipes.md)
 
 ##### Web Workers
 WebWorker support in Angular2 is designed to make it easy to leverage parallelization in your web application.
 When you choose to run your application in a WebWorker angular runs both your application's logic and the
 majority of the core angular framework in a WebWorker.
-<br>[Read more »](features/WebWorkers.md)
 
 ##### HTTP
 Http is available as an injectable class, with methods to perform http requests. Calling request returns an EventEmitter which will emit a single Response when a response is received.
 * [Introduction to HTTP in Angular 2](http://www.syntaxsuccess.com/viewarticle/angular-2.0-and-http)
-<br>[Read more »](features/HTTP.md)
 
 ##### Router
 * [Offical Router](https://angular.io/guide/router.html#sts=Router%20imports)
 * [ui-router](https://github.com/angular-ui/ui-router)
-<br>[Read more »](features/Router.md)
 
 ##### Test
 * [Testing Http services in Angular 2 with Jasmine](http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
@@ -271,17 +263,17 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Series
 * Ionic
-  * Angular 2
+  * Angular
     * [Introduction](http://blog.ionic.io/angular-2-series-introduction/)
     * [Components](http://blog.ionic.io/angular-2-series-components/)
 * Auth0
-  * Angular 2
+  * Angular
     * [Working with Pipes](https://auth0.com/blog/angular2-series-working-with-pipes/)
     * [Domain Models and Dependency Injection](https://auth0.com/blog/angular-2-series-part-2-domain-models-and-dependency-injection/)
     * [Using Http](https://auth0.com/blog/angular-2-series-part-3-using-http/)
     * [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/)
 * thoughtram
-  * Angular 2 Template Syntax Demystified
+  * Angular Template Syntax Demystified
     * [Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 * [letsboot.com](https://medium.com/letsboot)
   * Test Driven Development
@@ -290,7 +282,6 @@ Http is available as an injectable class, with methods to perform http requests.
     * [Part 1 Let’s learn how to install and setup AngularFire2 4.0](https://medium.com/letsboot/lets-learn-how-to-install-and-setup-angularfire2-4-0-135d72bb0a41)
 
 #### Video Tutorials
-* [AngularClass - Angular 2 Fundamentals](http://courses.angularclass.com/p/angular-2-fundamentals)
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
 * [HiRez.io - Angular Basics](https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview)
@@ -310,7 +301,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Style Guides
 
-* [Official Angular 2 Style guide](https://angular.io/guide/styleguide)
+* [Official Angular Style guide](https://angular.io/guide/styleguide)
 * [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/ng-seed/angular-tslint-rules)
 
 #### Angular Connect
@@ -328,8 +319,8 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Books
 * [ng-book 4](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
-* [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
-* [Angular 2 in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
+* [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
+* [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
@@ -352,8 +343,8 @@ Http is available as an injectable class, with methods to perform http requests.
 
 * Victor Savkin
   * [Dependency Injection in Angular 1 and Angular 2](https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18)
-  * [Writing Angular 2 in Typescript](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
-  * [Angular 2 Template Syntax](https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a)
+  * [Writing Angular in Typescript](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
+  * [Angular Template Syntax](https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a)
   * [The Core Concepts of Angular 2](https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04)
   * [Two Phases of Angular 2 Applications](https://vsavkin.com/two-phases-of-angular-2-applications-fda2517604be)
   * [Change Detection in Angular 2](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)

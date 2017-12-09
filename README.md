@@ -107,7 +107,7 @@ Table of contents:
 
 #### Community
 * `#angular2` channel on Freenode IRC Server
-* [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
+* [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
@@ -170,7 +170,7 @@ Table of contents:
 * [Deborah Kurata](https://twitter.com/deborahkurata)
 * [Minko Gechev](https://twitter.com/mgechev)
 * [Shai Reznik](https://twitter.com/shai_reznik)
-* [**{{** add_expert **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
 * [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
@@ -193,14 +193,11 @@ Table of contents:
 
 #### Features
 
-##### Annotations
 ###### Directives
 Directives allow you to attach behavior to elements in the DOM.
-<br>[Read more »](features/Annotations.md#directives)
 
 ###### Components
 A component is a directive which uses shadow DOM to create encapsulate visual behavior. Components are typically used to create UI widgets or to break up the application into smaller components.
-<br>[Read more »](features/Annotations.md#components)
 
 ##### View
 A View is a core primitive used by angular to render the DOM tree.
@@ -219,7 +216,7 @@ Angular 1.x has two APIs for injecting dependencies into a directive. Angular 2 
 Pipes can be appended on the end of the expressions to translate the value to a different format.
 
 ##### Web Workers
-WebWorker support in Angular2 is designed to make it easy to leverage parallelization in your web application.
+WebWorker support in Angular is designed to make it easy to leverage parallelization in your web application.
 When you choose to run your application in a WebWorker angular runs both your application's logic and the
 majority of the core angular framework in a WebWorker.
 
@@ -251,8 +248,8 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Official repository](https://github.com/angular/angular-cli)
 
 #### Webpack
-* [Official web page](https://webpack.github.io/)
-* [Angular Starter from AngularClass](https://github.com/AngularClass/angular-starter)
+* [Official web page](https://webpack.js.org)
+* [Angular Webpack Starter from PatrickJS](https://github.com/gdi2290/angular-starter)
 * [Angular Webpack from preboot](https://github.com/preboot/angular-webpack)
 * [Angular Nightly Webpack Starter](https://github.com/qdouble/angular-webpack2-starter)
 * [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden](https://github.com/damienbod/AngularWebpackVisualStudio)
@@ -300,7 +297,6 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners)
 
 #### Style Guides
-
 * [Official Angular Style guide](https://angular.io/guide/styleguide)
 * [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/ng-seed/angular-tslint-rules)
 
@@ -317,7 +313,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Creating realtime apps with Angular 2 and Meteor - Uri Goldshtein](https://www.youtube.com/watch?v=3FT0BqYASCo)
 
 #### Books
-* [ng-book 4](https://www.ng-book.com/2/) `fullstack.io`
+* [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
 * [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
 * [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
@@ -340,7 +336,6 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Free on-site 2-days training delivered by SFEIR (in France)](https://school.sfeir.com/project/sa200/)
 
 #### Approach and Explanation
-
 * Victor Savkin
   * [Dependency Injection in Angular 1 and Angular 2](https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18)
   * [Writing Angular in Typescript](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
@@ -482,7 +477,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
                                                                         
 #### Site Templates
-* [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)
+* [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light?ref=awesome-angular). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
@@ -576,7 +571,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Reboard](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
 * [Angular5 + Redux + Graphql + MySQL quickstart](https://github.com/rafaesc/fullstack-graphql-angular) - Simple Fullstack GraphQL Application with Angular CLI + Redux + Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL).
 * [Angular5 + Firebase + Structure](https://github.com/naologic/angular5-starter) - Angular 5 + Firebase + a very good router/module structure to make it your own so easy
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 
 ---
@@ -786,7 +781,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ___
 
-enjoy — [**PatrickJS**](https://twitter.com/gdi2290)
+enjoy — [**PatrickJS**](http://twitter.com/gdi2290?ref=awesome-angular)
 
 ___
 

@@ -389,6 +389,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Components
 * [Material 2](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
+* [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 * [Element Angular](https://github.com/eleme/element-angular) - Element Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components

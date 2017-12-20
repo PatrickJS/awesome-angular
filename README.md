@@ -397,6 +397,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-dragula](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
+* [ng2-markdown](https://github.com/evanplaice/ng2-markdown) Angular2 Markdown Web Component
 * [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
 * [ng2-safe-img](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
 * [ng2-table](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps

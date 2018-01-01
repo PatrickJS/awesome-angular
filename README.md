@@ -506,6 +506,9 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Documentation tools
 
+
+* [Storybook](https://github.com/storybooks/storybook) : "The UI development environment you'll love to use"
+
 * [Compodoc](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
 
 * [AngularDoc](http://angulardoc.io/) : Website that display "Architectural analysis and visualization for Angular 2 projects", integrate only with a github repository

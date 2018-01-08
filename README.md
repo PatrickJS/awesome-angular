@@ -476,6 +476,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [nebular](https://github.com/akveo/nebular) - Full-featured framework based on Angular
 * [ng-select](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
 * [ng-katex](https://github.com/garciparedes/ng-katex) Angular module to write beautiful math expressions with TeX syntax boosted by KaTeX library
+* [ng-fullcalendar](https://github.com/Jamaks/ng-fullcalendar) Jquery fullcalendar module for Angular
 
                                                                         
 #### Site Templates

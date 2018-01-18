@@ -24,7 +24,7 @@ Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplate
 
 Table of contents:
 * [Angular](#angular)
-  * [Official Resources](#official-resources)
+  * [Resources](#official-resources)
   * [Community](#community)
   * [Experts on Twitter](#experts-on-twitter)
   * [Server-Side Rendering](#server-side-rendering)
@@ -99,8 +99,8 @@ Table of contents:
 
 #### Official Resources
 * [Site](https://angular.io/)
-* [Blog](http://angularjs.blogspot.com/)
-* [Documentation](https://angular.io/docs/js/latest/)
+* [Blog](https://blog.angular.io//)
+* [Documentation](https://angular.io/docs)
 * [Cheatsheet](https://angular.io/guide/cheatsheet)
 * [Getting Started Guide](https://angular.io/guide/quickstart)
 * [GitHub Repo](https://github.com/angular/angular)

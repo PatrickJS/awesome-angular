@@ -772,6 +772,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Security
 * [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
+* So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
 ##### Authentication
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)

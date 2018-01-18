@@ -98,8 +98,8 @@ Table of contents:
 > Angular is a development platform for building mobile and desktop web applications.
 
 #### Official Resources
-* [Site](https://angular.io/)
-* [Blog](https://blog.angular.io//)
+* [Site](https://angular.io)
+* [Blog](https://blog.angular.io)
 * [Documentation](https://angular.io/docs)
 * [Cheatsheet](https://angular.io/guide/cheatsheet)
 * [Getting Started Guide](https://angular.io/guide/quickstart)

@@ -311,6 +311,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [揭秘Angular 2](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01NBOQCJW) `GF Securities`
 * [Learn Angular 2](http://learnangular2.com/) `Ionic Team`
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
+* [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 
 #### On-Site Training
 * [AngularClass](https://angularclass.com)

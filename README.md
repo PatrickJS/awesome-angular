@@ -500,8 +500,8 @@ Http is available as an injectable class, with methods to perform http requests.
     * [google/stagehand](https://github.com/google/stagehand)
 * Online
   * Scaffoldhub
-    * [angular-material](https://scaffoldhub.io/angular-sample) Online and visual Angular 5 with Material Design CRUD scaffold/generator
-    * [angular-firebase-material](https://scaffoldhub.io/angular-firebase) Online and visual Angular 5, Material Design and Firebase (with Firestore) scaffold/generator with CRUDs, authentication, file/image upload, activity log and more.
+    * [angular-material-scaffold](https://scaffoldhub.io/angular-sample) Online and visual Angular 5 with Material Design CRUD scaffold/generator
+    * [angular-firebase-material-scaffold](https://scaffoldhub.io/angular-firebase) Online and visual Angular 5, Material Design and Firebase (with Firestore) scaffold/generator with CRUDs, authentication, file/image upload, activity log and more.
 
 #### Documentation tools
 

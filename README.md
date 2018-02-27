@@ -40,7 +40,7 @@ Table of contents:
   * [On-Site Training](#on-site-training)
   * [Approach and Explanation](#approach-and-explanation)
   * [Integrations](#integrations)
-  * [Components](#components)
+  * [Third Party Components](#third-party-components)
   * [Site Templates](#site-templates)
   * [Generators](#generators)
   * [Documentation tools](#documentation-tools)
@@ -379,7 +379,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 * [GraphQL + Angular](https://github.com/apollographql/apollo-angular)
 
-#### Components
+#### Third Party Components
 * [Material 2](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 * [Element Angular](https://github.com/eleme/element-angular) - Element Design components built on top of Angular 2

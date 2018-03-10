@@ -516,6 +516,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-bootstrap-md](https://mdbootstrap.com/angular/) Material Design for Bootstrap 4 (Angular)
 * [ngx-konami](https://github.com/lauthieb/ngx-konami) - Simple directive to add easter eggs in Angular 2+ applications
 * [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js
+* [ng-chat](https://github.com/rpaschoal/ng-chat) - A simple facebook/linkedin lookalike chat module for Angular applications
 
 #### Site Templates
 

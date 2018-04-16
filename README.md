@@ -519,6 +519,8 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js
 * [ng-chat](https://github.com/rpaschoal/ng-chat) - A simple facebook/linkedin lookalike chat module for Angular applications
 * [ngx-store](https://github.com/zoomsphere/ngx-store) - Complex library for managing `localStorage`, `sessionStorage` and cookies, allows to watch data changes, provides decorators and API based on builder pattern
+* [angular-esc](https://github.com/DanielKucal/angular-esc) - Adds `(esc)` output fired by the Escape key
+* [angular-clickable-click](https://github.com/DanielKucal/angular-clickable-click) - Sets pointer cursor on elements using  standard `(click)` output and allows to disable such events
 
 #### Site Templates
 

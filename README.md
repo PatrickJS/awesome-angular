@@ -871,6 +871,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
 * [Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions](http://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/)
 * [Making chained API Calls using @ngrx/Effects](https://gist.github.com/peterbsmith2/ce94c0a5ddceb99bab24a761731d1f07)
+* [Authentication in Angular with NGRX](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx)
 
 ---
 

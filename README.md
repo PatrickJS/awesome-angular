@@ -550,6 +550,8 @@ Http is available as an injectable class, with methods to perform http requests.
 * Dart
   * Stagehand
     * [google/stagehand](https://github.com/google/stagehand)
+* Scaffold
+  * [Angular Firebase](https://angular-firebase.com): Build a complete Angular Firebase web app in minutes
 
 #### Documentation tools
 

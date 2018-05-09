@@ -429,6 +429,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 * [Element Angular](https://github.com/eleme/element-angular) - Element Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
+* [angular-epic-spinners](https://github.com/hackafro/angular-epic-spinners) Reusable spinner components for angular
 * [ng2-bootstrap](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
 * [ng2-charts](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
 * [ng2-dragula](https://github.com/valor-software/ng2-dragula) Drag and Drop so simple it hurts!

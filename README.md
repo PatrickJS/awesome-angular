@@ -20,7 +20,7 @@ Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplate
 
 <p align="center">
   <a href="https://tipe.io/" target="_blank">
-    <img  alt="Tipe" src="https://user-images.githubusercontent.com/1016365/30999155-30430eb8-a488-11e7-850e-a7c38dad77c1.png" class="img-responsive">
+    <img  alt="Tipe" src="https://cdn.tipe.io/tipe/tipe-github.png?auto=compress%2Cformat&w=800&dpr=2" class="img-responsive">
   </a>
 </p>
 

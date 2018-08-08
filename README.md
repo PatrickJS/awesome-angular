@@ -526,6 +526,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-clickable-click](https://github.com/DanielKucal/angular-clickable-click) - Sets pointer cursor on elements using  standard `(click)` output and allows to disable such events
 * [ngx-credit-cards](https://www.npmjs.com/package/ngx-credit-cards) - A Credit Card Directives and Form Validators package for Angular X (4+).
 * [angular-calendar](https://mattlewis92.github.io/angular-calendar/#/kitchen-sink)
+* [ng-fveh](https://github.com/guilhermewaess/ng-fveh) - Form Validations Errors Helper - Some helpers to help you with form validation :)
 
 #### Site Templates
 

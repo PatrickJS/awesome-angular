@@ -528,6 +528,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-credit-cards](https://www.npmjs.com/package/ngx-credit-cards) - A Credit Card Directives and Form Validators package for Angular X (4+).
 * [angular-calendar](https://mattlewis92.github.io/angular-calendar/#/kitchen-sink)
 * [ng-fveh](https://github.com/guilhermewaess/ng-fveh) - Form Validations Errors Helper - Some helpers to help you with form validation :)
+* [ng-wormhole](https://github.com/topaxi/ng-wormhole) - Render components somewhere else in the DOM
 
 #### Site Templates
 

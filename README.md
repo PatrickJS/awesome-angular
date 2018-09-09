@@ -529,6 +529,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-calendar](https://mattlewis92.github.io/angular-calendar/#/kitchen-sink)
 * [ng-fveh](https://github.com/guilhermewaess/ng-fveh) - Form Validations Errors Helper - Some helpers to help you with form validation :)
 * [ng-wormhole](https://github.com/topaxi/ng-wormhole) - Render components somewhere else in the DOM
+* [dl-chart](https://github.com/Chtau/dlChart) - Simple and lightweight Chart library without extern Dependencies
 
 #### Site Templates
 

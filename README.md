@@ -169,6 +169,7 @@ Table of contents:
 * [Shai Reznik](https://twitter.com/shai_reznik)
 * [Manfred Steyer](https://twitter.com/manfredsteyer)
 * [Juri Strumpflohner](https://twitter.com/juristr)
+* [William Grasel](https://twitter.com/willgmbr)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

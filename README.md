@@ -640,6 +640,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Reboard](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
 * [Angular5 + Redux + Graphql + MySQL quickstart](https://github.com/rafaesc/fullstack-graphql-angular) - Simple Fullstack GraphQL Application with Angular CLI + Redux + Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL).
 * [Angular5 + Firebase + Structure](https://github.com/naologic/angular5-starter) - Angular 5 + Firebase + a very good router/module structure to make it your own so easy
+* [angular-app-example](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
 * [**{{** add_your_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 ---

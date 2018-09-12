@@ -170,6 +170,7 @@ Table of contents:
 * [Deborah Kurata](https://twitter.com/deborahkurata)
 * [Minko Gechev](https://twitter.com/mgechev)
 * [Shai Reznik](https://twitter.com/shai_reznik)
+* [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

@@ -534,6 +534,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng-wormhole](https://github.com/topaxi/ng-wormhole) - Render components somewhere else in the DOM
 * [dl-chart](https://github.com/Chtau/dlChart) - Simple and lightweight Chart library without extern Dependencies
 * [isLoading? service](https://gitlab.com/service-work/is-loading) - A simple and flexible loading indicator service for Angular apps.
+* [ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
 
 #### Site Templates
 

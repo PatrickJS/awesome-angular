@@ -535,6 +535,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [dl-chart](https://github.com/Chtau/dlChart) - Simple and lightweight Chart library without extern Dependencies
 * [isLoading? service](https://gitlab.com/service-work/is-loading) - A simple and flexible loading indicator service for Angular apps.
 * [ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
+* [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 
 #### Site Templates
 

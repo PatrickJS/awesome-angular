@@ -197,6 +197,7 @@ Table of contents:
 * [Angular Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 * [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
+* [Angular References](https://ngrefs.com)
 
 #### Features
 

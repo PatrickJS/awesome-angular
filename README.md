@@ -538,6 +538,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 * [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form at any level based on your json input. 
+* [@ngx-kit/sula](https://github.com/ngx-kit/sula) - Set of themed components for Angular.
 
 #### Site Templates
 

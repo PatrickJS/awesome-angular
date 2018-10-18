@@ -540,6 +540,15 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 * [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form at any level based on your json input. 
 * [@ngx-kit/sula](https://github.com/ngx-kit/sula) - Set of themed components for Angular.
+* [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`
+* [@firebaseui/ng-bootstrap](https://github.com/firebaseui/ng-bootstrap) - Angular Bootstrap UI library for `firebase` `authentication` powered by @ng-bootstrap
+* [ngx-linkifyjs](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
+* [@angular-material-extensions/password-strength](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
+* [@angular-material-extensions/google-maps-autocomplete](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design
+* [@angular-material-extensions/pages](https://github.com/angular-material-extensions/pages) - Open source library for angular apps to illustrate custom material pages content with steps (ideal for **tutorials** and **explanations** purposes)
+* [@angular-material-extensions/contacts](https://github.com/angular-material-extensions/contacts) - Angular Library to manage contacts and users with a material design
+* [@angular-material-extensions/faq](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
+* [@angular-material-extensions/links-preview](https://github.com/angular-material-extensions/links-preview) - Angular open source UI library to preview web links
 
 #### Site Templates
 

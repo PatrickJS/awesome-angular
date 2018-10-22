@@ -172,6 +172,7 @@ Table of contents:
 * [William Grasel](https://twitter.com/willgmbr)
 * [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
 * [Nir kaufman](https://twitter.com/nirkaufman)
+* [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

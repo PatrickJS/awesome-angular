@@ -366,6 +366,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Letsboot.com](https://www.letsboot.com/angular-2-in-house-training-support)
 * [Free on-site 2-days training delivered by SFEIR (in France)](https://school.sfeir.com/project/sa200/)
 * [Angular.Schule (in Germany)](https://angular.schule/)
+* [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 
 #### Approach and Explanation
 

@@ -553,6 +553,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [@angular-material-extensions/contacts](https://github.com/angular-material-extensions/contacts) - Angular Library to manage contacts and users with a material design
 * [@angular-material-extensions/faq](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
 * [@angular-material-extensions/links-preview](https://github.com/angular-material-extensions/links-preview) - Angular open source UI library to preview web links
+* [ngx-app-tour](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
 
 #### Site Templates
 

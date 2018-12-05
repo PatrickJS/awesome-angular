@@ -596,6 +596,10 @@ Http is available as an injectable class, with methods to perform http requests.
 
 * [NgModule-Viz](https://github.com/politie/ngmodule-viz) : Visualize the dependencies between the NgModules in your Angular 2+ application.
 
+#### Developer tools
+
+* [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications. 
+
 #### TodoMVC
 
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)

@@ -555,6 +555,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [@angular-material-extensions/links-preview](https://github.com/angular-material-extensions/links-preview) - Angular open source UI library to preview web links
 * [ngx-app-tour](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
 * [ngx-f2](https://github.com/hamdiwanis/ngx-f2) - Angular2+ wrapper for antv f2 mobile oriented charts
+* [ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) - Highly customizable component to handle file drops and selection.
 #### Site Templates
 
 * [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light?ref=awesome-angular). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)

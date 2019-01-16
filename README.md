@@ -560,6 +560,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng-sq-ui](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers! 
 [![contributions welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg?style=flat)](https://github.com/SQ-UI/ng-sq-ui/issues)
 [![Maintainability](https://api.codeclimate.com/v1/badges/d53c1670c301071be452/maintainability)](https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability)
+* [ngx-wheel](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
 
 #### Site Templates
 

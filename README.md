@@ -562,6 +562,7 @@ Http is available as an injectable class, with methods to perform http requests.
 [![Maintainability](https://api.codeclimate.com/v1/badges/d53c1670c301071be452/maintainability)](https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability)
 * [ngx-wheel](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
 * [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload
+* [ngx-status-bar](https://github.com/peterfreeman/ngx-status-bar) - Angular 7 bottom status bar with a message indicating default, warning, error or success
 
 #### Site Templates
 

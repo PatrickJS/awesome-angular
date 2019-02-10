@@ -126,6 +126,7 @@ Table of contents:
 * [@tbosch1009](https://twitter.com/tbosch1009)
 * [@karaforthewin](https://twitter.com/karaforthewin)
 * [@robwormald](https://twitter.com/robwormald)
+* [Minko Gechev](https://twitter.com/mgechev)
 
 #### Experts on Twitter
 
@@ -165,7 +166,6 @@ Table of contents:
 * [Ciro Nunes](https://twitter.com/cironunesdev/)
 * [Maxim Salnikov](https://twitter.com/webmaxru)
 * [Deborah Kurata](https://twitter.com/deborahkurata)
-* [Minko Gechev](https://twitter.com/mgechev)
 * [Shai Reznik](https://twitter.com/shai_reznik)
 * [Manfred Steyer](https://twitter.com/manfredsteyer)
 * [Juri Strumpflohner](https://twitter.com/juristr)

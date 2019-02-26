@@ -565,6 +565,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload
 * [ngx-status-bar](https://github.com/peterfreeman/ngx-status-bar) - Angular 7 bottom status bar with a message indicating default, warning, error or success
 * [angular-shepherd](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd](https://github.com/shipshapecode/shepherd)
+* [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) - Library for monitoring Angular change detection performance.
 
 #### Site Templates
 
@@ -609,7 +610,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Developer tools
 
-* [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications. 
+* [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications.
 
 #### TodoMVC
 

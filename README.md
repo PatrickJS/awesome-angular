@@ -566,6 +566,16 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-status-bar](https://github.com/peterfreeman/ngx-status-bar) - Angular 7 bottom status bar with a message indicating default, warning, error or success
 * [angular-shepherd](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd](https://github.com/shipshapecode/shepherd)
 * [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) - Library for monitoring Angular change detection performance.
+* [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr
+* [ngx-color](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
+* [ngx-trend](https://github.com/scttcper/ngx-trend) - 📈 Simple, elegant spark lines for Angular
+* [ng2-adsense](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications
+* [@ctrl/ngx-emoji-mart](https://github.com/TypeCtrl/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular
+* [@ctrl/ngx-codemirror](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular
+* [@ctrl/ngx-chartjs](https://github.com/TypeCtrl/ngx-chartjs) - Functional Chart.js wrapper for Angular
+* [@ctrl/ngx-rightclick](https://github.com/TypeCtrl/ngx-rightclick) - Context Menu Service for Angular
+* [@ctrl/ngx-droppable](https://github.com/typectrl/ngx-droppable) - Give file dropping ability to any element or component
+
 
 #### Site Templates
 

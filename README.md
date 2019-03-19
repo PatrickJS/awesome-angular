@@ -528,7 +528,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Nebular](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
 * [ng-select](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
 * [ng-katex](https://github.com/garciparedes/ng-katex) Angular module to write beautiful math expressions with TeX syntax boosted by KaTeX library
-* [ng-fullcalendar](https://github.com/Jamaks/ng-fullcalendar) Jquery fullcalendar module for Angular
+* [ng-fullcalendar](https://github.com/ng-fullcalendar/ng-fullcalendar) Fullcalendar module for Angular
 * [angular-bootstrap-md](https://mdbootstrap.com/angular/) Material Design for Bootstrap 4 (Angular)
 * [ngx-konami](https://github.com/lauthieb/ngx-konami) - Simple directive to add easter eggs in Angular 2+ applications
 * [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js

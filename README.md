@@ -607,6 +607,7 @@ Http is available as an injectable class, with methods to perform http requests.
     * [google/stagehand](https://github.com/google/stagehand)
 * Scaffold
   * [Angular Firebase](https://angular-firebase.com): Build a complete Angular Firebase web app in minutes
+  * [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
 
 #### Documentation tools
 

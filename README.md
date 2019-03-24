@@ -255,6 +255,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Testing UI Components with the TestComponentBuilder](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
   [**{{** help_out **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
   <br>[Read more »](features/Test.md)
+* [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
 
 ##### Ahead-of-Time Compilation
 

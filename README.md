@@ -576,7 +576,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [@ctrl/ngx-chartjs](https://github.com/TypeCtrl/ngx-chartjs) - Functional Chart.js wrapper for Angular
 * [@ctrl/ngx-rightclick](https://github.com/TypeCtrl/ngx-rightclick) - Context Menu Service for Angular
 * [@ctrl/ngx-droppable](https://github.com/typectrl/ngx-droppable) - Give file dropping ability to any element or component
-
+* [@ngx-context](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees..
 
 #### Site Templates
 

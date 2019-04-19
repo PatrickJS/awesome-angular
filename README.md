@@ -240,14 +240,13 @@ majority of the core angular framework in a WebWorker.
 
 ##### HTTP
 
-Http is available as an injectable class, with methods to perform http requests. Calling request returns an EventEmitter which will emit a single Response when a response is received.
+The HttpClient offers a simplified client HTTP API for Angular applications that rests on the XMLHttpRequest interface exposed by browsers. Additional benefits of HttpClient include testability features, typed request and response objects, request and response interception, Observable apis, and streamlined error handling.
 
-* [Introduction to HTTP in Angular 2](http://www.syntaxsuccess.com/viewarticle/angular-2.0-and-http)
+* [Official HttpClient](https://angular.io/guide/http)
 
 ##### Router
 
-* [Offical Router](https://angular.io/guide/router.html#sts=Router%20imports)
-* [ui-router](https://github.com/angular-ui/ui-router)
+* [Official Routing & Navigation](https://angular.io/guide/router)
 
 ##### Test
 
@@ -326,7 +325,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Style Guides
 
-* [Official Angular Style guide](https://angular.io/guide/styleguide)
+* [Official Angular style guide](https://angular.io/guide/styleguide)
 * [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/ng-seed/angular-tslint-rules)
 
 #### Angular Connect

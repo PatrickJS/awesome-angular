@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tipe.io" target="_blank">
+  <a href="https://patrickjs.com" target="_blank">
     <img src="/media/awesome-angular.png" alt="Awesome Angular" />
   </a>
 </p>
@@ -17,12 +17,6 @@ Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplate
 ##### Current Browser support for Angular:
 
 [![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
-
-<p align="center">
-  <a href="https://tipe.io/" target="_blank">
-    <img  alt="Tipe" src="https://cdn.tipe.io/tipe/tipe-github.png?w=800&dpr=2" class="img-responsive">
-  </a>
-</p>
 
 Table of contents:
 
@@ -940,7 +934,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ---
 
-enjoy — [**PatrickJS**](http://twitter.com/gdi2290?ref=awesome-angular)
+enjoy — [**PatrickJS**](http://patrickjs.com)
 
 ---
 

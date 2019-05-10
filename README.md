@@ -173,6 +173,7 @@ Table of contents:
 #### Server-Side Rendering
 
 * [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
+* [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
 
 #### Material Design
 

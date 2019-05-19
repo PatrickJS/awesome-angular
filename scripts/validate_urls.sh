@@ -24,5 +24,6 @@ softwarearchitekt.at,\
 https://plus.google.com/+AngularJS,\
 https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508,\
 https://www.bitsrc.io
+https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md,\
 
 awesome_bot README.md --white-list ${WHITELIST_URLS}

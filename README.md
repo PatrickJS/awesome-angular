@@ -126,7 +126,7 @@ Table of contents:
 
 > List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 
-* [@gdi2290](https://twitter.com/gdi2290)
+* [@PatrickJS__](https://twitter.com/PatrickJS__)
 * [@scotups](https://twitter.com/scotups)
 * [@pkozlowski_os](https://twitter.com/pkozlowski_os)
 * [@teropa](https://twitter.com/teropa)

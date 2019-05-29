@@ -522,6 +522,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
 * [Nebular](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
 * [ng-select](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
+* [ngx-flexible-select](https://github.com/andreysyagrovskiy/ngx-flexible-select) - The most flexible and customized select
 * [ng-katex](https://github.com/garciparedes/ng-katex) Angular module to write beautiful math expressions with TeX syntax boosted by KaTeX library
 * [ng-fullcalendar](https://github.com/ng-fullcalendar/ng-fullcalendar) Fullcalendar module for Angular
 * [angular-bootstrap-md](https://mdbootstrap.com/angular/) Material Design for Bootstrap 4 (Angular)

@@ -572,6 +572,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [@ctrl/ngx-rightclick](https://github.com/TypeCtrl/ngx-rightclick) - Context Menu Service for Angular
 * [@ctrl/ngx-droppable](https://github.com/typectrl/ngx-droppable) - Give file dropping ability to any element or component
 * [@ngx-context](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees..
+* [@instechnologies/ng-rooster](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor
 
 #### Site Templates
 

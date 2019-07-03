@@ -186,6 +186,8 @@ Table of contents:
 * [Material Light](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 * [Blox Material](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
 * [Material Web Components](https://trimox.github.io/angular-mdc-web) Material Web Components for Angular. A faithful and accurate representation of Material Design as envisioned on the web.
+* [MDBootstrap](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design) Built with Angular 7, Bootstrap 4 and TypeScript powerful UI KIT providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
+
 
 #### Cheatsheet
 

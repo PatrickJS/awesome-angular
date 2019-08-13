@@ -647,7 +647,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [universal-starter](https://github.com/angular/universal-starter) - Angular 2 Universal starter kit by @Angular-Class
 * [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
-* [angular-universal](https://github.com/enten/angular-universal) - Angular 8 Universal starter kit with Server-Side Rendering (SSR) and HMR on browser/server sides
+* [angular-universal](https://github.com/enten/angular-universal) - Fast, Unopinionated, Minimalist starter kit for Angular Universal 100% powered by Angular CLI
 * [angular-universal-heroku-starter](https://github.com/Alex61NN5/angular-universal-heroku-starter) - Angular 7 Universal Starter Kit with Server-Side Rendering (SSR) and easy deployment to Heroku
 ---
 

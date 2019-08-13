@@ -576,6 +576,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [@ctrl/ngx-droppable](https://github.com/typectrl/ngx-droppable) - Give file dropping ability to any element or component
 * [@ngx-context](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees..
 * [@instechnologies/ng-rooster](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor
+* [Angular SizeObserver](https://gitlab.com/service-work/size-observer) - style DOM elements based on their display size (rather than browser screen size).
   
 #### Decorators
 * [segal-decorators](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!

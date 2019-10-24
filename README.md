@@ -14,10 +14,6 @@ Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplate
 
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 
-##### Current Browser support for Angular:
-
-[![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
-
 Table of contents:
 
 * [Angular](#angular)

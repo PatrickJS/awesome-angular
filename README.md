@@ -609,6 +609,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * Scaffold
   * [Angular Firebase](https://angular-firebase.com): Build a complete Angular Firebase web app in minutes
   * [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
+  * [Nx](https://nx.dev/angular): Set of Extensible Dev Tools for Monorepos.
 
 #### Documentation tools
 

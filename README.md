@@ -37,6 +37,7 @@ Table of contents:
   * [Site Templates](#site-templates)
   * [Generators](#generators)
   * [Documentation tools](#documentation-tools)
+  * [Developer tools](#developer-tools)
   * [TodoMVC](#todomvc)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)

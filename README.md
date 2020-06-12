@@ -315,6 +315,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular advanced tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
 * [Angular Fullstack JavaScript Channel](https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw)
 * [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners)
+* [List of over 140 Angular Courses (free and paid) at Classpert](https://classpert.com/angularjs)
 
 #### Style Guides
 

@@ -465,6 +465,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng2-dropdown](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
 * [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
 * [ng2-progress-bar](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
+* [@kken94/ngx-progress](https://github.com/kKen94/ngx-progress)  The most powerful and customizable progress bar for Angular ✨
 * [ng2-tabs](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 * [ng2-modal](https://github.com/pleerock/ngx-modal) Modal window for angular2 and bootstrap 3
 * [ng2-sheet](https://github.com/lexikteam/ng2-sheet) Angular2 Components to add yours components inside a sheet window and repeatedly

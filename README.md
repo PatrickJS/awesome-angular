@@ -584,6 +584,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
 * [egjs-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+* [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
 
 #### Decorators
 * [segal-decorators](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!

@@ -524,6 +524,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng-data-picker](https://github.com/hiyali/ng-data-picker) - 🏄🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
 * [ngx-siema](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
+* [ng-metro4](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
 * [ng-snotify](https://github.com/artemsky/ng-snotify/) - Angular 4 Notification Center
 * [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
 * [Nebular](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications

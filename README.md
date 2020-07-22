@@ -434,7 +434,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 * [NG ZORRO MOBILE](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
-* [Element Angular](https://github.com/eleme/element-angular) - Element Design components built on top of Angular 2
+* [Element Angular](https://github.com/ElemeFE/element-angular) - Element Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [angular-epic-spinners](https://github.com/hackafro/angular-epic-spinners) Reusable spinner components for angular
 * [ng2-bootstrap](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components

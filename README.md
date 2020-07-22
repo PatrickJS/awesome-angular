@@ -164,6 +164,7 @@ Table of contents:
 * [Nir kaufman](https://twitter.com/nirkaufman)
 * [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
 * [Jeff Delaney](https://twitter.com/jeffdelaney23)
+* [Nishu Goel](https://twitter.com/DcoustaWilson)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

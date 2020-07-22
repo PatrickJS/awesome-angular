@@ -423,6 +423,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
+* [ng-sapphiredb](https://github.com/SapphireDb/ng-sapphiredb) - Client implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
 * [GraphQL + Angular](https://github.com/apollographql/apollo-angular)
 
 #### Third Party Components

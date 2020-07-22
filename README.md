@@ -457,6 +457,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
 * [angular-safeguard](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
 * [angular2-google-maps](https://github.com/SebastianM/angular-google-maps) Angular2 directives for Google Maps
+* [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) :rocket: Use Google Sheets as your (read-only) backend!
 * [angular-cesium](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
 * [ng2-radio-group](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 * [ng2-dropdown](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3

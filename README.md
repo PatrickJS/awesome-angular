@@ -4,9 +4,9 @@
   </a>
 </p>
 
-# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
+# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/PatrickJS/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/PatrickJS/awesome-angular)
 
-Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://angularclass.github.io/awesome-angular/)
+Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://PatrickJS.github.io/awesome-angular/)
 
 > If you're looking for AngularJS (version 1.x.x) please visit https://github.com/gianarb/awesome-angularjs
 
@@ -247,7 +247,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [Testing Http services in Angular 2 with Jasmine](http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
 * [Testing UI Components with the TestComponentBuilder](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
-  [**{{** help_out **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+  [**{{** help_out **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
   <br>[Read more »](features/Test.md)
 * [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
 
@@ -353,7 +353,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### On-Site Training
 
-* [AngularClass](https://angularclass.com)
 * [Angular Boot Camp](https://angularbootcamp.com)
 * [thoughtram](http://thoughtram.io/training.html)
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
@@ -379,12 +378,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
   * [Better Support For Functional Programming In](https://vsavkin.tumblr.com/post/108837493941/better-support-for-functional-programming-in)
   * [Angular 2 Bits Unified Dependency Injection](https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection)
   * [Angular 2 Router](https://vsavkin.com/angular-2-router-d9e30599f9ea)
-
-* AngularClass
-
-  * [Automated Angular 2 Conventions with Webpack](https://angularclass.com/blog/automated-angular-2-conventions-with-webpack/)
-  * [Angular 2 for AngularJS deverlopers](https://angularclass.com/blog/angular-2-for-angularjs-developers/)
-  * [Angular 2 for ReactJS deverlopers](https://angularclass.com/blog/angular-2-for-react-developers/)
 
 * thoughtram
 
@@ -762,7 +755,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 * [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
 
@@ -777,7 +770,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 #### Traceur Seed Projects
 
 * [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
 
@@ -801,13 +794,13 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [angular2-fullstack-starter](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
 * [angular2-es6-starter](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
 * [angular-babel-seed](https://github.com/rbnlffl/angular-babel-seed) The super simple Angular quickstarter with ES6
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 #### Babel Demo, Samples, and Examples
 
 * [angular2-es6-todomvc](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
 * [ng1-ng2-webpack-lazy-uirouter](https://github.com/swimlane/ng1-ng4-webpack-lazy-uirouter) Hybrid lazy-loading Angular1 + Angular2 using UI-Router, Webpack2 and Babel.
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 #### Babel Plugins
 
@@ -822,7 +815,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ##### ES5 General Resources
 
-* [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** help_add_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 #### ES5 Seed Projects
 
@@ -842,7 +835,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 #### Meteor Seed Projects
 
 * [Angular2 Meteor Seed](https://github.com/KyneSilverhide/angular2-meteor-seed)
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
 
@@ -859,7 +852,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 * [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
 * [angular2-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced)
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
 
@@ -877,7 +870,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### React Native Seed Projects
 
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
 
@@ -899,12 +892,12 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Learn haxe in Y minutes](https://learnxinyminutes.com/docs/haxe/)
 * [A success story for Haxe](http://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe) - about porting JavaScript to haxe targeting both JavaScript and C# "without interrupting the development of actual game by the rest of the team!", "AWESOME BONUS", "there are only benefits"
 * [News And Information For Haxe Developers](https://haxe.io/)
-* [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** help_add_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 #### Haxe Seed Projects
 
 * [angular2haxe](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
 
@@ -914,12 +907,12 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ##### Scala General Resources
 
-* [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** help_add_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 #### Scala Seed Projects
 
 * [play-angular2](https://github.com/gdi2290/play-angular2)
-* [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
+* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
 

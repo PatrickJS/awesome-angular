@@ -581,6 +581,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [egjs-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
+* [ngx-interactive-paycard](https://github.com/milantenk/ngx-interactive-paycard) - Interactive payment card library with smooth animations
 
 #### Decorators
 * [segal-decorators](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!

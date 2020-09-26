@@ -39,6 +39,7 @@ Table of contents:
   * [Documentation tools](#documentation-tools)
   * [Developer tools](#developer-tools)
   * [TodoMVC](#todomvc)
+  * [Schematics](#schematics)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
@@ -638,6 +639,13 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### TodoMVC
 
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
+
+#### Schematics
+
+* [Cypress](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
+* [Jest](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
+* [Prettier](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
+* [Tailwind CSS](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
 
 ---
 

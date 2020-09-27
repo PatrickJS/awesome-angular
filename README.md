@@ -277,7 +277,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
 * [Angular Webpack Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 * [Angular Webpack + rxjs + modules](https://github.com/jorgeas80/angular2-webpack-toh)
-* [Shared Webpack config for Angular development by fulls1z3](https://github.com/ng-seed/angular-webpack-config)
 
 #### Series
 
@@ -302,7 +301,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Video Tutorials
 
-* [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
+* [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
 * [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
 * [HiRez.io - Angular Basics](https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview)
 * [HiRez.io - Angular In Depth - Components](https://www.hirez.io/c/components-1/e/episode-1-course-overview)
@@ -348,7 +347,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
 * [揭秘 Angular 2](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01NBOQCJW) `GF Securities`
-* [Learn Angular 2](http://learnangular2.com/) `Ionic Team`
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 
@@ -356,7 +354,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [Angular Boot Camp](https://angularbootcamp.com)
 * [thoughtram](http://thoughtram.io/training.html)
-* [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
 * [Angular 2 Workshop](http://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/)
 * [Web Age Solutions](http://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
@@ -399,7 +396,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * Hristo Georgiev
 
-  * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/front-end-javascript/debugging-angular-2-applications)
+  * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
 
 * Helgevold Consulting
 
@@ -474,10 +471,10 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
 * [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
 * [angular2-text-mask](https://github.com/text-mask/text-mask) Angular 2 input mask directive
-* [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/gh-pages/plugins/angular) Angular 4+ input mask
+* [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) Angular 4+ input mask
 * [angular-fullpage](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
 * [ng2-fullpage](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
-* [file-droppa](https://github.com/ptkach/fileDroppa) Simple files drop and upload component with files list
+* [file-droppa](https://github.com/chenyukunJoshHub/fileDroppa) Simple files drop and upload component with files list
 * [ngx-img-fallback](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
 * [angular2-busy](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
 * [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
@@ -553,7 +550,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [@angular-material-extensions/pages](https://github.com/angular-material-extensions/pages) - Open source library for angular apps to illustrate custom material pages content with steps (ideal for **tutorials** and **explanations** purposes)
 * [@angular-material-extensions/contacts](https://github.com/angular-material-extensions/contacts) - Angular Library to manage contacts and users with a material design
 * [@angular-material-extensions/faq](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
-* [@angular-material-extensions/links-preview](https://github.com/angular-material-extensions/links-preview) - Angular open source UI library to preview web links
+* [@angular-material-extensions/link-preview](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
 * [ngx-app-tour](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
 * [ngx-f2](https://github.com/hamdiwanis/ngx-f2) - Angular2+ wrapper for antv f2 mobile oriented charts
 * [ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) - Highly customizable component to handle file drops and selection.
@@ -608,15 +605,13 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
     * [TheVelourFog/slush-angular2](https://github.com/RyanMetin/slush-angular2)
   * Yeoman
     * [swirlycheetah/generator-angular2](https://github.com/chrisdwheatley/generator-angular2)
-  * Faristo
-    * [majodi/generator-angular2](https://github.com/majodi/Faristo)
   * ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
     * [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket)
     * [ngx-rocket/cli](https://github.com/ngx-rocket/cli)
     * [ngx-rocket/core](https://github.com/ngx-rocket/core)
 * Dart
   * Stagehand
-    * [google/stagehand](https://github.com/google/stagehand)
+    * [dart-lang/stagehand](https://github.com/dart-lang/stagehand)
 * Scaffold
   * [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
 

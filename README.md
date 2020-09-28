@@ -956,7 +956,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ---
 
-enjoy — [**PatrickJS**](http://patrickjs.com)
+enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__)
 
 ---
 

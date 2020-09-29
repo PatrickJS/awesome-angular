@@ -347,7 +347,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
-* [揭秘 Angular 2](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01NBOQCJW) `GF Securities`
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 
@@ -359,7 +358,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular 2 Workshop](http://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/)
 * [Web Age Solutions](http://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
 * [Letsboot.com](https://www.letsboot.com/angular-2-in-house-training-support)
-* [Free on-site 2-days training delivered by SFEIR (in France)](https://school.sfeir.com/project/sa200/)
 * [Angular.Schule (in Germany)](https://angular.schule/)
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
@@ -621,8 +619,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Storybook](https://github.com/storybooks/storybook) : "The UI development environment you'll love to use"
 
 * [Compodoc](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
-
-* [AngularDoc](http://angulardoc.io/) : Website that display "Architectural analysis and visualization for Angular 2 projects", integrate only with a github repository
 
 * [NgModule-Viz](https://github.com/politie/ngmodule-viz) : Visualize the dependencies between the NgModules in your Angular 2+ application.
 

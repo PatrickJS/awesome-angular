@@ -2,6 +2,7 @@
 
 WHITELIST_URLS=angularclass.com,\
 angular.io,\
+patrickjs.com,\
 https://dartlang-slack.herokuapp.com/,\
 github.com/angularclass/awesome-angular,\
 github.com/angular/universal,\
@@ -25,4 +26,4 @@ https://plus.google.com/+AngularJS,\
 https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508,\
 https://www.bitsrc.io
 
-awesome_bot README.md --white-list ${WHITELIST_URLS}
+awesome_bot README.md --white-list ${WHITELIST_URLS} --allow-redirect --allow-dupe

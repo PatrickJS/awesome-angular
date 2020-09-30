@@ -343,7 +343,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
 * [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
-* [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
+* [Switching to Angular 2](https://www.packtpub.com/product/switching-to-angular-2/9781785886201) `Packt Publishing`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`

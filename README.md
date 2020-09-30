@@ -100,13 +100,13 @@ Table of contents:
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [AngularJS on Google+](https://plus.google.com/+AngularJS)
-* [AngularAir](http://angularair.com/) podcast and live broadcast
+* [AngularAir](https://angularair.com/) podcast and live broadcast
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
-* [ng-newsletter](http://www.ng-newsletter.com) email newsletter
-* [Angular Expo](http://angularexpo.com/) showcase
+* [ng-newsletter](https://www.ng-newsletter.com) email newsletter
+* [Angular Expo](https://angularexpo.com/) showcase
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
-* [Twitter's Most Shared `#angular2` Content in a Simple Weekly Digest](http://theherdlocker.com/tweet/popularity/angular2) via The Herd Locker
+* [Twitter's Most Shared `#angular2` Content in a Simple Weekly Digest](https://theherdlocker.com/tweet/popularity/angular2) via The Herd Locker
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 
 #### Angular Team on twitter
@@ -246,8 +246,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 ##### Test
 
-* [Testing Http services in Angular 2 with Jasmine](http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
-* [Testing UI Components with the TestComponentBuilder](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
+* [Testing Http services in Angular 2 with Jasmine](https://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
+* [Testing UI Components with the TestComponentBuilder](https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
   [**{{** help_out **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
   <br>[Read more »](features/Test.md)
 * [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
@@ -255,9 +255,9 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 ##### Ahead-of-Time Compilation
 
 * [Official Documentation](https://angular.io/guide/aot-compiler)
-* [Ahead-of-Time Compilation in Angular](http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
-* [Building an Angular Application for Production](http://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
-* [Demystifying Ahead-Of-Time Compilation In Angular 2](http://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit)
+* [Ahead-of-Time Compilation in Angular](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
+* [Building an Angular Application for Production](https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
+* [Demystifying Ahead-Of-Time Compilation In Angular 2](https://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit)
 * [Multiple solutions for Angular Ahead of Time (AOT) Compilation](https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508)
 * [Code Example with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
 * [Code Example with Rollup](https://github.com/mgechev/angular2-ngc-rollup-build)
@@ -282,8 +282,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * Ionic
   * Angular
-    * [Introduction](http://blog.ionic.io/angular-2-series-introduction/)
-    * [Components](http://blog.ionic.io/angular-2-series-components/)
+    * [Introduction](https://blog.ionic.io/angular-2-series-introduction/)
+    * [Components](https://blog.ionic.io/angular-2-series-components/)
 * Auth0
   * Angular
     * [Working with Pipes](https://auth0.com/blog/angular2-series-working-with-pipes/)
@@ -353,10 +353,10 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### On-Site Training
 
 * [Angular Boot Camp](https://angularbootcamp.com)
-* [thoughtram](http://thoughtram.io/training.html)
+* [thoughtram](https://thoughtram.io/training.html)
 * [ng-book](https://www.ng-book.com/2/)
-* [Angular 2 Workshop](http://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/)
-* [Web Age Solutions](http://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
+* [Angular 2 Workshop](https://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/)
+* [Web Age Solutions](https://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
 * [Letsboot.com](https://www.letsboot.com/angular-2-in-house-training-support)
 * [Angular.Schule (in Germany)](https://angular.schule/)
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
@@ -386,7 +386,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
   * [Dependency Injection in Angular 2](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
   * [Routing in Angular 2 **Deprecated**](https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
   * [Routing in Angular 2 Revisited](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
-  * [Angular 2 Template Syntax Demystified - Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+  * [Angular 2 Template Syntax Demystified - Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
   * [View Encapsulation in Angular 2](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
   * [Styling Angular 2 components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
   * [Even better ES5 code for Angular 2](https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
@@ -399,10 +399,10 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * Helgevold Consulting
 
-  * [Web Workers in Angular 2.0](http://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0)
-  * [Creating a Virtualized Grid](http://www.syntaxsuccess.com/viewarticle/virtualized-spreadsheet-component-in-angular-2.0)
-  * [Socket.io with Observables](http://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0)
-  * [Change Detection](http://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0)
+  * [Web Workers in Angular 2.0](https://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0)
+  * [Creating a Virtualized Grid](https://www.syntaxsuccess.com/viewarticle/virtualized-spreadsheet-component-in-angular-2.0)
+  * [Socket.io with Observables](https://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0)
+  * [Change Detection](https://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0)
 
 * Burak Tasci (fulls1z3)
   * [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
@@ -410,7 +410,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Integrations
 
 * [FalcorJS + Angular2 (Video)](https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be)
-* [Angular2-Meteor](http://angular-meteor.com/angular2)
+* [Angular2-Meteor](https://angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 * [ng-sapphiredb](https://github.com/SapphireDb/ng-sapphiredb) - Client implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
@@ -480,7 +480,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
 * [ng2-card](https://github.com/c-bata/ng2-card) - Card view component for Angular2
-* [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
+* [Wijmo 5](https://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2
 * [ngSemantic](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
 * [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
@@ -586,7 +586,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Site Templates
 
-* [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light?ref=awesome-angular). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)
+* [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light?ref=awesome-angular). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](https://leafletjs.com). [DEMO ONLINE](https://yagolopez.js.org/ng-dashboard/dist/)
 * [HowToKeepAngularDeploymentSizeSmall](https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall) - A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small
 
 #### Pipes
@@ -632,7 +632,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### TodoMVC
 
-* [Official Angular 2.0](http://todomvc.com/examples/angular2/)
+* [Official Angular 2.0](https://todomvc.com/examples/angular2/)
 
 #### Schematics
 
@@ -666,8 +666,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### TypeScript General Resources
 
-* [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
-* [REPL](http://www.typescriptlang.org/play/) Official TypeScript REPL that runs entirely in your browser
+* [TypeScript](https://www.typescriptlang.org/) Official Website for TypeScript
+* [REPL](https://www.typescriptlang.org/play/) Official TypeScript REPL that runs entirely in your browser
 * [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
 * [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
@@ -675,7 +675,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [Angular Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular apps
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
-* [Angular Lab](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](http://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
+* [Angular Lab](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular-firebase)
 * [Spring Boot and Angular2 tutorial](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
@@ -714,8 +714,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 > Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
 
-* [Ionic Framework](http://ionicframework.com) Official Website for Ionic Framework
-* [Ionic Documentation](http://ionicframework.com/docs/) Official for Ionic Framework
+* [Ionic Framework](https://ionicframework.com) Official Website for Ionic Framework
+* [Ionic Documentation](https://ionicframework.com/docs/) Official for Ionic Framework
 
 ##### Ionic 2 General Resources
 
@@ -789,11 +789,11 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Babel Angular 2 Online Playground
 
-* [Plunker: Angular 2 + Babel](http://plnkr.co/edit/PxCzCu?p=preview)
+* [Plunker: Angular 2 + Babel](https://plnkr.co/edit/PxCzCu?p=preview)
 
 #### Babel Seed Projects
 
-* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
+* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](https://browserify.org/).
 * [angular2-fullstack-starter](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
 * [angular2-es6-starter](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
 * [angular-babel-seed](https://github.com/rbnlffl/angular-babel-seed) The super simple Angular quickstarter with ES6
@@ -832,7 +832,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ##### Meteor General Resources
 
-* [Angular Meteor](http://angular-meteor.com/) Official Website for Angular Meteor
+* [Angular Meteor](https://angular-meteor.com/) Official Website for Angular Meteor
 * [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
 
 #### Meteor Seed Projects
@@ -849,7 +849,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 ##### NativeScript General Resources
 
 * [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
-* [Using NativeScript](http://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0)
+* [Using NativeScript](https://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0)
 
 #### NativeScript Seed Projects
 
@@ -884,16 +884,16 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ##### Haxe General Resources
 
-* [Haxe.org](http://haxe.org)
+* [Haxe.org](https://haxe.org)
 * [Haxe on Wikipedia](https://en.wikipedia.org/wiki/Haxe)
 * [Haxe Playground ](https://try.haxe.org/)
-* [Haxe compiler targets](http://haxe.org/documentation/introduction/compiler-targets.html) compiler targets: C++, C#, Java, Python, PHP, ActionScript 3, and Flash or Neko bytecode
+* [Haxe compiler targets](https://haxe.org/documentation/introduction/compiler-targets.html) compiler targets: C++, C#, Java, Python, PHP, ActionScript 3, and Flash or Neko bytecode
 * [Haxe Usage Survey results](blog.onthewings.net/2015/11/14/haxe_usage_survey/)
 * [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) - community
 * [Haxe and Node.js](matthijskamstra.github.io/haxenode/)
-* [Haxe: working with JavaScript libraries](http://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/)
+* [Haxe: working with JavaScript libraries](https://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/)
 * [Learn haxe in Y minutes](https://learnxinyminutes.com/docs/haxe/)
-* [A success story for Haxe](http://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe) - about porting JavaScript to haxe targeting both JavaScript and C# "without interrupting the development of actual game by the rest of the team!", "AWESOME BONUS", "there are only benefits"
+* [A success story for Haxe](https://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe) - about porting JavaScript to haxe targeting both JavaScript and C# "without interrupting the development of actual game by the rest of the team!", "AWESOME BONUS", "there are only benefits"
 * [News And Information For Haxe Developers](https://haxe.io/)
 * [**{{** help_add_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
@@ -947,10 +947,10 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Adding Redux With NgRx/store and Angular2 - Part 1](https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular-2-part-1/)
 * [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing
   Reducers)](https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
-* [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](http://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
-* [Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions](http://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/)
+* [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](https://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
+* [Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions](https://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/)
 * [Making chained API Calls using @ngrx/Effects](https://gist.github.com/peterbsmith2/ce94c0a5ddceb99bab24a761731d1f07)
-* [Authentication in Angular with NGRX](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx)
+* [Authentication in Angular with NGRX](https://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx)
 
 ---
 

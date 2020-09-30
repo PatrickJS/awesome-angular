@@ -528,7 +528,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Calendars
 
-* [angular-calendar](https://mattlewis92.github.io/angular-calendar/#/kitchen-sink)
+* [angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
 * [ng-data-picker](https://github.com/hiyali/ng-data-picker) - 🏄🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
 * [ng-fullcalendar](https://github.com/ng-fullcalendar/ng-fullcalendar) Fullcalendar module for Angular
 

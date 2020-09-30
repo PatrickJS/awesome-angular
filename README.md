@@ -102,11 +102,9 @@ Table of contents:
 * [AngularJS on Google+](https://plus.google.com/+AngularJS)
 * [AngularAir](https://angularair.com/) podcast and live broadcast
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
-* [ng-newsletter](https://www.ng-newsletter.com) email newsletter
 * [Angular Expo](https://angularexpo.com/) showcase
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
-* [Twitter's Most Shared `#angular2` Content in a Simple Weekly Digest](https://theherdlocker.com/tweet/popularity/angular2) via The Herd Locker
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 
 #### Angular Team on twitter
@@ -480,7 +478,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
 * [ng2-card](https://github.com/c-bata/ng2-card) - Card view component for Angular2
-* [Wijmo 5](https://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2
 * [ngSemantic](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
 * [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
@@ -632,7 +629,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### TodoMVC
 
-* [Official Angular 2.0](https://todomvc.com/examples/angular2/)
+* [Official Angular 2.0](http://todomvc.com/examples/angular2/)
 
 #### Schematics
 
@@ -793,7 +790,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Babel Seed Projects
 
-* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](https://browserify.org/).
+* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
 * [angular2-fullstack-starter](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
 * [angular2-es6-starter](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
 * [angular-babel-seed](https://github.com/rbnlffl/angular-babel-seed) The super simple Angular quickstarter with ES6
@@ -947,8 +944,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Adding Redux With NgRx/store and Angular2 - Part 1](https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular-2-part-1/)
 * [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing
   Reducers)](https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
-* [Angular 2 & NgRx/store: The NgModel In Between Use Case (from Angular 1)](https://orizens.com/wp/topics/angular-2-ngrxstore-the-ngmodel-in-between-use-case-from-angular-1/)
-* [Angular 2, Ngrx/Store & Ngrx/Effects – Intro To Functional Approach For A Chain Of Actions](https://orizens.com/wp/topics/angular-2-ngrxstore-ngrxeffects-intro-to-functional-approach-for-a-chain-of-actions/)
 * [Making chained API Calls using @ngrx/Effects](https://gist.github.com/peterbsmith2/ce94c0a5ddceb99bab24a761731d1f07)
 * [Authentication in Angular with NGRX](https://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx)
 

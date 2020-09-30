@@ -697,7 +697,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 ##### Bootstrap Based
 
 * [@firebaseui/ng-bootstrap](https://github.com/firebaseui/ng-bootstrap) - Angular Bootstrap UI library for `firebase` `authentication` powered by @ng-bootstrap
-* [angular-bootstrap-md](https://mdbootstrap.com/angular/) Material Design for Bootstrap 4 (Angular)
+* [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) Material Design for Bootstrap 4 (Angular)
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
 * [ng2-bootstrap](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components

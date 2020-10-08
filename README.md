@@ -132,12 +132,11 @@ Table of contents:
 
 * [@mhevery](https://twitter.com/mhevery)
 * [@IgorMinar](https://twitter.com/IgorMinar)
-* [@bradlygreen](https://twitter.com/bradlygreen)
 * [@naomitraveller](https://twitter.com/naomitraveller)
-* [@tbosch1009](https://twitter.com/tbosch1009)
-* [@karaforthewin](https://twitter.com/karaforthewin)
-* [@robwormald](https://twitter.com/robwormald)
 * [Minko Gechev](https://twitter.com/mgechev)
+* [Alan Agius](https://twitter.com/AlanAgius4)
+* [George Kalpakas](https://twitter.com/gkalpakas)
+* [Stephen Fluin](https://twitter.com/stephenfluin)
 
 #### Experts on Twitter
 
@@ -189,6 +188,7 @@ Table of contents:
 * [Jeff Delaney](https://twitter.com/jeffdelaney23)
 * [Nishu Goel](https://twitter.com/DcoustaWilson)
 * [Alex Inkin](https://twitter.com/waterplea)
+* [Santosh Yadav](https://twitter.com/SantoshYadavDev)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

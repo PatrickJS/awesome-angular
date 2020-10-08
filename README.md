@@ -152,6 +152,8 @@ Table of contents:
 * [@amcdnl](https://twitter.com/amcdnl)
 * [@victorsavkin](https://twitter.com/victorsavkin)
 * [@jeffbcross](https://twitter.com/jeffbcross)
+* [@waterplea](https://twitter.com/waterplea)
+* [@marsibarsi](https://twitter.com/marsibarsi)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -185,6 +187,7 @@ Table of contents:
 * [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
 * [Jeff Delaney](https://twitter.com/jeffdelaney23)
 * [Nishu Goel](https://twitter.com/DcoustaWilson)
+* [Alex Inkin](https://twitter.com/waterplea)
 * [Santosh Yadav](https://twitter.com/SantoshYadavDev)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
@@ -192,6 +195,7 @@ Table of contents:
 
 * [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
 * [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
+* [ng-web-apis/universal — an opensource set of native API fallbacks and stubs](https://github.com/ng-web-apis/universal)
 
 #### Material Design
 
@@ -368,6 +372,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
+* [Angular Institute](https://angular.institute/) `angular.institute`
 
 #### On-Site Training
 
@@ -803,6 +808,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular5 + Firebase + Structure](https://github.com/naologic/angular5-starter) - Angular 5 + Firebase + a very good router/module structure to make it your own so easy
 * [angular-app-example](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
 * [NG-MATERO](https://github.com/ng-matero/ng-matero) - This Ng-Matero is an Angular admin templete made with Material componnets.
+* [TinkoffCreditSystems/angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
 * [**{{** add_your_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 ---

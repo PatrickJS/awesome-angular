@@ -493,6 +493,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular State Inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem) - Helps you debug Angular component state. Supports Angular 1/2+/Ivy.
 * [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications.
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
+* [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 
 #### TodoMVC
 

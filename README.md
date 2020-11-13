@@ -62,6 +62,7 @@ Table of contents:
   * [Viewers](#viewers)
   * [Misc Components](#misc-components)
 * [Universal](#universal-angular-2)
+  * [Courses & Tutorials](#universal-courses-and-tutorials)
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
 * [TypeScript](#angular-2-in-typescript)
@@ -197,6 +198,7 @@ Table of contents:
 * [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
 * [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
 * [ng-web-apis/universal — an opensource set of native API fallbacks and stubs](https://github.com/ng-web-apis/universal)
+* [Guide to Angular Universal - a comprehensive guide how to sharpen your Universal Skills](https://www.newline.co/courses/newline-guide-to-angular-universal)
 
 #### Material Design
 
@@ -751,6 +753,10 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 ### Universal Angular 2
 
 > Universal (isomorphic) javascript support for Angular 2
+
+#### Universal Courses And Tutorials
+
+* [Guide to Angular Universal - a comprehensive guide how to sharpen your Universal Skills](https://www.newline.co/courses/newline-guide-to-angular-universal)
 
 #### Universal General Resources
 

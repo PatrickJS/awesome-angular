@@ -155,6 +155,7 @@ Table of contents:
 * [@jeffbcross](https://twitter.com/jeffbcross)
 * [@waterplea](https://twitter.com/waterplea)
 * [@marsibarsi](https://twitter.com/marsibarsi)
+* [@maciejtreder](https://twitter.com/maciejtreder)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -191,7 +192,6 @@ Table of contents:
 * [Alex Inkin](https://twitter.com/waterplea)
 * [Santosh Yadav](https://twitter.com/SantoshYadavDev)
 * [Ankit](https://twitter.com/ankitsharma_007)
-* [Maciej Treder](https://twitter.com/maciejtreder)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

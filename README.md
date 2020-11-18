@@ -508,6 +508,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Jest](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
 * [Prettier](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
 * [Tailwind CSS](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
+* [Threejs](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
 
 ---
 

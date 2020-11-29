@@ -61,6 +61,7 @@ Table of contents:
   * [UX Components](#ux-components)
   * [Viewers](#viewers)
   * [Misc Components](#misc-components)
+* [JAM Stack](#jam-stack)
 * [Universal](#universal-angular-2)
   * [Courses & Tutorials](#universal-courses-and-tutorials)
   * [Universal General Resources](#universal-general-resources)
@@ -751,6 +752,10 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-meta](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 * [ngx-wheel](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+  
+### JAM Stack
+
+* [scully](https://github.com/scullyio/scully) - Scully is a static site generator for Angular projects looking to embrace the Jamstack.
 
 ### Universal Angular 2
 

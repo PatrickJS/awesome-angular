@@ -521,6 +521,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [lottie-angular2](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
 * [ng-animate](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
 * [ngx-interactive-paycard](https://github.com/milantenk/ngx-interactive-paycard) - Interactive payment card library with smooth animations
+* [ng-particles](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
 
 #### Auth Components
 

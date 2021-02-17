@@ -294,6 +294,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [Official web page](https://cli.angular.io/)
 * [Official repository](https://github.com/angular/angular-cli)
+* [ng-cli-hooks](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build
 
 #### Webpack
 

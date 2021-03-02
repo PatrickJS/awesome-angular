@@ -661,6 +661,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular-safeguard](https://github.com/MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
 * [ng2-storage](https://github.com/seiyria/ng2-storage) A localStorage and sessionStorage wrapper written using ES6 Proxies for Angular 2
 * [ngx-store](https://github.com/zoomsphere/ngx-store) - Complex library for managing `localStorage`, `sessionStorage` and cookies, allows to watch data changes, provides decorators and API based on builder pattern
+* [ngx-liquid-cache](https://github.com/luckyseven/ngx-liquid-cache) - A powerful, automatic and optimized Angular 2 cache system that fits everywhere!
 * [ng-http-cache](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
 * [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular

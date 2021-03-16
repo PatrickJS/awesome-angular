@@ -276,9 +276,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [Testing Http services in Angular 2 with Jasmine](https://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
 * [Testing UI Components with the TestComponentBuilder](https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
-  [**{{** help_out **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-  <br>[Read more »](features/Test.md)
 * [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
+* [Testing Angular – A Guide to Robust Angular Applications](https://molily.de/testing-angular/)
 
 ##### Ahead-of-Time Compilation
 
@@ -755,7 +754,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-meta](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 * [ngx-wheel](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
-  
+
 ### JAM Stack
 
 * [scully](https://github.com/scullyio/scully) - Scully is a static site generator for Angular projects looking to embrace the Jamstack.

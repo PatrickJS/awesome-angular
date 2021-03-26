@@ -451,6 +451,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Decorators
 
 * [segal-decorators](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!
+* [ng-portal](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
 
 #### Site Templates
 

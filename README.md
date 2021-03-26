@@ -464,6 +464,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular and beyond!
 * [ngx-order-pipe](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
 * [angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
+* [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
 
 #### Generators
 

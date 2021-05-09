@@ -331,8 +331,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
 * [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
-* [HiRez.io - Angular Basics](https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview)
-* [HiRez.io - Angular In Depth - Components](https://www.hirez.io/c/components-1/e/episode-1-course-overview)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 * [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)

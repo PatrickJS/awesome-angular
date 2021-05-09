@@ -602,6 +602,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
 * [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
+* [ngx-icon-blur](https://github.com/wadie/ngx-icon-blur) An Angular component that can be used to create frosted glass effect of icons.
 
 
 #### Keyboard Mouse

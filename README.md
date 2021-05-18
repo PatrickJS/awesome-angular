@@ -277,7 +277,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Testing Http services in Angular 2 with Jasmine](https://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
 * [Testing UI Components with the TestComponentBuilder](https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 * [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
-* [Testing Angular – A Guide to Robust Angular Applications](https://molily.de/testing-angular/)
+* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
 
 ##### Ahead-of-Time Compilation
 

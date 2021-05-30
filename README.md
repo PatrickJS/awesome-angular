@@ -129,6 +129,7 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
+* [Top rated Angular stackoverflow questions Dashboard] (https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 
 #### Angular Team on twitter
 

@@ -758,6 +758,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-meta](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 * [ngx-wheel](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+* [bmb-ripple](https://github.com/bmarvinb/bmb-ripple) - Angular directive to add ripple effect to any dom element with flexible configuration.
 
 ### JAM Stack
 

@@ -596,6 +596,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
 * [ngx-flexible-select](https://github.com/andreysyagrovskiy/ngx-flexible-select) - The most flexible and customized select
 * [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form at any level based on your json input.
+* [ngx-translation-validation](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language
 
 #### Icons
 
@@ -668,6 +669,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
 * [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+* [akita](https://github.com/datorama/akita/) - A Reactive State Management Tailored-Made for JS Applications
 
 #### Tables
 

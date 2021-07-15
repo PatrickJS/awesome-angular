@@ -613,6 +613,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Layout Components
 
+* [@robingenz/ngx-infinite-scroll](https://github.com/robingenz/ngx-infinite-scroll) Simple Angular directive for infinite scrolling.
 * [angular-fullpage](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
 * [angular-split](https://github.com/bertrandg/angular-split) Angular split component
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)

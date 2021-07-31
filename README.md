@@ -685,8 +685,10 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [@ngx-kit/sula](https://github.com/ngx-kit/sula) - Set of themed components for Angular.
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
+* [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite 
 * [Element Angular](https://github.com/ElemeFE/element-angular) - Element Design components built on top of Angular 2
 * [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
+* [ExtAngular](https://www.sencha.com/products/extangular/) - Sencha ExtAngular Pre-built UI Components
 * [Nebular](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
 * [NG ZORRO MOBILE](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.

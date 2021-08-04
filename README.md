@@ -819,7 +819,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
 * [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
-* [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
 * [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit
   and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack

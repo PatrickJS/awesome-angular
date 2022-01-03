@@ -500,6 +500,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications.
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
+* [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
 
 #### TodoMVC
 

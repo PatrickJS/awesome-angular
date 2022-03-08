@@ -668,7 +668,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
 * [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
-* [ng-http-caching](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
+* [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 
 #### Tables
 

@@ -190,7 +190,7 @@ Table of contents:
 * [Nir kaufman](https://twitter.com/nirkaufman)
 * [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
 * [Jeff Delaney](https://twitter.com/jeffdelaney23)
-* [Nishu Goel](https://twitter.com/DcoustaWilson)
+* [Nishu Goel](https://twitter.com/TheNishuGoel)
 * [Alex Inkin](https://twitter.com/waterplea)
 * [Santosh Yadav](https://twitter.com/SantoshYadavDev)
 * [Ankit](https://twitter.com/ankitsharma_007)

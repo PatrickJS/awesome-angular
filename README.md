@@ -702,6 +702,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [prime-ng](https://www.primefaces.org/primeng/) Collection of rich UI components for Angular 2
 * [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
+* [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular [![contributions welcome](https://img.shields.io/badge/issues-welcome-sucess.svg?style=flat)](https://github.com/Tinkoff/taiga-ui/issues)
 
 ##### Material Based
 

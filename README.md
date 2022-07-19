@@ -8,7 +8,7 @@
 
 Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://PatrickJS.github.io/awesome-angular/)
 
-> If you're looking for AngularJS (version 1.x.x) please visit https://github.com/gianarb/awesome-angularjs
+> If you're looking for AngularJS (version 1.x.x) please visit https://github.com/nerd00f/angularjs-learning
 
 ##### Current Angular version:
 

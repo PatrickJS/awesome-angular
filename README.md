@@ -121,8 +121,6 @@ Table of contents:
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-* [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
-* [AngularJS on Google+](https://plus.google.com/+AngularJS)
 * [AngularAir](https://angularair.com/) podcast and live broadcast
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
 * [Angular Expo](https://angularexpo.com/) showcase
@@ -883,7 +881,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
 * [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
 * [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
-* [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
 * [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
 
 #### Dart Seed Projects

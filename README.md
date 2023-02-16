@@ -228,6 +228,7 @@ Table of contents:
 * [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular References](https://ngrefs.com)
+* [Angular Developer Roadmap](https://roadmap.sh/angular)
 
 #### Features
 

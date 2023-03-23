@@ -197,6 +197,7 @@ Table of contents:
 * [Ankit](https://twitter.com/ankitsharma_007)
 * [Siddharth Ajmera](https://twitter.com/SiddAjmera)
 * [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan) 
+* [Michael Hladky](https://twitter.com/Michael_Hladky) 
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

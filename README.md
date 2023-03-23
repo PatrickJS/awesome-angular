@@ -198,6 +198,7 @@ Table of contents:
 * [Siddharth Ajmera](https://twitter.com/SiddAjmera)
 * [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan) 
 * [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend) 
+* [Michael Hladky](https://twitter.com/Michael_Hladky) 
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
@@ -229,6 +230,7 @@ Table of contents:
 * [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular References](https://ngrefs.com)
+* [Angular Developer Roadmap](https://roadmap.sh/angular)
 
 #### Features
 
@@ -383,6 +385,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular Institute](https://angular.institute/) `angular.institute`
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `Ankit Sharma`
 * [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) `Packt Publishing`
+* [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) `Manning Publications`
 
 #### On-Site Training
 

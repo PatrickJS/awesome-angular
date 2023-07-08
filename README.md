@@ -739,6 +739,10 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng2-paginator](https://github.com/pleerock/ngx-paginator) Pagination control for angular2 and bootstrap 3
 * [ng2-tabs](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 
+##### Tailwind CSS Based
+
+* [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
+
 #### UX Components
 
 * [angular-shepherd](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd](https://github.com/shipshapecode/shepherd)

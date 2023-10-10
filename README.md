@@ -749,6 +749,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular-shepherd](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd](https://github.com/shipshapecode/shepherd)
 * [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
 * [ngx-app-tour](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
+* [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
 
 #### Viewers
 

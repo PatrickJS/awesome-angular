@@ -454,6 +454,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [GraphQL + Angular](https://github.com/apollographql/apollo-angular)
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
 * [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
+* [TailwindCSS + Angular](https://tailwind-elements.com/docs/standard/integrations/angular-integration/) - Integrate Angular app with Tailwind
 
 #### Decorators
 

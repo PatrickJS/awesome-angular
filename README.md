@@ -198,7 +198,8 @@ Table of contents:
 * [Siddharth Ajmera](https://twitter.com/SiddAjmera)
 * [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan) 
 * [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend) 
-* [Michael Hladky](https://twitter.com/Michael_Hladky) 
+* [Michael Hladky](https://twitter.com/Michael_Hladky)
+* [Fabio Biondi](https://github.com/fabiobiondi)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering

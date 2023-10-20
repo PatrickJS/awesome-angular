@@ -232,6 +232,7 @@ Table of contents:
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular References](https://ngrefs.com)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
+* [Angular Cheetsheet](https://www.interviewbit.com/angular-cheat-sheet/)
 
 #### Features
 

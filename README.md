@@ -158,6 +158,7 @@ Table of contents:
 * [@waterplea](https://twitter.com/waterplea)
 * [@marsibarsi](https://twitter.com/marsibarsi)
 * [@maciejtreder](https://twitter.com/maciejtreder)
+* [@codewith_ahsan](https://twitter.com/codewith_ahsan)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -195,6 +196,10 @@ Table of contents:
 * [Santosh Yadav](https://twitter.com/SantoshYadavDev)
 * [Ankit](https://twitter.com/ankitsharma_007)
 * [Siddharth Ajmera](https://twitter.com/SiddAjmera)
+* [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan) 
+* [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend) 
+* [Michael Hladky](https://twitter.com/Michael_Hladky)
+* [Fabio Biondi](https://github.com/fabiobiondi)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
@@ -210,7 +215,7 @@ Table of contents:
 * [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
 * [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
 * [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
-* [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carusel, grid, lightbox, selectfield, sticky header, ...)
+* [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carousel, grid, lightbox, selectfield, sticky header, ...)
 * [ng2-materialize](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
 * [Material Light](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 * [Blox Material](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
@@ -226,6 +231,8 @@ Table of contents:
 * [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular References](https://ngrefs.com)
+* [Angular Developer Roadmap](https://roadmap.sh/angular)
+* [Angular Cheetsheet](https://www.interviewbit.com/angular-cheat-sheet/)
 
 #### Features
 
@@ -379,6 +386,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `Ankit Sharma`
+* [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) `Packt Publishing`
+* [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) `Manning Publications`
 
 #### On-Site Training
 
@@ -447,6 +456,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [GraphQL + Angular](https://github.com/apollographql/apollo-angular)
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
 * [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
+* [TailwindCSS + Angular](https://tailwind-elements.com/docs/standard/integrations/angular-integration/) - Integrate Angular app with Tailwind
 
 #### Decorators
 
@@ -458,6 +468,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light?ref=awesome-angular). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](https://leafletjs.com). [DEMO ONLINE](https://yagolopez.js.org/ng-dashboard/dist/)
 * [HowToKeepAngularDeploymentSizeSmall](https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall) - A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small
+* [Angular Material Dashboard](https://github.com/flatlogic/angular-material-dashboard) - Responsive Angular admin dashboard with material design based on Angular Material.
+
 
 #### Pipes
 
@@ -612,6 +624,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular-clickable-click](https://github.com/DanielKucal/angular-clickable-click) - Sets pointer cursor on elements using  standard `(click)` output and allows to disable such events
 * [angular-esc](https://github.com/DanielKucal/angular-esc) - Adds `(esc)` output fired by the Escape key
 * [ngx-konami](https://github.com/lauthieb/ngx-konami) - Simple directive to add easter eggs in Angular 2+ applications
+* [ngx-focus-control](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility
 
 #### Layout Components
 
@@ -638,7 +651,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-config](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
 * [ngx-img-fallback](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
-
+* [@dotglitch/ngx-lazy-loader](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
 
 #### Maps
 
@@ -703,6 +716,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 * [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
+* [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
 
 ##### Material Based
 
@@ -729,11 +743,16 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng2-paginator](https://github.com/pleerock/ngx-paginator) Pagination control for angular2 and bootstrap 3
 * [ng2-tabs](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 
+##### Tailwind CSS Based
+
+* [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
+
 #### UX Components
 
 * [angular-shepherd](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd](https://github.com/shipshapecode/shepherd)
 * [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
 * [ngx-app-tour](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
+* [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
 
 #### Viewers
 

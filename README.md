@@ -287,6 +287,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Testing UI Components with the TestComponentBuilder](https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 * [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
 * [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
+* [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri)
 
 ##### Ahead-of-Time Compilation
 
@@ -514,6 +515,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 * [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
+* [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests. 
 
 #### TodoMVC
 

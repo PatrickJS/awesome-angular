@@ -695,14 +695,14 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 * [ng-lightning](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 * [ng-metro4](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
-* [ng-sq-ui](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers! [![contributions welcome](https://img.shields.io/badge/issues-welcome-brightgreen.svg?style=flat)](https://github.com/SQ-UI/ng-sq-ui/issues) [![Maintainability](https://api.codeclimate.com/v1/badges/d53c1670c301071be452/maintainability)](https://codeclimate.com/github/SQ-UI/ng-sq-ui/maintainability)
+* [ng-sq-ui](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers!
 * [ngSemantic](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
 * [ngx-qrcode2](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 * [prime-ng](https://www.primefaces.org/primeng/) Collection of rich UI components for Angular 2
 * [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
-* [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular [![contributions welcome](https://img.shields.io/badge/issues-welcome-sucess.svg?style=flat)](https://github.com/Tinkoff/taiga-ui/issues)
+* [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
 
 ##### Material Based
 

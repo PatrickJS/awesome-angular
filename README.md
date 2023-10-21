@@ -6,7 +6,7 @@
 
 # Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/PatrickJS/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/PatrickJS/awesome-angular)
 
-Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://PatrickJS.github.io/awesome-angular/)
+Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://PatrickJS.github.io/awesome-angular/).
 
 > If you're looking for AngularJS (version 1.x.x) please visit https://github.com/gianarb/awesome-angularjs
 
@@ -115,18 +115,18 @@ Table of contents:
 
 #### Community
 
-* `#angular2` channel on Freenode IRC Server
-* [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter
+* `#angular2` channel on Freenode IRC Server.
+* [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [AngularJS on Google+](https://plus.google.com/+AngularJS)
-* [AngularAir](https://angularair.com/) podcast and live broadcast
-* [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
-* [Angular Expo](https://angularexpo.com/) showcase
-* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
+* [AngularAir](https://angularair.com/) podcast and live broadcast.
+* [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
+* [Angular Expo](https://angularexpo.com/) showcase.
+* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 * [Top rated Angular stackoverflow questions Dashboard] (https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
@@ -213,10 +213,10 @@ Table of contents:
 
 * [Official Angular Material Design (GitHub)](https://github.com/angular/material2)
 * [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
-* [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
-* [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
-* [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carousel, grid, lightbox, selectfield, sticky header, ...)
-* [ng2-materialize](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
+* [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core.
+* [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite.
+* [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carousel, grid, lightbox, selectfield, sticky header, ...).
+* [ng2-materialize](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library.
 * [Material Light](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 * [Blox Material](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
 * [Material Web Components](https://trimox.github.io/angular-mdc-web) Material Web Components for Angular. A faithful and accurate representation of Material Design as envisioned on the web.

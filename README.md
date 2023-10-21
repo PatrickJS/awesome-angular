@@ -889,8 +889,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 Apache Cordova is a popular mobile application development framework using CSS3, HTML5, and JavaScript instead of relying on platform-specific APIs.
 
-* [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova
-* [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova
+* [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova.
+* [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova.
 
 ##### Cordova Seed Projects
 
@@ -904,11 +904,11 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Dart General Resources
 
-* [Dart](https://www.dartlang.org/) Official Website for Dart
+* [Dart](https://www.dartlang.org/) Official Website for Dart.
 * [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
 * [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
 * [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
-* [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
+* [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community.
 * [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
 
 #### Dart Seed Projects
@@ -917,7 +917,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Dart Demo, Samples, and Examples
 
-* [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
+* [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart.
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 * [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
@@ -925,11 +925,11 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ### Angular 2 in Traceur
 
-> Traceur is a JavaScript.next-to-JavaScript-of-today compiler
+> Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
 
 #### Traceur General Resources
 
-* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
 
 #### Traceur Seed Projects
 
@@ -944,9 +944,9 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Babel General Resources
 
-* [Babel](https://babeljs.io/) Official Website for Babel
-* [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-* [Babel Repository (GitHub)](https://github.com/babel/babel) Official GitHub Repo for Babel
+* [Babel](https://babeljs.io/) Official Website for Babel.
+* [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser.
+* [Babel Repository (GitHub)](https://github.com/babel/babel) Official GitHub Repo for Babel.
 
 #### Babel Angular 2 Online Playground
 
@@ -989,7 +989,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Meteor in Angular 2
 
-> Build Realtime Web and Mobile Apps With Angular and Meteor
+> Build Realtime Web and Mobile Apps With Angular and Meteor.
 
 ##### Meteor General Resources
 
@@ -1022,7 +1022,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Angular 2 in React Native
 
-> React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript
+> React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript.
 
 ##### React Native General Resources
 
@@ -1060,7 +1060,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Haxe Seed Projects
 
-* [angular2haxe](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
+* [angular2haxe](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2.
 * [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
@@ -1095,7 +1095,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 #### Security
 
 * [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
-* So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
+* So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
   ##### Authentication
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)

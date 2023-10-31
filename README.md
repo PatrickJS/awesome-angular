@@ -691,6 +691,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 * [akita](https://github.com/datorama/akita/) - A Reactive State Management Tailored-Made for JS Applications
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
+* [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
 #### Tables
 

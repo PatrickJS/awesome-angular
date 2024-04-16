@@ -394,11 +394,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### On-Site Training
 
 * [Angular Boot Camp](https://angularbootcamp.com)
-* [thoughtram](https://thoughtram.io/training.html)
-* [ng-book](https://www.ng-book.com/2/)
-* [Angular 2 Workshop](https://chariotsolutions.com/course/angular-workshop-fundamentals-architecture/)
-* [Web Age Solutions](https://www.webagesolutions.com/courses/WA2533-introduction-to-angular-2-programming)
-* [Letsboot.com](https://www.letsboot.com/angular-2-in-house-training-support)
 * [Angular.Schule (in Germany)](https://angular.schule/)
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)

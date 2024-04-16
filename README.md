@@ -289,6 +289,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
 * [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
 * [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri)
+* [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/)
 
 ##### Ahead-of-Time Compilation
 

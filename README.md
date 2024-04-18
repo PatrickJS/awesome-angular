@@ -615,9 +615,11 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Icons
 
-* [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
-* [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome) A small directive making font awesome even easier to use.
-* [ngx-icon-blur](https://github.com/wadie/ngx-icon-blur) An Angular component that can be used to create frosted glass effect of icons.
+* [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) - Angular2 Components and Directives for FontAwesome
+* [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome)- A small directive making font awesome even easier to use.
+* [ngx-icon-blur](https://github.com/wadie/ngx-icon-blur) - An Angular component that can be used to create a frosted glass effect for icons.
+* [ng-icons](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular
+* [primeicons](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
 
 
 #### Keyboard Mouse

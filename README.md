@@ -749,6 +749,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 ##### Tailwind CSS Based
 
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
+* [David UI Angular](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 
 #### UX Components
 

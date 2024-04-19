@@ -23,6 +23,7 @@ Table of contents:
   * [Server-Side Rendering](#server-side-rendering)
   * [Material Design](#material-design)
   * [Cheatsheet](#cheatsheet)
+  * [Testing](#testing)
   * [Angular CLI](#angular-cli)
   * [Webpack](#webpack)
   * [Series](#series)
@@ -236,54 +237,7 @@ Table of contents:
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
 * [Angular Cheetsheet](https://www.interviewbit.com/angular-cheat-sheet/)
 
-#### Features
-
-###### Directives
-
-Directives allow you to attach behavior to elements in the DOM.
-
-###### Components
-
-A component is a directive which uses shadow DOM to create encapsulate visual behavior. Components are typically used to create UI widgets or to break up the application into smaller components.
-
-##### View
-
-A View is a core primitive used by angular to render the DOM tree.
-
-##### Templates
-
-Templates are markup which is added to HTML to declaratively describe how the application model should be
-projected to DOM as well as which DOM events should invoke which methods on the controller.
-
-##### Change detection
-
-Every component gets a change detector responsible for checking the bindings defined in its template.
-
-##### Dependency Injection
-
-Angular 1.x has two APIs for injecting dependencies into a directive. Angular 2 unifies the two APIs, making the code easier to understand and test.
-
-##### Pipes
-
-Pipes can be appended on the end of the expressions to translate the value to a different format.
-
-##### Web Workers
-
-WebWorker support in Angular is designed to make it easy to leverage parallelization in your web application.
-When you choose to run your application in a WebWorker angular runs both your application's logic and the
-majority of the core angular framework in a WebWorker.
-
-##### HTTP
-
-The HttpClient offers a simplified client HTTP API for Angular applications that rests on the XMLHttpRequest interface exposed by browsers. Additional benefits of HttpClient include testability features, typed request and response objects, request and response interception, Observable apis, and streamlined error handling.
-
-* [Official HttpClient](https://angular.io/guide/http)
-
-##### Router
-
-* [Official Routing & Navigation](https://angular.io/guide/router)
-
-##### Test
+##### Testing
 
 * [Testing Http services in Angular 2 with Jasmine](https://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
 * [Testing UI Components with the TestComponentBuilder](https://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
@@ -291,16 +245,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
 * [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri)
 * [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/)
-
-##### Ahead-of-Time Compilation
-
-* [Official Documentation](https://angular.io/guide/aot-compiler)
-* [Ahead-of-Time Compilation in Angular](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)
-* [Building an Angular Application for Production](https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/)
-* [Demystifying Ahead-Of-Time Compilation In Angular 2](https://slides.com/wassimchegham/demystifying-ahead-of-time-compilation-in-angular-2-aot-jit)
-* [Multiple solutions for Angular Ahead of Time (AOT) Compilation](https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508)
-* [Code Example with Webpack](https://github.com/blacksonic/angular2-aot-webpack)
-* [Code Example with Rollup](https://github.com/mgechev/angular2-ngc-rollup-build)
 
 #### Angular CLI
 

@@ -768,10 +768,11 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Viewers
 
 * [egjs-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/ngx-flicking) - It's reliable, flexible and extendable carousel for Angular.
-* [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
-* [ng2-safe-img](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
+* [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - PDF viewer component.
 * [ngu-carousel](https://github.com/sheikalthaf/ngu-carousel) - Angular Universal carousel.
-* [ngx-siema](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
+* [ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
+* [ng2-pdfjs-viewer](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
+* [ngx-json-viewer](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
 
 #### Misc Components
 

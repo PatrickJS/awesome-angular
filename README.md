@@ -317,6 +317,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
 * [Angular Webpack Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 * [Angular Webpack + rxjs + modules](https://github.com/jorgeas80/angular2-webpack-toh)
+* [Angular Builders](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
 
 #### Series
 

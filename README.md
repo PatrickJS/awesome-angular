@@ -113,6 +113,7 @@ Table of contents:
 * [Cheatsheet](https://angular.io/guide/cheatsheet)
 * [Getting Started Guide](https://angular.io/guide/quickstart)
 * [GitHub Repo](https://github.com/angular/angular)
+* [Future Site](https://angular.dev)
 
 #### Community
 

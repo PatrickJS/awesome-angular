@@ -724,6 +724,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 * [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
 * [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
+* [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 
 ##### Material Based
 

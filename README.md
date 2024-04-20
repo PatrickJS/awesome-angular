@@ -6,9 +6,7 @@
 
 # Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://PatrickJS.github.io/awesome-angular/).
-
-> If you're looking for AngularJS (version 1.x.x) please visit https://github.com/gianarb/awesome-angularjs
+This is the original Awesome list of the Angular2 framework, today known as just [Angular] (https://angular.io/). This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
 ##### Current Angular version:
 

@@ -37,7 +37,6 @@ Table of contents:
   * [Generators](#generators)
   * [Documentation tools](#documentation-tools)
   * [Developer tools](#developer-tools)
-  * [TodoMVC](#todomvc)
   * [Schematics](#schematics)
   * [Angular Challenges](https://angular-challenges.vercel.app/)
 * [Third Party Components](#third-party-components)
@@ -511,10 +510,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 * [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
 * [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests. 
-
-#### TodoMVC
-
-* [Official Angular 2.0](http://todomvc.com/examples/angular2/)
 
 #### Schematics
 

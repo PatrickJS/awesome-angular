@@ -25,7 +25,6 @@ Table of contents:
   * [Cheatsheet](#cheatsheet)
   * [Angular CLI](#angular-cli)
   * [Webpack](#webpack)
-  * [Series](#series)
   * [Video Tutorials](#video-tutorials)
   * [Style Guides](#style-guides)
   * [Angular Connect](#angular-connect)
@@ -319,27 +318,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular Webpack Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
 * [Angular Webpack + rxjs + modules](https://github.com/jorgeas80/angular2-webpack-toh)
 * [Angular Builders](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
-
-#### Series
-
-* Ionic
-  * Angular
-    * [Introduction](https://blog.ionic.io/angular-2-series-introduction/)
-    * [Components](https://blog.ionic.io/angular-2-series-components/)
-* Auth0
-  * Angular
-    * [Working with Pipes](https://auth0.com/blog/angular2-series-working-with-pipes/)
-    * [Domain Models and Dependency Injection](https://auth0.com/blog/angular-2-series-part-2-domain-models-and-dependency-injection/)
-    * [Using Http](https://auth0.com/blog/angular-2-series-part-3-using-http/)
-    * [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/)
-* thoughtram
-  * Angular Template Syntax Demystified
-    * [Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
-* [letsboot.com](https://medium.com/letsboot)
-  * Test Driven Development
-    * [Part 1 Angular TDD, Karma, Jasmine, PhantomJS, Gitlab-CI](https://medium.com/letsboot/angular-4-and-testing-angular-cli-gitlab-ci-ng-test-phantomjs-tdd-afc20f50b928)
-  * Angular and Firebase
-    * [Part 1 Let’s learn how to install and setup AngularFire2 4.0](https://medium.com/letsboot/lets-learn-how-to-install-and-setup-angularfire2-4-0-135d72bb0a41)
 
 #### Video Tutorials
 

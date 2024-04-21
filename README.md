@@ -68,9 +68,6 @@ Table of contents:
   * [Seed Projects](#typescript-seed-projects)
 * [Dart](#angular-2-in-dart)
   * [Seed Projects](#dart-seed-projects)
-* [Traceur](#angular-2-in-traceur)
-  * [Traceur General Resources](#traceur-general-resources)
-  * [Seed Projects](#traceur-seed-projects)
 * [Babel](#angular-2-in-babel)
   * [Babel General Resources](#babel-general-resources)
   * [Online Playground](#babel-angular-2-online-playground)
@@ -845,21 +842,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 * [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart.
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
----
-
-### Angular 2 in Traceur
-
-> Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
-
-#### Traceur General Resources
-
-* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
-
-#### Traceur Seed Projects
-
-* [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
 * [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---

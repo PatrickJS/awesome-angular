@@ -35,7 +35,6 @@ Table of contents:
   * [Generators](#generators)
   * [Documentation tools](#documentation-tools)
   * [Developer tools](#developer-tools)
-  * [TodoMVC](#todomvc)
   * [Schematics](#schematics)
   * [Angular Challenges](https://angular-challenges.vercel.app/)
 * [Third Party Components](#third-party-components)
@@ -515,10 +514,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code. 
 * [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)
-
-#### TodoMVC
-
-* [Official Angular 2.0](http://todomvc.com/examples/angular2/)
 
 #### Schematics
 

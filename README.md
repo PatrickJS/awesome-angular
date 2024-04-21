@@ -531,10 +531,13 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Animations
 
-* [lottie-angular2](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
-* [ng-animate](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
-* [ngx-interactive-paycard](https://github.com/milantenk/ngx-interactive-paycard) - Interactive payment card library with smooth animations
-* [ng-particles](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
+* [tsparticles](https://github.com/tsparticles/angular/#readme) - A component to easily add Particles animations to your Angular application.
+* [ngx-confetti-explosion](https://github.com/ChellappanRajan/ngx-confetti-explosion) - Confetti in Angular
+* [angular-animations](https://github.com/filipows/angular-animations) - Easy, Reusable Animation Utility library for Angular.
+* [ngx-lottie](https://github.com/ngx-lottie/ngx-lottie) - Fully customizable Angular component for rendering After Effects animations. Compatible with Angular 9+.
+* [angular-animations-explorer](https://github.com/williamjuan027/angular-animations-explorer) - A resource to showcase the different animations that you could do with Angular.
+* [ngx-notation-reveal](https://github.com/namitoyokota/ngx-notation-reveal) - Angular component to add rough notation animation when element is visible.
+* [ngx-typed2](https://github.com/shiv-source/ngx-typed2) - An Angular Typing Animation Library.
 
 #### Auth Components
 

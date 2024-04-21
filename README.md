@@ -505,12 +505,15 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Developer tools
 
-* [Angular State Inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem) - Helps you debug Angular component state. Supports Angular 1/2+/Ivy.
-* [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications.
+* [StackBlitz](https://stackblitz.com) - Instant Dev Environments
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 * [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
 * [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests. 
+* [Redux DevTools](https://github.com/reduxjs/redux-devtools/) - Can be used in combination with @ngrx/store-devtools to inspect the state of your NgRx app.  
+* [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
+* [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code. 
+* [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)
 
 #### TodoMVC
 

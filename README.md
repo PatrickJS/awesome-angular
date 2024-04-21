@@ -471,8 +471,10 @@ Table of contents:
 #### Calendars
 
 * [angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
-* [ng-data-picker](https://github.com/hiyali/ng-data-picker) - 🏄🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
-* [ng-fullcalendar](https://github.com/ng-fullcalendar/ng-fullcalendar) Fullcalendar module for Angular
+* [angular-calendar-scheduler](https://github.com/michelebombardi/angular-calendar-scheduler) - A scheduler view component for angular-calendar
+* [ng-fullcalendar](https://github.com/ng-fullcalendar/ng-fullcalendar) - Fullcalendar module for Angular
+* [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
+* [angular-year-calendar](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️
 
 #### Charts
 

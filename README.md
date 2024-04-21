@@ -76,8 +76,6 @@ Table of contents:
   * [Online Playground](#babel-angular-2-online-playground)
   * [Seed Projects](#babel-seed-projects)
   * [Babel Plugins](#babel-plugins)
-* [ES5](#angular-2-in-es5)
-  * [Seed Projects](#es5-seed-projects)
 * [Ionic 2](#ionic-2-in-angular-2)
   * [Ionic 2 General Resources](#ionic-2-general-resources)
 * [Meteor](#meteor-in-angular-2)
@@ -896,20 +894,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 * [babel-preset-angular2](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
 * [babel-plugin-type-assertion](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts_assert
-
----
-
-### Angular 2 in ES5
-
-> An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
-
-##### ES5 General Resources
-
-* [**{{** help_add_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
-#### ES5 Seed Projects
-
-[angular2-es5-starter-kit](https://github.com/islam-muhammad/angular2-es5) Angular2 ES5 Starter Kit
 
 ---
 

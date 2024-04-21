@@ -204,8 +204,8 @@ Table of contents:
 
 * [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
 * [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
-* [ng-web-apis/universal — an opensource set of native API fallbacks and stubs](https://github.com/ng-web-apis/universal)
-* [Guide to Angular Universal - a comprehensive guide how to sharpen your Universal Skills](https://www.newline.co/courses/newline-guide-to-angular-universal)
+* [ng-web-apis](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular
+* [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new ssr package built into the framework.   
 
 #### Material Design
 

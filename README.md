@@ -420,13 +420,9 @@ Table of contents:
 
 #### Documentation tools
 
-* [Storybook](https://github.com/storybooks/storybook) : "The UI development environment you'll love to use"
-
-* [Compodoc](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
-
-* [NgModule-Viz](https://github.com/politie/ngmodule-viz) : Visualize the dependencies between the NgModules in your Angular 2+ application.
-
-* [ng-app-counter](https://github.com/Jamaks/ng-app-counter) : Count the number of Modules, Lazy Modules, Pipes, Providers, Directives, Components used in an Angular application.
+* [Storybook](https://github.com/storybooks/storybook)-  The UI development environment you'll love to use
+* [Compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application
+* [ng-doc](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects
 
 #### Developer tools
 

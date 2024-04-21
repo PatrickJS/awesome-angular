@@ -43,7 +43,6 @@ Table of contents:
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
   * [Auth Components](#auth-components)
-  * [Backend Components](#backend-components)
   * [Calendars](#calendars)
   * [Charts](#charts)
   * [Drag/Drop](#drag/drop)
@@ -543,15 +542,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`
 * [ngx-auth](https://github.com/fulls1z3/ngx-auth) -Authentication utility for Angular by @fulls1z3
 * [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
-
-
-
-#### Backend Components
-
-* [Cloudinary](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
-* [ng-s-resource](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
-* [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
-
 
 #### Calendars
 

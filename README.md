@@ -600,20 +600,15 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 #### Form Controls
 
 * [@ctrl/ngx-emoji-mart](https://github.com/TypeCtrl/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular
-* [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) Angular 4+ input mask
-* [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
-* [angular2-text-mask](https://github.com/text-mask/text-mask) Angular 2 input mask directive
-* [ng-fveh](https://github.com/guilhermewaess/ng-fveh) - Form Validations Errors Helper - Some helpers to help you with form validation :)
-* [ng-select](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
-* [ng2-dropdown](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
-* [ng2-radio-group](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
-* [ng2-select](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
+* [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular 4+ input mask
+* [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular 2 multiselect dropdown component for web applications
+* [angular2-text-mask](https://github.com/text-mask/text-mask) - Angular 2 input mask directive
+* [ng-select](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete
 * [ngx-color](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
-* [ngx-credit-cards](https://www.npmjs.com/package/ngx-credit-cards) - A Credit Card Directives and Form Validators package for Angular X (4+).
 * [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
-* [ngx-flexible-select](https://github.com/andreysyagrovskiy/ngx-flexible-select) - The most flexible and customized select
-* [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form at any level based on your json input.
-* [ngx-translation-validation](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language
+* [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular
+* [formio](https://github.com/formio/angular) - JSON powered forms for Angular
+* [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular
 
 #### Icons
 

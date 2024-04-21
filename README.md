@@ -414,6 +414,9 @@ Table of contents:
     * [dart-lang/stagehand](https://github.com/dart-lang/stagehand)
 * Scaffold
   * [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
+* Spring Boot
+  * [Bootify.io](https://bootify.io): Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
+  * [JHipster](https://www.jhipster.tech): Open source app generator for Spring Boot and Angular
 
 #### Documentation tools
 

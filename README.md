@@ -443,15 +443,21 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 #### Integrations
 
-* [FalcorJS + Angular2 (Video)](https://www.youtube.com/watch?v=z8UgDZ4rXBU&feature=youtu.be)
-* [Angular2-Meteor](https://angular-meteor.com/angular2)
-* [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
-* [react-native-renderer](https://github.com/angular/react-native-renderer)
-* [ng-sapphiredb](https://github.com/SapphireDb/ng-sapphiredb) - Client implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
-* [GraphQL + Angular](https://github.com/apollographql/apollo-angular)
+* [GraphQL + Angular](https://github.com/apollographql/apollo-angular) - Caching GraphQL client for Angular and every GraphQL server 
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
 * [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
-* [TailwindCSS + Angular](https://tailwind-elements.com/docs/standard/integrations/angular-integration/) - Integrate Angular app with Tailwind
+* [TailwindCSS + Angular](https://tailwindcss.com/docs/guides/angular) - Integrate Angular app with Tailwind
+* [Sentry](https://docs.sentry.io/platforms/javascript/guides/angular/configuration/integrations/) - Sentry is a developer-first error tracking and performance monitoring platform.
+* [Stencil](https://stenciljs.com/docs/angular) - Stencil can generate Angular component wrappers for your web components. This can improve Angular performance.
+* [GoodData](https://www.gooddata.com/blog/frontend-integration-series-angular/) - Integrate GoodData Visualizations into your Angular application.
+* [DataDog](https://docs.datadoghq.com/integrations/rum_angular/) - With the Datadog Angular integration, you can resolve performance issues quickly.
+* [Elastic](https://www.elastic.co/guide/en/apm/agent/rum-js/current/angular-integration.html) - Real User Monitoring JavaScript agent with Angular applications.
+* [HyperFormula](https://hyperformula.handsontable.com/guide/integration-with-angular.html#demo) - HyperFormula is a headless spreadsheet built in TypeScript, serving as both a parser and evaluator of spreadsheet formulas. It can be integrated into your browser.  
+* [Strich](https://docs.strich.io/angular-integration-guide.html) - STRICH is a JavaScript library for real-time, multi-format barcode scanning directly in the web browser.
+* [Pega](https://community.pega.com/marketplace/component/angular-sdk) - Angular SDK includes a bridge and DX components that connect the ConstellationJS Engine to an Angular-based design system.
+* [Genesis Foundation](https://learn.genesis.global/docs/previous/web/integrations/angular/) - Genesis is a low-code platform designed specifically for the financial markets.
+* [ngx-google-analytics](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
+* [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 
 #### Decorators
 

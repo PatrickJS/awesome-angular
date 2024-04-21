@@ -812,19 +812,6 @@ Table of contents:
 
 ---
 
-#### Angular 2 in Cordova
-
-Apache Cordova is a popular mobile application development framework using CSS3, HTML5, and JavaScript instead of relying on platform-specific APIs.
-
-* [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova.
-* [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova.
-
-##### Cordova Seed Projects
-
-* [Angular 2 Seed CLI Admin (Template)](https://github.com/jvitor83/angular-pwa-seed) Multi-platform Angular 2 project (Web/PWA, Mobile and Desktop) with Ionic 2 (and optionally Bootstrap).
-
----
-
 ### Angular 2 in Dart
 
 > Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.

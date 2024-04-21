@@ -89,8 +89,6 @@ Table of contents:
 * [React Native](#angular-2-in-react-native)
   * [React Native General Resources](#react-native-general-resources)
   * [React Native Projects](#react-native-projects)
-* [Haxe](#angular-2-in-haxe)
-  * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
 * [Bit](#angular-2-components-with-bit)
@@ -960,33 +958,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### React Native Seed Projects
 
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
----
-
-### Angular 2 in Haxe
-
-> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. General purpose language, with Haxe, you can easily build cross-platform tools targeting all the mainstream platforms natively. "Write once compile anywhere", with strong easily extendable macro system and powerfull, highly optimizing compiler with DCE (and f.e. using inline constructors). Can be used for server side rendering and in isomorphic way - possible to share the same source code compiling into client side in javascript and server side in pyhton (or java/php/node - can be choosen later/changed at scaling). Haxe code can contain (inline) any target language fragments (can be used to step by step porting), the externs mechanism provides access to the native APIs and libraries in a type-safe manner.
-> Server, client, mobile (Android and iOS at once), desktop, embedded (Raspbery, award winning TIVO set top boxes), Playstation ... all can be reached natively with much less typing, more error-proof, more stable and compile-time type checked code even for non type-safe targets (f.e. JavaScript, PHP)!
-
-##### Haxe General Resources
-
-* [Haxe.org](https://haxe.org)
-* [Haxe on Wikipedia](https://en.wikipedia.org/wiki/Haxe)
-* [Haxe Playground ](https://try.haxe.org/)
-* [Haxe compiler targets](https://haxe.org/documentation/introduction/compiler-targets.html) compiler targets: C++, C#, Java, Python, PHP, ActionScript 3, and Flash or Neko bytecode
-* [Haxe Usage Survey results](blog.onthewings.net/2015/11/14/haxe_usage_survey/)
-* [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) - community
-* [Haxe and Node.js](matthijskamstra.github.io/haxenode/)
-* [Haxe: working with JavaScript libraries](https://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/)
-* [Learn haxe in Y minutes](https://learnxinyminutes.com/docs/haxe/)
-* [A success story for Haxe](https://nadako.tumblr.com/post/113390739725/a-success-story-for-haxe) - about porting JavaScript to haxe targeting both JavaScript and C# "without interrupting the development of actual game by the rest of the team!", "AWESOME BONUS", "there are only benefits"
-* [News And Information For Haxe Developers](https://haxe.io/)
-* [**{{** help_add_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
-#### Haxe Seed Projects
-
-* [angular2haxe](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2.
 * [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---

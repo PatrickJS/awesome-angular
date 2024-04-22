@@ -682,10 +682,10 @@ Table of contents:
 
 #### UX Components
 
-* [angular-shepherd](https://github.com/shipshapecode/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd](https://github.com/shipshapecode/shepherd)
-* [ng2-archwizard](https://github.com/madoar/ng2-archwizard) - Wizard component for Angular 2
-* [ngx-app-tour](https://github.com/hamdiwanis/ngx-app-tour) - Angular2+ plugin for building a tour, showcase or a walkthrough for your app
+* [angular-shepherd](https://github.com/shepherd-pro/angular-shepherd) - Angular 7 Service wrapping the site tour library [Shepherd](https://github.com/shepherd-pro/shepherd)
 * [Zoom Image Library](https://willnguyen1312.github.io/zoom-image) - A little yet powerful framework agnostic headless-library to zoom image on the web
+* [skyux](https://github.com/blackbaud/skyux) - SKY UX components for Angular
+* [ngx-ui-tour](https://github.com/hakimio/ngx-ui-tour) - ngx-ui-tour is a UI tour library inspired by angular-ui-tour.
 
 #### Viewers
 

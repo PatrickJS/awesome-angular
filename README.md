@@ -39,7 +39,6 @@ Table of contents:
   * [Angular Challenges](https://angular-challenges.vercel.app/)
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
-  * [Auth Components](#auth-components)
   * [Calendars](#calendars)
   * [Charts](#charts)
   * [Drag/Drop](#drag/drop)
@@ -95,6 +94,7 @@ Table of contents:
   * [Seed Projects](#scala-seed-projects)
 * [Bit](#angular-2-components-with-bit)
 * [Security](#security)
+* [Authentication](#authentication)
 * [NgRx](#ngrx)
 
 ### Angular
@@ -462,14 +462,6 @@ Table of contents:
 * [angular-animations-explorer](https://github.com/williamjuan027/angular-animations-explorer) - A resource to showcase the different animations that you could do with Angular.
 * [ngx-notation-reveal](https://github.com/namitoyokota/ngx-notation-reveal) - Angular component to add rough notation animation when element is visible.
 * [ngx-typed2](https://github.com/shiv-source/ngx-typed2) - An Angular Typing Animation Library.
-
-#### Auth Components
-
-* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL](https://github.com/stalniy/casl) with Angular2+
-* [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission`](https://github.com/Narzerus/angular-permission).
-* [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`
-* [ngx-auth](https://github.com/fulls1z3/ngx-auth) -Authentication utility for Angular by @fulls1z3
-* [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
 
 #### Calendars
 
@@ -1022,11 +1014,22 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 * [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
 * So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
-  ##### Authentication
-* [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
-* [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
-* [Angular 2 OAuth2 OIDC from Manfred Steyer](https://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)
-* [Angular 2 authentication sample from auth0-blog](https://github.com/auth0-blog/angular2-authentication-sample)
+
+#### Authentication
+
+* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL](https://github.com/stalniy/casl) with Angular2+
+* [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`
+* [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)  
+* [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
+* [angularx-social-login](https://github.com/abacritt/angularx-social-login) - Social login and authentication module for Angular 17
+* [ms-identity-javascript-angular-tutorial](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial) - A chapterwise tutorial that will take you through the fundamentals of modern authentication with Microsoft identity platform using MSAL Angular v2.
+* [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps
+* [auth0-angular](https://github.com/auth0/auth0-angular) - Auth0 SDK for Angular Single Page Applications
+* [ng-universal](https://github.com/nestjs/ng-universal) - Angular Universal module for Nest framework (node.js)
+* [angularfire](https://github.com/angular/angularfire) - Angular + Firebase
+* [supabase](https://supabase.com/docs/guides/getting-started/tutorials/with-angular) - Build a User Management App with Angular.  
+* [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
+* [amplify](https://docs.amplify.aws/angular/) - AWS Amplify streamlines full-stack app development. With its libraries, CLI, and services, you can easily connect your frontend to the cloud for authentication, storage, APIs, and more.
 
 #### NgRx
 

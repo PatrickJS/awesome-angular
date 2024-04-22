@@ -592,11 +592,13 @@ Table of contents:
 
 #### Notifications
 
-* [ng-snotify](https://github.com/artemsky/ng-snotify/) - Angular 4 Notification Center
-* [ng2-sweetalert2](https://github.com/seiyria/ng2-sweetalert2) A wrapper for sweetalert2 for use with Angular 2.
-* [ngx-popper](https://github.com/MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(https://popper.js.org/)
+* [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr
-
+* [hot-toast](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
+* [ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
+* [ngx-awesome-popup](https://github.com/boris-jenicek/ngx-awesome-popup) - Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner).
+* [angular-bootstrap-toast-service](https://github.com/svierk/angular-bootstrap-toast-service) - Angular project for sending Bootstrap based toast notifications including Vercel deployment.
+* [angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 
 
 #### State Management

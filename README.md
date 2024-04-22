@@ -86,9 +86,6 @@ Table of contents:
 * [NativeScript](#angular-2-in-nativescript)
   * [NativeScript General Resources](#nativescript-general-resources)
   * [Seed Projects](#nativescript-seed-projects)
-* [React Native](#angular-2-in-react-native)
-  * [React Native General Resources](#react-native-general-resources)
-  * [React Native Projects](#react-native-projects)
 * [Haxe](#angular-2-in-haxe)
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
@@ -942,24 +939,6 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 * [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
 * [angular2-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced)
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
----
-
-#### Angular 2 in React Native
-
-> React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript.
-
-##### React Native General Resources
-
-* [React Native](https://facebook.github.io/react-native/) Official Website for React Native
-
-#### React Native Projects
-
-* [Angular 2 React Native Renderer (GitHub)](https://github.com/angular/react-native-renderer)
-
-#### React Native Seed Projects
-
 * [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---

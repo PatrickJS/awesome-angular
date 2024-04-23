@@ -120,34 +120,38 @@ Table of contents:
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 
-#### Angular Team on twitter
+#### Angular Team on Twitter
 
-* [@mhevery](https://twitter.com/mhevery)
-* [@IgorMinar](https://twitter.com/IgorMinar)
-* [@naomitraveller](https://twitter.com/naomitraveller)
 * [Minko Gechev](https://twitter.com/mgechev)
 * [Alan Agius](https://twitter.com/AlanAgius4)
+* [Matthieu Riegler](https://twitter.com/jean__meche)
+* [Alex Rickabaugh](https://twitter.com/synalx)
+* [Caleb Eggensperger](https://twitter.com/calebegg)
+* [Ciro Nunes](https://twitter.com/cironunesdev)
+* [Kristiyan Kostadinov](https://twitter.com/_crisbeto)
+* [David East](https://twitter.com/_davideast)
+* [Paul Gschwendtner](https://twitter.com/devversion)
 * [George Kalpakas](https://twitter.com/gkalpakas)
-* [Stephen Fluin](https://twitter.com/stephenfluin)
+* [James Daniels](https://twitter.com/jamesuriah)
+* [Joost Koehoorn](https://twitter.com/devjoost)
+* [Mark Pieszak](https://twitter.com/MarkPieszak)
+* [Simona Cotin](https://twitter.com/simona_cotin)
 
 #### Experts on Twitter
 
 > List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 
 * [@PatrickJS__](https://twitter.com/PatrickJS__)
-* [@scotups](https://twitter.com/scotups)
 * [@pkozlowski_os](https://twitter.com/pkozlowski_os)
-* [@teropa](https://twitter.com/teropa)
 * [@eggheadio](https://twitter.com/eggheadio)
 * [@hirez_io](https://twitter.com/hirez_io)
 * [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
-* [@amcdnl](https://twitter.com/amcdnl)
 * [@victorsavkin](https://twitter.com/victorsavkin)
 * [@jeffbcross](https://twitter.com/jeffbcross)
 * [@waterplea](https://twitter.com/waterplea)
 * [@marsibarsi](https://twitter.com/marsibarsi)
 * [@maciejtreder](https://twitter.com/maciejtreder)
-* [@codewith_ahsan](https://twitter.com/codewith_ahsan)
+* [@maartentibau](https://twitter.com/maartentibau)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -169,7 +173,6 @@ Table of contents:
 * [Pascal Precht](https://twitter.com/PascalPrecht)
 * [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
 * [Raúl Jiménez](https://twitter.com/elecash/)
-* [Ciro Nunes](https://twitter.com/cironunesdev/)
 * [Maxim Salnikov](https://twitter.com/webmaxru)
 * [Deborah Kurata](https://twitter.com/deborahkurata)
 * [Shai Reznik](https://twitter.com/shai_reznik)
@@ -190,6 +193,7 @@ Table of contents:
 * [Michael Hladky](https://twitter.com/Michael_Hladky)
 * [Fabio Biondi](https://github.com/fabiobiondi)
 * [Thomas Laforge](https://twitter.com/laforge_toma)
+* [@codewith_ahsan](https://twitter.com/codewith_ahsan)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Blogs

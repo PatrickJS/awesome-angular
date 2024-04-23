@@ -30,7 +30,7 @@ Table of contents:
   * [Angular Connect](#angular-connect)
   * [Books](#books)
   * [On-Site Training](#on-site-training)
-  * [Approach and Explanation](#approach-and-explanation)
+  * [Online Training](#online-training)
   * [Integrations](#integrations)
   * [Site Templates](#site-templates)
   * [Generators](#generators)
@@ -327,50 +327,14 @@ Table of contents:
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
 
-#### Approach and Explanation
+#### Online Training
 
-* Victor Savkin
-
-  * [Dependency Injection in Angular 1 and Angular 2](https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18)
-  * [Writing Angular in Typescript](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
-  * [Angular Template Syntax](https://vsavkin.com/angular-2-template-syntax-5f2ee9f13c6a)
-  * [The Core Concepts of Angular 2](https://vsavkin.com/the-core-concepts-of-angular-2-c3d6cbe04d04)
-  * [Two Phases of Angular 2 Applications](https://vsavkin.com/two-phases-of-angular-2-applications-fda2517604be)
-  * [Change Detection in Angular 2](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
-  * [Better Support For Functional Programming In](https://vsavkin.tumblr.com/post/108837493941/better-support-for-functional-programming-in)
-  * [Angular 2 Bits Unified Dependency Injection](https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection)
-  * [Angular 2 Router](https://vsavkin.com/angular-2-router-d9e30599f9ea)
-
-* thoughtram
-
-  * [Developing a tabs component in Angular 2](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
-  * [Developing a zippy component in Angular 2](https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
-  * [Resolving Service Dependencies in Angular 2](https://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
-  * [Forward references in Angular 2](https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
-  * [Host and Visibility in Angular 2's Dependency Injection](https://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
-  * [Dependency Injection in Angular 2](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
-  * [Routing in Angular 2 **Deprecated**](https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
-  * [Routing in Angular 2 Revisited](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
-  * [Angular 2 Template Syntax Demystified - Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
-  * [View Encapsulation in Angular 2](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
-  * [Styling Angular 2 components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
-  * [Even better ES5 code for Angular 2](https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
-  * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
-  * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
-
-* Hristo Georgiev
-
-  * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
-
-* Helgevold Consulting
-
-  * [Web Workers in Angular 2.0](https://www.syntaxsuccess.com/viewarticle/web-workers-in-angular-2.0)
-  * [Creating a Virtualized Grid](https://www.syntaxsuccess.com/viewarticle/virtualized-spreadsheet-component-in-angular-2.0)
-  * [Socket.io with Observables](https://www.syntaxsuccess.com/viewarticle/socket.io-with-rxjs-in-angular-2.0)
-  * [Change Detection](https://www.syntaxsuccess.com/viewarticle/change-detection-in-angular-2.0)
-
-* Burak Tasci (fulls1z3)
-  * [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
+* [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular v17 applications using new features with modern best practices
+* [Angular Training](https://www.angulartraining.com/) - The Angular Coach
+You Need
+* [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem
+* [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
+become an Angular expert
 
 #### Integrations
 

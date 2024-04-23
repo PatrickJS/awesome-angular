@@ -79,8 +79,8 @@ Table of contents:
   * [Babel Plugins](#babel-plugins)
 * [ES5](#angular-2-in-es5)
   * [Seed Projects](#es5-seed-projects)
-* [Ionic 2](#ionic-2-in-angular-2)
-  * [Ionic 2 General Resources](#ionic-2-general-resources)
+* [Ionic](#ionic-in-angular)
+  * [Ionic General Resources](#ionic-general-resources)
 * [Meteor](#meteor-in-angular-2)
   * [Meteor General Resources](#meteor-general-resources)
   * [Seed Projects](#meteor-seed-projects)
@@ -784,17 +784,19 @@ Table of contents:
 
 ---
 
-#### Ionic 2 in Angular 2
+#### Ionic in Angular
 
 > Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
 
-* [Ionic Framework](https://ionicframework.com) Official Website for Ionic Framework
-* [Ionic Documentation](https://ionicframework.com/docs/) Official for Ionic Framework
+* [Ionic Framework](https://ionicframework.com) - Official Website for Ionic Framework
+* [(Github) Ionic Framework](https://github.com/ionic-team/ionic-framework) - Github Repo of Ionic Framework
 
-##### Ionic 2 General Resources
+##### Ionic General Resources
 
-* [Ionic 2 Repository (GitHub)](https://github.com//ionic-team/ionic)
-* [Ionic 2 Awesome](https://github.com/candelibas/awesome-ionic)
+* [Ionic Academy](https://ionicacademy.com/) - The fastest way to learn Ionic.
+* [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
+* [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
+* [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular
 
 ---
 

@@ -25,7 +25,7 @@ Table of contents:
   * [Testing](#testing)
   * [Angular CLI](#angular-cli)
   * [Webpack](#webpack)
-  * [Video Tutorials](#video-tutorials)
+  * [YouTube Channels](#youtube-channels)
   * [Style Guides](#style-guides)
   * [Angular Connect](#angular-connect)
   * [Books](#books)
@@ -274,20 +274,19 @@ Table of contents:
 * [Angular Webpack + rxjs + modules](https://github.com/jorgeas80/angular2-webpack-toh)
 * [Angular Builders](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
 
-#### Video Tutorials
+#### YouTube Channels
 
-* [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
-* [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
-* [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
-* [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
-* [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
-* [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
-* [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
-* [Angular Pro Screencast](https://www.youtube.com/playlist?list=PLLf-VBOaoVk1E9fTBZdq1CfnRa2TtL_Kb)
-* [Angular typed Store](https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be)
-* [Angular advanced tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
-* [Angular Fullstack JavaScript Channel](https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw)
-* [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners)
+* [YouTube](https://www.youtube.com/@procademy) - Procademy
+* [YouTube](https://www.youtube.com/@MonsterlessonsAcademy) - Monsterlessons Academy
+* [YouTube](https://www.youtube.com/@JoshuaMorony) - Joshua Morony
+* [YouTube](https://www.youtube.com/@NihiraTechiees) - Nihira Techiees
+* [YouTube](https://www.youtube.com/@AngularUniversity) - Angular University
+* [YouTube](https://www.youtube.com/@RainerHahnekamp) - Rainer Hahnekamp
+* [YouTube](https://www.youtube.com/@CodeShotsWithProfanis) - Code Shots With Profanis 
+* [YouTube](https://www.youtube.com/@deborah_kurata) - Deborah Kurata
+* [YouTube](https://www.youtube.com/@BrandonRobertsDev) - BrandonRobertsDev
+* [YouTube](https://www.youtube.com/@DecodedFrontend) - Decoded Frontend
+* [YouTube](https://www.youtube.com/@galaxies_dev) - Galaxies_dev
 
 #### Style Guides
 

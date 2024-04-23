@@ -512,17 +512,10 @@ become an Angular expert
 
 #### Loaders
 
-* [@kken94/ngx-progress](https://github.com/kKen94/ngx-progress)  The most powerful and customizable progress bar for Angular ✨
-* [angular-epic-spinners](https://github.com/hackafro/angular-epic-spinners) Reusable spinner components for angular
-* [angular2-busy](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
 * [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
-* [isLoading? service](https://gitlab.com/service-work/is-loading) - A simple and flexible loading indicator service for Angular apps.
-* [ng-spinners](https://github.com/JoshK2/ng-spinners) - Amazing collection of pure CSS angular spinners components.
-* [ng2-progress-bar](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
-* [ngx-config](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular (incl. Angular Universal loader) by @fulls1z3
-* [ngx-img-fallback](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 * [@dotglitch/ngx-lazy-loader](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
+* [ng-lazy-load-component](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
 
 #### Maps
 

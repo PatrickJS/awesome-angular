@@ -72,11 +72,6 @@ Table of contents:
 * [Traceur](#angular-2-in-traceur)
   * [Traceur General Resources](#traceur-general-resources)
   * [Seed Projects](#traceur-seed-projects)
-* [Babel](#angular-2-in-babel)
-  * [Babel General Resources](#babel-general-resources)
-  * [Online Playground](#babel-angular-2-online-playground)
-  * [Seed Projects](#babel-seed-projects)
-  * [Babel Plugins](#babel-plugins)
 * [ES5](#angular-2-in-es5)
   * [Seed Projects](#es5-seed-projects)
 * [Ionic](#ionic-in-angular)
@@ -824,41 +819,6 @@ Table of contents:
 
 * [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
 * [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
----
-
-### Angular 2 in Babel
-
-> The compiler for writing next generation JavaScript.
-
-#### Babel General Resources
-
-* [Babel](https://babeljs.io/) Official Website for Babel.
-* [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser.
-* [Babel Repository (GitHub)](https://github.com/babel/babel) Official GitHub Repo for Babel.
-
-#### Babel Angular 2 Online Playground
-
-* [Plunker: Angular 2 + Babel](https://plnkr.co/edit/PxCzCu?p=preview)
-
-#### Babel Seed Projects
-
-* [babel-angular2-app](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
-* [angular2-fullstack-starter](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
-* [angular2-es6-starter](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
-* [angular-babel-seed](https://github.com/rbnlffl/angular-babel-seed) The super simple Angular quickstarter with ES6
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
-#### Babel Demo, Samples, and Examples
-
-* [angular2-es6-todomvc](https://github.com/blacksonic/angular2-esnext-todomvc) Angular 2 TodoMVC implementation with ES6.
-* [ng1-ng2-webpack-lazy-uirouter](https://github.com/swimlane/ng1-ng4-webpack-lazy-uirouter) Hybrid lazy-loading Angular1 + Angular2 using UI-Router, Webpack2 and Babel.
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
-#### Babel Plugins
-
-* [babel-preset-angular2](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
-* [babel-plugin-type-assertion](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts_assert
 
 ---
 

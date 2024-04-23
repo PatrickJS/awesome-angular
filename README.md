@@ -479,13 +479,15 @@ Table of contents:
 
 #### Charts
 
-* [@ctrl/ngx-chartjs](https://github.com/TypeCtrl/ngx-chartjs) - Functional Chart.js wrapper for Angular
-* [dl-chart](https://github.com/Chtau/dlChart) - Simple and lightweight Chart library without extern Dependencies
 * [ng2-charts](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
 * [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
-* [ngx-f2](https://github.com/hamdiwanis/ngx-f2) - Angular2+ wrapper for antv f2 mobile oriented charts
-* [ngx-trend](https://github.com/scttcper/ngx-trend) - 📈 Simple, elegant spark lines for Angular
 * [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
+* [ng-chartist](https://github.com/willsoto/ng-chartist) - Angular component for Chartist.js
+* [org-chart](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
+* [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
+* [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services
+* [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular
+* [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 
 #### Drag/Drop
 

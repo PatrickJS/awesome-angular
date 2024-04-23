@@ -391,12 +391,6 @@ Table of contents:
 * [ngx-google-analytics](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 
-#### Decorators
-
-* [segal-decorators](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!
-* [ng-portal](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
-* [ng-lock](https://www.npmjs.com/package/ng-lock) Angular decorator for lock a function and user interface while a task running.
-
 #### Site Templates
 
 * [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light](https://github.com/YagoLopez/material-light?ref=awesome-angular). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](https://leafletjs.com). [DEMO ONLINE](https://yagolopez.js.org/ng-dashboard/dist/)
@@ -404,14 +398,6 @@ Table of contents:
 * [Angular Material Dashboard](https://github.com/flatlogic/angular-material-dashboard) - Responsive Angular admin dashboard with material design based on Angular Material.
 
 
-#### Pipes
-
-* [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
-* [ngx-filter-pipe](https://github.com/VadimDez/ngx-filter-pipe) Pipe for filtering arrays
-* [ngx-pipes](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular and beyond!
-* [ngx-order-pipe](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
-* [angular2-camelcase](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
-* [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
 
 #### Generators
 
@@ -710,27 +696,16 @@ Table of contents:
 #### Misc Components
 
 * [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
-* [@ngx-context](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees..
-* [@ngx-meta/core](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
-* [Angular SizeObserver](https://gitlab.com/service-work/size-observer) - style DOM elements based on their display size (rather than browser screen size).
-* [angular2-simple-countdown](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
-* [ng-chat](https://github.com/rpaschoal/ng-chat) - A simple facebook/linkedin lookalike chat module for Angular applications
-* [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) :rocket: Use Google Sheets as your (read-only) backend!
-* [ng-katex](https://github.com/garciparedes/ng-katex) Angular module to write beautiful math expressions with TeX syntax boosted by KaTeX library
-* [ng-wormhole](https://github.com/topaxi/ng-wormhole) - Render components somewhere else in the DOM
 * [ng2-adsense](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications
-* [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
-* [ngx-cdmon](https://www.npmjs.com/package/ngx-cdmon) - Library for monitoring Angular change detection performance.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
 * [@ngneat/transloco](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
-* [ngx-i18n-router](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular by @fulls1z3
-* [ngx-linkifyjs](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
-* [ngx-wheel](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
 * [@tolgee/ngx](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 * [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 * [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
-* [ngx-observers](https://github.com/Raiper34/ngx-observers) - Ngx observers is library to allow developer use Resize, Mutation and Intersection observer api like normal output events on some element.
+* [ng-portal](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
+* [ng-lock](https://www.npmjs.com/package/ng-lock) Angular decorator for lock a function and user interface while a task running.
+* [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
 
 ### JAM Stack
 

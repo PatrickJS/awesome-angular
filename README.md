@@ -599,11 +599,12 @@ Table of contents:
 
 #### Maps
 
-* [angular-cesium](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
-* [angular2-google-maps](https://github.com/SebastianM/angular-google-maps) Angular2 directives for Google Maps
+* [angular-cesium](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular
 * [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js
-
-
+* [ng-maps](https://github.com/ng-maps/ng-maps) - Modular map components for angular
+* [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io
+* [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl
+* [@angular/google-maps](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 
 #### Notifications
 

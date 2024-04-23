@@ -321,6 +321,7 @@ You Need
 * [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem
 * [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
 become an Angular expert
+* [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
 
 #### Integrations
 

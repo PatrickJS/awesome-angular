@@ -534,11 +534,8 @@ Table of contents:
 
 #### File Upload
 
-* [@ctrl/ngx-droppable](https://github.com/typectrl/ngx-droppable) - Give file dropping ability to any element or component
-* [file-droppa](https://github.com/chenyukunJoshHub/fileDroppa) Simple files drop and upload component with files list
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
 * [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
-* [ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) - Highly customizable component to handle file drops and selection.
 * [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload
 
 #### Form Controls

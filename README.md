@@ -18,6 +18,7 @@ Table of contents:
   * [Official Resources](#official-resources)
   * [Community](#community)
   * [Experts on Twitter](#experts-on-twitter)
+  * [Blogs](#blogs)
   * [Server-Side Rendering](#server-side-rendering)
   * [Material Design](#material-design)
   * [Cheatsheet](#cheatsheet)
@@ -197,6 +198,22 @@ Table of contents:
 * [Fabio Biondi](https://github.com/fabiobiondi)
 * [Thomas Laforge](https://twitter.com/laforge_toma)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
+
+#### Blogs
+
+* [angular](https://blog.angular.io/) - Official Angular blog
+* [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
+* [angularexperts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
+* [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem
+* [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
+* [Netanel Basal](https://medium.com/@netbasal)
+* [Tim Deschryver](https://timdeschryver.dev/) 
+* [Chau Tran](https://nartc.me/)
+* [Minko Gechev](https://blog.mgechev.com/)
+* [Matthieu Riegler](https://riegler.fr/) 
+* [Thomas Laforge](https://medium.com/@thomas.laforge)
+* [Rainer Hahnekamp](https://medium.com/@rainer-hahnekamp)
+* [Evgeniy OZ](https://medium.com/@eugeniyoz)
 
 #### Server-Side Rendering
 

@@ -548,14 +548,9 @@ Table of contents:
 * [@robingenz/ngx-infinite-scroll](https://github.com/robingenz/ngx-infinite-scroll) Simple Angular directive for infinite scrolling.
 * [angular-fullpage](https://github.com/alvarotrigo/angular-fullpage) Official component for fullPage.js, a fullscreen scrolling library.
 * [angular-split](https://github.com/bertrandg/angular-split) Angular split component
-* [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - An Infinite Scroll Directive for Angular2 (based on Observables)
+* [ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular
 * [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
-* [ng2-card](https://github.com/c-bata/ng2-card) - Card view component for Angular2
-* [ng2-fullpage](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
-* [ng2-sheet](https://github.com/lexikteam/ng2-sheet) Angular2 Components to add yours components inside a sheet window and repeatedly
-* [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Swipeable card component for Angular2
 * [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`)
-* [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
 
 #### Loaders
 

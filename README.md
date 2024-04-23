@@ -626,26 +626,15 @@ Table of contents:
 
 ##### General
 
-* [@ngx-kit/sula](https://github.com/ngx-kit/sula) - Set of themed components for Angular.
-* [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite 
-* [Element Angular](https://github.com/ElemeFE/element-angular) - Element Design components built on top of Angular 2
-* [Essential JS 2 for Angular by Syncfusion](https://www.syncfusion.com/angular-ui-components) - Over 60 high-performance, lightweight, modular, and responsive UI components for Angular.
-* [ExtAngular](https://www.sencha.com/products/extangular/) - Sencha ExtAngular Pre-built UI Components
-* [Nebular](https://github.com/akveo/nebular) - set of essential (Theme, UI Kit, Auth, Security) modules for complex Angular applications
+* [Syncfusion](https://www.syncfusion.com/angular-components) - The Complete Angular Components Library.
+* [Nebular](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System
 * [NG ZORRO MOBILE](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
-* [ng-lightning](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
-* [ng-metro4](https://github.com/morrisjdev/ng-metro4) - Angular implementation of UI framework Metro4
-* [ng-sq-ui](https://github.com/SQ-UI/ng-sq-ui) - Simple Quality UI kit for Angular. Build by developers for developers!
-* [ngSemantic](https://github.com/vladotesanovic/ngSemantic) - UI components based on Semantic UI
-* [ngx-qrcode2](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
-* [prime-ng](https://www.primefaces.org/primeng/) Collection of rich UI components for Angular 2
-* [vmware clarity](https://github.com/vmware/clarity) - Mostly a CSS only framework but some components are ported to Angular 2
+* [prime-ng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
 * [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
-* [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component) . Lazy load Angular component into HTML template without routing.
 * [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 
 ##### Material Based

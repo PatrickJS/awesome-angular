@@ -68,7 +68,7 @@ Table of contents:
   * [TypeScript General Resources](#typescript-general-resources)
   * [Seed Projects](#typescript-seed-projects)
 * [Dart](#angular-2-in-dart)
-  * [Seed Projects](#dart-seed-projects)
+  * [General Resources](#dart-general-resources)
 * [Traceur](#angular-2-in-traceur)
   * [Traceur General Resources](#traceur-general-resources)
   * [Seed Projects](#traceur-seed-projects)
@@ -123,7 +123,6 @@ Table of contents:
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
 * [Angular Expo](https://angularexpo.com/) showcase.
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
-* [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 
@@ -416,9 +415,6 @@ Table of contents:
     * [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket)
     * [ngx-rocket/cli](https://github.com/ngx-rocket/cli)
     * [ngx-rocket/core](https://github.com/ngx-rocket/core)
-* Dart
-  * Stagehand
-    * [dart-lang/stagehand](https://github.com/dart-lang/stagehand)
 * Scaffold
   * [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
 * Spring Boot
@@ -821,21 +817,9 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Dart General Resources
 
-* [Dart](https://www.dartlang.org/) Official Website for Dart.
-* [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
+* [Dart](https://dart.dev/) Official Website for Dart.
 * [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
-* [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
-* [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
-
-#### Dart Seed Projects
-
-* [Angular 2 Dart Quickstart](https://github.com/andresaraujo/ng2_dart_quickstart) A minimal quick start project.
-
-#### Dart Demo, Samples, and Examples
-
-* [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart.
-* [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
+* [angulardart-community](https://github.com/angulardart-community/website) - The next-generation AngularDart documentation website.
 
 ---
 

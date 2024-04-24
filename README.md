@@ -65,6 +65,7 @@ Table of contents:
 * [Authentication](#authentication)
 * [NgRx](#ngrx)
 * [Deployment](#deployment)
+* [Updating](#updating)
 
 ### Angular
 
@@ -686,6 +687,12 @@ become an Angular expert
 * [Firebase Hosting](https://firebase.google.com/docs/hosting) - [Angular Fire](https://github.com/angular/angularfire) can help the process in deploying to Firebase Hosting.  
 * [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
 * [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
+
+#### Updating
+
+* [angular update guide](https://update.angular.io/) - Interactive guide to help you migrate from one version of Angular to another.  
+* [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
+* [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 
 ---
 

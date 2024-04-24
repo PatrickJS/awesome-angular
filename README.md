@@ -37,7 +37,6 @@ Table of contents:
   * [Generators](#generators)
   * [Documentation tools](#documentation-tools)
   * [Developer tools](#developer-tools)
-  * [Schematics](#schematics)
   * [Angular Challenges](https://angular-challenges.vercel.app/)
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
@@ -348,6 +347,7 @@ become an Angular expert
 * [angular-nest](https://github.com/mugifly/angular-nest) - Simple web app template with Angular v17 + NestJS v9 + ng-openapi-gen.
 * [gradient-able-free-admin-template](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template
 * [angular-ngrx-frontend](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
+* [Threejs](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app
 
 #### Generators
 
@@ -380,14 +380,6 @@ become an Angular expert
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code. 
 * [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)
-
-#### Schematics
-
-* [Cypress](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
-* [Jest](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
-* [Prettier](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
-* [Tailwind CSS](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
-* [Threejs](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
 
 ---
 

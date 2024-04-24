@@ -363,6 +363,7 @@ become an Angular expert
 * [Storybook](https://github.com/storybooks/storybook)-  The UI development environment you'll love to use
 * [Compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application
 * [ng-doc](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects
+* [docgeni](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 
 #### Developer tools
 

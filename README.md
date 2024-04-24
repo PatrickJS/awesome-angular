@@ -6,7 +6,7 @@
 
 # Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is the original Awesome list of the Angular2 framework, today known as just [Angular](https://angular.io/). This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
+This is the original Awesome list of the Angular framework, today known as just [Angular](https://angular.dev/). This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
 ##### Current Angular version:
 

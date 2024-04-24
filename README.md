@@ -62,6 +62,7 @@ Table of contents:
 * [Security](#security)
 * [Authentication](#authentication)
 * [NgRx](#ngrx)
+* [Deployment](#deployment)
 
 ### Angular
 
@@ -675,6 +676,14 @@ become an Angular expert
 * [ngrx-store-localstorage](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between @ngrx store and local storage
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
 * [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
+
+#### Deployment
+
+* [aws amplify](https://docs.amplify.aws/angular/)
+* [Vercel](https://vercel.com/solutions/angular)
+* [Firebase Hosting](https://firebase.google.com/docs/hosting) - [Angular Fire](https://github.com/angular/angularfire) can help the process in deploying to Firebase Hosting.  
+* [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
+* [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 
 ---
 

@@ -345,21 +345,13 @@ become an Angular expert
 * [gradient-able-free-admin-template](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template
 * [angular-ngrx-frontend](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
 
-
-
 #### Generators
 
-* Node.js
-  * Slush
-    * [TheVelourFog/slush-angular2](https://github.com/RyanMetin/slush-angular2)
-  * Yeoman
-    * [swirlycheetah/generator-angular2](https://github.com/chrisdwheatley/generator-angular2)
-  * ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
-    * [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket)
-    * [ngx-rocket/cli](https://github.com/ngx-rocket/cli)
-    * [ngx-rocket/core](https://github.com/ngx-rocket/core)
-* Scaffold
-  * [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
+* JavaScript
+  * [teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
+  * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+  * [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
+  * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
 * Spring Boot
   * [Bootify.io](https://bootify.io): Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
   * [JHipster](https://www.jhipster.tech): Open source app generator for Spring Boot and Angular

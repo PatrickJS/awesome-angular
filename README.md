@@ -347,14 +347,15 @@ become an Angular expert
 
 #### Generators
 
-* JavaScript
+* Node.js
   * [teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
   * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
   * [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
   * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
+  * [generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 * Spring Boot
-  * [Bootify.io](https://bootify.io): Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
-  * [JHipster](https://www.jhipster.tech): Open source app generator for Spring Boot and Angular
+  * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
+  * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular
 
 #### Documentation tools
 

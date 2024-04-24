@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://patrickjs.com" target="_blank">
-    <img src="/media/awesome-angular.png" alt="Awesome Angular" />
+    <img src="/media/new/awesome-angular.png" alt="Awesome Angular" />
   </a>
 </p>
 

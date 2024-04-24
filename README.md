@@ -687,7 +687,7 @@ become an Angular expert
 
 ---
 
-enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__)
+enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__) and [**jdegand**](https://github.com/jdegand)
 
 ---
 

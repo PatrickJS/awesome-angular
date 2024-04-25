@@ -256,17 +256,17 @@ Table of contents:
 
 #### YouTube Channels
 
-* [YouTube](https://www.youtube.com/@procademy) - Procademy
-* [YouTube](https://www.youtube.com/@MonsterlessonsAcademy) - Monsterlessons Academy
-* [YouTube](https://www.youtube.com/@JoshuaMorony) - Joshua Morony
-* [YouTube](https://www.youtube.com/@NihiraTechiees) - Nihira Techiees
-* [YouTube](https://www.youtube.com/@AngularUniversity) - Angular University
-* [YouTube](https://www.youtube.com/@RainerHahnekamp) - Rainer Hahnekamp
-* [YouTube](https://www.youtube.com/@CodeShotsWithProfanis) - Code Shots With Profanis 
-* [YouTube](https://www.youtube.com/@deborah_kurata) - Deborah Kurata
-* [YouTube](https://www.youtube.com/@BrandonRobertsDev) - BrandonRobertsDev
-* [YouTube](https://www.youtube.com/@DecodedFrontend) - Decoded Frontend
-* [YouTube](https://www.youtube.com/@galaxies_dev) - Galaxies_dev
+* [Procademy](https://www.youtube.com/@procademy) 
+* [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
+* [Joshua Morony](https://www.youtube.com/@JoshuaMorony)
+* [Nihira Techiees](https://www.youtube.com/@NihiraTechiees)
+* [Angular University](https://www.youtube.com/@AngularUniversity)
+* [Rainer Hahnekamp](https://www.youtube.com/@RainerHahnekamp)
+* [Code Shots With Profanis](https://www.youtube.com/@CodeShotsWithProfanis) 
+* [Deborah Kurata](https://www.youtube.com/@deborah_kurata)
+* [BrandonRobertsDev](https://www.youtube.com/@BrandonRobertsDev)
+* [Decoded Frontend](https://www.youtube.com/@DecodedFrontend)
+* [Galaxies_dev](https://www.youtube.com/@galaxies_dev)
 
 #### Style Guides
 

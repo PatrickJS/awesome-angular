@@ -88,13 +88,13 @@ Table of contents:
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-* [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [AngularAir](https://angularair.com/) podcast and live broadcast.
 * [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
 * [Angular Expo](https://angularexpo.com/) showcase.
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
+* [angular-logos](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 
 #### Angular Team on Twitter
 

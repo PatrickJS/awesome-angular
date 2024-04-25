@@ -26,7 +26,7 @@ Table of contents:
   * [Cheatsheet](#cheatsheet)
   * [Testing](#testing)
   * [Angular CLI](#angular-cli)
-  * [Webpack](#webpack)
+  * [Builders](#builders)
   * [YouTube Channels](#youtube-channels)
   * [Style Guides](#style-guides)
   * [Books](#books)
@@ -242,17 +242,22 @@ Table of contents:
 * [Official repository](https://github.com/angular/angular-cli)
 * [ng-cli-hooks](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build
 
-#### Webpack
+#### Builders
 
-* [Official web page](https://webpack.js.org)
-* [Angular Webpack Starter from PatrickJS](https://github.com/gdi2290/angular-starter)
-* [Angular Webpack from preboot](https://github.com/preboot/angular-webpack)
-* [Angular Nightly Webpack Starter](https://github.com/qdouble/angular-webpack2-starter)
-* [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden](https://github.com/damienbod/AngularWebpackVisualStudio)
-* [Angular Typescript Webpack from schempy](https://github.com/schempy/angular2-typescript-webpack)
-* [Angular Webpack Tour of Heroes from michaelbazos](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
-* [Angular Webpack + rxjs + modules](https://github.com/jorgeas80/angular2-webpack-toh)
-* [Angular Builders](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
+* [Webpack](https://webpack.js.org)
+* [ESBuild](https://esbuild.github.io/)
+* [Nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+* [Angular Builders](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
+* [Jest Builder](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade
+* [Custom Webpack](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack) - custom webpack
+* [Custom ESBuild](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-esbuild) - Allows custom esbuild configuration. 
+* [Bazel](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
+* [Timestamp](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
+* [ngx-build-plus](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
+* [ng-process-env](https://github.com/danduh/ng-process-env) - Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant `environment.ts` file.
+* [ngx-electronify](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
+* [dotenv-run](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
+* [ng-packagr](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 
 #### YouTube Channels
 

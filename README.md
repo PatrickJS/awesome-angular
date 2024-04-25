@@ -178,6 +178,7 @@ Table of contents:
 * [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
 * [angularexperts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 * [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem
+* [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 * [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 * [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/) 
@@ -293,6 +294,7 @@ Table of contents:
 * [Angular.Schule (in Germany)](https://angular.schule/)
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
+* [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 
 #### Online Training
 
@@ -303,6 +305,7 @@ You Need
 * [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
 become an Angular expert
 * [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
+* [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 
 #### Integrations
 

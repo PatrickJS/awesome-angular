@@ -95,6 +95,7 @@ Table of contents:
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 * [angular-logos](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
+* [madewithangular](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
 
 #### Angular Team on Twitter
 

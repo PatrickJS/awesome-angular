@@ -82,6 +82,10 @@ a {
   .page-header a {
     color: #fff; } }
 
+.project-logo {
+  max-width: 900px;
+  width: 100%; }
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem; }

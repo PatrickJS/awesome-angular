@@ -58,6 +58,7 @@ Table of contents:
   * [UX Components](#ux-components)
   * [Viewers](#viewers)
   * [Misc Components](#misc-components)
+* [RxJS](#rxjs)
 * [TypeScript](#typescript)
 * [Ionic](#ionic)
 * [Security](#security)
@@ -613,6 +614,14 @@ become an Angular expert
 * [ng-portal](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
 * [ng-lock](https://www.npmjs.com/package/ng-lock) Angular decorator for lock a function and user interface while a task running.
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
+
+#### RxJS
+
+* [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript
+* [learn-rxjs](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS
+* [rxjs-course](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
+* [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
+* [rxjs-challenge](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 
 #### TypeScript 
 

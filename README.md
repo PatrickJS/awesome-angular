@@ -502,6 +502,7 @@ become an Angular expert
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 * [@dotglitch/ngx-lazy-loader](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
 * [ng-lazy-load-component](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
+* [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
 
 #### Maps
 

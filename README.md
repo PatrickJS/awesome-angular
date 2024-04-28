@@ -209,13 +209,11 @@ Table of contents:
 #### Cheatsheet
 
 * [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
-* [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
-* [Angular Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
-* [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
-* [Angular References](https://ngrefs.com)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
-* [Angular Cheetsheet](https://www.interviewbit.com/angular-cheat-sheet/)
+* [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
+* [Angular Checklist](https://github.com/typebytes/angular-checklist) 
+* [ZeroToMaster Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
 
 ##### Testing
 

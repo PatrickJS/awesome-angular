@@ -172,8 +172,7 @@ Table of contents:
 * [Michael Hladky](https://twitter.com/Michael_Hladky)
 * [Fabio Biondi](https://github.com/fabiobiondi)
 * [Thomas Laforge](https://twitter.com/laforge_toma)
-* [@codewith_ahsan](https://twitter.com/codewith_ahsan)
-* [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
+* [codewith_ahsan](https://twitter.com/codewith_ahsan)
 
 #### Blogs
 
@@ -214,7 +213,7 @@ Table of contents:
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
 * [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
 * [Angular Checklist](https://github.com/typebytes/angular-checklist) 
-* [ZeroToMaster Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
+* [ZeroToMastery Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
 
 ##### Testing
 
@@ -396,7 +395,6 @@ become an Angular expert
 
 ### Third Party Components
 
-
 #### Animations
 
 * [tsparticles](https://github.com/tsparticles/angular/#readme) - A component to easily add Particles animations to your Angular application.
@@ -480,7 +478,6 @@ become an Angular expert
 * [primeicons](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
 * [angular-svg-icon](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
 
-
 #### Keyboard Mouse
 
 * [ngx-focus-control](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility
@@ -499,7 +496,7 @@ become an Angular expert
 
 #### Loaders
 
-* [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
+* [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo.
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 * [@dotglitch/ngx-lazy-loader](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
 * [ng-lazy-load-component](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
@@ -507,39 +504,38 @@ become an Angular expert
 
 #### Maps
 
-* [angular-cesium](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular
-* [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js
-* [ng-maps](https://github.com/ng-maps/ng-maps) - Modular map components for angular
-* [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io
-* [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl
+* [angular-cesium](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular.
+* [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
+* [ng-maps](https://github.com/ng-maps/ng-maps) - Modular map components for angular.
+* [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.
+* [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 * [@angular/google-maps](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 
 #### Notifications
 
 * [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
-* [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr
+* [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
 * [hot-toast](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
 * [ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 * [ngx-awesome-popup](https://github.com/boris-jenicek/ngx-awesome-popup) - Angular dialog modal framework (Confirmation box, Alert box, Toast notification and Cookie banner).
 * [angular-bootstrap-toast-service](https://github.com/svierk/angular-bootstrap-toast-service) - Angular project for sending Bootstrap based toast notifications including Vercel deployment.
 * [angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 
-
 #### State Management
 
-* [angular2-jwt](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs
-* [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
+* [angular2-jwt](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
+* [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
 * [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
-* [akita](https://github.com/salesforce/akita) - A Reactive State Management Tailored-Made for JS Applications
+* [akita](https://github.com/salesforce/akita) - A Reactive State Management Tailored-Made for JS Applications.
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 * [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 * [ngxs](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.
-* [ngrx](https://github.com/ngrx/platform) - Reactive State for Angular
+* [ngrx](https://github.com/ngrx/platform) - Reactive State for Angular.
 * [rx-angular](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
 * [query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web. 
 * [elf](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
-* [state-adapt](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library
-* [ngx-signal-state](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular
+* [state-adapt](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library.
+* [ngx-signal-state](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular.
 * [mini-rx-store](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
 
 #### Tables
@@ -555,16 +551,16 @@ become an Angular expert
 
 ##### General
 
-* [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite 
+* [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
 * [Syncfusion](https://www.syncfusion.com/angular-components) - The Complete Angular Components Library.
-* [Nebular](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System
+* [Nebular](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.
 * [NG ZORRO MOBILE](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
-* [prime-ng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
-* [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2
-* [Taiga UI](https://taiga-ui.dev/) - powerful set of open source components for Angular!
-* [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
+* [prime-ng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library.
+* [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
+* [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
+* [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library.
 
 ##### Material Based
 
@@ -622,28 +618,28 @@ become an Angular expert
 
 #### RxJS
 
-* [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript
-* [learn-rxjs](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS
+* [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript.
+* [learn-rxjs](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
 * [rxjs-course](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
 * [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
 * [rxjs-challenge](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 
 #### TypeScript 
 
-* [TypeScript](https://www.typescriptlang.org/) Official Website for TypeScript
-* [REPL](https://www.typescriptlang.org/play/) Official TypeScript REPL that runs entirely in your browser
-* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+* [TypeScript](https://www.typescriptlang.org/) - Official Website for TypeScript.
+* [REPL](https://www.typescriptlang.org/play/) - Official TypeScript REPL that runs entirely in your browser.
+* [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) - Official GitHub Repo for TypeScript.
+* [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 * [typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
 * [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
 * [typescript-challenges](https://github.com/psmyrdek/typescript-challenges) - A set of challenges helping you understand TypeScript
-* [Sheriff](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects
+* [Sheriff](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects.
 * [Total Typescript Book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
-* [ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 
+* [ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place.
 * [trpc](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 * [quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 * [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
-* [ngx-mf](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type
+* [ngx-mf](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type.
 * [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 * [typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 * [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
@@ -654,12 +650,12 @@ become an Angular expert
 
 > Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
 
-* [Ionic Framework](https://ionicframework.com) - Official Website for Ionic Framework
-* [(Github) Ionic Framework](https://github.com/ionic-team/ionic-framework) - Github Repo of Ionic Framework
+* [Ionic Framework](https://ionicframework.com) - Official Website for Ionic Framework.
+* [(Github) Ionic Framework](https://github.com/ionic-team/ionic-framework) - Github Repo of Ionic Framework.
 * [Ionic Academy](https://ionicacademy.com/) - The fastest way to learn Ionic.
 * [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
 * [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
-* [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular
+* [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
 
 ---
 
@@ -673,25 +669,25 @@ become an Angular expert
 
 #### Authentication
 
-* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL](https://github.com/stalniy/casl) with Angular2+
-* [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`
-* [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)  
-* [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, Implicit Flow
-* [angularx-social-login](https://github.com/abacritt/angularx-social-login) - Social login and authentication module for Angular 17
-* [ms-identity-javascript-angular-tutorial](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial) - A chapterwise tutorial that will take you through the fundamentals of modern authentication with Microsoft identity platform using MSAL Angular v2.
-* [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps
-* [auth0-angular](https://github.com/auth0/auth0-angular) - Auth0 SDK for Angular Single Page Applications
-* [ng-universal](https://github.com/nestjs/ng-universal) - Angular Universal module for Nest framework (node.js)
-* [angularfire](https://github.com/angular/angularfire) - Angular + Firebase
+* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic  permissions management library [CASL](https://github.com/stalniy/casl) with Angular2+.
+* [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for `firebase` `authentication`.
+* [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
+* [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - npm package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow.
+* [angularx-social-login](https://github.com/abacritt/angularx-social-login) - Social login and authentication module for Angular 17.
+* [ms-identity-javascript-angular-tutorial](https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial) - A chapterwise tutorial that will take you through the fundamentals of modern authentication with Microsoft identity platform using MSAL Angular.
+* [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps.
+* [auth0-angular](https://github.com/auth0/auth0-angular) - Auth0 SDK for Angular Single Page Applications.
+* [ng-universal](https://github.com/nestjs/ng-universal) - Angular Universal module for Nest framework (Node.js).
+* [angularfire](https://github.com/angular/angularfire) - Angular + Firebase.
 * [supabase](https://supabase.com/docs/guides/getting-started/tutorials/with-angular) - Build a User Management App with Angular.  
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
 * [amplify](https://docs.amplify.aws/angular/) - AWS Amplify streamlines full-stack app development. With its libraries, CLI, and services, you can easily connect your frontend to the cloud for authentication, storage, APIs, and more.
 
 #### NgRx
 
-* [ngrx](https://ngrx.io/) - Reactive State for Angular
-* [ngrx-course](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide
-* [ngrx-store-localstorage](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between @ngrx store and local storage
+* [ngrx](https://ngrx.io/) - Reactive State for Angular.
+* [ngrx-course](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
+* [ngrx-store-localstorage](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between @ngrx store and local storage.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
 * [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
 

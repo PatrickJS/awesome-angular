@@ -97,6 +97,7 @@ Table of contents:
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 * [angular-logos](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 * [madewithangular](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
+* [angular.love](https://angular.love/) - Polish community for Angular fans
 
 #### Angular Team on Twitter
 
@@ -182,6 +183,7 @@ Table of contents:
 * [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem
 * [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 * [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
+* [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular 
 * [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/) 
 * [Chau Tran](https://nartc.me/)

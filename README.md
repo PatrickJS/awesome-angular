@@ -19,6 +19,7 @@ Table of contents:
 * [Angular](#angular)
   * [Official Resources](#official-resources)
   * [Community](#community)
+  * [Newsletters](#newsletters)
   * [Experts on Twitter](#experts-on-twitter)
   * [Blogs](#blogs)
   * [Server-Side Rendering](#server-side-rendering)
@@ -98,6 +99,15 @@ Table of contents:
 * [angular-logos](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 * [madewithangular](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
 * [angular.love](https://angular.love/) - Polish community for Angular fans
+
+#### Newsletters
+
+* [angular addicts](https://www.angularaddicts.com/)
+* [weekly angular](https://prodigious-knitter-4508.ck.page/subscribe)
+* [angular weekly](https://angularweekly.substack.com/)
+* [practical-angular-newsletter](https://angularmentor.io/practical-angular-newsletter)
+* [danywalls](https://www.danywalls.com/newsletter)
+* [ultimate courses](https://ultimatecourses.com/newsletter)
 
 #### Angular Team on Twitter
 

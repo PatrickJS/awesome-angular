@@ -580,16 +580,16 @@ become an Angular expert
 
 ##### Material Based
 
-* [@angular-material-extensions/contacts](https://github.com/angular-material-extensions/contacts) - Angular Library to manage contacts and users with a material design
-* [@angular-material-extensions/faq](https://github.com/angular-material-extensions/faq) - Angular Library built with material design in order to provide a reusable faq (frequently asked questions) component for every project. Ask, Answer and List
-* [@angular-material-extensions/google-maps-autocomplete](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design
-* [@angular-material-extensions/link-preview](https://github.com/angular-material-extensions/link-preview) - Angular open source UI library to preview web links
-* [@angular-material-extensions/pages](https://github.com/angular-material-extensions/pages) - Open source library for angular apps to illustrate custom material pages content with steps (ideal for **tutorials** and **explanations** purposes)
-* [@angular-material-extensions/password-strength](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design
-* [angular-jqwidgets](https://www.jqwidgets.com/angular/) Advanced Angular Components with Material Design.
-* [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
-* [Material 2](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
-* [Teradata covalent](https://github.com/Teradata/covalent/) - UI Platform built on @angular/material 2.0
+* [Covalent](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
+* [IgniteUI Angular](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
+* [Alyle UI](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
+* [angular-material-extensions](https://github.com/angular-material-extensions)
+* [angular-material-extensions/google-maps-autocomplete](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
+* [angular-material-extensions/select-country](https://github.com/angular-material-extensions/select-country)
+* [angular-material-extensions/password-strength](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
+* [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
+* [angular material components](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
+* [angular components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 
 ##### Bootstrap Based
 

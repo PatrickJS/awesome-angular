@@ -294,8 +294,8 @@ Table of contents:
 
 #### Style Guides
 
-* [Official Angular style guide](https://angular.io/guide/styleguide)
-* [Shared TSLint & codelyzer rules by fulls1z3](https://github.com/ng-seed/angular-tslint-rules)
+* [Official Angular style guide](https://angular.dev/style-guide#)
+* [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
 
 #### Books
 

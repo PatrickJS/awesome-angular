@@ -193,6 +193,12 @@ Table of contents:
 * [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 * [justangular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 * [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular 
+* [angular in depth](https://angularindepth.com/)
+* [angularminds](https://www.angularminds.com/blog)
+* [angulararchitects](https://www.angulararchitects.io/en/blog/)
+* [house of angular](https://houseofangular.io/blog/)
+* [thisdot labs](https://www.thisdot.co/blog?tags=angular)
+* [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
 * [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/) 
 * [Chau Tran](https://nartc.me/)

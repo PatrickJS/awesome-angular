@@ -295,7 +295,7 @@ Table of contents:
 #### Style Guides
 
 * [Official Angular style guide](https://angular.dev/style-guide#)
-* [Infinum](https://infinum.com/handbook/frontend/angular/angular-guidelines-and-best-practices/formatting-naming-and-best-practices)
+* [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
 
 #### Books
 

@@ -474,16 +474,23 @@ become an Angular expert
 
 #### Form Controls
 
-* [@ctrl/ngx-emoji-mart](https://github.com/TypeCtrl/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular
-* [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular 4+ input mask
-* [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular 2 multiselect dropdown component for web applications
-* [angular2-text-mask](https://github.com/text-mask/text-mask) - Angular 2 input mask directive
-* [ng-select](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete
-* [ngx-color](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
-* [ngx-flag-picker](https://github.com/iamartyom/ngx-flag-picker) - 😻 Customizable Angular component which containing a dropdown with country flags
-* [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular
-* [formio](https://github.com/formio/angular) - JSON powered forms for Angular
-* [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular
+* [ngx-emoji-mart](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular.
+* [ngx-color](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more.
+* [ngx-colors](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker for Angular.
+* [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular.
+* [angular-colorful](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
+* [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
+* [ngx-mask](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
+* [maskito](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
+* [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular multiselect dropdown component for web applications.
+* [ng-select](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete.
+* [ngx-numeric-range-form-field](https://github.com/dineeek/ngx-numeric-range-form-field) - Angular Material UI numeric range input form field. It is based on control value accessor.
+* [file-input-accessor](https://github.com/jwelker110/file-input-accessor) - Angular directive that provides file input functionality in Angular forms.
+* [ngx-formcontrol-errors](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
+* [error-tailor](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
+* [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
+* [formio](https://github.com/formio/angular) - JSON powered forms for Angular.
+* [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
 
 #### Icons
 

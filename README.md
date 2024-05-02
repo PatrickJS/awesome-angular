@@ -444,6 +444,7 @@ become an Angular expert
 * [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services
 * [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
+* [dag](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 
 #### Drag/Drop
 
@@ -495,6 +496,7 @@ become an Angular expert
 * [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
 * [formio](https://github.com/formio/angular) - JSON powered forms for Angular.
 * [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
+* [reactive-forms](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
 #### Icons
 
@@ -504,6 +506,7 @@ become an Angular expert
 * [ng-icons](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
 * [primeicons](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
 * [angular-svg-icon](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
+* [svg-icon](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
 
 #### Keyboard Mouse
 
@@ -511,6 +514,7 @@ become an Angular expert
 * [angular2-hotkeys](https://github.com/brtnshrdr/angular2-hotkeys) - Keyboard shortcuts for Angular 2 apps
 * [virtual-keyboard-javascript](https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) - Virtual Keyboard for Javascript, React, Angular, Vue
 * [angular-touch-keyboard](https://github.com/mohsen77sk/angular-touch-keyboard) - Virtual Keyboard for Angular applications.
+* [hotkeys](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
 
 #### Layout Components
 
@@ -520,6 +524,7 @@ become an Angular expert
 * [ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular
 * [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
 * [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`)
+* [overview](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
 
 #### Loaders
 
@@ -528,6 +533,7 @@ become an Angular expert
 * [@dotglitch/ngx-lazy-loader](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
 * [ng-lazy-load-component](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
 * [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
+* [content-loader](https://github.com/ngneat/content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
 
 #### Maps
 
@@ -645,6 +651,12 @@ become an Angular expert
 * [rx-computed](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' computed().
 * [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 * [convoyr](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
+* [dialog](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
+* [edit-in-place](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
+* [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs
+* [cashew](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
+* [helipopper](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
+
 
 #### RxJS
 
@@ -654,6 +666,8 @@ become an Angular expert
 * [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
 * [rxjs-challenge](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 * [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
+* [until-destroy](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
+* [effects](https://github.com/ngneat/effects) - A framework-agnostic RxJS effects implementation.
 
 #### TypeScript 
 

@@ -99,6 +99,7 @@ Table of contents:
 * [angular-logos](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 * [madewithangular](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
 * [angular.love](https://angular.love/) - Polish community for Angular fans
+* [angular hub](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities
 
 #### Newsletters
 

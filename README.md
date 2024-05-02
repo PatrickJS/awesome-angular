@@ -62,6 +62,7 @@ Table of contents:
 * [RxJS](#rxjs)
 * [TypeScript](#typescript)
 * [Ionic](#ionic)
+* [HTTP](#HTTP)
 * [Security](#security)
 * [Authentication](#authentication)
 * [NgRx](#ngrx)
@@ -556,9 +557,7 @@ become an Angular expert
 
 #### State Management
 
-* [angular2-jwt](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
-* [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 * [akita](https://github.com/salesforce/akita) - A Reactive State Management Tailored-Made for JS Applications.
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 * [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
@@ -650,13 +649,10 @@ become an Angular expert
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 * [rx-computed](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' computed().
 * [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
-* [convoyr](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
 * [dialog](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 * [edit-in-place](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 * [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs
-* [cashew](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 * [helipopper](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
-
 
 #### RxJS
 
@@ -689,8 +685,6 @@ become an Angular expert
 * [typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 * [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
----
-
 #### Ionic 
 
 > Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
@@ -702,7 +696,16 @@ become an Angular expert
 * [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
 * [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
 
----
+#### HTTP
+
+* [angular2-jwt](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
+* [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+* [cashew](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
+* [convoyr](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
+* [angular-http-cache-interceptor](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor
+* [apollo-angular](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
+* [ngx-awesome-uploader](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
+* [ngx-uploadx](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
 #### Security
 

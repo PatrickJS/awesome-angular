@@ -585,6 +585,7 @@ become an Angular expert
 
 * [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
 * [Syncfusion](https://www.syncfusion.com/angular-components) - The Complete Angular Components Library.
+* [ej2-angular-ui-components](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
 * [Nebular](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.
 * [NG ZORRO MOBILE](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 * [NG ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
@@ -593,6 +594,16 @@ become an Angular expert
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
 * [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
 * [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library.
+* [ng-devui](https://github.com/DevCloudFE/ng-devui) - Angular UI Component Library based on DevUI Design.
+* [ng-aquila](https://github.com/allianz/ng-aquila) - Aquila is an open-source component library provided by the Allianz Global Digital Factory (GDF). We use this library internally with Allianz branding. Here we provide a white label variant of these components.
+* [enterprise-ng](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
+* [oblique](https://github.com/oblique-bit/oblique) - An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components.
+* [fundamental-ngx](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
+* [designsystem](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
+* [sbb-angular](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB
+* [ui](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
+* [ngx-tethys](https://github.com/atinc/ngx-tethys) - Fast and reliable Tethys Design components for Angular.
+* [antwerp-ui_angular](https://github.com/digipolisantwerp/antwerp-ui_angular) - Antwerp UI is a component interface library for building user interfaces and responsive web apps.
 
 ##### Material Based
 
@@ -611,7 +622,7 @@ become an Angular expert
 
 * [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) Material Design for Bootstrap 4 (Angular)
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
-* [ng2-bootstrap](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
+* [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
 
 ##### Tailwind CSS Based
 

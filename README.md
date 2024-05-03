@@ -531,10 +531,17 @@ become an Angular expert
 
 * [angular2-promise-buttons](https://github.com/johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo.
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
-* [@dotglitch/ngx-lazy-loader](https://github.com/knackstedt/ngx-lazy-loader) - Highly customizable lazy loader for Angular components. 
+* [dotglitch-ngx](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components. 
 * [ng-lazy-load-component](https://github.com/nigrosimone/ng-lazy-load-component) - Lazy load Angular component into HTML template without routing.
 * [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
 * [content-loader](https://github.com/ngneat/content-loader) - SVG component to create placeholder loading, like Facebook cards loading.
+* [ngx-loading](https://github.com/zak-c/ngx-loading) - A loading spinner for Angular applications.
+* [ng-block-ui](https://github.com/kuuurt13/ng-block-ui) - Block UI Loader/Spinner for Angular.
+* [ngx-spinner](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
+* [angular-busy](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
+* [angular-loaders](https://github.com/pjlamb12/angular-loaders) - Angular loader components
+* [ngx-loader-indicator](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
+* [ngx-skeleton-loader](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 
 #### Maps
 

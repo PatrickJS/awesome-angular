@@ -20,7 +20,10 @@ Table of contents:
   * [Official Resources](#official-resources)
   * [Community](#community)
   * [Newsletters](#newsletters)
-  * [Experts on Twitter](#experts-on-twitter)
+  * [Twitter](#twitter)
+    * [angular-team](#angular-team)
+    * [experts](#experts)
+    * [google-developer-experts](#google-developer-experts)
   * [Blogs](#blogs)
   * [Server-Side Rendering](#server-side-rendering)
   * [Material Design](#material-design)
@@ -111,7 +114,9 @@ Table of contents:
 * [danywalls](https://www.danywalls.com/newsletter)
 * [ultimate courses](https://ultimatecourses.com/newsletter)
 
-#### Angular Team on Twitter
+#### Twitter
+
+##### Angular Team 
 
 * [Minko Gechev](https://twitter.com/mgechev)
 * [Alan Agius](https://twitter.com/AlanAgius4)
@@ -128,7 +133,7 @@ Table of contents:
 * [Mark Pieszak](https://twitter.com/MarkPieszak)
 * [Simona Cotin](https://twitter.com/simona_cotin)
 
-#### Experts on Twitter
+##### Experts on Twitter
 
 > List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 

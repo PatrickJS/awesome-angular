@@ -133,7 +133,7 @@ Table of contents:
 * [Mark Pieszak](https://twitter.com/MarkPieszak)
 * [Simona Cotin](https://twitter.com/simona_cotin)
 
-##### Experts on Twitter
+##### Experts
 
 > List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 

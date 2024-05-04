@@ -285,6 +285,8 @@ Table of contents:
 
 #### YouTube Channels
 
+* [Angular](https://www.youtube.com/@Angular)
+* [NG CONF](https://www.youtube.com/@ngconfonline)
 * [Procademy](https://www.youtube.com/@procademy) 
 * [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
 * [Joshua Morony](https://www.youtube.com/@JoshuaMorony)
@@ -296,6 +298,17 @@ Table of contents:
 * [BrandonRobertsDev](https://www.youtube.com/@BrandonRobertsDev)
 * [Decoded Frontend](https://www.youtube.com/@DecodedFrontend)
 * [Galaxies_dev](https://www.youtube.com/@galaxies_dev)
+* [Zoaib Khan](https://www.youtube.com/@ZoaibKhan)
+* [AyyazTech](https://www.youtube.com/@AyyazTech)
+* [NivekDev](https://www.youtube.com/@nivekDev)
+* [LeelaWebDev](https://www.youtube.com/@LeelaWebDev)
+* [WebTechTalk](https://www.youtube.com/@WebTechTalk)
+* [Babatunde Lamidi](https://www.youtube.com/@babatundelmd)
+* [CodingWithSai](https://www.youtube.com/@codingwithsaik)
+* [UXTrendz](https://www.youtube.com/@uxtrendz)
+* [TechStackNation](https://www.youtube.com/@techstacknation)
+* [Angular Love](https://www.youtube.com/@angularlove)
+* [NG NEWS](https://www.youtube.com/@ng-news)
 
 #### Style Guides
 

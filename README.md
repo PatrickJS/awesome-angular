@@ -47,6 +47,7 @@ Table of contents:
   * [Calendars](#calendars)
   * [Charts](#charts)
   * [Drag/Drop](#drag/drop)
+  * [Node-Based UI](#node-based-ui)
   * [Editor Components](#editor-components)
   * [File Upload](#file-upload)
   * [Form Controls](#form-controls)
@@ -474,6 +475,10 @@ become an Angular expert
 * [ng-dnd](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular
 * [ngx-file-drag-drop](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 * [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The @angular/cdk/drag-drop module provides you with a way to easily and declaratively create drag-and-drop interfaces.
+
+#### Node-Based UI
+
+* [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 
 #### Editor Components
 

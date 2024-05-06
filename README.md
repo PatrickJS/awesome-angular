@@ -501,6 +501,8 @@ become an Angular expert
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
 * [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
 * [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload
+* [ngx-awesome-uploader](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
+* [ngx-uploadx](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
 #### Form Controls
 
@@ -744,8 +746,6 @@ become an Angular expert
 * [convoyr](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
 * [angular-http-cache-interceptor](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor
 * [apollo-angular](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
-* [ngx-awesome-uploader](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
-* [ngx-uploadx](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
 #### Security
 

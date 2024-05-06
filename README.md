@@ -47,7 +47,6 @@ Table of contents:
   * [Calendars](#calendars)
   * [Charts](#charts)
   * [Drag/Drop](#drag/drop)
-  * [Node-Based UI](#node-based-ui)
   * [Editor Components](#editor-components)
   * [File Upload](#file-upload)
   * [Form Controls](#form-controls)
@@ -61,6 +60,11 @@ Table of contents:
   * [State Management](#state-management)
   * [Tables](#tables)
   * [UI Libraries](#ui-libraries)
+    * [General](#general)
+    * [Material](#material-based)
+    * [BootStrap](#bootstrap-based)
+    * [Tailwind](#tailwind-css-based)
+    * [Node](#node-based)
   * [UX Components](#ux-components)
   * [Viewers](#viewers)
   * [Misc Components](#misc-components)
@@ -477,10 +481,6 @@ become an Angular expert
 * [ngx-file-drag-drop](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 * [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The @angular/cdk/drag-drop module provides you with a way to easily and declaratively create drag-and-drop interfaces.
 
-#### Node-Based UI
-
-* [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
-
 #### Editor Components
 
 * [@ctrl/ngx-codemirror](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular.
@@ -644,6 +644,8 @@ become an Angular expert
 * [ui](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
 * [ngx-tethys](https://github.com/atinc/ngx-tethys) - Fast and reliable Tethys Design components for Angular.
 * [antwerp-ui_angular](https://github.com/digipolisantwerp/antwerp-ui_angular) - Antwerp UI is a component interface library for building user interfaces and responsive web apps.
+* [ng-clarity](https://github.com/vmware-clarity/ng-clarity) - Clarity Angular is a scalable, accessible, customizable, open-source design system built for Angular.
+* [ngx-semantic](https://github.com/ngx-semantic/ngx-semantic) - A new take on an Angular implementation for Semantic UI.
 
 ##### Material Based
 
@@ -668,6 +670,10 @@ become an Angular expert
 
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 * [David UI Angular](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
+
+##### Node Based
+
+* [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 
 #### UX Components
 

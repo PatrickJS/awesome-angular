@@ -129,16 +129,16 @@ Table of contents:
 * [Alan Agius](https://twitter.com/AlanAgius4)
 * [Matthieu Riegler](https://twitter.com/jean__meche)
 * [Alex Rickabaugh](https://twitter.com/synalx)
-* [Caleb Eggensperger](https://twitter.com/calebegg)
-* [Ciro Nunes](https://twitter.com/cironunesdev)
 * [Kristiyan Kostadinov](https://twitter.com/_crisbeto)
-* [David East](https://twitter.com/_davideast)
 * [Paul Gschwendtner](https://twitter.com/devversion)
-* [George Kalpakas](https://twitter.com/gkalpakas)
-* [James Daniels](https://twitter.com/jamesuriah)
 * [Joost Koehoorn](https://twitter.com/devjoost)
-* [Mark Pieszak](https://twitter.com/MarkPieszak)
 * [Simona Cotin](https://twitter.com/simona_cotin)
+* [Jessica Janiuk](https://mastodon.social/@jessicajaniuk)
+* [Doug Parker](https://mastodon.social/@develwithoutacause@techhub.social)
+* [Emma Twersky](https://twitter.com/twerske)
+* [Mark Thompson](https://twitter.com/marktechson)
+* [Pawel Kozlowski](https://twitter.com/pkozlowski_os)
+* [Dylan Hunn](https://twitter.com/dylhunn)
 
 ##### Experts
 

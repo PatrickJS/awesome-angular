@@ -25,7 +25,6 @@ Table of contents:
     * [experts](#experts)
     * [google-developer-experts](#google-developer-experts)
   * [Blogs](#blogs)
-  * [Server-Side Rendering](#server-side-rendering)
   * [Material Design](#material-design)
   * [Cheatsheet](#cheatsheet)
   * [Testing](#testing)
@@ -77,6 +76,8 @@ Table of contents:
 * [NgRx](#ngrx)
 * [Analytics](#analytics)
 * [Deployment](#deployment)
+* [SEO](#seo)
+* [Server-Side Rendering](#server-side-rendering)
 * [Updating](#updating)
 * [Internationalization](#internationalization)
 
@@ -222,15 +223,6 @@ Table of contents:
 * [Thomas Laforge](https://medium.com/@thomas.laforge)
 * [Rainer Hahnekamp](https://medium.com/@rainer-hahnekamp)
 * [Evgeniy OZ](https://medium.com/@eugeniyoz)
-
-#### Server-Side Rendering
-
-* [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
-* [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
-* [ng-web-apis](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular.
-* [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.   
-* [angular-prerender](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
-* [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 
 #### Material Design
 
@@ -693,7 +685,6 @@ for Bootstrap 5 & Angular 17.
 
 #### Misc Components
 
-* [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 * [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
@@ -816,6 +807,24 @@ for Bootstrap 5 & Angular 17.
 * [Firebase Hosting](https://firebase.google.com/docs/hosting) 
 * [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
 * [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
+
+#### SEO
+
+* [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
+* [ngaox](https://www.npmjs.com/package/@ngaox/seo) - Take Your Angular App Development to the Next Level with Ngaox: Seamless Content Integration, SVG Icon Optimization & Inlining, Advanced SEO & Social-Media Management, and More.
+* [ngx-seo](https://github.com/avivharuzi/ngx-seo) - Update SEO title and meta tags easily in Angular apps.
+* [seo-analyzer](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects.
+* [ngx-seo](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
+* [angular-react-seo](https://github.com/ganatan/angular-react-seo) - Angular 17 & React 18 Examples SEO (Search engine optimization).
+
+#### Server-Side Rendering
+
+* [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
+* [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
+* [ng-web-apis](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular.
+* [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.   
+* [angular-prerender](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
+* [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 
 #### Updating
 

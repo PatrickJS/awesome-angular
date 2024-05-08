@@ -110,8 +110,8 @@ Table of contents:
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 * [angular-logos](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 * [madewithangular](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
-* [angular.love](https://angular.love/) - Polish community for Angular fans
-* [angular hub](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities
+* [angular.love](https://angular.love/) - Polish community for Angular fans.
+* [angular hub](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 
 #### Newsletters
 
@@ -277,13 +277,13 @@ Table of contents:
 
 * [Official web page](https://cli.angular.io/)
 * [Official repository](https://github.com/angular/angular-cli)
-* [ng-cli-hooks](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build
+* [ng-cli-hooks](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build.
 
 #### Builders
 
 * [Webpack](https://webpack.js.org)
 * [ESBuild](https://esbuild.github.io/)
-* [Nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+* [Nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI.
 * [Angular Builders](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
 * [Jest Builder](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade.
 * [Custom Webpack](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack)
@@ -330,17 +330,17 @@ Table of contents:
 
 #### Books
 
-* [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
-* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
-* [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
-* [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
-* [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
-* [Switching to Angular 2](https://www.packtpub.com/product/switching-to-angular-2/9781785886201) `Packt Publishing`
-* [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
-* [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `Ankit Sharma`
-* [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) `Packt Publishing`
-* [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) `Manning Publications`
+* [ng-book 2](https://www.ng-book.com/2/) - `fullstack.io`
+* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) - `Ninja Squad`
+* [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) - `Manning Publications`
+* [Angular in Action](https://www.manning.com/books/angular-in-action) - `Manning Publications`
+* [Practical Angular 2](https://leanpub.com/practical-angular-2) - `Leanpub`
+* [Switching to Angular 2](https://www.packtpub.com/product/switching-to-angular-2/9781785886201) - `Packt Publishing`
+* [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) - `Manning Publications`
+* [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - `Ankit Sharma`
+* [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) - `Packt Publishing`
+* [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) - `Manning Publications`
 
 #### On-Site Training
 
@@ -478,7 +478,7 @@ become an Angular expert.
 * [ngx-dropzone](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
 * [ng-dnd](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
 * [ngx-file-drag-drop](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
-* [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The @angular/cdk/drag-drop module provides you with a way to easily and declaratively create drag-and-drop interfaces.
+* [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The `@angular/cdk/drag-drop` module provides you with a way to easily and declaratively create drag-and-drop interfaces.
 
 #### Editor Components
 
@@ -500,7 +500,7 @@ become an Angular expert.
 
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use file upload directives.
 * [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper , drag and drop with multi language support.
-* [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload
+* [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload.
 * [ngx-awesome-uploader](https://github.com/vugar005/ngx-awesome-uploader) - Angular Library for uploading files with many features.
 * [ngx-uploadx](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
@@ -537,9 +537,9 @@ become an Angular expert.
 
 #### Keyboard Mouse
 
-* [ngx-focus-control](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility
-* [angular2-hotkeys](https://github.com/brtnshrdr/angular2-hotkeys) - Keyboard shortcuts for Angular 2 apps
-* [virtual-keyboard-javascript](https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) - Virtual Keyboard for Javascript, React, Angular, Vue
+* [ngx-focus-control](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility.
+* [angular2-hotkeys](https://github.com/brtnshrdr/angular2-hotkeys) - Keyboard shortcuts for Angular 2 apps.
+* [virtual-keyboard-javascript](https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) - Virtual Keyboard for Javascript, React, Angular, & Vue.
 * [angular-touch-keyboard](https://github.com/mohsen77sk/angular-touch-keyboard) - Virtual Keyboard for Angular applications.
 * [hotkeys](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
 
@@ -548,7 +548,7 @@ become an Angular expert.
 * [@robingenz/ngx-infinite-scroll](https://github.com/robingenz/ngx-infinite-scroll) - Simple Angular directive for infinite scrolling.
 * [angular-fullpage](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
 * [angular-split](https://github.com/bertrandg/angular-split) - Angular split component.
-* [ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular
+* [ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for Angular.
 * [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - Arrange infinite card elements according to various layout types like masonry for Angular.
 * [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`).
 * [overview](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
@@ -616,7 +616,7 @@ become an Angular expert.
 * [sheetjs](https://docs.sheetjs.com/docs/demos/frontend/angular) - SheetJS is a JavaScript library for reading and writing data from spreadsheets.
 * [ngx-easy-table](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!
 * [active-table](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
-* [jsgrids](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries here.  
+* [jsgrids](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo. 
 
 #### UI Libraries
 
@@ -639,7 +639,7 @@ become an Angular expert.
 * [oblique](https://github.com/oblique-bit/oblique) - An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components.
 * [fundamental-ngx](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
 * [designsystem](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
-* [sbb-angular](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB
+* [sbb-angular](https://github.com/sbb-design-systems/sbb-angular) - Angular Library for SBB.
 * [ui](https://github.com/alauda/ui) - Enterprise level Angular UI framework from Alauda Frontend Team.
 * [ngx-tethys](https://github.com/atinc/ngx-tethys) - Fast and reliable Tethys Design components for Angular.
 * [antwerp-ui_angular](https://github.com/digipolisantwerp/antwerp-ui_angular) - Antwerp UI is a component interface library for building user interfaces and responsive web apps.
@@ -694,7 +694,6 @@ for Bootstrap 5 & Angular 17.
 #### Misc Components
 
 * [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
-* [ng2-adsense](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 * [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
@@ -803,10 +802,10 @@ for Bootstrap 5 & Angular 17.
 #### Analytics
 
 * [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Heap is the only digital insights platform that gives you complete understanding of your customers’ digital journeys, so you can quickly improve conversion, retention, and customer delight.
-* [ngx-tableau](https://www.npmjs.com/package/ngx-tableau) - `ngx-tableau` is an Angular module that allows to embed a Tableau report in an Angular webapp.
+* [ngx-tableau](https://www.npmjs.com/package/ngx-tableau) - `ngx-tableau` is an Angular module that allows you to embed a Tableau report in an Angular webapp.
 * [ngx-google-analytics](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
-* [ng2-adsense](https://github.com/scttcper/ng2-adsense) - Angular Adsense Component
-* [ngx-matomo-client](https://github.com/EmmanuelRoux/ngx-matomo-client) - Matomo analytics client for Angular applications
+* [ng2-adsense](https://github.com/scttcper/ng2-adsense) - Angular Adsense Component.
+* [ngx-matomo-client](https://github.com/EmmanuelRoux/ngx-matomo-client) - Matomo analytics client for Angular applications.
 * [angulartics2](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
 * [angular-google-tag-manager](https://github.com/mzuccaroli/angular-google-tag-manager) - A service library for integrate google tag manager in your angular project.
 

@@ -336,6 +336,7 @@ Table of contents:
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - `Ankit Sharma`
 * [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) - `Packt Publishing`
 * [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) - `Manning Publications`
+* [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
 
 #### On-Site Training
 

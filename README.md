@@ -44,6 +44,7 @@ Table of contents:
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
   * [Calendars](#calendars)
+  * [Carousels](#carousels)
   * [Charts](#charts)
   * [Drag/Drop](#drag/drop)
   * [Editor Components](#editor-components)
@@ -452,6 +453,18 @@ become an Angular expert.
 * [ng-fullcalendar](https://github.com/ng-fullcalendar/ng-fullcalendar) - Fullcalendar module for Angular.
 * [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
 * [angular-year-calendar](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
+
+#### Carousels
+
+* [ngu-carousel](https://github.com/uiuniversal/ngu-carousel) - Angular Universal carousel.
+* [ngx-slider](https://github.com/angular-slider/ngx-slider) - Self-contained, mobile friendly slider component for Angular based on angularjs-slider.
+* [ngx-gallery](https://github.com/MurhafSousli/ngx-gallery) - Angular Gallery, Carousel and Lightbox.
+* [ng-image-slider](https://github.com/sanjayV/ng-image-slider) - Angular Image Slider with Lightbox.
+* [ngx-slick-carousel](https://github.com/leo6104/ngx-slick-carousel) - Angular 17+ wrapper for slick plugin.
+* [ngx-splide](https://github.com/JustCommunication-ru/ngx-splide) - Splide.js integration to Angular.
+* [ngx-owl-carousel-o](https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o) - owl-carousel for Angular >=6.
+* [angular2-image-gallery](https://github.com/BenjaminBrandmeier/angular2-image-gallery) - Image Gallery built with Angular 17+, node.js and GraphicsMagick.
+* [egjs-flicking](https://naver.github.io/egjs-flicking/docs/quick-start) - Flicking Angular Quick Start
 
 #### Charts
 

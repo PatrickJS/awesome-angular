@@ -215,6 +215,7 @@ Table of contents:
 * [house of angular](https://houseofangular.io/blog/)
 * [thisdot labs](https://www.thisdot.co/blog?tags=angular)
 * [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
+* [marmicode](https://marmicode.io/learn/everything)
 * [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/) 
 * [Chau Tran](https://nartc.me/)
@@ -352,6 +353,7 @@ You Need.
 become an Angular expert.
 * [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
+* [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
 
 #### Integrations
 

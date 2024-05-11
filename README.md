@@ -728,11 +728,18 @@ for Bootstrap 5 & Angular 17.
 * [ng-portal](https://github.com/nigrosimone/ng-portal) - Component property connection in Angular application.
 * [ng-lock](https://www.npmjs.com/package/ng-lock) - Angular decorator for lock a function and user interface while a task running.
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
+* [safe-pipe](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 * [rx-computed](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
 * [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 * [edit-in-place](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 * [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 * [helipopper](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
+* [popover](https://github.com/ncstate-sat/popover) - Popover component for Angular.
+* [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
+* [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
+* [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
+* [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
+* [ngx-dynamic-hooks](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
 
 #### RxJS
 

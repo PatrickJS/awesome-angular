@@ -40,7 +40,7 @@ Table of contents:
   * [Generators](#generators)
   * [Documentation tools](#documentation-tools)
   * [Developer tools](#developer-tools)
-  * [Angular Challenges](https://angular-challenges.vercel.app/)
+  * [Exercises](#exercises)
 * [Third Party Components](#third-party-components)
   * [Animations](#animations)
   * [Calendars](#calendars)
@@ -433,6 +433,14 @@ become an Angular expert.
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code. 
 * [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing).
+
+
+#### Exercises
+
+* [angular-fundamental-lessons](https://github.com/MarkTechson/angular-fundamentals-lessons)
+* [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50 challenges related to Angular, Nx, RxJS, NgRx, and Typescript. These challenges revolve around real-life issues or specific features to elevate your skills.
+* [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application.
+* [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.  
 
 ---
 

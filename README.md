@@ -759,6 +759,15 @@ for Bootstrap 5 & Angular 17.
 * [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
 * [until-destroy](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
 * [effects](https://github.com/ngneat/effects) - A framework-agnostic RxJS effects implementation.
+* [ngx-observable-lifecycle](https://github.com/cloudnc/ngx-observable-lifecycle) - Library for observing the lifecycle of an (ivy compiled) angular component.
+* [rx-sandbox](https://github.com/kwonoj/rx-sandbox) - Marble diagram DSL based test suite for RxJS.
+* [observer-spy](https://github.com/hirezio/observer-spy) - This library makes RxJS Observables testing easy!
+* [ngx-operators](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
+* [rxjs-toolbox](https://github.com/kievsash/rxjs-toolbox) - Set of custom operators and handy factory functions for RxJS.
+* [subscribable-things](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
+* [ngx-rxjs-zone-scheduler](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing rxjs schedulers to run some kind of work inside or outside of NgZone.
+* [rxjs-broker](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
+* [rxjs-insights](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
 
 #### TypeScript 
 

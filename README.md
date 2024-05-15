@@ -27,7 +27,7 @@ Table of contents:
   * [Blogs](#blogs)
   * [Cheatsheet](#cheatsheet)
   * [Testing](#testing)
-  * [Angular CLI](#angular-cli)
+  * [CLI](#angular-cli)
   * [Builders](#builders)
   * [YouTube Channels](#youtube-channels)
   * [Style Guides](#style-guides)
@@ -263,11 +263,13 @@ Table of contents:
 * [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project.
 
-#### Angular CLI
+#### CLI
 
 * [Official web page](https://cli.angular.io/)
 * [Official repository](https://github.com/angular/angular-cli)
 * [ng-cli-hooks](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build.
+* [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
+* [mantis-cli](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
 
 #### Builders
 

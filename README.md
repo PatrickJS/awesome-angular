@@ -27,7 +27,7 @@ Table of contents:
   * [Blogs](#blogs)
   * [Cheatsheet](#cheatsheet)
   * [Testing](#testing)
-  * [CLI](#angular-cli)
+  * [CLI](#cli)
   * [Builders](#builders)
   * [YouTube Channels](#youtube-channels)
   * [Style Guides](#style-guides)

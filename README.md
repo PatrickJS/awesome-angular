@@ -44,6 +44,7 @@ Table of contents:
   * [Animations](#animations)
   * [Calendars](#calendars)
   * [Carousels](#carousels)
+  * [Dates](#dates)
   * [Charts](#charts)
   * [DOM](#dom)
   * [Drag/Drop](#drag/drop)
@@ -483,6 +484,20 @@ become an Angular expert.
 * [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [dag](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
+
+#### Dates
+
+* [ngx-date-fns](https://github.com/joanllenas/ngx-date-fns) - date-fns pipes for Angular.
+* [luxon-angular](https://github.com/dstelljes/luxon-angular) - date pipes for Angular.
+* [angular-globalize](https://github.com/code-art-eg/angular-globalize) - Angular pipes for localizing numbers and dates using Globalize.
+* [ngx-mat-timepicker](https://github.com/tonysamperi/ngx-mat-timepicker) - A true material timepicker.
+* [angular-bootstrap-datetimepicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Bootstrap.
+* [ngx-datetime-range-picker](https://github.com/BhavinPatel04/ngx-datetime-range-picker) - Angular material datetime range picker with daily, weekly, monthly, quarterly & yearly levels.
+* [mat-datetimepicker](https://github.com/kuhnroyal/mat-datetimepicker) - Material datetimepicker for @angular/material.
+* [angular-datepicker](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications.
+* [ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) - Pure Angular 2+ date range picker with material design theme.
+* [ngx-multiple-dates](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
+* [ng-datetime](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
 
 #### DOM
 

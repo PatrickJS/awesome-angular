@@ -10,9 +10,12 @@
 
 This is the original Awesome list of the Angular framework, and it contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
+> Repo maintained by [@jdegand](https://github.com/jdegand) and [@patrickjs](https://github.com/patrickjs)   PRs welcomed!
+
 ##### Current Angular version:
 
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
+
 
 Table of contents:
 

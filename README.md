@@ -53,7 +53,10 @@ Table of contents:
   * [Drag/Drop](#drag/drop)
   * [Editor Components](#editor-components)
   * [File Upload](#file-upload)
-  * [Form Controls](#form-controls)
+  * [Forms](#forms)
+    * [General](#general)
+    * [Form Controls](#form-controls)
+    * [Validation](#validation)
   * [Icons](#icons)
   * [Keyboard Mouse](#keyboard-mouse)
   * [Layout Components](#layout-components)
@@ -544,26 +547,44 @@ become an Angular expert.
 * [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload.
 * [ngx-uploadx](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 
-#### Form Controls
+#### Forms
 
-* [ngx-emoji-mart](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker for Angular.
-* [ngx-color](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
-* [ngx-colors](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker for Angular.
-* [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for the Angular.
-* [angular-colorful](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
+##### General
+
 * [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
 * [ngx-mask](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
 * [maskito](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
+* [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
+* [formio](https://github.com/formio/angular) - JSON powered forms for Angular.
+* [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
+* [fluent-form](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
+* [reactive-forms](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
+* [ng-signal-forms](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
+* [ngx-sub-form](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
+* [forms-typed](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
+
+##### Form Controls
+
+* [ngx-emoji-mart](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker.
+* [ngx-color](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
+* [ngx-colors](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker.
+* [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget.
+* [angular-colorful](https://github.com/ngx-eco/angular-colorful) - A tiny color picker component for modern Angular apps.
 * [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) - Angular multiselect dropdown component for web applications.
 * [ng-select](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete.
 * [ngx-numeric-range-form-field](https://github.com/dineeek/ngx-numeric-range-form-field) - Angular Material UI numeric range input form field. It is based on control value accessor.
 * [file-input-accessor](https://github.com/jwelker110/file-input-accessor) - Angular directive that provides file input functionality in Angular forms.
+
+##### Validation
+
+* [ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
+* [ngx-validator](https://github.com/why520crazy/ngx-validator) - About
+Angular 7+ Validator, a library handle validation messages easy and automatic.
+* [validointi](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
+* [ngx-reactive-forms-utils](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
+* [angular-reactive-validation](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
 * [ngx-formcontrol-errors](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
 * [error-tailor](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
-* [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
-* [formio](https://github.com/formio/angular) - JSON powered forms for Angular.
-* [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
-* [reactive-forms](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 
 #### Icons
 
@@ -634,6 +655,9 @@ become an Angular expert.
 * [jscutlery devkit](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
 * [angular components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 * [lithium-angular](https://github.com/lVlyke/lithium-angular) - Reactive components made easy! Lithium provides utilities that enable seamless reactive state and event interactions for Angular components.
+* [rxweb](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
+* [jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+* [ngspot](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
 
 #### Modals
 

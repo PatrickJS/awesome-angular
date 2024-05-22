@@ -862,12 +862,9 @@ for Bootstrap 5 & Angular 17.
 * [ngx-operators](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
 * [rxjs-toolbox](https://github.com/kievsash/rxjs-toolbox) - Set of custom operators and handy factory functions for RxJS.
 * [subscribable-things](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
-* [ngx-rxjs-zone-scheduler](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing rxjs schedulers to run some kind of work inside or outside of NgZone.
+* [ngx-rxjs-zone-scheduler](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing RxJS schedulers to run some kind of work inside or outside of `NgZone`.
 * [rxjs-broker](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
 * [rxjs-insights](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
-* [rx-sandbox](https://github.com/kwonoj/rx-sandbox) - Marble diagram DSL based test suite for RxJS.
-* [rxjs-toolbox](https://github.com/kievsash/rxjs-toolbox) - RxJS-toolbox - set of custom operators and handy factory functions for RxJS.
-* [ngx-rxjs-zone-scheduler](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing RxJS schedulers to run some kind of work inside or outside of `NgZone`.
 * [observable-webworker](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
 * [ng-event-bus](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
 

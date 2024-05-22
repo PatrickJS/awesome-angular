@@ -574,6 +574,7 @@ become an Angular expert.
 * [ng-select](https://github.com/ng-select/ng-select) - All in One UI Select, Multiselect and Autocomplete.
 * [ngx-numeric-range-form-field](https://github.com/dineeek/ngx-numeric-range-form-field) - Angular Material UI numeric range input form field. It is based on control value accessor.
 * [file-input-accessor](https://github.com/jwelker110/file-input-accessor) - Angular directive that provides file input functionality in Angular forms.
+* [ngx-bootstrap-icons-picker](https://github.com/gdgvda/ngx-bootstrap-icons-picker) - Just a Bootstrap Icons Picker for Angular.
 
 ##### Validation
 
@@ -588,6 +589,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 
 #### Icons
 
+* [angular-fontawesome](https://github.com/FortAwesome/angular-fontawesome) - Official Angular component for Font Awesome 5+.
 * [angular2-fontawesome](https://github.com/travelist/angular2-fontawesome) - Angular2 Components and Directives for FontAwesome.
 * [ng2-fontawesome](https://github.com/seiyria/ng2-fontawesome)- A small directive making font awesome even easier to use.
 * [ngx-icon-blur](https://github.com/wadie/ngx-icon-blur) - An Angular component that can be used to create a frosted glass effect for icons.
@@ -595,6 +597,19 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [primeicons](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
 * [angular-svg-icon](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
 * [svg-icon](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
+* [ng-svg-icon-sprite](https://github.com/jannicz/ng-svg-icon-sprite) - Angular 16+ package for generating and using inline SVG icons in your project.
+* [Angular-Svg-Sprite](https://github.com/bodnya29179/Angular-Svg-Sprite) - Simplify SVG icon usage in your Angular project! Enhance the flexibility and manageability of your Angular project by using SVG sprites.
+* [ng-hero-icons](https://github.com/dimaslz/ng-heroicons) - Use [Heroicons](https://heroicons.com) in your Angular application.
+* [ionic-angular-collect-icons](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file. 
+* [ngx-fluent-ui](https://github.com/bennymeg/ngx-fluent-ui) - Angular & online library for Microsoft Fluent UI icons.
+* [angular-remix-icon](https://github.com/adisreyaj/angular-remix-icon) - Angular wrapper for Remixicon icon library.
+* [angular-line-awesome](https://github.com/marco-martins/angular-line-awesome) - Angular Line Awesome is an Angular component to manage [Line Awesome](https://icons8.com/line-awesome) icons.
+* [ngx-bootstrap-icons](https://github.com/avmaisak/ngx-bootstrap-icons) - This Angular module allows you to use the Bootstrap Icons in your Angular application without additional dependencies.
+* [ngx-icon](https://github.com/anedomansky/ngx-icon) - An Angular component for displaying SVG icons.
+* [angular-feather](https://github.com/michaelbazos/angular-feather) - This package allows you to use [Feather Icons](https://github.com/feathericons/feather) in your Angular applications. 
+* [angular-tabler-icons](https://github.com/pierreavn/angular-tabler-icons) - This package allows you to use the [Tabler Icons](https://tabler.io/icons) in your Angular applications.
+* [icon-lib-builder](https://github.com/dimaslz/icon-lib-builder) - Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon.
+* [svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
 
 #### Keyboard Mouse
 

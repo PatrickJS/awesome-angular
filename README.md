@@ -98,13 +98,12 @@ Table of contents:
 
 #### Official Resources
 
-* [Site](https://angular.io)
-* [Blog](https://blog.angular.io)
-* [Documentation](https://angular.io/docs)
-* [Cheatsheet](https://angular.io/guide/cheatsheet)
-* [Getting Started Guide](https://angular.io/guide/quickstart)
+* [Site](https://angular.dev)
+* [Blog](https://blog.angular.dev/)
+* [Documentation](https://angular.dev/overview)
+* [Getting Started Tutorial](https://angular.dev/tutorials/learn-angular)
 * [GitHub Repo](https://github.com/angular/angular)
-* [Future Site](https://angular.dev)
+* [Past Documentation Site](https://v17.angular.io/docs)
 
 #### Community
 
@@ -212,7 +211,7 @@ Table of contents:
 
 #### Blogs
 
-* [angular](https://blog.angular.io/) - Official Angular blog.
+* [angular](https://blog.angular.dev/) - Official Angular blog.
 * [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
 * [angular experts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJs & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 * [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem.
@@ -237,7 +236,7 @@ Table of contents:
 
 #### Cheatsheet
 
-* [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
+* [Past Angular Cheatsheet](https://v17.angular.io/guide/cheatsheet) - Note: *NEW* official docs does not have a cheatsheet.
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
 * [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
@@ -273,7 +272,7 @@ Table of contents:
 
 #### CLI
 
-* [Official web page](https://cli.angular.io/)
+* [Official web page](https://angular.dev/tools/cli)
 * [Official repository](https://github.com/angular/angular-cli)
 * [ng-cli-hooks](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build.
 * [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
@@ -433,7 +432,7 @@ become an Angular expert.
 * [StackBlitz](https://stackblitz.com) - Instant Dev Environments.
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
-* [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
+* [Angular Dev Tools](https://angular.dev/tools/devtools) - Angular DevTools is a browser extension that provides debugging and profiling capabilities for Angular applications.
 * [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests. 
 * [Redux DevTools](https://github.com/reduxjs/redux-devtools/) - Can be used in combination with @ngrx/store-devtools to inspect the state of your NgRx app.  
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
@@ -920,7 +919,7 @@ for Bootstrap 5 & Angular 17.
 
 #### Security
 
-* [Angular.io Security Guide](https://angular.io/guide/security) - Brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content Security Policy.
+* [Angular Security](https://angular.dev/best-practices/security) - Best Practices
 * [Socket](https://socket.dev/) - Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies.
 * [Synk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
 * [Github](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  
@@ -973,7 +972,7 @@ for Bootstrap 5 & Angular 17.
 
 * [aws amplify](https://docs.amplify.aws/angular/)
 * [Vercel](https://vercel.com/solutions/angular)
-* [Firebase Hosting](https://firebase.google.com/docs/hosting) 
+* [Firebase Hosting](https://firebase.google.com/docs/app-hosting/get-started) 
 * [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
 * [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 
@@ -996,7 +995,7 @@ for Bootstrap 5 & Angular 17.
 
 #### Updating
 
-* [angular update guide](https://update.angular.io/) - Interactive guide to help you migrate from one version of Angular to another.  
+* [angular update guide](https://angular.dev/update-guide) - Interactive guide to help you migrate from one version of Angular to another.  
 * [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 * [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 

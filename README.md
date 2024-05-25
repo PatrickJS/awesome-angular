@@ -10,7 +10,7 @@
 
 This is the original Awesome list of the Angular framework, and it contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
-> Repo maintained by [@jdegand](https://github.com/jdegand) and [@patrickjs](https://github.com/patrickjs)   PRs welcomed!
+> Repo maintained by [@jdegand](https://github.com/jdegand) and [@patrickjs](https://github.com/patrickjs)   [PRs welcomed!](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ##### Current Angular version:
 

@@ -12,10 +12,7 @@ This is the original Awesome list of the Angular framework, and it contains intr
 
 > Repo maintained by [@jdegand](https://github.com/jdegand) and [@patrickjs](https://github.com/patrickjs)   [PRs welcomed!](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
-##### Current Angular version:
-
-[![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
-
+##### Current Angular version:  [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)  
 
 Table of contents:
 

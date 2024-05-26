@@ -384,6 +384,7 @@ become an Angular expert.
 * [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 * [google-pay-button](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
 * [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+* [ngx-disqus](https://github.com/MurhafSousli/ngx-disqus) - Disqus for Angular.
 
 #### Site Templates
 
@@ -526,6 +527,8 @@ become an Angular expert.
 * [safe-pipe](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 * [ngxd](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
 * [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+* [ngx-highlightjs](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
+* [ngx-sharebuttons](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons. 
 
 #### Drag/Drop
 
@@ -590,6 +593,7 @@ become an Angular expert.
 * [ngx-bootstrap-icons-picker](https://github.com/gdgvda/ngx-bootstrap-icons-picker) - Just a Bootstrap Icons Picker for Angular.
 * [ngx-filesaver](https://github.com/cipchk/ngx-filesaver) - Simple file save with [FileSaver.js](https://github.com/eligrey/FileSaver.js).
 * [angular-star-rating](https://github.com/BioPhoton/angular-star-rating) - Star Rating Angular Component written in TypeScript, based on CSS-only techniques.
+* [ngx-bar-rating](https://github.com/MurhafSousli/ngx-bar-rating) - Angular Bar Rating.
 
 ##### Validation
 
@@ -728,6 +732,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired **button for scroll-to-top** of the page. 🔼 _No dependencies. Pure Angular!_ (Compatibility: Angular 9, Ivy, Universal, `ng add`).
 * [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
 * [ng-table-virtual-scroll](https://github.com/diprokon/ng-table-virtual-scroll) - Virtual Scroll for Angular Material Table.
+* [ngx-scrollbar](https://github.com/MurhafSousli/ngx-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism.
 
 #### State Management
 

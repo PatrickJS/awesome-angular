@@ -719,6 +719,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 * [angular-bootstrap-toast-service](https://github.com/svierk/angular-bootstrap-toast-service) - Angular project for sending Bootstrap based toast notifications including Vercel deployment.
 * [angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
+* [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
 
 #### Scroll
 

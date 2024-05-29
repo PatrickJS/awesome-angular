@@ -251,17 +251,25 @@ Table of contents:
 * [@angular/cdk/testing](https://material.angular.io/cdk/test-harnesses/overview) - `@angular/cdk/testing` provides infrastructure to help with testing Angular components.
 * [cypress](https://www.cypress.io/) - End to End and Component Testing for Angular.  
 * [jasmine](https://jasmine.github.io/) - Simple JavaScript testing.
+* [karma-image-snapshot](https://github.com/maksimr/karma-image-snapshot) - Karma jasmine matcher that performs image comparisons based on [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) for visual regression testing.
 * [jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 * [jest-preset-angular](https://github.com/thymikee/jest-preset-angular) - Jest configuration preset for Angular projects.
 * [jest-preview](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.
+* [jest-marbles](https://github.com/just-jeb/jest-marbles) - Helpers library for marbles testing with Jest.
+* [jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest.
+* [ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 * [playwright-ct-angular](https://github.com/sand4rt/playwright-ct-angular) - Playwright Angular component testing.
 * [spectacular](https://github.com/ngworker/ngworker/tree/main/packages/spectacular) - Spectacular offers test harnesses for Angular applications and libraries. 
 * [spectator](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests.
+* [stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
 * [testcafe](https://testcafe.io/) - TestCafe is a user-friendly end-to-end testing solution. Free and open-source test runner. Powerful desktop app.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
 * [cypress-harness](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
 * [swc-angular](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
 * [swc-angular-plugin](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.  
+* [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+* [ngx-speculoos](https://github.com/Ninja-Squad/ngx-speculoos) - Simpler, cleaner Angular unit tests.
+* [shallow-render](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
 * [angular-tour-of-heroes-jest-100-coverage](https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) - 100% unit testing coverage of the popular Angular demo app - Tour of Heroes.
 * [how-do-i-test](https://github.com/rainerhahnekamp/how-do-i-test) - Repository representing different testing use cases for Angular and Spring.
 * [YouTube](https://www.youtube.com/playlist?list=PLu062eICIOdGAJ4AgTzHI6EokHnB90bRJ) - How do I Test? playlist.

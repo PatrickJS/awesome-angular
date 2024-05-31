@@ -859,6 +859,7 @@ for Bootstrap 5 & Angular 17.
 * [ngx-extended-pdf-viewer](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
 * [ng2-pdfjs-viewer](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 * [ngx-json-viewer](https://github.com/hivivo/ngx-json-viewer) - JSON formatter and viewer in HTML for Angular.
+* [ngx-diff](https://github.com/rars/ngx-diff) - Angular component library for displaying diffs of text.
 
 #### Misc Components
 
@@ -878,6 +879,7 @@ for Bootstrap 5 & Angular 17.
 * [ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
 * [ngx-cookie-service](https://github.com/stevermeister/ngx-cookie-service) - Angular (4.2+ ...12) service for cookies. Originally based on the [ng2-cookies](https://github.com/BCJTI/ng2-cookies) library.
 * [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
+* [ng2csv](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
 * [@ui-router/angular](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
 * [ngx-csv-parser](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
 
@@ -937,6 +939,7 @@ for Bootstrap 5 & Angular 17.
 #### HTTP
 
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
+* [ngx-jwt](https://github.com/rars/ngx-jwt) - Angular library for injecting JWT tokens to HTTP requests.
 * [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 * [cashew](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 * [convoyr](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.

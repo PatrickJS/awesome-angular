@@ -433,6 +433,7 @@ become an Angular expert.
 * [gradient-able-free-admin-template](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template.
 * [angular-ngrx-frontend](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
 * [Threejs](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app.
+* [zen](https://github.com/ZenSoftware/zen) - Nest + Prisma + Apollo + Angular Full Stack GraphQL Starter Kit.
 
 #### Generators
 
@@ -528,6 +529,7 @@ become an Angular expert.
 * [dag](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 * [ngx-simple-charts](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
 * [ng-flowchart](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format.
+* [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/incubator-echarts).
 
 #### Dates
 
@@ -596,6 +598,7 @@ become an Angular expert.
 * [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) - Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper, drag and drop with multi language support.
 * [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload.
 * [ngx-uploadx](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
+* [file-upload](https://github.com/pIvan/file-upload) - Angular module used for file upload.
 
 #### Forms
 
@@ -684,6 +687,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [virtual-keyboard-javascript](https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) - Virtual Keyboard for Javascript, React, Angular, & Vue.
 * [angular-touch-keyboard](https://github.com/mohsen77sk/angular-touch-keyboard) - Virtual Keyboard for Angular applications.
 * [hotkeys](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
+* [ngx-contextmenu](https://github.com/PerfectMemory/ngx-contextmenu) - A context menu component for Angular.
 
 #### Layout Components
 
@@ -850,6 +854,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-material-extensions/password-strength](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
 * [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
 * [angular material components](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
+* [ng-matero/extensions](https://github.com/ng-matero/extensions) - Angular Material Extensions Library.
 
 ##### Bootstrap Based
 
@@ -1059,6 +1064,7 @@ for Bootstrap 5 & Angular 17.
 * [angular update guide](https://angular.dev/update-guide) - Interactive guide to help you migrate from one version of Angular to another.  
 * [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 * [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
+* [ng-morph](https://github.com/taiga-family/ng-morph) - Code mutations in your project or schematics were never easier than now.
 * [ngx-libs](https://github.com/eneajaho/ngx-libs) - Angular Libraries Support lists community libs support for each Angular version.
 
 #### Internationalization

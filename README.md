@@ -37,6 +37,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Online Training](#online-training)
   * [Integrations](#integrations)
   * [Site Templates](#site-templates)
+    * [Free](#free)
+    * [Paid](#paid)
   * [Generators](#generators)
   * [Documentation tools](#documentation-tools)
   * [Developer tools](#developer-tools)
@@ -244,6 +246,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Evgeniy Oz](https://medium.com/@eugeniyoz)
 * [Tomas Trajan](https://tomastrajan.medium.com/)
 * [Igor Katsuba](https://blog.katsuba.dev/)
+* [ng serve](https://www.ngserve.io/)
 
 #### Cheatsheet
 
@@ -344,6 +347,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Learning Partner](https://www.youtube.com/@LearningPartnerDigital)
 * [Code Deck](https://www.youtube.com/@codedeck)
 * [Igor Sedov](https://www.youtube.com/@theigorsedov)
+* [Demystify Frontend](https://www.youtube.com/@DemystifyFrontend)
 
 #### Style Guides
 
@@ -416,6 +420,8 @@ become an Angular expert.
 
 #### Site Templates
 
+##### Free
+
 * [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+.
 * [ng-matero](https://github.com/ng-matero/ng-matero) - Angular Material admin dashboard template.
 * [coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5.
@@ -434,6 +440,22 @@ become an Angular expert.
 * [angular-ngrx-frontend](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
 * [Threejs](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app.
 * [zen](https://github.com/ZenSoftware/zen) - Nest + Prisma + Apollo + Angular Full Stack GraphQL Starter Kit.
+* [Colorlib](https://colorlib.com/wp/free-angular-templates/)
+* [HTMLrev](https://htmlrev.com/free-angular-templates.html)
+
+##### Paid
+
+* [Nzoni](https://nzoni.app/) - Launch your SAAS in days with Angular.
+* [Creative Tim](https://www.creative-tim.com/templates/angular-premium)
+* [Angular Templates](https://angulartemplates.com/)
+* [Theme Forest](https://themeforest.net/search/angular)
+* [Wrap Pixel](https://www.wrappixel.com/templates/category/angular-templates/)
+* [Angular-Templates](https://angular-templates.io/)
+* [Bootstrap Dash](https://www.bootstrapdash.com/product/plus-admin-angular)
+* [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
+* [Template Monster](https://www.templatemonster.com/custom/website-templates-angular/)
+* [NobleUI](https://nobleui.com/angular/)
+* [ThemesBrand](https://themesbrand.com/judia/angular.html)
 
 #### Generators
 
@@ -578,6 +600,7 @@ become an Angular expert.
 #### Editor Components
 
 * [@ctrl/ngx-codemirror](https://github.com/TypeCtrl/ngx-codemirror) - Codemirror Wrapper for Angular.
+* [acrodata/code-editor](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
 * [@instechnologies/ng-rooster](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor.
 * [angular2-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
 * [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+.
@@ -742,6 +765,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ts-cacheable](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.
 * [ngxtension-platform](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
 * [spartan](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
+* [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
 
 #### Modals
 

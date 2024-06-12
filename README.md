@@ -935,6 +935,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [mini-rx-store](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
 * [ngx-collection](https://github.com/e-oz/ngx-collection) - Collection State Management Service for Angular.
 * [xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+* [signalstory](https://github.com/zuriscript/signalstory) - A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach.
 
 #### Storage
 

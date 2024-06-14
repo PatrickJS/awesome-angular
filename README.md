@@ -75,6 +75,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Layout Components](#layout-components)
   * [Loaders](#loaders)
   * [Maps](#maps)
+  * [Markdown](#markdown)
   * [Mixed utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
@@ -255,6 +256,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Tomas Trajan](https://tomastrajan.medium.com/)
 * [Igor Katsuba](https://blog.katsuba.dev/)
 * [ng serve](https://www.ngserve.io/)
+* [Tomasz Ducin](https://ducin.dev/blog)
 
 ##### Books
 
@@ -271,6 +273,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) - `Manning Publications`
 * [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
 * [Angular Design Patterns and Best Practices](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
+* [Angular for Enterprise Applications](https://angularforenterprise.com/home) - `Packt Publishing`
 
 ##### Cheatsheet
 
@@ -440,6 +443,7 @@ become an Angular expert.
 * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
 * [generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 * [angularx-qrcode](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
+* [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 
 ##### Spring Boot
 
@@ -724,8 +728,6 @@ become an Angular expert.
 * [ngx-simple-text-editor](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
 * [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - Angular (>=2) components for the Quill Rich Text Editor.
 * [ngx-editor](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
-* [ngx-markdown-editor](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
-* [angular-markdown-editor](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 * [code-editor](https://github.com/ngstack/code-editor) - Code editor component for Angular applications.
 * [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular(also Angular 17) WYSIWYG HTML Rich Text Editor.
 * [ngx-monaco-editor](https://github.com/jean-merelis/ngx-monaco-editor) - Monaco Code Editor for Angular.
@@ -868,6 +870,13 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 * [@angular/google-maps](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 
+#### Markdown
+
+* [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
+* [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
+* [ngx-markdown-editor](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
+* [angular-markdown-editor](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
+
 #### Mixed utilities
 
 * [rx-angular](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
@@ -886,7 +895,6 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ts-cacheable](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.
 * [ngxtension-platform](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
 * [spartan](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
-* [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
 * [ngify](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
 
 #### Modals

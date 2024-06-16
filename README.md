@@ -83,6 +83,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [State Management](#state-management)
   * [Storage](#storage)
   * [Tables](#tables)
+  * [Tooltips](#tooltips)
   * [UI Libraries](#ui-libraries)
     * [Unspecified](#unspecified)
     * [Material](#material-based)
@@ -971,6 +972,18 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
 * [ngx-export-as](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 
+#### Tooltips
+
+* [helipopper](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
+* [popover](https://github.com/ncstate-sat/popover) - Popover component for Angular.
+* [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
+* [ngx-tooltip-directives](https://github.com/mkeller1992/ngx-tooltip-directives) - This library offers three different tooltip directives (string, html and template) and draws inspiration from the no longer maintained [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
+* [ng2-tooltip-directive](https://github.com/cloudfactorydk/ng2-tooltip-directive) - Forked from [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
+* [angular-tooltip](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
+* [ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular wrapper for [Tippy.js](https://github.com/atomiks/tippyjs).
+* [tooltip-testing](https://github.com/chandumaram/tooltip-testing) - Tooltip for Angular, forked from cm-angular-tooltip
+* [angular-ellipsis-tooltip](https://github.com/wandri/angular-ellipsis-tooltip) - Angular component to display ellipsis and material tooltip dynamically.
+
 #### UI Libraries
 
 ##### Unspecified
@@ -1059,9 +1072,6 @@ for Bootstrap 5 & Angular 17.
 * [rx-computed](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
 * [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 * [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
-* [helipopper](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
-* [popover](https://github.com/ncstate-sat/popover) - Popover component for Angular.
-* [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
 * [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 * [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 * [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.

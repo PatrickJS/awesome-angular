@@ -901,6 +901,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngxtension-platform](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
 * [spartan](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
 * [ngify](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
+* [ng-vibe](https://github.com/boris-jenicek/ng-vibe) - Designed for Angular 17+, these tools (drawer, dialog, toastify,timer, service-locator) are here to enhance your development process with dynamic and efficient solutions.
 
 #### Modals
 

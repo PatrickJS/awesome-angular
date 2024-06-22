@@ -74,6 +74,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Keyboard Mouse](#keyboard-mouse)
   * [Layout Components](#layout-components)
   * [Loaders](#loaders)
+  * [Loggers](#loggers)
   * [Maps](#maps)
   * [Markdown](#markdown)
   * [Mixed utilities](#mixed-utilities)
@@ -865,6 +866,14 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-skeleton-loader](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 * [angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
 * [ng-circle-progress](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
+
+#### Loggers
+
+* [lumberjack](https://github.com/ngworker/lumberjack) - Lumberjack is a versatile Angular logging library, specifically designed to be extended and customized. It provides a few simple log drivers out-of-the-box. It's easy to enable the built-in log drivers or create and use custom log drivers.
+* [ngx-logger](https://github.com/dbfannin/ngx-logger) - NGX Logger is a simple logging module for Angular (6+). It allows "pretty print" to the console, as well as allowing log messages to be POSTed to a URL for server-side logging.
+* [angular-logger](https://github.com/avernixtechnologies/angular-logger) - A logger built with Angular in mind.
+* [ngx-action-logger](https://github.com/TALRACE/ngx-action-logger) - Logger for Angular applications, capable of both outputting data to the console or sending data to elastic.
+* [@Xilerth/ngx-logger](https://github.com/Xilerth/ngx-logger) - This library empowers developers to seamlessly integrate custom logging solutions tailored to their specific requirements, enabling efficient debugging, monitoring, and analytics.
 
 #### Maps
 

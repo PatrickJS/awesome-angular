@@ -260,6 +260,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Igor Katsuba](https://blog.katsuba.dev/)
 * [ng serve](https://www.ngserve.io/)
 * [Tomasz Ducin](https://ducin.dev/blog)
+* [This is Angular](https://dev.to/this-is-angular)
 
 ##### Books
 

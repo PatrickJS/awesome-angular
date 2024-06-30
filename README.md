@@ -347,6 +347,8 @@ become an Angular expert.
 * [Igor Sedov](https://www.youtube.com/@theigorsedov)
 * [Demystify Frontend](https://www.youtube.com/@DemystifyFrontend)
 * [Mona Code Lisa](https://www.youtube.com/@MonaCodeLisa)
+* [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
+* [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 
 ##### Style Guides
 

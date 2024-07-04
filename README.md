@@ -1039,6 +1039,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [orchestrator](https://github.com/orchestratora/orchestrator) - Extensible orchestrator for UI and forms for Angular.
 * [winonang](https://github.com/winona-ui/winonang) - Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well.
 * [carbon-components-angular](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
+* [ng-primitives](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
 
 ##### Material Based
 

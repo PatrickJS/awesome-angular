@@ -42,6 +42,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Developer tools](#developer-tools)
   * [Documentation tools](#documentation-tools)
   * [Generators](#generators)
+    * [NET](#net)
     * [Node](#node)
     * [Spring Boot](#spring-boot)
   * [HTTP](#http)
@@ -443,6 +444,11 @@ become an Angular expert.
 
 #### Generators
 
+##### NET
+
+* [abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET.
+* [LymeStack](https://www.lymestack.com/) - LymeStack is a full-stack, full-featured web application template & toolset designed to provide small businesses and organizations with an accelerated starting point when it comes to creating new apps and adding features to those apps.
+
 ##### Node
 
 * [teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications.
@@ -519,6 +525,7 @@ become an Angular expert.
 * [ngx-translate](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
 * [ngx-translate-module-loader](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
 * [ngx-translate-multi-http-loader](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
+* [angular-ecmascript-intl](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
 
 #### Security
 
@@ -621,6 +628,7 @@ become an Angular expert.
 * [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy.
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project.
 * [angular-unit-test-helper](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
+* [ngentest](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
 
 #### Updating
 
@@ -672,6 +680,7 @@ become an Angular expert.
 * [angular2-image-gallery](https://github.com/BenjaminBrandmeier/angular2-image-gallery) - Image Gallery built with Angular 17+, node.js and GraphicsMagick.
 * [egjs-flicking](https://naver.github.io/egjs-flicking/docs/quick-start) - Flicking Angular Quick Start
 * [ngx-drag-scroll](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
+* [ng-slider](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
 
 #### Charts
 
@@ -724,6 +733,8 @@ become an Angular expert.
 * [ngx-highlightjs](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
 * [ngx-sharebuttons](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
+* [nglrx/pipes](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
+* [ng-helpers](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
 
 #### Drag and Drop
 
@@ -759,6 +770,7 @@ become an Angular expert.
 * [ngx-uploadx](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 * [file-upload](https://github.com/pIvan/file-upload) - Angular module used for file upload.
 * [ngx-filepond](https://github.com/pqina/ngx-filepond) - A handy [FilePond](https://github.com/pqina/filepond) adapter component for Angular.
+* [ngx-file-drop](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
 
 #### Forms
 
@@ -793,6 +805,7 @@ become an Angular expert.
 * [ngx-bar-rating](https://github.com/MurhafSousli/ngx-bar-rating) - Angular Bar Rating.
 * [angular-code-input](https://github.com/AlexMiniApps/angular-code-input) - Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported.
 * [ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
+* [angular-iban](https://github.com/fundsaccess/angular-iban) - IBAN directives and pipes for Angular.
 
 ##### Validation
 
@@ -860,6 +873,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2.
 * [angular-grid-layout](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
 * [ng2-tree](https://github.com/valor-software/ng2-tree) - Angular tree component.
+* [gridstack](https://github.com/gridstack/gridstack.js/tree/master/angular/) - Mobile-friendly modern Typescript library for dashboard layout and creation. Making a drag-and-drop, multi-column responsive dashboard has never been easier. Has multiple bindings and works great with Angular.
 
 #### Loaders
 
@@ -1054,6 +1068,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
 * [angular material components](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
 * [ng-matero/extensions](https://github.com/ng-matero/extensions) - Angular Material Extensions Library.
+* [angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - Little library to use css variables with Angular Material.
 
 ##### Bootstrap Based
 
@@ -1118,6 +1133,7 @@ for Bootstrap 5 & Angular 17.
 * [angular-paginator](https://github.com/sibiraj-s/angular-paginator) - Pagination Component for Angular applications.
 * [ngx-flamegraph](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
 * [angular-compiler-output](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given angular template.
+* [ng-dynamic-mf](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 
 ---
 

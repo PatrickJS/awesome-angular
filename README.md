@@ -1054,6 +1054,12 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [winonang](https://github.com/winona-ui/winonang) - Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well.
 * [carbon-components-angular](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
 * [ng-primitives](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
+* [dyte-io/ui-kit](https://github.com/dyte-io/ui-kit/tree/staging/packages/angular-library) - Dyte's UI Kit is a prebuilt design library of UI components that makes it easy to integrate video and voice calls into any app or website within minutes.
+* [onega-ui](https://github.com/osspkg/onega-ui) - A modern and stylish UI kit that offers a wide range of UI components and elements to create professional and attractive websites.
+* [sky-ui](https://github.com/skysoft-tech/sky-ui) - Angular UI kit.
+* [ngx-neumorphic](https://github.com/koskosergej/ngx-neumorphic) - Angular Neomorphism UI kit.
+* [ng-zen](https://github.com/Kordrad/ng-zen) - A versatile Angular library and CLI tool offering UI-kit Angular schematics for streamlined integration into projects. The tool is currently in the Alpha phase.
+* [pupakit](https://github.com/bimeister/pupakit) - Angular UI Kit based on an atomic approach to building interfaces (Not production ready).
 
 ##### Material Based
 
@@ -1076,6 +1082,8 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 for Bootstrap 5 & Angular 17.
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular widgets built from the ground up using only Bootstrap 5 CSS with APIs designed for the Angular ecosystem.
 * [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine).
+* [design-angular-kit](https://github.com/italia/design-angular-kit) - A toolkit based on Bootstrap Italia
+for the creation of web applications developed with Angular.
 
 ##### Tailwind CSS Based
 

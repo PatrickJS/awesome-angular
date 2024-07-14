@@ -688,6 +688,7 @@ become an Angular expert.
 * [egjs-flicking](https://naver.github.io/egjs-flicking/docs/quick-start) - Flicking Angular Quick Start
 * [ngx-drag-scroll](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
 * [ng-slider](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
+* [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 
 #### Charts
 

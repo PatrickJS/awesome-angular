@@ -311,6 +311,7 @@ become an Angular expert.
 * [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 * [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
+* [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
 
 ##### On-Site Training
 

@@ -355,6 +355,7 @@ become an Angular expert.
 * [Mona Code Lisa](https://www.youtube.com/@MonaCodeLisa)
 * [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
+* [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 
 ##### Style Guides
 

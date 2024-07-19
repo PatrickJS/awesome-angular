@@ -1146,6 +1146,7 @@ for the creation of web applications developed with Angular.
 * [skyux](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
 * [ngx-ui-tour](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour](https://github.com/benmarch/angular-ui-tour).
 * [ngx-tour-wizard](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
+* [bdc-walkthrough](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
 
 #### Viewers
 

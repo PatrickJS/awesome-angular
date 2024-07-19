@@ -760,6 +760,7 @@ become an Angular expert.
 * [ngx-mutation-observer](https://github.com/fidian/ngx-mutation-observer) - Get Angular 8+ events fired when an element is mutated in the DOM.
 * [ngx-visibility](https://github.com/fidian/ngx-visibility) - Angular module that detects when elements are visible. Uses IntersectionObserver.
 * [ng-in-viewport](https://github.com/k3nsei/ng-in-viewport) - Allows us to check if an element is within the browsers visual viewport.
+* [ngx-breakpoint-observer](https://github.com/tutkli/ngx-breakpoint-observer) - This library adds reactive breakpoint and media query methods based on Signals.
 * [ngx-dynamic-hooks](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
 * [edit-in-place](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 * [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.

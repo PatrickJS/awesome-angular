@@ -695,6 +695,7 @@ become an Angular expert.
 * [layout-projection](https://github.com/Char2sGu/layout-projection) - Beautify the Web with awesome layout animations.
 * [ngx-easy-view-transitions](https://github.com/DerStimmler/ngx-easy-view-transitions) - Angular library for easier use of the View Transitions API.
 * [ngx-typed-writer](https://github.com/SkyZeroZx/ngx-typed-writer) - A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly).
+* [angular-shiki-magic-move](https://github.com/tutkli/angular-shiki-magic-move) - Smoothly animated code blocks with [Shiki](https://github.com/shikijs/shiki).
 
 #### Calendars
 

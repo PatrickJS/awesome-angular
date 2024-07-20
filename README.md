@@ -118,6 +118,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 #### Community
 
+* [Angular Discord Channel](https://discord.com/invite/angular)
 * [`#angular`](https://x.com/hashtag/angular) hashtag on X.
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)

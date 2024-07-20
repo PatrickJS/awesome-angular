@@ -414,6 +414,7 @@ become an Angular expert.
 * [amplify](https://docs.amplify.aws/angular/) - AWS Amplify streamlines full-stack app development. With its libraries, CLI, and services, you can easily connect your frontend to the cloud for authentication, storage, APIs, and more.
 * [cryptr-angular](https://github.com/cryptr-auth/cryptr-angular) - Codeless Auth platform for business.
 * [angular-authentication](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
+* [ngx-security](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 
 #### Builders
 

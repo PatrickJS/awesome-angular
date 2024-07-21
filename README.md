@@ -1267,6 +1267,7 @@ for the creation of web applications developed with Angular.
 * [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 * [typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 * [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+* [valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 
 #### Other Lists
 

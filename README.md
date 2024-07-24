@@ -28,6 +28,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Learning](#learning)
     * [Blogs](#blogs)
     * [Books](#books)
+    * [Certification](#certification)
     * [Cheatsheet](#cheatsheet)
     * [Exercises](#exercises)
     * [Online Training](#online-training)
@@ -284,6 +285,16 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
 * [Angular Design Patterns and Best Practices](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 * [Angular for Enterprise Applications](https://angularforenterprise.com/home) - `Packt Publishing`
+
+##### Certification
+
+* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. Launches July 30.
+* [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
+* [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
+* [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.
+* [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
+* [Simplilearn](https://www.simplilearn.com/angular-certification-training-course) - Angular Certification Training Course
+* [Altitude CSI](https://altitudecsi.org/products/angular-certification-program) - Angular Certification Program.
 
 ##### Cheatsheet
 

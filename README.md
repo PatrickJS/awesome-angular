@@ -953,6 +953,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 #### Maps
 
 * [angular-cesium](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular.
+* [cesium-angular-example](https://github.com/Developer-Plexscape/cesium-angular-example) - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
 * [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
 * [ng-maps](https://github.com/ng-maps/ng-maps) - Modular map components for angular.
 * [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.

@@ -1129,6 +1129,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-neumorphic](https://github.com/koskosergej/ngx-neumorphic) - Angular Neomorphism UI kit.
 * [ng-zen](https://github.com/Kordrad/ng-zen) - A versatile Angular library and CLI tool offering UI-kit Angular schematics for streamlined integration into projects. The tool is currently in the Alpha phase.
 * [pupakit](https://github.com/bimeister/pupakit) - Angular UI Kit based on an atomic approach to building interfaces (Not production ready).
+* [ngwr](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
 
 ##### Material Based
 

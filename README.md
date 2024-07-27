@@ -138,6 +138,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [opensauced pizza](https://app.opensauced.pizza/explore/topic/angular/dashboard/filter/recent) - Insights on GitHub repositories using the Angular topic.
 * [angular-memes](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
 * [ngx.tools](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
+* [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
 
 ##### Newsletters
 

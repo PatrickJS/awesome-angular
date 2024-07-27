@@ -284,10 +284,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular for Enterprise Applications](https://angularforenterprise.com/home) - `Packt Publishing`
 * [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
 * [Mastering Angular Signals](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
-* [Angular Book](https://github.com/DenysVuika/angular-book) - `Denys Vuika`
-* [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE ebook**
-* [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE ebook**
-* [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE ebook**
+* [Angular Book](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**
+* [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**
+* [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**
+* [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE**
 
 ##### Certification
 

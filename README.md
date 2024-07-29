@@ -651,6 +651,7 @@ become an Angular expert.
 * [Template Monster](https://www.templatemonster.com/custom/website-templates-angular/)
 * [NobleUI](https://nobleui.com/angular/)
 * [ThemesBrand](https://themesbrand.com/judia/angular.html)
+* [Flatlogic](https://flatlogic.com/templates?framework%5B%5D=angular)
 
 #### Testing
 

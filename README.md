@@ -1083,6 +1083,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
 * [ngx-export-as](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 * [datagrid](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
+* [angular-datatables](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
 
 #### Tooltips
 

@@ -645,6 +645,10 @@ become an Angular expert.
 * [angular-sample-app](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
 * [Angular-18-boilerplate](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
 * [angular-and-firebase-template](https://github.com/FullStacksDev/angular-and-firebase-template) - An opinionated full-stack starting point for building a web app, using Angular and Firebase.
+* [berry-free-angular-admin-template](https://github.com/codedthemes/berry-free-angular-admin-template) - Berry is a free angular admin dashboard template built with Angular and latest Bootstrap 5. It is meant to provide the best possible User Experience with highly customizable feature-rich pages.
+* [mantis-free-angular-admin-template](https://github.com/codedthemes/mantis-free-angular-admin-template)
+* [gradient-able-free-admin-template](https://github.com/codedthemes/gradient-able-free-admin-template)
+* [datta-able-free-angular-admin-template](https://github.com/codedthemes/datta-able-free-angular-admin-template)
 
 ##### Paid
 

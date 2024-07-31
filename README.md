@@ -1203,6 +1203,7 @@ for the creation of web applications developed with Angular.
 * [ngx-diff](https://github.com/rars/ngx-diff) - Angular component library for displaying diffs of text.
 * [infinite-viewer](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is a document viewer component with infinite scrolling.
 * [ngx-doc-viewer](https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer) - This component can be used to show several different document types in an Angular app.
+* [ngx-treeview2](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
 
 #### Misc Components
 

@@ -433,6 +433,7 @@ become an Angular expert.
 * [angular-authentication](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
 * [ngx-security](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 * [ngx-clerk](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
+* [ng-supabase](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 
 #### Builders
 

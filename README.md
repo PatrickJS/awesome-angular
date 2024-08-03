@@ -848,6 +848,7 @@ become an Angular expert.
 * [ngx-monaco-editor](https://github.com/jean-merelis/ngx-monaco-editor) - Monaco Code Editor for Angular.
 * [ngx-property-editor](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
 * [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
+* [tinymce-angular](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
 
 #### File Upload
 

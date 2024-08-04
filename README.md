@@ -475,6 +475,7 @@ become an Angular expert.
 * [ngx-aws-deploy](https://github.com/Jefiozie/ngx-aws-deploy) - Deploy your Angular app to Amazon S3 directly from the Angular CLI.
 * [analog-publish-gh-pages](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
 * [Genezio](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
+* [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
 
 #### Developer tools
 

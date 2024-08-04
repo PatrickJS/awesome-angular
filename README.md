@@ -83,6 +83,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Mixed utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
+  * [QR Codes](#qr-codes)
   * [Scroll](#scroll)
   * [State Management](#state-management)
   * [Storage](#storage)
@@ -515,7 +516,6 @@ become an Angular expert.
 * [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
 * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
 * [generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
-* [angularx-qrcode](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
 * [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 
 ##### Spring Boot
@@ -1053,6 +1053,14 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
 * [ngx-notifier](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
+
+#### QR Codes
+
+* [ng-qrcode](https://github.com/mnahkies/ng-qrcode) - Easy to use AOT compatible QR code generator for Angular projects.
+* [angularx-qrcode](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library.
+* [dfts-qrcode](https://github.com/Dafnik/dfts-common/tree/main/libs/dfts-qrcode) - A tiny and simple-to-use JavaScript / TypeScript QR-Code generator library. Fully type-safe and ES modules compatible.
+* [ngx-scanner](https://github.com/zxing-js/ngx-scanner) - Angular QR code, Barcode, DataMatrix, scanner component using ZXing.
+* [qrcode.angular](https://github.com/OriginRing/qrcode.angular) - QR Code implementation based on Angular.
 
 #### Scroll
 

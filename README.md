@@ -1079,7 +1079,6 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 #### State Management
 
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
-* [akita](https://github.com/salesforce/akita) - A Reactive State Management Tailored-Made for JS Applications.
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 * [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 * [ngxs](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.

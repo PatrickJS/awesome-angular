@@ -50,6 +50,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [HTTP](#http)
   * [Integrations](#integrations)
   * [Internationalization](#internationalization)
+  * [Monorepos](#monorepos)
   * [Security](#security)
   * [SEO](#seo)
   * [Server-Side Rendering](#server-side-rendering)
@@ -440,7 +441,6 @@ become an Angular expert.
 
 * [Webpack](https://webpack.js.org)
 * [ESBuild](https://esbuild.github.io/)
-* [Nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI.
 * [Angular Builders](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
 * [Jest Builder](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade.
 * [Custom Webpack](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack)
@@ -589,6 +589,12 @@ become an Angular expert.
 * [angular-ecmascript-intl](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
 * [i18n-ally](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 * [ngx-translate-router](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
+
+#### Monorepos
+
+* [Nx](https://github.com/nrwl/nx) - Nx is a build system with built-in tooling and advanced CI capabilities. It helps you maintain and scale monorepos, both locally and on CI.
+* [Turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+* [Moon](https://moonrepo.dev/docs/guides/examples/angular) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 
 #### Security
 

@@ -789,6 +789,8 @@ become an Angular expert.
 * [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/incubator-echarts).
 * [angular-fusioncharts](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for [FusionCharts](https://www.fusioncharts.com) JavaScript Charting Library.
 * [ngu-flow](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
+* [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
+* [angular-highcharts](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 
 #### Dates
 

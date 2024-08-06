@@ -948,6 +948,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ng-cloudimage-responsive](https://github.com/scaleflex/ng-cloudimage-responsive) - Cloudimage responsive plugin will make your website load the exact image size you need depending on your user's screen size.
 * [angular-cropperjs](https://github.com/matheusdavidson/angular-cropperjs) - [Cropper.js](https://github.com/fengyuanchen/cropperjs) integration for Angular 6+.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
+* [img-comparison-slider](https://github.com/sneas/img-comparison-slider) - Image comparison slider. Compare images before and after. Supports React, Vue, and Angular.
 
 #### Keyboard Mouse
 

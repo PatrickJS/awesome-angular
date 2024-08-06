@@ -1173,6 +1173,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [pupakit](https://github.com/bimeister/pupakit) - Angular UI Kit based on an atomic approach to building interfaces (Not production ready).
 * [ngwr](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
 * [Windmillcode-Angular-CDK](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
+* [ng-vcl](https://github.com/vcl/ng-vcl) - Angular VCL ‒ an Angular component library based on the [VCL](https://vcl.github.io) CSS eco system.
 
 ##### Material Based
 

@@ -1275,6 +1275,7 @@ for the creation of web applications developed with Angular.
 * [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
 * [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
 * [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
+* [awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 
 #### NgRx
 

@@ -377,6 +377,7 @@ become an Angular expert.
 * [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
+* [Brian Treese](https://www.youtube.com/@briantreese)
 
 ##### Style Guides
 

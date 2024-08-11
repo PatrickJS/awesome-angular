@@ -580,6 +580,7 @@ become an Angular expert.
 * [ngx-three](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 * [ngx-facebook-messenger](https://github.com/SkyZeroZx/ngx-facebook-messenger) - Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency.
 * [angular-sdk-plugin](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
+* [ngx-stripe](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
 
 #### Internationalization
 

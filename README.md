@@ -696,6 +696,7 @@ become an Angular expert.
 * [NobleUI](https://nobleui.com/angular/)
 * [ThemesBrand](https://themesbrand.com/judia/angular.html)
 * [Flatlogic](https://flatlogic.com/templates?framework%5B%5D=angular)
+* [Jet](https://docs.jetproject.dev/) - Jet is the ultimate Angular + Material Design boilerplate to build ambitious, robust web apps. Jet satisfies 60+ functional and non-functional stories.
 
 #### Testing
 

@@ -811,6 +811,7 @@ become an Angular expert.
 * [ngu-flow](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
 * [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
 * [angular-highcharts](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
+* [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 
 #### Dates
 

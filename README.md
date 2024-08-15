@@ -1122,6 +1122,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [signalstory](https://github.com/zuriscript/signalstory) - A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach.
 * [ngx-sherlock](https://github.com/politie/ngx-sherlock) - `ngx-sherlock` is an Angular tooling library to be used with the [@politie/sherlock](https://github.com/politie/sherlock) distributed reactive state management library.
 * [tansu](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
+* [@tethys/store](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
 
 #### Storage
 

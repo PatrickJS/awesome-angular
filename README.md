@@ -851,6 +851,7 @@ become an Angular expert.
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
 * [nglrx/pipes](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
 * [ng-helpers](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
+* [ng-condition](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 
 #### Drag and Drop
 

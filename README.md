@@ -586,7 +586,8 @@ become an Angular expert.
 
 #### Internationalization
 
-* [transloco](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular.
+* [transloco](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
+* [transloco-keys-manager](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 * [ngx-tolgee](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 * [localess](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
 * [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.

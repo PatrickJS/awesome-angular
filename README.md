@@ -549,6 +549,7 @@ become an Angular expert.
 * [ngx-http-annotations](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
 * [ng-http-loader](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 * [ngx-signalify](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
+* [angular-odata](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
 
 #### Integrations
 

@@ -867,6 +867,7 @@ become an Angular expert.
 * [nglrx/pipes](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
 * [ng-helpers](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
 * [ng-condition](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
+* [ngx-sticky-kit](https://github.com/matheo/ngx-sticky-kit) - Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position.
 
 #### Drag and Drop
 

@@ -1333,6 +1333,8 @@ for the creation of web applications developed with Angular.
 * [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
 * [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
 * [awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
+* [ionic-angular-library](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
+* [ionic-angular-collect-icons](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file. In small projects, it is difficult to manage addIcons() of ionIcons each time, so we automated it.
 
 #### NgRx
 

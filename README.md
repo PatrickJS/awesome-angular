@@ -811,6 +811,7 @@ become an Angular expert.
 * [ng-slider](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
 * [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 * [ngx-darkbox-gallery-library](https://github.com/failed-successfully/ngx-darkbox-gallery-library) - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
+* [slidecontent-angular](https://github.com/criar-art/slidecontent-angular) - A simple content slide developed in Angular with navigation buttons and transition animations.
 
 #### Charts
 
@@ -984,6 +985,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [icon-lib-builder](https://github.com/dimaslz/icon-lib-builder) - Small tool to generate a Framework component (React, Preact, Angular, Svelte or Vue) from a SVG icon.
 * [svg-icons-builder](https://github.com/angular-extensions/svg-icons-builder) - Angular builder to build svg-icons using svg-to-ts.
 * [ngx-fast-svg](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
+* [angular-techs-logos](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
 
 #### Images
 

@@ -398,6 +398,7 @@ become an Angular expert.
 * [Angular Material CDK - a11y](https://material.angular.io/cdk/a11y/overview) - The a11y package provides a number of tools to improve accessibility.
 * [PrimeNG](https://primeng.org/guides/accessibility) - PrimeNG accessibility guide.
 * [astral-accessibility](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
+* [angular-vlibras](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates the VLibras accessibility widget into your Angular applications. VLibras provides automatic translation of digital content into the Brazilian Sign Language (Libras), increasing accessibility for users.
 
 #### AI
 

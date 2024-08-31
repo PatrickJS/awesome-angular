@@ -702,6 +702,7 @@ become an Angular expert.
 * [mantis-free-angular-admin-template](https://github.com/codedthemes/mantis-free-angular-admin-template)
 * [datta-able-free-angular-admin-template](https://github.com/codedthemes/datta-able-free-angular-admin-template)
 * [sanity-template-angular-clean](https://github.com/sanity-io/sanity-template-angular-clean) - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
+* [angular-templates](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
 
 ##### Paid
 
@@ -1324,6 +1325,7 @@ for the creation of web applications developed with Angular.
 * [ngx-flagr](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 * [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 * [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
+* [ng2-gauge](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
 
 ---
 

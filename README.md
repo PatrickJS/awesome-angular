@@ -954,6 +954,7 @@ become an Angular expert.
 * [ng-signal-forms](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
 * [ngx-sub-form](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
 * [forms-typed](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
+* [ngx-vest-forms](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
 
 ##### Form Controls
 

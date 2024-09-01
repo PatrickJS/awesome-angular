@@ -636,6 +636,7 @@ become an Angular expert.
 * [Synk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
 * [Github](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  
 * [Github Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
+* [HackTricks](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/angular) - Angular Security  Checklist.
 
 #### SEO
 

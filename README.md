@@ -1333,6 +1333,7 @@ for the creation of web applications developed with Angular.
 * [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 * [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 * [ng2-gauge](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
+* [ngx-angular-query-builder](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
 
 ---
 

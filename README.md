@@ -275,6 +275,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Tomasz Ducin](https://ducin.dev/blog)
 * [This is Angular](https://dev.to/this-is-angular)
 * [daily.dev](https://app.daily.dev/tags/angular)
+* [qupaya](https://qupaya.com/blog/)
 
 ##### Books
 

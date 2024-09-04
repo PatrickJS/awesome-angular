@@ -1186,6 +1186,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-sherlock](https://github.com/politie/ngx-sherlock) - `ngx-sherlock` is an Angular tooling library to be used with the [@politie/sherlock](https://github.com/politie/sherlock) distributed reactive state management library.
 * [tansu](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 * [@tethys/store](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
+* [angular-redux](https://github.com/reduxjs/angular-redux) - Unofficial Angular bindings for [Redux](https://redux.js.org/).
 
 #### Storage
 

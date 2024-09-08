@@ -1432,6 +1432,7 @@ for the creation of web applications developed with Angular.
 * [typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 * [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 * [valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
+* [ngx-exhaustive-check](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
 
 #### Other Lists
 

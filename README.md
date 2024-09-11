@@ -990,6 +990,7 @@ become an Angular expert.
 * [ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
 * [angular-iban](https://github.com/fundsaccess/angular-iban) - IBAN directives and pipes for Angular.
 * [ngx-autosize-input](https://github.com/joshuawwright/ngx-autosize-input) - An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.
+* [angular-cc-library](https://github.com/timofei-iatsenko/angular-cc-library) - Library to support Credit Card input masking and validation.
 
 ##### Validation
 

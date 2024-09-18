@@ -1300,6 +1300,7 @@ for the creation of web applications developed with Angular.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * [ngxtw](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
+* [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
 
 ##### Node Based
 

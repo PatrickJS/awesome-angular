@@ -276,6 +276,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [This is Angular](https://dev.to/this-is-angular)
 * [daily.dev](https://app.daily.dev/tags/angular)
 * [qupaya](https://qupaya.com/blog/)
+* [Offering Solutions](https://offering.solutions/blog/)
 
 ##### Books
 
@@ -338,6 +339,7 @@ become an Angular expert.
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 * [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
 * [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
+* [Offering Solutions](https://offering.solutions/trainings/)
 
 ##### On-Site Training
 
@@ -346,6 +348,7 @@ become an Angular expert.
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
+* [Offering Solutions](https://offering.solutions/trainings/)
 
 ##### YouTube Channels
 

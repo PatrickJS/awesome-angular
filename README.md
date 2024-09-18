@@ -998,6 +998,7 @@ become an Angular expert.
 * [angular-cc-library](https://github.com/timofei-iatsenko/angular-cc-library) - Library to support Credit Card input masking and validation.
 * [ngx-ui-switch](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
 * [olt-ngx-ui-switch](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
+* [auto-complete](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
 
 ##### Validation
 

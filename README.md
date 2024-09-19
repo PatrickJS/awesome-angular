@@ -45,6 +45,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Developer tools](#developer-tools)
   * [Documentation tools](#documentation-tools)
   * [Generators](#generators)
+    * [Go](#go)
     * [NET](#net)
     * [Node](#node)
     * [Spring Boot](#spring-boot)
@@ -534,6 +535,10 @@ become an Angular expert.
 * [docgeni](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 
 #### Generators
+
+##### Go
+
+* [goxygen](https://github.com/Shpota/goxygen) - Goxygen generates back-end Go code, connects it with front-end components, provides a Dockerfile for the application, and creates docker-compose files that run in development and production environments.
 
 ##### NET
 

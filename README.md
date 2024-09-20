@@ -567,6 +567,7 @@ become an Angular expert.
 * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 * [hasura](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 * [tailcall](https://tailcall.run/blog/graphql-angular-client/) - This comprehensive guide dives into five powerful approaches for integrating GraphQL into your Angular applications.
+* [apollo-orbit](https://github.com/wassim-k/apollo-orbit) - A fully-featured GraphQL client for Angular with modular state management.
 
 #### HTTP
 

@@ -387,6 +387,7 @@ become an Angular expert.
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 * [Brian Treese](https://www.youtube.com/@briantreese)
+* [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
 
 ##### Style Guides
 

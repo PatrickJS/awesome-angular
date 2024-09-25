@@ -1477,11 +1477,12 @@ for the creation of web applications developed with Angular.
 
 #### Other Lists
 
-> This Awesome List excludes some libraries that don't yet support Angular 16+.  If you are still supporting or using older versions of Angular, you could find great resources in one of the lists below.
+> This Awesome List excludes some libraries that don't yet support Angular 16+. If you are still supporting or using older versions of Angular, you could find great resources in one of the lists below.
 
 * [awesome-utils-dev/angular](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
 * [awesome-angular](https://github.com/DaanDeSmedt/awesome-angular)
 * [angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
+* [framework.dev](https://angular.framework.dev/) - Search, compare, and discover top Angular libraries and community-driven resources in Angular.
 
 ---
 

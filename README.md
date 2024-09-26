@@ -279,6 +279,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [daily.dev](https://app.daily.dev/tags/angular)
 * [qupaya](https://qupaya.com/blog/)
 * [Offering Solutions](https://offering.solutions/blog/)
+* [Daniel Kreider](https://danielk.tech/)
 
 ##### Books
 

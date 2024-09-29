@@ -1028,8 +1028,7 @@ become an Angular expert.
 ##### Validation
 
 * [ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
-* [ngx-validator](https://github.com/why520crazy/ngx-validator) - About
-Angular 7+ Validator, a library handle validation messages easy and automatic.
+* [ngx-validator](https://github.com/why520crazy/ngx-validator) - Angular 7+ Validator. Handle validation messages easily and automatically.
 * [validointi](https://github.com/validointi/validointi) - This is a library to help you validate your template driven forms.
 * [ngx-reactive-forms-utils](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Provides easy validation error display and custom validators.
 * [angular-reactive-validation](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.

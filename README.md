@@ -628,6 +628,7 @@ become an Angular expert.
 * [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
 * [limitless-angular](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on [Sanity.io](https://www.sanity.io/) integration.
 * [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript).
+* [ngx-fabric-wrapper](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
 
 #### Internationalization
 
@@ -966,6 +967,8 @@ become an Angular expert.
 * [slate-angular](https://github.com/worktile/slate-angular) - Angular view layer for [Slate](https://github.com/ianstormtaylor/slate).
 * [BlockNoteAngular](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
 * [ngx-jodit](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit](https://github.com/xdan/jodit) WYSIWYG editor.
+* [ngx-ace-wrapper](https://github.com/zefoy/ngx-ace-wrapper) - Angular wrapper library for [Ace](http://ace.c9.io/).
+* [ngx-quill-wrapper](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
 
 #### File Upload
 
@@ -979,6 +982,7 @@ become an Angular expert.
 * [uppy](https://uppy.io/docs/angular/) - [Uppy](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.
 * [ngx-custom-material-file-input](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
 * [ngxf-uploader](https://github.com/ZouYouShun/ngxf-uploader) - File uploader for Angular 18+.
+* [ngx-dropzone-wrapper](https://github.com/zefoy/ngx-dropzone-wrapper) - Angular wrapper library for [Dropzone](https://www.dropzone.dev/).
 
 #### Forms
 

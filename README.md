@@ -1408,6 +1408,7 @@ for the creation of web applications developed with Angular.
 * [ngx-angular-query-builder](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
 * [angular-confirmation-capture](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
 * [angular-anchored-floating-box](https://github.com/lazycuh/angular-anchored-floating-box) - A singleton, global Angular service to programmatically render a floating box anchored at an element that can have arbitrary content specified by either a TemplateRef or component.
+* [ngx-gauge](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
 
 ---
 

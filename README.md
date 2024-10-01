@@ -825,6 +825,25 @@ become an Angular expert.
 * [ngx-easy-view-transitions](https://github.com/DerStimmler/ngx-easy-view-transitions) - Angular library for easier use of the View Transitions API.
 * [ngx-typed-writer](https://github.com/SkyZeroZx/ngx-typed-writer) - A Native Angular 2+ Typing Animation Library (Angular SSR and Angular Universal Friendly).
 * [angular-shiki-magic-move](https://github.com/tutkli/angular-shiki-magic-move) - Smoothly animated code blocks with [Shiki](https://github.com/shikijs/shiki).
+* [ngx-number-ticker](https://github.com/omnedia/ngx-number-ticker) - A simple number ticker effect to animate counting.
+* [ngx-word-rotation](https://github.com/omnedia/ngx-word-rotation) - An Angular library designed to facilitate word rotation animations within Angular applications.
+* [ngx-word-morph](https://github.com/omnedia/ngx-word-morph) - An Angular library designed to facilitate word morphing animations within Angular applications.
+* [ngx-cryptic-text](https://github.com/omnedia/ngx-cryptic-text) - An Angular library that provides a cryptic text animation effect. The component animates text by randomly switching letters until the correct characters appear.
+* [ngx-word-pullup](https://github.com/omnedia/ngx-word-pullup) - An Angular library that provides a smooth pull-up animation effect for words. This component is designed to sequentially pull up and reveal words with a customizable delay.
+* [ngx-typewriter](https://github.com/omnedia/ngx-typewriter) - A lightweight and easy-to-use library for creating typewriter effects. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
+* [ngx-gradient-text](https://github.com/omnedia/ngx-gradient-text) - An Angular library that provides a dynamic gradient animation effect for text. This component allows you to display text with a smooth, animated gradient that transitions between two customizable colors.
+* [ngx-shiny-text](https://github.com/omnedia/ngx-shiny-text) - An Angular library that provides a shimmering text animation effect.
+* [ngx-ripple](https://github.com/omnedia/ngx-ripple) - This component creates an expanding ripple effect with customizable color, border, and animation duration. Perfect for adding an interactive and engaging effect to backgrounds or containers in your application.
+* [ngx-shine-border](https://github.com/omnedia/ngx-shine-border) - An Angular library that provides a dynamic and customizable animated border effect for Angular components.
+* [ngx-border-beam](https://github.com/omnedia/ngx-border-beam) - This component allows you to create a glowing, animated border that can be customized in terms of colors, border radius, and animation duration.
+* [ngx-dotpattern](https://github.com/omnedia/ngx-dotpattern) - An Angular library that provides a customizable dot pattern background effect for your Angular components.
+* [ngx-meteors](https://github.com/omnedia/ngx-meteors) - An Angular library that adds a mesmerizing meteor shower animation effect to your components.
+* [ngx-background-beams](https://github.com/omnedia/ngx-background-beams) - An Angular component that generates dynamic animated background beams with customizable gradients and motion paths.
+* [ngx-aurora](https://github.com/omnedia/ngx-aurora) - An Angular library that creates a mesmerizing aurora background effect. This component provides an animated, gradient-based light effect with customizable inversion and two different animation styles.
+* [ngx-particles](https://github.com/omnedia/ngx-particles) - An Angular library that provides a dynamic and interactive particle animation effect. The particles react to mouse movements, creating a visually engaging and customizable background for your Angular components.
+* [ngx-spotlight](https://github.com/omnedia/ngx-spotlight) - An Angular library that creates a spotlight effect using SVG animations. The component highlights sections of your page when they enter the viewport, with customizable spotlight colors and optional animations.
+* [ngx-starry-sky](https://github.com/omnedia/ngx-starry-sky) - An Angular library that creates a beautiful starry sky background with optional shooting star effects.
+* [ngx-connection-beam](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
 
 #### Calendars
 
@@ -912,6 +931,7 @@ become an Angular expert.
 * [ng-datetime](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
 * [time2blocks-ngx](https://github.com/antonioconselheiro/time2blocks-ngx) - Angular lib to identify which time is associated with a blockchain block in the past (and format it).
 * [dhutaryan/ngx-mat-timepicker](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
+* [ngx-timeline](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
 
 #### DOM
 
@@ -921,6 +941,7 @@ become an Angular expert.
 * [ngx-visibility](https://github.com/fidian/ngx-visibility) - Angular module that detects when elements are visible. Uses IntersectionObserver.
 * [ng-in-viewport](https://github.com/k3nsei/ng-in-viewport) - Allows us to check if an element is within the browsers visual viewport.
 * [ngx-breakpoint-observer](https://github.com/tutkli/ngx-breakpoint-observer) - This library adds reactive breakpoint and media query methods based on Signals.
+* [ngx-fade](https://github.com/omnedia/ngx-fade) - A versatile Angular component that provides a smooth fading and sliding effect for its content as it enters or leaves the viewport. This component uses the Intersection Observer API.
 * [ngx-dynamic-hooks](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
 * [edit-in-place](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 * [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
@@ -948,6 +969,7 @@ become an Angular expert.
 * [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The `@angular/cdk/drag-drop` module provides you with a way to easily and declaratively create drag-and-drop interfaces.
 * [moveable](https://github.com/daybrush/moveable) - Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, and Snappable.
 * [angular-drag-drop-layout](https://github.com/skutam/angular-drag-drop-layout) - A lightweight, dependency-free Angular library for creating highly customizable, responsive grid layouts with drag-and-drop functionality.
+* [ngx-swapy](https://github.com/omnedia/ngx-swapy) - A simple component library to get a drag and drop DOM through the help of [Swapy](https://github.com/TahaSh/swapy).
 
 #### Editor Components
 
@@ -1095,6 +1117,9 @@ become an Angular expert.
 * [angular-grid-layout](https://github.com/katoid/angular-grid-layout) - Responsive grid with draggable and resizable items for Angular applications.
 * [ng2-tree](https://github.com/valor-software/ng2-tree) - Angular tree component.
 * [gridstack](https://github.com/gridstack/gridstack.js/tree/master/angular/) - Mobile-friendly modern Typescript library for dashboard layout and creation. Making a drag-and-drop, multi-column responsive dashboard has never been easier. Has multiple bindings and works great with Angular.
+* [ngx-flickering-grid](https://github.com/omnedia/ngx-flickering-grid) - A simple component library to create a container with an animated grid pattern background.
+* [ngx-gridpattern](https://github.com/omnedia/ngx-gridpattern) - A simple component library to create a container with an pattern background.
+* [ngx-retro-grid](https://github.com/omnedia/ngx-retro-grid) - This component creates a 3D perspective grid with customizable colors, rotation, and smooth animation, perfect for adding a nostalgic or futuristic visual effect to your application.
 
 #### Loaders
 
@@ -1220,6 +1245,9 @@ become an Angular expert.
 * [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
 * [ng-table-virtual-scroll](https://github.com/diprokon/ng-table-virtual-scroll) - Virtual Scroll for Angular Material Table.
 * [ngx-scrollbar](https://github.com/MurhafSousli/ngx-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism.
+* [ngx-tracing-beam](https://github.com/omnedia/ngx-tracing-beam) - A simple component library to add an animated tracing beam to your vertical scrolling.
+* [ngx-marquee](https://github.com/omnedia/ngx-marquee) - A simple component library to create an infinite scrolling marquee with your content.
+* [@omnedia/ngx-scrollbar](https://github.com/omnedia/ngx-scrollbar) - This component offers a custom scrollbar with smooth scrolling functionality and allows for full control over its appearance through styling.
 
 #### State Management
 
@@ -1409,6 +1437,9 @@ for the creation of web applications developed with Angular.
 * [angular-confirmation-capture](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
 * [angular-anchored-floating-box](https://github.com/lazycuh/angular-anchored-floating-box) - A singleton, global Angular service to programmatically render a floating box anchored at an element that can have arbitrary content specified by either a TemplateRef or component.
 * [ngx-gauge](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
+* [ngx-neon-underline](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
+* [ngx-lamp](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
+* [ngx-globe](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
 
 ---
 
@@ -1469,6 +1500,7 @@ for the creation of web applications developed with Angular.
 * [observable-webworker](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
 * [ng-event-bus](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
 * [audit-debounce](https://github.com/loreanvictor/audit-debounce) - RxJS operator to debounce and audit simultaenously.
+* [rxjs-typewriter](https://github.com/omnedia/rxjs-typewriter) - A lightweight and easy-to-use NPM library for creating typewriter effects in your web applications. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
 
 #### TypeScript
 

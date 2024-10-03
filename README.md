@@ -1049,6 +1049,7 @@ become an Angular expert.
 * [ngx-ui-switch](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
 * [olt-ngx-ui-switch](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
 * [auto-complete](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
+* [ngx-otp-input](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
 
 ##### Validation
 

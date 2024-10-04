@@ -1174,6 +1174,7 @@ become an Angular expert.
 * [ngx-markdown-editor](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
 * [angular-markdown-editor](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 * [ngx-markdoc](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
+* [ngx-md](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 
 #### Media
 

@@ -1448,6 +1448,7 @@ for the creation of web applications developed with Angular.
 * [ngx-neon-underline](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
 * [ngx-lamp](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
 * [ngx-globe](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
+* [ngx-copypaste](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 
 ---
 

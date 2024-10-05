@@ -392,6 +392,7 @@ become an Angular expert.
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 * [Brian Treese](https://www.youtube.com/@briantreese)
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
+* [JSgigs](https://www.youtube.com/@jsgigs4909)
 
 ##### Style Guides
 

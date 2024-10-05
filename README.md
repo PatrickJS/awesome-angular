@@ -690,6 +690,7 @@ become an Angular expert.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 * [ngx-ssr-code-remover](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
 * [treaty](https://github.com/treatyjs/treaty) - The meta framework for Angular. An alternative to Analog.
+* [analog-stuff](https://github.com/joshuamorony/analog-stuff) - Extra stuff for AnalogJS including `agx-remark-rehype`.
 
 #### Site Templates
 

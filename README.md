@@ -1215,6 +1215,7 @@ become an Angular expert.
 * [ng-as](https://www.npmjs.com/package/ng-as) - Angular pipe and directive for type casting template variables.
 * [angular-toolbox](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
 * [ngx-lift](https://github.com/wghglory/ngx-lift) - This project has been crafted to enhance and simplify your Angular development experience. In the dynamic web development landscape, Angular stands out as a robust framework, and `ngx-lift` and `clr-lift` complement it by offering a collection of utilities, operators, and components.
+* [firestitch](https://github.com/orgs/Firestitch/repositories) - [Firestitch](https://firestitch.com/) has a ton of open source Angular solutions.
 
 #### Modals
 

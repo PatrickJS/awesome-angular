@@ -636,6 +636,7 @@ become an Angular expert.
 * [vike-angular](https://github.com/vikejs/vike-angular) - Angular integration for [Vike](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
 * [stream-chat-angular](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
 * [gong](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
+* [adyen-angular-online-payments](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
 
 #### Internationalization
 

@@ -1421,6 +1421,7 @@ for the creation of web applications developed with Angular.
 * [ngx-doc-viewer](https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer) - This component can be used to show several different document types in an Angular app.
 * [ngx-treeview2](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
 * [ngx-imageviewer](https://github.com/viobui/ngx-imageviewer) - Generate a image/pdf viewer using canvas.
+* [ngx-json-schema-viewer](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
 
 #### Misc Components
 

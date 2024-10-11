@@ -67,6 +67,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Calendars](#calendars)
   * [Carousels](#carousels)
   * [Charts](#charts)
+  * [Cookies](#cookies)
   * [Data Grids](#data-grids)
   * [Dates](#dates)
   * [DOM](#dom)
@@ -910,6 +911,13 @@ become an Angular expert.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 
+#### Cookies
+
+* [ngx-cookie-service](https://github.com/stevermeister/ngx-cookie-service) - Angular service for cookies. Originally based on the [ng2-cookies](https://github.com/BCJTI/ng2-cookies) library.
+* [ngx-cookie-consent](https://github.com/giacomo/ngx-cookie-consent) - Angular multi-language module to display a cookie consent banner without other dependencies.
+* [ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
+* [cookieconsent](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
+
 #### Data Grids
 
 * [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
@@ -1436,8 +1444,6 @@ for the creation of web applications developed with Angular.
 * [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 * [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 * [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
-* [ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
-* [ngx-cookie-service](https://github.com/stevermeister/ngx-cookie-service) - Angular (4.2+ ...12) service for cookies. Originally based on the [ng2-cookies](https://github.com/BCJTI/ng2-cookies) library.
 * [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 * [ng2csv](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
 * [@ui-router/angular](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.

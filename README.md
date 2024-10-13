@@ -396,6 +396,7 @@ become an Angular expert.
 * [Brian Treese](https://www.youtube.com/@briantreese)
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
 * [JSgigs](https://www.youtube.com/@jsgigs4909)
+* [Sebastian Persson](https://www.youtube.com/@DevBySeb)
 
 ##### Style Guides
 

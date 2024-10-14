@@ -1258,6 +1258,7 @@ become an Angular expert.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
 * [ngx-notifier](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
 * [angular-notification](https://github.com/lazycuh/angular-notification) - A singleton, global Angular service to programmatically show notifications.
+* [ngx-toastr-message](https://github.com/One-Zero-Code/ngx-toastr-message) - A lightweight, customizable Angular library for displaying toast notifications.
 
 #### QR Codes
 

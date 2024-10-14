@@ -860,6 +860,7 @@ become an Angular expert.
 * [ngx-spotlight](https://github.com/omnedia/ngx-spotlight) - An Angular library that creates a spotlight effect using SVG animations. The component highlights sections of your page when they enter the viewport, with customizable spotlight colors and optional animations.
 * [ngx-starry-sky](https://github.com/omnedia/ngx-starry-sky) - An Angular library that creates a beautiful starry sky background with optional shooting star effects.
 * [ngx-connection-beam](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
+* [ngx-countUp](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 
 #### Calendars
 

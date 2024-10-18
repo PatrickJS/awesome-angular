@@ -1101,6 +1101,8 @@ become an Angular expert.
 * [angular-reactive-validation](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
 * [ngx-formcontrol-errors](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
 * [error-tailor](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
+* [ngx-validator-pack](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
+to simplify usage and allow quick customization.
 
 #### Icons
 

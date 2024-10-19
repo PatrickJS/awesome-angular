@@ -1433,6 +1433,7 @@ for the creation of web applications developed with Angular.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
 * [Rectangle UI](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
 * [Mamba UI](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
+* [FlyonUI](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 
 ##### Node Based
 

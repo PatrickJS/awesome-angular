@@ -900,6 +900,7 @@ become an Angular expert.
 * [slidecontent-angular](https://github.com/criar-art/slidecontent-angular) - A simple content slide developed in Angular with navigation buttons and transition animations.
 * [ngx-hm-carousel](https://github.com/ZouYouShun/ngx-hm-carousel) - A light carousel for Angular 18+, supports mobile touch with [HammerJs](https://hammerjs.github.io/).
 * [ngx-stories](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
+* [carousel-library](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
 
 #### Charts
 

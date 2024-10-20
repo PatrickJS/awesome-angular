@@ -812,6 +812,7 @@ become an Angular expert.
 * [ngx-testing-tools](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
 * [angular-testing-kit](https://github.com/lazycuh/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
 * [playwright-ng-schematics](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
+* [docker-ng-cli-karma](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
 
 #### Updating
 

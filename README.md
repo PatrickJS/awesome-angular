@@ -1072,6 +1072,7 @@ become an Angular expert.
 * [ngx-smart-forms](https://github.com/AditechGH/ngx-smart-forms) - This workspace contains Angular libraries that streamline form handling and validation by simplifying form creation, validation, and error display, and offering advanced customization and performance boosts.
 * [ngx-dynamic-form](https://github.com/jvlsoft-dev/ngx-dynamic-form) - A library that works in Angular 16 with Bootstrap 5 to generate forms in a simple and dynamic way.
 * [ngx-form](https://github.com/paddls/ngx-form) - Model based typed reactive forms made easy.
+* [ngx-enhancy-forms](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced angular forms.
 
 ##### Form Controls
 

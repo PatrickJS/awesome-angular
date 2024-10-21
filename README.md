@@ -1570,6 +1570,7 @@ for the creation of web applications developed with Angular.
 * [ng-event-bus](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
 * [audit-debounce](https://github.com/loreanvictor/audit-debounce) - RxJS operator to debounce and audit simultaenously.
 * [rxjs-typewriter](https://github.com/omnedia/rxjs-typewriter) - A lightweight and easy-to-use NPM library for creating typewriter effects in your web applications. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
+* [ngx-safe-subscribe](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
 
 #### TypeScript
 

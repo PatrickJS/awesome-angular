@@ -1071,6 +1071,7 @@ become an Angular expert.
 * [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
 * [ngx-smart-forms](https://github.com/AditechGH/ngx-smart-forms) - This workspace contains Angular libraries that streamline form handling and validation by simplifying form creation, validation, and error display, and offering advanced customization and performance boosts.
 * [ngx-dynamic-form](https://github.com/jvlsoft-dev/ngx-dynamic-form) - A library that works in Angular 16 with Bootstrap 5 to generate forms in a simple and dynamic way.
+* [ngx-form](https://github.com/paddls/ngx-form) - Model based typed reactive forms made easy.
 
 ##### Form Controls
 

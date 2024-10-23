@@ -601,6 +601,7 @@ become an Angular expert.
 * [ng-http-loader](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 * [ngx-signalify](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
 * [angular-odata](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
+* [ngx-http-retry](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
 
 #### Integrations
 

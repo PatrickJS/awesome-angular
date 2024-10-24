@@ -1126,6 +1126,7 @@ become an Angular expert.
 * [error-tailor](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
 * [ngx-validator-pack](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
 to simplify usage and allow quick customization.
+* [ngx-error-msg](https://github.com/fakeJan499/ngx-error-msg) - The error message mapping library for Angular.
 
 #### Icons
 

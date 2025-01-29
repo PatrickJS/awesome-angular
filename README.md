@@ -1834,6 +1834,7 @@ for the creation of web applications developed with Angular.
 * [ngx-safe-subscribe](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
 * [rxjs-collection](https://github.com/henryruhs/rxjs-collection) - RxJS enhanced Array, Map, WeakMap, Set and WeakSet.
 * [ng-rxjs-safe-subscribe](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
+* [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
 
 #### TypeScript
 

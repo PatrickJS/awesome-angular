@@ -1419,6 +1419,7 @@ to simplify usage and allow quick customization.
 * [HERE maps API for JavaScript](https://www.here.com/docs/bundle/maps-api-for-javascript-developer-guide/page/topics/angular-practices.html) - You can integrate [HERE](https://www.here.com/) Maps with Angular to display interactive maps, geocode addresses, calculate routes, and more, all within the context of your Angular application.
 * [ngx-gaia-gis](https://github.com/Olympus-Analytics/ngx-gaia-gis) - An Angular service that simplifies map creation and interaction using the powerful [OpenLayers](https://openlayers.org/) library.
 * [ngx-google-maps-places](https://github.com/lekhmanrus/ngx-google-maps-places) - Wrapper for new Google Maps Places API, making it easier to integrate Google Places functionality into Angular applications.
+* [angular-yandex-maps](https://github.com/ddubrava/angular-yandex-maps) - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
 
 #### Markdown
 

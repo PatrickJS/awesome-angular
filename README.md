@@ -711,6 +711,7 @@ become an Angular expert.
 * [ngx-barcode6](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode](https://github.com/lindell/JsBarcode).
 * [ngx-viz](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 * [ngx-reactify](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
+* [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
 
 #### Internationalization
 

@@ -1619,6 +1619,7 @@ to simplify usage and allow quick customization.
 * [ng-web-apis/storage](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
 * [ngx-odm](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
 * [signaldb](https://github.com/maxnowack/signaldb) - A local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity. It integrates easily with Angular, Solid.js, Preact, and Vue, simplifying data management with schema-less design, in-memory storage, and fast queries.
+* [dexie](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB.
 
 #### Tooltips
 

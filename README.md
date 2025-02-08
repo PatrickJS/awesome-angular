@@ -81,6 +81,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Forms](#forms)
     * [General](#general)
     * [Form Controls](#form-controls)
+    * [JSON Forms](#json-forms)
     * [Validation](#validation)
   * [Icons](#icons)
   * [Images](#images)
@@ -1217,10 +1218,7 @@ become an Angular expert.
 * [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) - Angular input mask.
 * [ngx-mask](https://github.com/JsDaddy/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
 * [maskito](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
-* [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
-* [formio](https://github.com/formio/angular) - JSON powered forms for Angular.
 * [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular.
-* [fluent-form](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
 * [reactive-forms](https://github.com/ngneat/reactive-forms) - (Angular Reactive) Forms with Benefits.
 * [ng-signal-forms](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
 * [ngx-sub-form](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
@@ -1275,6 +1273,15 @@ become an Angular expert.
 * [ngx-super-select-tree](https://github.com/HesamKashefi/ngx-super-select-tree) - A single/multiple choice drop down tree for Angular!
 * [ngx-easy-emoji-picker](https://github.com/PsySanchez/ngx-easy-emoji-picker) - Angular library that seamlessly integrates emoji selection into your application.
 * [ngx-mat-table-multi-sort](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
+
+##### JSON Forms
+
+* [ngx-formly](https://github.com/ngx-formly/ngx-formly) - JSON powered / Dynamic forms for Angular.
+* [formio](https://github.com/formio/angular) - JSON powered forms for Angular.
+* [fluent-form](https://github.com/fluent-form/fluent-form) - Building dynamic form in Angular with Fluent API or JSON.
+* [jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
+* [jsonforms-angular-seed](https://github.com/eclipsesource/jsonforms-angular-seed) - Angular-based JSON Forms seed app.
+* [ng-formworks](https://github.com/zahmo/ng-formworks) - An Angular [JSON Schema](https://json-schema.org/) Form builder, similar to, and mostly API compatible with, [Angular Schema Form](http://schemaform.io/examples/bootstrap-example.html), [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/), and [JSON Form](https://ulion.github.io/jsonform/playground/).
 
 ##### Validation
 
@@ -1462,7 +1469,6 @@ to simplify usage and allow quick customization.
 * [angular components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 * [lithium-angular](https://github.com/lVlyke/lithium-angular) - Reactive components made easy! Lithium provides utilities that enable seamless reactive state and event interactions for Angular components.
 * [rxweb](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
-* [jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 * [ngspot](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
 * [ngx-grpc](https://github.com/smnbbrv/ngx-grpc) - Angular gRPC framework.
 * [ts-cacheable](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.

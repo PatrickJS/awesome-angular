@@ -1237,6 +1237,7 @@ become an Angular expert.
 * [@luistabotelho/angular-signal-forms](https://github.com/luistabotelho/angular-signal-forms) - Simple Angular library to implement forms with signals.
 * [ngx-form-object](https://github.com/infinum/ngx-form-object) - ngx-form-object is an abstraction on top of Angular's reactive forms. It generates a form from a given model and automatically handles creation of nested forms (HasOne and HasMany model relationships).
 * [reactive-form-extensions](https://gitlab.com/Riuen/reactive-form-extensions) - This project improves Angular's ReactiveForms with useful features like trimming inputs, showing error messages, and changing CSS classes based on validation rules, all without extra dependencies and with less code.
+* [pro-form](https://github.com/ProAngular/pro-form) - A predefined set of reactive and reusable form input components based on Angular Material.
 
 ##### Form Controls
 
@@ -1555,6 +1556,7 @@ to simplify usage and allow quick customization.
 * [@omnedia/ngx-scrollbar](https://github.com/omnedia/ngx-scrollbar) - This component offers a custom scrollbar with smooth scrolling functionality and allows for full control over its appearance through styling.
 * [ngx-perfect-scrollbar](https://github.com/Harvest-Dev/ngx-perfect-scrollbar) - This fork of [ngx-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar) is an Angular wrapper library for [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/).
 * [ngx-virtual-dnd-list](https://github.com/mfuu/ngx-virtual-dnd-list) - A virtual scrolling list component that can be sorted by dragging.
+* [ngx-scroll-top](https://github.com/ProAngular/ngx-scroll-top) - Configurable, lightweight back to top button for Angular projects.
 
 #### State Management
 
@@ -1760,6 +1762,7 @@ for the creation of web applications developed with Angular.
 * [ngx-treeview2](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
 * [ngx-imageviewer](https://github.com/viobui/ngx-imageviewer) - Generate a image/pdf viewer using canvas.
 * [ngx-json-schema-viewer](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
+* [ngx-gist](https://github.com/ProAngular/ngx-gist) - An Angular Material and highlightjs styled display box for GitHub gist and local code snippets.
 
 #### Misc Components
 

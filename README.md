@@ -1697,6 +1697,7 @@ to simplify usage and allow quick customization.
 * [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
 * [ng-verse](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
 * [primitives](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+* [xUI](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 
 ##### Material Based
 

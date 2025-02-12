@@ -857,6 +857,7 @@ become an Angular expert.
 * [@rainerhahnekamp/angular-starter](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
 * [BoilerPlate-FirebaseAngular](https://github.com/Yewo-Devs/BoilerPlate-FirebaseAngular) - Starting point for apps built using .NET, Angular, and Firebase.
 * [extreme-angular](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
+* [ng-advance](https://github.com/ksunny-works/ng-advance) - A modern and fully-configured Angular starter template, empowering developers to quickly bootstrap their Angular projects with tools like Prettier, Jest, Husky, and ESLint.
 
 ##### Paid
 

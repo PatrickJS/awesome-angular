@@ -1889,6 +1889,7 @@ for the creation of web applications developed with Angular.
 * [valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 * [ngx-exhaustive-check](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
 * [mutates](https://github.com/IKatsuba/mutates) - A powerful toolset for mutating the Abstract Syntax Tree (AST) of TypeScript files. It is a fork of [ng-morph](https://github.com/taiga-family/ng-morph), with a broader focus beyond Angular-specific transformations, allowing for extensive AST modifications in any TypeScript project.
+* [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
 
 #### Other Lists
 

@@ -1334,6 +1334,7 @@ to simplify usage and allow quick customization.
 * [boringer-avatars](https://github.com/cmgriffing/boringer-avatars) - A fork from [boring-avatars](https://github.com/boringdesigners/boring-avatars). This rewrites the base as Mitosis components and exports into multiple framework flavors including [Angular](https://github.com/cmgriffing/boringer-avatars/tree/main/packages/lib-angular).
 * [Semantic icons](https://github.com/khalilou88/semantic-icons) - A collection of free and open source icons ready for use in your angular projects using the component attribute selector and the svg tag.
 * [coolshapes](https://github.com/ngxpert/coolshapes) -  An Angular library aiming at allowing developers to use cool-looking abstract shapes with little grainy gradients from [coolshapes](https://coolshap.es/).
+* [lucide](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
 
 #### Images
 

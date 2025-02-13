@@ -746,6 +746,7 @@ become an Angular expert.
 * [ngx-signal-translate](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
 * [ngs-plural](https://github.com/andrei-shpileuski/ngs-plural) - A lightweight Angular library for handling pluralization in different languages using a pipe and a service. It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
 * [ngx-translate-messageformat-compiler](https://github.com/lephyrus/ngx-translate-messageformat-compiler) - Compiler for `ngx-translate` that uses [messageformat.js](https://github.com/messageformat/messageformat) to compile translations using ICU syntax for handling pluralization and gender.
+* [ngx-g11n](https://github.com/DSI-HUG/ngx-g11n) - Angular helpers for internationalizing and localizing your application.
 
 #### Module Federation
 

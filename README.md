@@ -517,6 +517,7 @@ become an Angular expert.
 * [kinde-angular](https://github.com/luukhaijes/kinde-angular) - Angular wrapper around the [Kinde](https://kinde.com/) Typescript [SDK](https://docs.kinde.com/developer-tools/sdks/backend/typescript-sdk/).
 * [Logto](https://logto.io/) - An open-source Auth0 alternative for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML open standards for authentication and authorization. This [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites) can help you use Logto with Angular.
 * [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
+* [SuperTokens](https://supertokens.com) - Configure your [Angular](https://supertokens.com/docs/quickstart/frontend-setup) application to use SuperTokens for authentication.
 
 #### Builders
 

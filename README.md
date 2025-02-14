@@ -667,6 +667,7 @@ become an Angular expert.
 * [ngx-http-request-state](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
 * [ngs-request-tracker](https://github.com/andrei-shpileuski/ngs-request-tracker) - A library for tracking, storing, and displaying statistics on all HTTP requests.
 * [ngx-pwa](https://github.com/Service-Soft/ngx-pwa) - Provides additional functionality around Angular pwa's. Most notably being able to cache and sync POST/PATCH/DELETE Requests.
+* [ngx-repository](https://github.com/paddls/ngx-repository) - Easily create a strongly typed data client (HTTP REST or Firestore) in your Angular project.
 
 #### Integrations
 
@@ -728,6 +729,7 @@ become an Angular expert.
 * [ngx-reactify](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
 * [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
 * [Otter](https://github.com/AmadeusITGroup/otter) - A highly modular framework whose goal is to provide a common platform to accelerate and facilitate the development on Angular web applications. It is split into several units to cover different aspects of these applications (localization, testing, customization, etc.). Also, to customize an application, metadata can be extracted from the application source code and injected into a CMS to manage dynamic configuration.
+* [ngx-serializer](https://github.com/paddls/ngx-serializer) - Angular wrapper of @paddls/ts-serializer library.
 
 #### Internationalization
 
@@ -1503,6 +1505,7 @@ to simplify usage and allow quick customization.
 * [nxt-components](https://github.com/Liquid-JS/nxt-components) - A collection of various Angular components.
 * [ngx-signal-plus](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
 * [ngx-nuts-and-bolts](https://github.com/infinum/ngx-nuts-and-bolts) - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
+* [ngx-common](https://github.com/paddls/ngx-common) - A collection of useful features to enhance your Angular apps.
 
 #### Modals
 
@@ -1890,6 +1893,7 @@ for the creation of web applications developed with Angular.
 * [ng-rxjs-safe-subscribe](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
 * [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
 * [eslint-plugin-rxjs-x](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
+* [rxjs-common](https://github.com/paddls/rxjs-common) - A collection of useful RxJS operators.
 
 #### TypeScript
 
@@ -1914,6 +1918,7 @@ for the creation of web applications developed with Angular.
 * [ngx-exhaustive-check](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
 * [mutates](https://github.com/IKatsuba/mutates) - A powerful toolset for mutating the Abstract Syntax Tree (AST) of TypeScript files. It is a fork of [ng-morph](https://github.com/taiga-family/ng-morph), with a broader focus beyond Angular-specific transformations, allowing for extensive AST modifications in any TypeScript project.
 * [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
+* [ts-serializer](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 
 #### Other Lists
 

@@ -1107,6 +1107,7 @@ become an Angular expert.
 * [ngx-grid](https://github.com/blueshiftone/ngx-grid) - A professional Angular data grid.
 * [@guiexpert/angular-table](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).
 * [ngx-tabulator-tables](https://github.com/knackstedt/ngx-tabulator-tables) - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
+* [ngx-simple-material-table](https://github.com/holographic-blockchain/ngx-simple-material-table) - Angular library to simplify usage of the Angular Material table component.
 
 #### Dates
 

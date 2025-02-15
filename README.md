@@ -918,7 +918,7 @@ become an Angular expert.
 * [jest-marbles](https://github.com/just-jeb/jest-marbles) - Helpers library for marbles testing with Jest.
 * [jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest.
 * [ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
-* [playwright-ct-angular](https://github.com/sand4rt/playwright-ct-angular) - Playwright Angular component testing.
+* [@jscutlery/playwright-ct-angular](https://github.com/jscutlery/devkit/tree/main/packages/playwright-ct-angular) - Playwright Angular component testing.
 * [spectacular](https://github.com/ngworker/ngworker/tree/main/packages/spectacular) - Spectacular offers test harnesses for Angular applications and libraries.
 * [spectator](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests.
 * [stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.

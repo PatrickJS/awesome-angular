@@ -1296,6 +1296,7 @@ become an Angular expert.
 * [ngx-mat-table-multi-sort](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
 * [ngx-virtual-select-field](https://github.com/Vizer/ngx-virtual-select-field) - This package replicates the Angular Material Select component with virtual scroll capabilities with help of cdk-virtual-scroll.
 * [ng-country-select](https://github.com/wlucha/ng-country-select) - A smart, multilingual country search with flags and codes.
+* [ngx-card-wrapper](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js](https://github.com/jessepollak/card), which provides a credit card form.
 
 ##### JSON Forms
 

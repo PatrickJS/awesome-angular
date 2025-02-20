@@ -762,6 +762,7 @@ become an Angular expert.
 * [ng-translate-extensions](https://github.com/ressurectit/ng-translate-extensions) - Angular module extending ng2-translate.
 * [ngx-translate-router](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
 * [ngx-translate-routes](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
+* [@transifex/angular](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [@transifex/angular](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
 
 #### Module Federation
 

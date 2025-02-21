@@ -486,6 +486,7 @@ become an Angular expert.
 * [ngx-piwik-pro](https://github.com/PiwikPRO/ngx-piwik-pro) - Dedicated [Piwik PRO](https://piwik.pro/) library that helps with implementing Piwik PRO Tag Manager and the Piwik PRO tracking client in Angular 8+ applications.
 * [ngx-material-tracking](https://github.com/Service-Soft/ngx-material-tracking) - Provides gdpr-compliant tracking functionality for Angular websites. Google Analytics and Meta Pixel are supported out of the box, but you are also able to build your own tracking.
 * [ngx-segment-analytics](https://github.com/opendecide/ngx-segment-analytics) - Provides an API for [Segment](https://github.com/segmentio/analytics-next/).
+* [ngx-meta-pixel](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
 
 #### Authentication
 

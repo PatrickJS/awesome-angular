@@ -673,6 +673,7 @@ become an Angular expert.
 * [ngx-pwa](https://github.com/Service-Soft/ngx-pwa) - Provides additional functionality around Angular pwa's. Most notably being able to cache and sync POST/PATCH/DELETE Requests.
 * [ngx-repository](https://github.com/paddls/ngx-repository) - Easily create a strongly typed data client (HTTP REST or Firestore) in your Angular project.
 * [ng-rest-client](https://github.com/gizm0bill/gzm/tree/master/libs/ng-rest-client) - This library provides a set of decorators for simplifying HTTP requests. It enables developers to define RESTful API clients using decorators for common HTTP methods.
+* [ngx-http-helper](https://github.com/InnovA2/ngx-http-helper) - A lightweight library to easily call your APIs and add JWT token or API key on each header request.
 
 #### Integrations
 

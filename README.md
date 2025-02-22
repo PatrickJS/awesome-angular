@@ -372,6 +372,8 @@ become an Angular expert.
 * [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 * [lowgular](https://courses.lowgular.edu.pl/) - The best courses for your career path as an Angular Frontend Developer.
 * [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
+* [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with
+Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/video-courses/). Content either in Italian or English.
 
 ##### On-Site Training
 

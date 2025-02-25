@@ -1786,6 +1786,7 @@ for Bootstrap 5 & Angular 17.
 * [design-angular-kit](https://github.com/italia/design-angular-kit) - A toolkit based on Bootstrap Italia
 for the creation of web applications developed with Angular.
 * [ngx-bootstrap-components](https://github.com/dotted-labs/ngx-bootstrap-components) - This library provides a set of Angular components integrated with Bootstrap, designed to be used with Angular's latest features like signals and the OnPush change detection strategy. The components are standalone, meaning they can be imported directly without the need for an encompassing Angular module.
+* [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 
 ##### Tailwind CSS Based
 

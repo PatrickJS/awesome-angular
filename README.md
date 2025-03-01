@@ -1767,6 +1767,7 @@ to simplify usage and allow quick customization.
 * [primitives](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 * [xUI](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 * [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
+* [flexi-ui](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/) provides a collection of reusable, visually appealing, and functional UI components to help you create modern and impressive front-end applications effortlessly. The library is fully customizable and open-source, making it accessible for everyone to use and contribute.
 
 ##### Material Based
 

@@ -474,6 +474,7 @@ become an Angular expert.
 * [Frontend AI](https://www.webcrumbs.org/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 * [Gurubase](https://gurubase.io/g/angular) - Angular Guru leverages up-to-date information from the Angular documentation, Stack Overflow, and articles across the internet to answer your questions.
 * [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
+* [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
 
 #### Analytics
 

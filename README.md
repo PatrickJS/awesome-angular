@@ -427,6 +427,7 @@ become an Angular expert.
 * [JSgigs](https://www.youtube.com/@jsgigs4909)
 * [Sebastian Persson](https://www.youtube.com/@DevBySeb)
 * [Kobi Hari](https://www.youtube.com/@kobihari)
+* [Code Step By Step](https://www.youtube.com/@codestepbystep)
 
 ##### Style Guides
 

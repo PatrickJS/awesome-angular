@@ -147,10 +147,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on X](https://x.com/angular)
-* [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-* [Angular Expo](https://angularexpo.com/) showcase.
-* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
-* [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
+* [/r/Angular Subreddit](https://www.reddit.com/r/Angular/)
+* [Angular Buddies Slack Channel](https://angularbuddies.slack.com/)
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 * [angular-logos](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 * [made with angular](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  

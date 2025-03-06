@@ -576,6 +576,8 @@ become an Angular expert.
 * [Genezio](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 * [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
 * [Zerops](https://zerops.io/) - Zerops makes deploying and running Analog apps, both [server side rendered](https://github.com/zeropsio/recipe-analog-nodejs) and [static](https://github.com/zeropsio/recipe-analog-static), a breeze.
+* [actions-angular-deploy](https://github.com/OrthoFi/actions-angular-deploy)
+* [actions-angular-ci-cd](https://github.com/OrthoFi/actions-angular-ci-cd)
 
 #### Developer tools
 

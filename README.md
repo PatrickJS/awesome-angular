@@ -810,6 +810,7 @@ become an Angular expert.
 * [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
 * [angular-spotflow-checkout](https://github.com/Spotflow-One/angular-spotflow-checkout) - The [Spotflow](https://www.spotflow.one/) Angular SDK enables users to make payments with a streamlined checkout experience.
 * [angular4-paystack](https://github.com/ashinzekene/angular4-paystack) - An Angular module that abstracts the complexity of making [Paystack](https://paystack.com/) payments.
+* [@Flutterwave/Angular-v3](https://github.com/Flutterwave/Angular-v3) - Angular library for [Flutterwave](https://flutterwave.com/) for Business (F4B) v3 APIs.
 
 #### Security
 

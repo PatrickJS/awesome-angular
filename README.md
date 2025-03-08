@@ -1676,6 +1676,7 @@ to simplify usage and allow quick customization.
 * [SmartNgRX](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
 * [ngrx-hateoas](https://github.com/angular-architects/ngrx-hateoas) - A library to bring hypermedia json into the NgRx Signal Store following the HATEOAS approach.
 * [ngrx-http-tracking](https://github.com/acandylevey/ngrx-http-tracking) - This NgRx library is aimed at slotting into your pre-existing NgRx stores to reduce the amount of boilerplate code you need to write and make handling the loading, success, and error states of HTTP requests significantly easier.
+* [ngrx-manager](https://github.com/smoosee/ngrx-manager) - Plug-N-Play State Manager for NgRx stores.
 
 ##### NGXS
 

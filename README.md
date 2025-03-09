@@ -910,6 +910,7 @@ become an Angular expert.
 * [ng-advance](https://github.com/ksunny-works/ng-advance) - A modern and fully-configured Angular starter template, empowering developers to quickly bootstrap their Angular projects with tools like Prettier, Jest, Husky, and ESLint.
 * [@wlucha/angular-starter](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
 * [angular-clean-architecture](https://github.com/carlossalasamper/angular-clean-architecture) - An Angular scaffold with a clean architecture that is easy to understand.
+* [dataclouder-template-angular](https://github.com/dataclouder-dev/dataclouder-template-angular) - A ready-to-use Angular/Ionic template with Firebase Authentication integration.
 
 ##### Paid
 

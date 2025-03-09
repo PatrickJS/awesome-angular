@@ -1928,6 +1928,7 @@ for the creation of web applications developed with Angular.
 * [ionic-angular-collect-icons](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file. In small projects, it is difficult to manage addIcons() of ionIcons each time, so we automated it.
 * [IDEA-Ionic8-extra](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
 * [ionic-component-snippets](https://github.com/LennonReid/ionic-component-snippets) - This repository showcases demos and libraries that aren't officially supported by Ionic yet, but can be useful for developers and their apps.
+* [ionic-header-parallax](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
 
 #### RxJS
 

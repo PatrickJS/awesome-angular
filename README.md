@@ -303,6 +303,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Amadou Sall](https://www.amadousall.com/)
 * [Angular Philosophies](https://github.com/tomavic/angular-philosophies)
 * [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
+* [Playful Programming](https://playfulprogramming.com/)
 
 ##### Books
 

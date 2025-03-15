@@ -755,6 +755,7 @@ become an Angular expert.
 * [zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag](https://github.com/chakra-ui/zag).
 * [seatsio-angular](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 * [ngx-kel-agent](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent](https://github.com/k0swe/kel-agent).
+* [foblex2D](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in [Foblex Flow](https://flow.foblex.com/) for 2D geometric operations.
 
 #### Internationalization
 

@@ -952,6 +952,7 @@ become an Angular expert.
 * [playwright-ng-schematics](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 * [playwright-coverage](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
 * [Cypress to Playwright](https://www.cy2pw.com/) - A curated collection of resources that can help you to migrate your test suite from Cypress to Playwright.
+* [Playwright Chrome Recorder](https://chromewebstore.google.com/detail/playwright-chrome-recorde/bfnbgoehgplaehdceponclakmhlgjlpd) - Export Chromium recorder tab data to Playwright tests. This gives you a nice starting point that you can refine to modern Playwright.
 
 ##### Component
 

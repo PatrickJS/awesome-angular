@@ -756,6 +756,7 @@ become an Angular expert.
 * [seatsio-angular](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 * [ngx-kel-agent](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent](https://github.com/k0swe/kel-agent).
 * [foblex2D](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in [Foblex Flow](https://flow.foblex.com/) for 2D geometric operations.
+* [ngx-d3](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service](https://github.com/tomwanzek/d3-ng2-service).
 
 #### Internationalization
 

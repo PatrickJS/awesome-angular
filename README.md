@@ -1370,6 +1370,7 @@ become an Angular expert.
 * [jsonforms-angular-seed](https://github.com/eclipsesource/jsonforms-angular-seed) - Angular-based JSON Forms seed app.
 * [ng-formworks](https://github.com/zahmo/ng-formworks) - An Angular [JSON Schema](https://json-schema.org/) Form builder, similar to, and mostly API compatible with, [Angular Schema Form](http://schemaform.io/examples/bootstrap-example.html), [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/), and [JSON Form](https://ulion.github.io/jsonform/playground/).
 * [schema-forms](https://github.com/Jaspero/schema-forms) - A library for building forms through standard JSON schemas.
+* [DynamicAngularForm](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
 
 ##### Validation
 

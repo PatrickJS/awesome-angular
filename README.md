@@ -1674,6 +1674,7 @@ to simplify usage and allow quick customization.
 * [ngx-virtual-dnd-list](https://github.com/mfuu/ngx-virtual-dnd-list) - A virtual scrolling list component that can be sorted by dragging.
 * [ngx-scroll-top](https://github.com/ProAngular/ngx-scroll-top) - Configurable, lightweight back to top button for Angular projects.
 * [ngx-virtual-scroller](https://github.com/iharbeck/ngx-virtual-scroller) - Displays a virtual, "infinite" list. Supports horizontal/vertical, variable heights, and multi-column.
+* [ng-inf-scroll](https://github.com/lukonik/ng-inf-scroll) - A lightweight library for adding infinite scrolling to Angular apps.
 
 #### State Management
 

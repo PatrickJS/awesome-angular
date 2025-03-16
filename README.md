@@ -1233,6 +1233,7 @@ become an Angular expert.
 * [ngx-signal-pipes](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 * [ng-gd](https://github.com/luisalejandrofigueredo/ng-gd) - An easy way to manage a canvas element with support for mouse or tablet events.
 * [ngx-annotate-text](https://github.com/philenius/ngx-annotate-text) - This Angular component library is perfect for tasks like visualizing named entity recognition, part of speech tagging, or annotating text datasets. It allows for interactively highlighting and annotating parts of text.
+* [ngx-responsive-if](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
 
 #### Drag and Drop
 

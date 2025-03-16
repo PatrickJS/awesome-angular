@@ -656,6 +656,7 @@ become an Angular expert.
 
 * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality.
 * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular.
+* [jangular-cli](https://github.com/nathangtg/jangular-cli) - Comprehensive Full-Stack Starter Kit: Powered by Spring Boot and Angular, featuring JWT-based authentication, seamless Flyway migrations, robust route protection, and a command-line interface for quick project initialization.
 
 #### GraphQL
 

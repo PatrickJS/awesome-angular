@@ -2027,6 +2027,7 @@ for the creation of web applications developed with Angular.
 * [gapi](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex NodeJS GraphQL Backend applications with minimum effort.
 * [GTPL](https://github.com/garag-lib/GTPL) - A TypeScript library designed for creating reactive template systems with a unique approach that incorporates Direct DOM and Proxy. Inspired by technologies like Vue.js, Angular AOT or JSX, GTPL offers an efficient and powerful way to build reactive applications in a compact 9KB(gzip) JavaScript package.
 * [Lua-Generate](https://github.com/Gabriel-c0Nsp/Lua-Generate) - A CLI tool to generate boilerplate code inspired by ng tool from Angular.
+* [named-slots](https://github.com/maybebot/named-slots) - Use declarative "holes" in your React components instead of an imperative prop-based approach. Inspired by slots in Vue/Svelte/Angular/WebComponents.
 * [npm-clang-format-node](https://github.com/lumirlumir/npm-clang-format-node) - Node wrapper for LLVM Clang's clang-format and git-clang-format native binaries inspired by [angular/clang-format](https://github.com/angular/clang-format).
 * [obfetch](https://github.com/wflixu/obfetch) - A HttpClient base on RxJS and fetch API inspired by Angular `httpClient`.
 * [prang](https://github.com/Joery-M/prang) - A framework that looks like Angular, smells like Angular, but is actually Vue.

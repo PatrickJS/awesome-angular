@@ -1592,6 +1592,7 @@ to simplify usage and allow quick customization.
 * [ngx-signal-plus](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
 * [ngx-nuts-and-bolts](https://github.com/infinum/ngx-nuts-and-bolts) - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
 * [ngx-common](https://github.com/paddls/ngx-common) - A collection of useful features to enhance your Angular apps.
+* [ngx-signals-plus](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
 
 #### Modals
 

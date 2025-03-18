@@ -1504,6 +1504,7 @@ to simplify usage and allow quick customization.
 * [dz-ngx-element](https://github.com/zdigambar/dz-ngx-element) - [NgxElement](https://www.npmjs.com/package/@zdigambar/ngx-element) enables to lazy load Angular components in non-angular applications. The library will register a custom element to which you can pass an attribute to specify what component you want to load.
 * [ngx-loading-overlay](https://github.com/shaman-apprentice/ngx-loading-overlay) - An Angular directive adding a loading overlay to your HTML.
 * [square-progress](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
+* [ng-loading-skeleton](https://github.com/arbrim/ng-loading-skeleton) - A lightweight and customizable Angular loading skeleton component.
 
 #### Loggers
 

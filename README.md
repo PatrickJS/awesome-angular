@@ -1601,6 +1601,7 @@ to simplify usage and allow quick customization.
 * [ngx-nuts-and-bolts](https://github.com/infinum/ngx-nuts-and-bolts) - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
 * [ngx-common](https://github.com/paddls/ngx-common) - A collection of useful features to enhance your Angular apps.
 * [ngx-signals-plus](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
+* [ngx-kit](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 
 #### Modals
 

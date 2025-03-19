@@ -1604,6 +1604,7 @@ to simplify usage and allow quick customization.
 * [ngx-common](https://github.com/paddls/ngx-common) - A collection of useful features to enhance your Angular apps.
 * [ngx-signals-plus](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
 * [ngx-kit](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
+* [ng-tool-collection](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
 
 #### Modals
 

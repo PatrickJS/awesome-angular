@@ -43,6 +43,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Builders](#builders)
   * [CLI](#cli)
   * [Deployment](#deployment)
+  * [Desktop](#desktop)
   * [Developer tools](#developer-tools)
   * [Documentation tools](#documentation-tools)
   * [Feature Flags](#feature-flags)
@@ -586,6 +587,18 @@ become an Angular expert.
 * [actions-angular-deploy](https://github.com/OrthoFi/actions-angular-deploy)
 * [actions-angular-ci-cd](https://github.com/OrthoFi/actions-angular-ci-cd)
 
+#### Desktop
+
+* [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+* [angular-electron](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron.
+* [neutralinojs](https://github.com/neutralinojs/neutralinojs) - A lightweight and portable desktop application development framework. It lets you develop lightweight cross-platform desktop applications using JavaScript, HTML and CSS. Apps built with Neutralinojs can run on Linux, macOS, Windows, Web, and Chrome.
+* [nw.js](https://github.com/nwjs/nw.js) - An app runtime based on Chromium and Node.js. You can write native apps in HTML and JavaScript with NW.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all web technologies.
+* [nw-angular-example](https://github.com/nwutils/nw-angular-example) - An example of integrating Angular with NW.js.
+* [tauri](https://v2.tauri.app/) - Create small, fast, secure, cross-platform applications.
+* [angular-tauri](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
+* [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
+* [wails](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
+
 #### Developer tools
 
 * [StackBlitz](https://stackblitz.com) - Instant Dev Environments.
@@ -715,7 +728,6 @@ become an Angular expert.
 * [Pega](https://community.pega.com/marketplace/component/angular-sdk) - Angular SDK includes a bridge and DX components that connect the ConstellationJS Engine to an Angular-based design system.
 * [Genesis Foundation](https://learn.genesis.global/docs/previous/web/integrations/angular/) - Genesis is a low-code platform designed specifically for the financial markets.
 * [angular-sdk](https://github.com/descope/angular-sdk) - Angular library used to integrate with Descope.
-* [angular-electron](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron.
 * [Postcat](https://github.com/Postcatlab/postcat) - A lightweight, extensible API tool based on Angular and Electron.
 * [angulardart-community](https://github.com/angulardart-community/website) - The next-generation AngularDart documentation website.
 * [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience.
@@ -727,7 +739,6 @@ become an Angular expert.
 * [ngx-grapesjs](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
 * [gojs-angular](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
 * [anguhashblog](https://github.com/AnguHashBlog/anguhashblog) - Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup.
-* [angular-tauri](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 * [ngx-three](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 * [ngx-facebook-messenger](https://github.com/SkyZeroZx/ngx-facebook-messenger) - Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency.
 * [angular-sdk-plugin](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.

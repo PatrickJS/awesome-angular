@@ -1404,6 +1404,7 @@ become an Angular expert.
 * [schema-forms](https://github.com/Jaspero/schema-forms) - A library for building forms through standard JSON schemas.
 * [DynamicAngularForm](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
 * [dynamic-forms](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
+* [json-forms-zorro-wrapper](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
 
 ##### Validation
 

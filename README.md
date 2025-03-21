@@ -1827,6 +1827,7 @@ to simplify usage and allow quick customization.
 * [NG-ZORRO MOBILE](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 * [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 * [NG-ALAIN](https://github.com/ng-alain/ng-alain/) - NG-ZORRO admin panel front-end framework.
+* [zardui](https://github.com/zard-ui/zardui) - A collection of beautiful and accessible components for Angular based in [shadcn-ui](https://github.com/shadcn-ui/ui) and NG-ZORRO. Fully open source and free.
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 * [prime-ng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library.
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.

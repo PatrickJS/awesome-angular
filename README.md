@@ -1422,6 +1422,7 @@ to simplify usage and allow quick customization.
 * [ngx-iban-validator](https://github.com/SKaDiZZ/ngx-iban-validator) - IBAN Validator for your reactive Angular forms, comes without any dependencies and can be used even outside of Angular as standalone function in any JS project. It can perform format, digit, and length IBAN validations.
 * [ngx-validators](https://github.com/marcellodotgg/ngx-validators) - A library that provides additional Angular Validators, including the ones Angular provides.
 * [ngx-reactive-form-class-validator](https://github.com/abarghoud/ngx-reactive-form-class-validator) - A lightweight library for dynamically validate Angular reactive forms using [class-validator](https://github.com/typestack/class-validator) library.
+* [ng-error-tooltips](https://github.com/mkeller1992/ng-error-tooltips) - An Angular library for reactive forms that displays tooltips on form inputs with errors, providing a user-friendly way to visualize validation messages.
 
 #### Icons
 

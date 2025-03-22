@@ -2082,6 +2082,7 @@ for the creation of web applications developed with Angular.
 * [prang](https://github.com/Joery-M/prang) - A framework that looks like Angular, smells like Angular, but is actually Vue.
 * [PrasthuthTS](https://github.com/Prasthuth-Pradeep/PrasthuthTS) - A TypeScript framework, inspired by Angular, that features a modular, component-based architecture, two-way data binding, and a flexible routing system, all while leveraging TypeScript's strong typing to simplify development and enhance maintainability.
 * [ReactiveForms](https://github.com/vipulkmr02/ReactiveForms) - Retrieve form input values using the DOM and implement form validation, drawing inspiration from Angular's Reactive Forms approach.
+* [@joanpablo/reactive_forms](https://github.com/joanpablo/reactive_forms) - This library, written in Dart, employs a model-driven approach to managing form inputs and validations, drawing significant inspiration from Angular's Reactive Forms.
 * [reaktiv](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
 * [sio](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 * [ts-react-directives](https://github.com/skycodr/ts-react-directives) - A small React/Typescript library designed to mimic Angular directives.

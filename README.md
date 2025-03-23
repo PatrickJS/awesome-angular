@@ -22,6 +22,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     * [Newsletters](#newsletters)
     * [Podcasts](#podcasts)
     * [Seasonal](#seasonal)
+    * [Bluesky](#bluesky)
     * [X](#x)
       * [angular-team](#angular-team)
       * [experts](#experts)
@@ -187,6 +188,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Christmas Calendar](https://angularchristmascalendar.com/)
 * [Angular Love Advent Calendar](https://advent.angular.love/event)
 * [Advent of TypeScript](https://www.adventofts.com/)
+
+##### Bluesky
+
+* [Angular Starter Pack by @brandonroberts.dev](https://bsky.app/starter-pack/brandonroberts.dev/3l7lzgkwkqu2n)
 
 ##### X
 

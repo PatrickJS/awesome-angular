@@ -1463,6 +1463,7 @@ to simplify usage and allow quick customization.
 * [lucide](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
 * [@ngverse/icons](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 * [angular-phosphor-icons](https://github.com/aromero86/angular-phosphor-icons) - Set of components designed for utilizing [Phosphor Icons](https://phosphoricons.com/) in Angular via directives.
+* [ic-on](https://www.npmjs.com/package/@ic-on/main) - The future of iconing.
 
 #### Images
 

@@ -480,6 +480,7 @@ become an Angular expert.
 * [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
 * [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular Application UIs 50% faster with PureCode AI.
+* [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 
 #### Analytics
 

@@ -1632,6 +1632,7 @@ to simplify usage and allow quick customization.
 * [ngx-signals-plus](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
 * [ngx-kit](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 * [ng-tool-collection](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
+* [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
 
 #### Modals
 

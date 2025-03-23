@@ -720,6 +720,7 @@ become an Angular expert.
 * [ngx-http-helper](https://github.com/InnovA2/ngx-http-helper) - A lightweight library to easily call your APIs and add JWT token or API key on each header request.
 * [mbo-ez-angular-ez-http-client](https://github.com/morganbourse/mbo-ez-angular-ez-http-client) - An ez Angular HTTP client inspired by Java [OpenFeign](https://github.com/OpenFeign/feign) Client.
 * [ngx-sse-client](https://github.com/marcospds/ngx-sse-client) - A simple **SSE** (Server Sent Events) client for Angular applications to replace the use of `EventSource`.
+* [@connectrpc/connect-web](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) - [Connect](https://connectrpc.com/) is a family of libraries for building and consuming APIs on different languages and platforms. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) brings type-safe APIs with Protobuf to TypeScript. `@connectrpc/connect-web` provides adapters for web browsers.  See this [example](https://github.com/connectrpc/examples-es/tree/main/angular) to integrate Connect with Angular.
 
 #### Integrations
 

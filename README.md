@@ -2080,6 +2080,7 @@ for the creation of web applications developed with Angular.
 * [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
 * [ts-serializer](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 * [tsconfig](https://github.com/smartrecruiters/tsconfig) - SmartRecruiters’ tsconfig contains all strict rules and improves your project type-safety.
+* [transform.tools](https://transform.tools/json-to-typescript) - Save a lot of time typing API responses with this JSON to TypeScript converter.
 
 #### Inspired by Angular
 

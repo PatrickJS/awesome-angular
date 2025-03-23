@@ -1515,6 +1515,7 @@ to simplify usage and allow quick customization.
 * [ngx-van](https://github.com/otodockal/ngx-van) - Tiny replacement for HTML nav element with mobile side nav menu built-in. Good old nav element on desktop, sliding side nav on mobile. No duplication.
 * [ngx-swipe-menu](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
 * [ng-simple-sidebar](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
+* [ngx-bladex](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
 
 #### Loaders
 

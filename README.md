@@ -1409,6 +1409,7 @@ become an Angular expert.
 * [ngx-card-wrapper](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js](https://github.com/jessepollak/card), which provides a credit card form.
 * [ngx-cron](https://github.com/swimlane/ngx-cron) - User-friendly cron input...
 * [@amirsavand/ngx-input](https://www.npmjs.com/package/@amirsavand/ngx-input) - Awesome all-in-one Angular package for inputs and forms handling.
+* [ngx-pwd](https://github.com/noelitocalma/ngx-pwd) - Password Strength Meter and Generator.
 
 ##### JSON Forms
 

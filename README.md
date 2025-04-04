@@ -1526,6 +1526,7 @@ to simplify usage and allow quick customization.
 * [ngx-swipe-menu](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
 * [ng-simple-sidebar](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
 * [ngx-bladex](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
+* [@berg-layout/angular](https://www.npmjs.com/package/@berg-layout/angular) - This is the Angular version of [berg-layout](https://github.com/blidblid/berg-layout).
 
 #### Loaders
 

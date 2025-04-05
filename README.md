@@ -428,6 +428,7 @@ become an Angular expert.
 * [Sebastian Persson](https://www.youtube.com/@DevBySeb)
 * [Kobi Hari](https://www.youtube.com/@kobihari)
 * [Code Step By Step](https://www.youtube.com/@codestepbystep)
+* [Programming Practicals](https://www.youtube.com/@programmingpracticals)
 
 ##### Style Guides
 

@@ -1280,6 +1280,7 @@ become an Angular expert.
 * [ng-click-outside](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
 * [ngx-search-pipe](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
 * [mTruncate](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
+* [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 
 #### Drag and Drop
 

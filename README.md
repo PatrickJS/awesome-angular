@@ -1669,6 +1669,7 @@ to simplify usage and allow quick customization.
 * [ngx-whats-new](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal windows.
 * [ngx-dialog](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
 * [ng-modal-service](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
+* [strictly-typed-mat-dialog](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
 
 #### Notifications
 

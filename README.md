@@ -1657,6 +1657,7 @@ to simplify usage and allow quick customization.
 * [@man-es/ngx-tools](https://github.com/man-es/ngx-tools) - The MAN ngx-tools repository contains a collection of libraries is designed to elevate your Angular development experience.
 * [ngx-oneforall](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
 * [angular-signal-generators](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
+* [mmstack](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
 
 #### Modals
 

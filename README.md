@@ -844,6 +844,7 @@ become an Angular expert.
 * [angular-microfrontend-demo](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
 * [mfe-crossframework](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 * [backbase-micro-frontends](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
+* [ngx-mfe](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.
 
 #### Monorepos
 

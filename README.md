@@ -1538,6 +1538,7 @@ to simplify usage and allow quick customization.
 * [ng-simple-sidebar](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
 * [ngx-bladex](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
 * [@berg-layout/angular](https://www.npmjs.com/package/@berg-layout/angular) - This is the Angular version of [berg-layout](https://github.com/blidblid/berg-layout).
+* [static-columns](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
 
 #### Loaders
 

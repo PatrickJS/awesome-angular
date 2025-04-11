@@ -1664,6 +1664,7 @@ to simplify usage and allow quick customization.
 * [ngx-oneforall](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
 * [angular-signal-generators](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 * [mmstack](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
+* [@tomaszatoo/ngx-libs](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
 
 #### Modals
 

@@ -1567,6 +1567,7 @@ to simplify usage and allow quick customization.
 * [ngx-loading-overlay](https://github.com/shaman-apprentice/ngx-loading-overlay) - An Angular directive adding a loading overlay to your HTML.
 * [square-progress](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
 * [ng-loading-skeleton](https://github.com/arbrim/ng-loading-skeleton) - A lightweight and customizable Angular loading skeleton component.
+* [groupix-spinner-library](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
 
 #### Loggers
 

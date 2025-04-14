@@ -1243,6 +1243,7 @@ become an Angular expert.
 * [ngx-timeline](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
 * [ngx-prayertimes-api](https://github.com/WurshaApps/ngx-prayertimes-api) - An Angular API client for [Prayer Times API](https://aladhan.com/prayer-times-api).
 * [frxjs-Ngx-Timeline](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
+* [angular-wheel-date-picker](https://github.com/maryland09/angular-wheel-date-picker) - A date picker component for Angular applications that features a scrollable wheel interface similar to native mobile date pickers.
 
 #### DOM
 

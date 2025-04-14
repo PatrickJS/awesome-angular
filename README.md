@@ -2118,6 +2118,7 @@ for the creation of web applications developed with Angular.
 > These repositories showcase a variety of projects and tools inspired by Angular, demonstrating how its foundational concepts can drive innovative and adaptable solutions across diverse applications.
 
 * [css-fx-layout](https://github.com/philmtd/css-fx-layout) - A responsive SCSS flexbox library inspired by Angular [Flex-Layout](https://github.com/angular/flex-layout).
+* [di](https://github.com/kaokei/di) - This library is a lightweight dependency injection library, similar to [InversifyJS](https://github.com/inversify/InversifyJS) and [typedi](https://github.com/typestack/typedi). 
 * [flexdi](https://github.com/AndreyShashlovDev/flexdi) - A flexible, efficient, and lightweight dependency injection library for React / React Native / Vue3 applications. The library is inspired by the principles and architectural approach of NestJS and Angular.
 * [fornax](https://github.com/TBosak/fornax) - A lightweight, opinionated, and highly customizable Bun-powered full-stack web framework designed to simplify building single-page applications with custom components, routing, and flexible styling options.
 * [friendly-di](https://github.com/AlexSergey/friendly-di) - A lightweight and high-performance inversion of control (IoC) container inspired by NestJS and Angular.

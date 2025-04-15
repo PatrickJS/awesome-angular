@@ -1192,6 +1192,7 @@ become an Angular expert.
 * [ngx-relationship-visualiser](https://github.com/Rudgey84/ngx-relationship-visualiser) - A D3 force-directed-graph, implemented in Typescript for Angular, generates a visualisation graph with customisable link lengths and multiple labels between nodes. The graph can handle new data that will update lines, nodes, links, and path labels.
 * [railz-visualizations](https://github.com/railz-ai/railz-visualizations) - A collection of reusable web components that help you build a dashboard using normalized financial transactions and analytics from the FIS Accounting Data as a Service API.
 * [@cubejs-client/ngx](https://www.npmjs.com/package/@cubejs-client/ngx) — Along with [@cubejs-client/core](https://www.npmjs.com/package/@cubejs-client/core), you can [integrate](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular) Cube.js in Angular.
+* [ngx-lightweight-charts](https://github.com/jamesbrobb/ngx-lightweight-charts) - An easily extendable Angular wrapper for [Trading View Lightweight Charts](https://www.tradingview.com/lightweight-charts/).
 
 #### Cookies
 

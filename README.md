@@ -542,6 +542,7 @@ become an Angular expert.
 * [Agilicus](https://www.agilicus.com/) - Single sign-on for any user—first party, third party, joint venture, contractor, or vendor. Enforce multi-factor authentication everywhere.  These are various [samples of integrations](https://github.com/Agilicus/samples) to the Agilicus Platform.
 * [nblocks](https://www.nblocks.dev/) - A control center for seamless management of Authentication, Payments, Subscriptions, Feature, and Role management.
 * [@badisi/ngx-auth](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
+* [@melody-auth/angular](https://www.npmjs.com/package/@melody-auth/angular) - [Melody Auth](https://github.com/ValueMelody/melody-auth) Angular SDK facilitates seamless interaction between Angular applications and the melody auth server. It silently handles authentication state management, redirect flows, token exchange, and authentication validation for you.
 
 #### Builders
 

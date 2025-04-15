@@ -1573,6 +1573,7 @@ to simplify usage and allow quick customization.
 * [square-progress](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
 * [ng-loading-skeleton](https://github.com/arbrim/ng-loading-skeleton) - A lightweight and customizable Angular loading skeleton component.
 * [groupix-spinner-library](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
+* [ngx-loading-page](https://github.com/dilipkumarsahoo/ngx-loading-page) - A sleek, adaptable loading page component featuring various loader styles, dynamic themes, customizable backgrounds, and a responsive card design built with Bootstrap.
 
 #### Loggers
 

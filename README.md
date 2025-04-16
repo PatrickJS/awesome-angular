@@ -1386,7 +1386,7 @@ become an Angular expert.
 
 ##### Form Controls
 
-* [ngx-emoji-mart](https://github.com/scttcper/ngx-emoji-mart) - Customizable Slack-like emoji picker.
+* [ngx-emoji-mart-next](https://github.com/arturovt/ngx-emoji-mart-next) - Customizable Slack-like emoji picker.
 * [ngx-color](https://github.com/scttcper/ngx-color) - 🎨 Color Pickers from Sketch, Photoshop, Chrome, Github, X & more.
 * [ngx-colors](https://github.com/KroneCorylus/ngx-colors) - Simple yet elegant Material color picker.
 * [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget.

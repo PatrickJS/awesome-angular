@@ -667,6 +667,7 @@ become an Angular expert.
 * [@configcat/js-sdk](https://github.com/configcat/js-sdk) - ConfigCat SDK for JavaScript provides easy integration for your application to [ConfigCat](https://configcat.com/).
 * [@configcat-labs/feature-flags-in-angular-sample-app](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
 * [angular-sdk-plugin](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
+* [featurit-sdk-angular](https://github.com/featurit/featurit-sdk-angular) - Angular wrapper of the Javascript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
 
 #### Generators
 

@@ -888,6 +888,7 @@ become an Angular expert.
 * [seo-analyzer](https://github.com/maddevsio/seo-analyzer) - The library for analyze a HTML file to show all of the SEO defects.
 * [ngx-seo](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
 * [angular-react-seo](https://github.com/ganatan/angular-react-seo) - Angular 17 & React 18 Examples SEO (Search engine optimization).
+* [@unhead/angular](https://www.npmjs.com/package/@unhead/angular) - Full-stack `<head>` management for Angular applications.
 
 #### Server-Side Rendering
 

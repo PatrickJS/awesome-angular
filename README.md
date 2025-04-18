@@ -1299,6 +1299,7 @@ become an Angular expert.
 * [ngx-search-pipe](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
 * [mTruncate](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
 * [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
+* [ng-dynamic-component](https://github.com/gund/ng-dynamic-component) - Dynamic components with full life-cycle support for inputs and outputs for Angular.
 
 #### Drag and Drop
 

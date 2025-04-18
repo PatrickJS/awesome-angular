@@ -505,6 +505,7 @@ become an Angular expert.
 * [clickstream-analytics-on-aws-web-sdk](https://github.com/aws-solutions/clickstream-analytics-on-aws-web-sdk) - [Clickstream Web SDK](https://aws-solutions.github.io/clickstream-analytics-on-aws/en/latest/sdk-manual/web/) can help you easily collect click stream data from browser to your AWS environments through the data pipeline provisioned by this solution.
 * [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
 * [opentelemetry-angular-interceptor](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
+* [ng-webdatarocks](https://github.com/WebDataRocks/ng-webdatarocks) - This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/).  Follow this [example](https://github.com/WebDataRocks/pivot-angular) to integrate the WebDataRocks web reporting tool.
 
 #### Authentication
 

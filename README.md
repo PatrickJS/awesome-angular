@@ -1463,6 +1463,7 @@ to simplify usage and allow quick customization.
 * [ng-error-tooltips](https://github.com/mkeller1992/ng-error-tooltips) - An Angular library for reactive forms that displays tooltips on form inputs with errors, providing a user-friendly way to visualize validation messages.
 * [ngx-forms-validator](https://github.com/apalaciosdev/ngx-forms-validator) - A forms validator library for Angular.
 * [ngx-control-message](https://github.com/chawkitariq/ngx-control-message) - A library for binding a message to a synchronous or asynchronous form control validator.
+* [safari-numfix](https://github.com/algrith/safari-numfix) - A lightweight utility to safely handle paste and keydown events on number input fields in Safari.
 
 #### Icons
 

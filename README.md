@@ -1469,6 +1469,7 @@ to simplify usage and allow quick customization.
 * [ngx-forms-validator](https://github.com/apalaciosdev/ngx-forms-validator) - A forms validator library for Angular.
 * [ngx-control-message](https://github.com/chawkitariq/ngx-control-message) - A library for binding a message to a synchronous or asynchronous form control validator.
 * [safari-numfix](https://github.com/algrith/safari-numfix) - A lightweight utility to safely handle paste and keydown events on number input fields in Safari.
+* [ngx-input-errors](https://github.com/aks1376/ngx-input-errors) - This project was developed for Angular Reactive Forms to automatically extract and display input validation error messages. This library supports multiple languages and allows for custom error messages for both standard form validations and user-defined validations.
 
 #### Icons
 

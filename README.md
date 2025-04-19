@@ -1936,6 +1936,7 @@ to simplify usage and allow quick customization.
 * [@koobiq/angular-components](https://github.com/koobiq/angular-components) - An open-source design system for designers and developers, focused on designing products related to information security. Gives you access to a broad range of UI patterns, UI components, design tools, resources, and content guidelines to accelerate collaboration.
 * [Vega](https://vega.hlprd.com/) - Vega includes reusable components and styles, in your framework of choice. Build product features faster, without recreating the same basic components for every project.
 * [Blueprint UI](https://blueprintui.dev/) - Accelerate your development with flexible UI components and tools that work everywhere.
+* [@jean-merelis/angular-components](https://github.com/jean-merelis/angular-components) - A library of reusable Angular components and utilities that provides high-quality UI elements for your applications.
 
 ##### Material Based
 

@@ -161,6 +161,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-memes](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
 * [ngx.tools](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
 * [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
+* [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
 * [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
 
 ##### Newsletters

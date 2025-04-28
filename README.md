@@ -582,6 +582,7 @@ become an Angular expert.
 * [firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) to add web framework support.
 * [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 * [ngx-create](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
+* [rafacli](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 
 #### Deployment
 

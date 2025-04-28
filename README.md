@@ -1450,6 +1450,7 @@ become an Angular expert.
 * [DynamicAngularForm](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
 * [dynamic-forms](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
 * [json-forms-zorro-wrapper](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
+* [ngx-formwork](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
 
 ##### Validation
 

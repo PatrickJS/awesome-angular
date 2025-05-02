@@ -422,8 +422,6 @@ become an Angular expert.
 * [Igor Sedov](https://www.youtube.com/@theigorsedov)
 * [Demystify Frontend](https://www.youtube.com/@DemystifyFrontend)
 * [Mona Code Lisa](https://www.youtube.com/@MonaCodeLisa)
-* [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
-* [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 * [Brian Treese](https://www.youtube.com/@briantreese)
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
@@ -432,6 +430,9 @@ become an Angular expert.
 * [Kobi Hari](https://www.youtube.com/@kobihari)
 * [Code Step By Step](https://www.youtube.com/@codestepbystep)
 * [Programming Practicals](https://www.youtube.com/@programmingpracticals)
+* [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
+* [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
+* [Code with Keys](https://www.youtube.com/@codewithkeys) - (Persian)
 
 ##### Style Guides
 

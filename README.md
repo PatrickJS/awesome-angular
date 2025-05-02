@@ -307,6 +307,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
 * [Playful Programming](https://playfulprogramming.com/)
 * [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
+* [Code With Omkar](https://www.codewithomkar.com/)
 
 ##### Books
 

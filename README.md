@@ -1139,6 +1139,7 @@ become an Angular expert.
 * [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 * [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
+* [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 
 #### Captcha
 

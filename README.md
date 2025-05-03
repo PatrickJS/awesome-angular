@@ -1405,6 +1405,7 @@ become an Angular expert.
 * [ngx-forms](https://github.com/nncl/ngx-forms) - Collection of Angular form functions, that will help you build your applications.
 * [@klubinskak/ngx-smart-forms](https://github.com/klubinskak/ngx-smart-forms) - Smart, Signal-powered form state utilities for Angular 17+.
 * [@pixelbyaj/ngx-form](https://github.com/pixelbyaj/ngx-form) - ISO20022 Angular Forms utilizing XSD and XML to facilitate the design of ISO20022 XSD in HTML forms. Additionally, these forms aid in structuring MX messages for HTML representation.
+* [ngx-custom-controls](https://github.com/kapilkumar0037/ngx-custom-controls) - Angular library, which provides a powerful base directive (`BaseCvaImplementationDirective<T>`) that implements both `ControlValueAccessor` and `Validator` interfaces, making it easy to create custom form controls with built-in validation support for template-driven and reactive forms.
 
 ##### Form Controls
 

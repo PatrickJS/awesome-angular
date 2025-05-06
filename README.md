@@ -1957,6 +1957,7 @@ to simplify usage and allow quick customization.
 * [Vega](https://vega.hlprd.com/) - Vega includes reusable components and styles, in your framework of choice. Build product features faster, without recreating the same basic components for every project.
 * [Blueprint UI](https://blueprintui.dev/) - Accelerate your development with flexible UI components and tools that work everywhere.
 * [@jean-merelis/angular-components](https://github.com/jean-merelis/angular-components) - A library of reusable Angular components and utilities that provides high-quality UI elements for your applications.
+* [mantic-ui](https://github.com/KY-Programming/mantic-ui) - Angular components for [Semantic UI](https://semantic-ui.com/) and [Fomantic UI](https://fomantic-ui.com/).
 
 ##### Material Based
 

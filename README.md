@@ -1332,6 +1332,7 @@ become an Angular expert.
 * [ngx-drag-resize](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
 * [ng-keyboard-sort](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
 * [ngx-draggable-widget-kama](https://github.com/KAMAELUA/ngx-draggable-widget-kama) - Reworked [ngx-draggable-widget](https://github.com/arup-banerjee/ngx-draggable-widget) for better support.
+* [angular-mixed-cdk-drag-drop](https://github.com/rosejoe47/angular-mixed-cdk-drag-drop) - Angular Directive to support mixed orientation drag drop using Angular CDK.
 
 #### Editor Components
 

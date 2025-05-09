@@ -1999,6 +1999,7 @@ for the creation of web applications developed with Angular.
 * [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 * [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ component library providing ease of use shared components, directives, pipes and services.  Check this [showcase](https://ngx-gccb.netlify.app/) for code snippets.
 * [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
+* [ez-nav](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
 
 ##### Tailwind CSS Based
 

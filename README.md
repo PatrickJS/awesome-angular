@@ -661,6 +661,7 @@ become an Angular expert.
 * [trakk.js](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
 * [ng-component-hierarchy-visualizer](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - A non invasive tool to generate Mermaid representations of your Angular component hierarchy representation based on the route configurations.
 * [easy-template-x-angular-expressions](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x](https://github.com/alonrbar/easy-template-x).
+* [angular-latest-snippets](https://github.com/JMGomes/angular-latest-snippets) - Comprehensive Angular v19 [snippets](https://marketplace.visualstudio.com/items?itemName=JMGomes.angular-latest-snippets) for TypeScript and HTML, including support for the latest Angular features. This extension was created to bridge the gap in resources for Angular’s newest capabilities, most existing code snippets are quite outdated.
 
 #### Feature Flags
 

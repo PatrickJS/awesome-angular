@@ -2209,6 +2209,7 @@ for the creation of web applications developed with Angular.
 * [reaktiv](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
 * [sio](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 * [ts-react-directives](https://github.com/skycodr/ts-react-directives) - A small React/Typescript library designed to mimic Angular directives.
+* [use-vue-service](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
 * [vyuha](https://github.com/RamanSharma100/vyuha) - A Nodejs Template Engine Inspired by EJS, Angular, and Laravel Blade.
 
 #### Other Lists

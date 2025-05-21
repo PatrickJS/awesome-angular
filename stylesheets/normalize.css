@@ -229,7 +229,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace;
+  font-family: monospace;
   font-size: 1em;
 }
 
@@ -290,6 +290,7 @@ button,
 html input[type="button"], /* 1 */
 input[type="reset"],
 input[type="submit"] {
+  appearance: button;
   -webkit-appearance: button; /* 2 */
   cursor: pointer; /* 3 */
 }
@@ -354,6 +355,7 @@ input[type="number"]::-webkit-outer-spin-button {
  */
 
 input[type="search"] {
+  appearance: textfield;
   -webkit-appearance: textfield; /* 1 */ /* 2 */
   box-sizing: content-box;
 }

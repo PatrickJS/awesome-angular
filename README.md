@@ -382,6 +382,7 @@ become an Angular expert.
 * [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
 * [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/video-courses/). Content either in Italian or English.
 * [Tech OS](https://tech-os.org/) - Tech OS offers high-level Angular training designed for demanding developers and ambitious teams.
+* [ng.guide](https://ng.guide/) - Learn Angular by building real-world apps.
 
 ##### On-Site Training
 

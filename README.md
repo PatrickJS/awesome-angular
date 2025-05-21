@@ -914,7 +914,7 @@ become an Angular expert.
 * [ngx-seo](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
 * [angular-react-seo](https://github.com/ganatan/angular-react-seo) - Angular 17 & React 18 Examples SEO (Search engine optimization).
 * [@unhead/angular](https://www.npmjs.com/package/@unhead/angular) - Full-stack `<head>` management for Angular applications.
-* [seo-manager-pro](https://github.com/mbsh-code/seo-manager-pro) - A powerful SEO Manager for Angular, React, Vue, and Vanilla JS projects.Easily set meta tags, Open Graph tags, Schema.org structured data, canonical URLs, robots meta, and more!
+* [seo-manager-pro](https://github.com/mbsh-code/seo-manager-pro) - A powerful SEO Manager for Angular, React, Vue, and Vanilla JS projects. Easily set meta tags, Open Graph tags, Schema.org structured data, canonical URLs, robots meta, and more!
 
 #### Server-Side Rendering
 

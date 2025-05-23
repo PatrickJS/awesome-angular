@@ -697,6 +697,7 @@ become an Angular expert.
 
 * [abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET.
 * [LymeStack](https://www.lymestack.com/) - LymeStack is a full-stack, full-featured web application template & toolset designed to provide small businesses and organizations with an accelerated starting point when it comes to creating new apps and adding features to those apps.
+* [spiderly](https://github.com/filiptrivan/spiderly) - .NET (C#) code generator that transforms an EF Core model into a fully customizable .NET (C#) + Angular web app.
 
 ##### Node
 

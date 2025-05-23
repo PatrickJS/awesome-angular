@@ -1475,6 +1475,7 @@ become an Angular expert.
 * [@amirsavand/ngx-input](https://www.npmjs.com/package/@amirsavand/ngx-input) - Awesome all-in-one Angular package for inputs and forms handling.
 * [ngx-pwd](https://github.com/noelitocalma/ngx-pwd) - Password Strength Meter and Generator.
 * [ng-otp-input](https://github.com/code-farmz/ng-otp-input) - A fully customizable, one-time password (OTP) input component for the web built with Angular.
+* [ngx-np-datepicker](https://www.npmjs.com/package/ngx-np-datepicker) - An Angular datepicker component that supports the Nepali calendar (Bikram Sambat). It allows users to pick Nepali dates easily, supports form integrations, and is ideal for applications needing a native Nepali date experience.
 
 ##### JSON Forms
 

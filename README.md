@@ -2080,6 +2080,7 @@ for the creation of web applications developed with Angular.
 * [ngx-json-schema-viewer](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
 * [ngx-gist](https://github.com/ProAngular/ngx-gist) - An Angular Material and highlightjs styled display box for GitHub gist and local code snippets.
 * [ngx-json-treeview](https://github.com/MichaelDoyle/ngx-json-treeview) - A collapsible JSON tree view for Angular.
+* [ngx-json-diff-viewer](https://www.npmjs.com/package/ngx-json-diff-viewer) - Angular component for visually displaying the differences between two JSON objects.
 
 #### Misc Components
 

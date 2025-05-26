@@ -2182,6 +2182,7 @@ for the creation of web applications developed with Angular.
 * [rxjs-common](https://github.com/paddls/rxjs-common) - A collection of useful RxJS operators.
 * [fork-join-settled](https://github.com/DKozachenko/fork-join-settled) - RxJS library which is analog of [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) method.
 * [rxjs-conduit](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
+* [ngx-device-permission](https://github.com/PhilipSh/ngx-device-permission) - Angular library for handling device permissions (camera, microphone, geolocation, etc.) in a reactive way using RxJS.
 
 #### TypeScript
 

@@ -1271,6 +1271,7 @@ become an Angular expert.
 * [ngx-s-data-table](https://github.com/Samuel-Pinheiro-C-Lopes/ngx-s-data-table) - An Angular module for a data table that automatically maps data from a specified class. It also allows users to provide custom mappings for greater flexibility in rendering data.
 * [mat-datatable](https://github.com/BePo65/mat-datatable) - A simple data table with virtual scrolling using Angular Material.
 * [@Trixwell/data-grid](https://github.com/Trixwell/data-grid) - An Angular component that renders data in a highly customizable and interactive data table. It supports features such as filtering, sorting, pagination, CSV export, expandable sub-grids, and integration with Angular Material components.
+* [ngx-multi-sort-table](https://github.com/Maxl94/ngx-multi-sort-table) - This library features a multiple sortable table based on Angular Material Design, with a focus on server-side loaded and sorted data.
 
 #### Dates
 

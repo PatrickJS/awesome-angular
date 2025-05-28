@@ -1387,6 +1387,7 @@ become an Angular expert.
 * [ngx-traak](https://github.com/mouhamadalmounayar/ngx-traak) - A WYSIWYG angular editor library built on top of prosemirror, built for standalone components and highly customizable with plugins.
 * [ngx-summernote](https://github.com/lula/ngx-summernote) - [Summernote](https://github.com/summernote/summernote) editor for Angular.
 * [angular-rich-text-editor](https://github.com/manishpatidar028/angular-rich-text-editor) - Angular wrapper for [RichTextEditor](https://richtexteditor.com/) with license key support and `ControlValueAccessor`.
+* [quill-table-better-dooooit](https://www.npmjs.com/package/quill-table-better-dooooit) - A module that enhances the table functionality of [Quill](https://quilljs.com/).
 
 #### File Upload
 

@@ -1103,6 +1103,7 @@ become an Angular expert.
 * [npx-app-updater](https://github.com/DSI-HUG/ngx-app-updater) - When a new version of your application is deployed, this library will trigger a user notification to inform them that updates are available.
 * [ngx-update-app](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 * [Angular Caniuse](https://www.angular.courses/caniuse) - Track Angular features from preview to stable stages.
+* [ngx-boomer](https://github.com/angular-sanctuary/ngx-boomer) - This project is a straightforward utility designed to enforce rules that preserve Angular's previous naming conventions in Angular 20.
 
 ---
 

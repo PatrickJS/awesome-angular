@@ -1062,6 +1062,7 @@ become an Angular expert.
 * [swc-angular](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
 * [swc-angular-plugin](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
 * [wdio-harness](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
+* [testronaut](https://github.com/testronaut/testronaut) - [Testronaut](https://testronaut.github.io/testronaut/) revolutionizes Angular component testing by running components in a real browser with Angular’s own build process, ensuring they behave exactly as they do in production. It eliminates mocks and guesswork, allowing developers to visually inspect output and write tests using Playwright’s powerful API for precise, real-world validation.
 
 ##### Guides
 

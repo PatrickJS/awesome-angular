@@ -688,6 +688,7 @@ become an Angular expert.
 * [@configcat-labs/feature-flags-in-angular-sample-app](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
 * [angular-sdk-plugin](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
 * [featurit-sdk-angular](https://github.com/featurit/featurit-sdk-angular) - Angular wrapper of the Javascript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
+* [@flagpole/angular](https://www.npmjs.com/package/@flagpole/angular) - Angular SDK for the [Flagpole](https://useflagpole.dev/) feature flag management system. Provides real-time feature flag updates, A/B testing capabilities, and seamless integration with Angular applications.
 
 #### Generators
 

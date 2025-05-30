@@ -164,6 +164,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
 * [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
 * [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
+* [Angular talents](https://www.angulartalents.com/) - Angular talents empowers independent developers available for their next gig. Stop scouring job boards and sit back as companies reach out to you first.
 
 ##### Newsletters
 

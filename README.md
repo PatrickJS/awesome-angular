@@ -885,6 +885,9 @@ become an Angular expert.
 * [backbase-micro-frontends](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
 * [ngx-mfe](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.
 * [npm-mfe-live-reload](https://www.npmjs.com/package/npm-mfe-live-reload) - This tool is designed to work in development mode and helps automatically reload the shell application when changes are detected in remote microfrontend applications.
+* [ngx-remote-component](https://github.com/eurusik/ngx-remote-component) - An Angular library for loading remote components dynamically in Nx workspaces.
+* [ngx-mf-remote-loader](https://github.com/eurusik/ngx-mf-remote-loader) - SSR-compatible dynamic remote module loader for Angular + Nx Micro Frontends.
+* [nx-mf-remote-loader-generator](https://github.com/eurusik/nx-mf-remote-loader-generator) - A Nx generator for creating and exposing remote components with SSR support in Module Federation. This generator works in conjunction with `ngx-mf-remote-loader` to provide seamless SSR support for remote components.
 
 #### Monorepos
 

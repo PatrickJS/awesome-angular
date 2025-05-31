@@ -1300,6 +1300,7 @@ become an Angular expert.
 * [angular-wheel-date-picker](https://github.com/maryland09/angular-wheel-date-picker) - A date picker component for Angular applications that features a scrollable wheel interface similar to native mobile date pickers.
 * [ngx-daterangepicker-pro](https://github.com/Abhinavgaur01/ngx-daterangepicker-pro-demo) - A powerful, customizable Angular date range picker built with Angular 17+ and [Day.js](https://github.com/iamkun/dayjs).
 * [ngx-custom-daterangepicker](https://github.com/nedpuganti/ngx-custom-daterangepicker) - An Angular date range picker component with advanced functionality and Material Design support. It allows for easy date range selection with customizable options and is simple to integrate.
+* [angular-material-jalali-datepicker-adapter](https://www.npmjs.com/package/angular-material-jalali-datepicker-adapter) - A comprehensive Angular library that provides Jalali (Persian/Solar Hijri/Shamsi) date adapter for Angular Material datepicker component.
 
 #### DOM
 

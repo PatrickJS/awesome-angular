@@ -1584,6 +1584,7 @@ to simplify usage and allow quick customization.
 * [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
 * [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
 * [ngx-blurhash-render](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
+* [red-zoom-angular](https://github.com/scompiler/red-zoom-angular) - A sleek and user-friendly image zoom library, designed as an Angular directive and fully customizable with CSS and SCSS.
 
 #### Keyboard Mouse
 

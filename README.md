@@ -906,6 +906,7 @@ become an Angular expert.
 * [angular4-paystack](https://github.com/ashinzekene/angular4-paystack) - An Angular module that abstracts the complexity of making [Paystack](https://paystack.com/) payments.
 * [@Flutterwave/Angular-v3](https://github.com/Flutterwave/Angular-v3) - Angular library for [Flutterwave](https://flutterwave.com/) for Business (F4B) v3 APIs.
 * [izipay](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
+* [ngx-supabase-stripe](https://github.com/dotted-labs/ngx-supabase-stripe) - An Angular library for integrating Supabase and Stripe into your applications, providing ready-to-use components that simplify the implementation of payments and subscriptions.
 
 #### Security
 

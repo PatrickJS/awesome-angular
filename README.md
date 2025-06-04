@@ -1965,6 +1965,7 @@ to simplify usage and allow quick customization.
 * [angular-ellipsis-tooltip](https://github.com/wandri/angular-ellipsis-tooltip) - Angular component to display ellipsis and material tooltip dynamically.
 * [ngx-popovers](https://github.com/al-march/ngx-popovers) - An Angular library based on [Floating UI](https://floating-ui.com/) with already ready-made components to use.
 * [angular-tooltip](https://github.com/lazycuh/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
+* [ngx-overlay](https://github.com/bastienmoulia/ngx-overlay) - A lightweight Angular library designed to leverage the latest CSS and HTML features while maintaining compatibility with most browsers. It provides an elegant solution for creating overlay components such as modals, tooltips, and popups using modern web standards.
 
 #### UI Libraries
 

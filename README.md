@@ -1455,6 +1455,7 @@ become an Angular expert.
 * [@klubinskak/ngx-smart-forms](https://github.com/klubinskak/ngx-smart-forms) - Smart, Signal-powered form state utilities for Angular 17+.
 * [@pixelbyaj/ngx-form](https://github.com/pixelbyaj/ngx-form) - ISO20022 Angular Forms utilizing XSD and XML to facilitate the design of ISO20022 XSD in HTML forms. Additionally, these forms aid in structuring MX messages for HTML representation.
 * [ngx-custom-controls](https://github.com/kapilkumar0037/ngx-custom-controls) - Angular library, which provides a powerful base directive (`BaseCvaImplementationDirective<T>`) that implements both `ControlValueAccessor` and `Validator` interfaces, making it easy to create custom form controls with built-in validation support for template-driven and reactive forms.
+* [ngxAccessor](https://github.com/Zarlex/ngxAccessor) - This library introduces an innovative method for interacting with Angular forms and signals. While Angular 19 supports Template Driven Forms and Reactive Forms, this library offers a third approach, seamlessly integrating signals while remaining adaptable to other state management solutions.
 
 ##### Form Controls
 

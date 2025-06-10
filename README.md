@@ -1406,6 +1406,7 @@ become an Angular expert.
 * [ngx-summernote](https://github.com/lula/ngx-summernote) - [Summernote](https://github.com/summernote/summernote) editor for Angular.
 * [angular-rich-text-editor](https://github.com/manishpatidar028/angular-rich-text-editor) - Angular wrapper for [RichTextEditor](https://richtexteditor.com/) with license key support and `ControlValueAccessor`.
 * [quill-table-better-dooooit](https://www.npmjs.com/package/quill-table-better-dooooit) - A module that enhances the table functionality of [Quill](https://quilljs.com/).
+* [ngx-wysicat](https://github.com/michalgrzegorczyk-dev/ngx-wysicat) - Build beautiful, structured documents with ease. `ngx-wysicat` combines block-based editing, advanced formatting, and a flexible plugin system—all powered by [Quill.js](https://quilljs.com/). Perfect for collaborative apps, note-taking tools, or any project where content quality matters.
 
 #### File Upload
 

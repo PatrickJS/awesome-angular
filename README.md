@@ -1176,6 +1176,7 @@ become an Angular expert.
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 * [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 * [ngx-calendario](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
+* [daypilot-lite-angular](https://www.npmjs.com/package/@daypilot/daypilot-lite-angular) - Angular version of JavaScript/HTML5 event calendar/scheduler components that can display day/week/month calendar views.
 
 #### Captcha
 

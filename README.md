@@ -877,6 +877,7 @@ become an Angular expert.
 * [tldraw-web-component](https://github.com/neosh11/tldraw-web-component) - Make [tldraw](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
 * [signal-translate](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
 * [ngx-translate-cut](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
+* [ngx-signal-i18n](https://github.com/yagcioe/ngx-signal-i18n) - This package provides a typesafe and lazy-loaded internationalization (i18n) solution for Angular applications, built on top of signals for improved reactivity. It is compatible with zoneless Angular.
 
 #### Module Federation
 

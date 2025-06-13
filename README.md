@@ -1018,6 +1018,7 @@ become an Angular expert.
 * [angular-tailwind-e-commerce-template](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - This responsive e-commerce template, built with Angular and TailwindCSS, combines modern aesthetics with functionality. Designed as a foundation for developing robust e-commerce applications, it features a sleek, customizable design, perfect for minimalist online shops.
 * [ngx-lib-starter-kit](https://github.com/r3zafa/ngx-lib-starter-kit) - This boilerplate helps you quickly set up and develop Angular libraries. It includes a pre-configured structure for components, services, utilities, themes, assets, and more. The project is optimized for scalability and maintainability.
 * [tailwind-angular-starter](https://github.com/themesberg/tailwind-angular-starter) - Free and open-source starter project to help you get started with Angular, Tailwind CSS, and the [Flowbite UI components](https://github.com/themesberg/flowbite-angular).
+* [ngx-app-starter-kit](https://github.com/r3zafa/ngx-app-starter-kit) - A modern Angular 18+ starter kit with Docker, devcontainer, and Angular Material integration for rapid, scalable web app development.
 
 ##### Paid
 

@@ -1370,7 +1370,7 @@ become an Angular expert.
 
 * [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Drag and Drop so simple it hurts!
 * [ngx-drag-drop](https://github.com/reppners/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API.
-* [ngx-dropzone](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
+* [@hackingharold/ngx-dropzone](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
 * [ng-dnd](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
 * [ngx-file-drag-drop](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 * [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The `@angular/cdk/drag-drop` module provides you with a way to easily and declaratively create drag-and-drop interfaces.
@@ -1383,6 +1383,7 @@ become an Angular expert.
 * [ngx-draggable-widget-kama](https://github.com/KAMAELUA/ngx-draggable-widget-kama) - Reworked [ngx-draggable-widget](https://github.com/arup-banerjee/ngx-draggable-widget) for better support.
 * [angular-mixed-cdk-drag-drop](https://github.com/rosejoe47/angular-mixed-cdk-drag-drop) - Angular Directive to support mixed orientation drag drop using Angular CDK.
 * [cdk-drag-snap-to-point](https://github.com/shhdharmen/cdk-drag-snap-to-point) - A demo to showcase cdkDrag features to achieve drop only on certain points.
+* [@MasterATM/ngx-dropzone](https://github.com/MasterATM/ngx-dropzone) - A lightweight and highly customizable Angular dropzone component for file uploads. Based on [@peterfreeman/ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) repository.
 
 #### Editor Components
 

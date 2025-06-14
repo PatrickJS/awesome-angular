@@ -1433,6 +1433,7 @@ become an Angular expert.
 * [ngx-file-preview](https://github.com/wh131462/ngx-file-preview) - A powerful preview tool for many file types.
 * [ngx-image-upload](https://github.com/osmanabdelsalam/ngx-image-upload) - A lightweight, customizable library for image uploads with preview, validation, and smooth animations. Supports Reactive Forms and `ngTemplate` for full flexibility.
 * [filestack-angular](https://github.com/filestack/filestack-angular) - Integrate [Filestack](https://www.filestack.com/) into your Angular app for a faster, safer, and more reliable file upload experience.
+* [ngx-uploader-file](https://github.com/IsaiasCardenasM/ngx-uploader-file) - A versatile Angular library for file uploads, offering features like file upload and preview (including image previews with a lightbox), validation, an image cropper, drag-and-drop functionality, and multi-language support.
 
 #### Forms
 

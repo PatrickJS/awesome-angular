@@ -602,6 +602,7 @@ become an Angular expert.
 * [mcp-angular-cli](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
 * [angular-parallel-test-runner](https://github.com/mahdi-hajian/angular-parallel-test-runner) - A command-line tool designed to run Angular tests in parallel across multiple projects. It utilizes the concurrency capabilities of your machine, maximizing the efficiency of running tests by leveraging multiple CPU cores.
 * [kqgen](https://github.com/KilloconQ/kqgen) - A fast and flexible CLI for generating Angular components and services. Includes presets for tables, filters, and for REST/GraphQL services.
+* [ngx-ws](https://github.com/art-ws/ngx-ws) - Easily split a large `angular.json` into modular, project-local files using the power of [JSON References](https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser), with the convenience of [YAML](https://yaml.org/) and [JSON5](https://json5.org/) formats.
 
 #### Deployment
 

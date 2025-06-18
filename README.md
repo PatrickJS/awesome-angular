@@ -768,6 +768,7 @@ become an Angular expert.
 * [active-connect](https://github.com/HiptJo/active-connect) - A powerful connection framework designed for smart web-based projects using Node.js, Angular, and WebSockets. It provides decorators and utilities to simplify the integration of Angular with a WebSocket server, making it easier to handle real-time communication between clients and the server.
 * [ngx-drupal8-rest](https://github.com/wnabil/ngx-drupal8-rest) - Drupal 8 rest module for Angular applications.
 * [ngx-signal-pagination](https://github.com/JPtenBerge/ngx-signal-pagination) - Pagination for Angular, powered by signals.
+* [ngx-http](https://github.com/OGS-GmbH/ngx-http) - A lightweight Angular library that enhances HTTP functionalities by providing types, static values, and utility functions.
 
 #### Integrations
 

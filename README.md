@@ -165,6 +165,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
 * [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
 * [Angular talents](https://www.angulartalents.com/) - Angular talents empowers independent developers available for their next gig. Stop scouring job boards and sit back as companies reach out to you first.
+* [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Explore the NgSphere to discover repositories with overlapping stargazers.
 
 ##### Newsletters
 

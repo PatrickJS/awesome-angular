@@ -606,6 +606,7 @@ become an Angular expert.
 * [ngx-ws](https://github.com/art-ws/ngx-ws) - Easily split a large `angular.json` into modular, project-local files using the power of [JSON References](https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser), with the convenience of [YAML](https://yaml.org/) and [JSON5](https://json5.org/) formats.
 * [nest-schematics](https://github.com/lcasass3/nest-schematics) - A powerful Angular CLI schematic for generating CQRS (Command Query Responsibility Segregation) modules following hexagonal architecture principles in NestJS applications.
 * [dotairc](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
+* [lin](https://github.com/yuo-app/lin) - Lazy I18N is a CLI tool that translates locale JSONs using LLMs.
 
 #### Deployment
 

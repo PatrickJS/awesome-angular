@@ -672,6 +672,7 @@ become an Angular expert.
 * [ngx-unused](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
 * [angular-http-server](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
 * [angular file generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator) - Supercharge your Angular development with intuitive and rapid file generation. Create components, services, modules, and more with just a few clicks - compatible with Angular 16-20.
+* [sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
 
 #### Documentation tools
 

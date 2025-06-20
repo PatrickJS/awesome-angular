@@ -1624,6 +1624,7 @@ to simplify usage and allow quick customization.
 * [red-zoom-angular](https://github.com/scompiler/red-zoom-angular) - A sleek and user-friendly image zoom library, designed as an Angular directive and fully customizable with CSS and SCSS.
 * [ngx-pinch-zoom](https://github.com/medDV-GmbH/ngx-pinch-zoom) - This module enables image zooming and positioning through touch screen gestures.
 * [ngx-broken-img](https://github.com/andreagrossetti/ngx-broken-img) - Angular directive to fix broken url in img. If image url returns 404, a placeholder is used to fill img's src.
+* [ngx-lightbox](https://github.com/jjmhalew/ngx-lightbox) - A [lightbox2](https://github.com/lokesh/lightbox2) implementation port to use with Angular >= 18 (zoneless).
 
 #### Keyboard Mouse
 

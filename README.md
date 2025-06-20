@@ -2273,6 +2273,7 @@ for the creation of web applications developed with Angular.
 * [ts-serializer](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 * [tsconfig](https://github.com/smartrecruiters/tsconfig) - SmartRecruiters’ tsconfig contains all strict rules and improves your project type-safety.
 * [transform.tools](https://transform.tools/json-to-typescript) - Save a lot of time typing API responses with this JSON to TypeScript converter.
+* [typebuddy](https://github.com/typed-rocks/type-buddy) - Finally make sense of your complex types.
 
 #### Inspired by Angular
 

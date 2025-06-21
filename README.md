@@ -561,6 +561,7 @@ become an Angular expert.
 * [hexaeight-sessions](https://www.npmjs.com/package/hexaeight-sessions) - A powerful NPM library designed to simplify session management and authentication in web applications. Whether you're working with React, Angular, or Vue, [HexaEight Sessions](https://docs.hexaeight.com/HexaEight-Sessions/003-HexaEightSessions/) provides an intuitive interface for managing user sessions efficiently.
 * [frontegg-angular](https://github.com/frontegg/frontegg-angular) - [Frontegg](https://frontegg.com) is a web platform where SaaS companies can set up their fully managed, scalable, and brand-aware SaaS features and integrate them into their SaaS portals in up to 5 lines of code. Quickly integrate Frontegg’s login box with this [quickstart guide](https://developers.frontegg.com/sdks/frontend/angular/hosted-login).
 * [witspry-auth-ng-client](https://github.com/satya-jugran/witspry-auth-ng-client) - A comprehensive Angular library for OAuth2 authentication with PKCE (Proof Key for Code Exchange) support.
+* [otp-angular](https://github.com/subha-patra/otp-angular) - A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.
 
 #### Builders
 

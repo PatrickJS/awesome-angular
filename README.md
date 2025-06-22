@@ -779,6 +779,7 @@ become an Angular expert.
 * [ngx-signal-pagination](https://github.com/JPtenBerge/ngx-signal-pagination) - Pagination for Angular, powered by signals.
 * [ngx-http](https://github.com/OGS-GmbH/ngx-http) - A lightweight Angular library that enhances HTTP functionalities by providing types, static values, and utility functions.
 * [@angular-experts-io/resource](https://github.com/angular-experts-io/resource) - The missing create, update, delete (CUD) support for Angular resource.
+* [ng-speed-test](https://github.com/jrquick17/ng-speed-test) - A light weight Angular 2+ library for checking internet speed.
 
 #### Integrations
 

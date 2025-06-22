@@ -1333,6 +1333,7 @@ become an Angular expert.
 * [ngx-daterangepicker-pro](https://github.com/Abhinavgaur01/ngx-daterangepicker-pro-demo) - A powerful, customizable Angular date range picker built with Angular 17+ and [Day.js](https://github.com/iamkun/dayjs).
 * [ngx-custom-daterangepicker](https://github.com/nedpuganti/ngx-custom-daterangepicker) - An Angular date range picker component with advanced functionality and Material Design support. It allows for easy date range selection with customizable options and is simple to integrate.
 * [angular-material-jalali-datepicker-adapter](https://www.npmjs.com/package/angular-material-jalali-datepicker-adapter) - A comprehensive Angular library that provides Jalali (Persian/Solar Hijri/Shamsi) date adapter for Angular Material datepicker component.
+* [date-interceptors](https://github.com/AdaskoTheBeAsT/date-interceptors) - This library provides a robust solution for converting date and duration strings from JSON payloads into native Date objects and Duration objects, respectively.
 
 #### DOM
 

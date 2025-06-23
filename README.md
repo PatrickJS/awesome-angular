@@ -1802,6 +1802,7 @@ to simplify usage and allow quick customization.
 * [@jchpro/ng](https://github.com/jchpro/ng) - Monorepo of various libraries for Angular.  Visit [example page](https://ng.jchpro.pl/) for more info.
 * [rxap](https://gitlab.com/rxap/packages) - Reactive Application Platform, or RxAP for short, is a collection of software modules and tools. With the help of RxAP, the development effort of web and cloud applications can be significantly reduced.
 * [ng-util](https://github.com/ng-util/ng-util) - A set of Angular utilities.
+* [reactive-kit](https://github.com/max-scopp/reactive-kit) - A lightweight set of utilities that make reactive Angular apps more enjoyable and less boilerplate-heavy. Works great alongside `ngxtension`.
 
 #### Modals
 

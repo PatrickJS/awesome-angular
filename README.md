@@ -2123,6 +2123,7 @@ for the creation of web applications developed with Angular.
 * [angular-tailwind-ui](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
 * [simui](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
 * [seacotools](https://github.com/Seacotec/seacotools) - A library designed for modern Angular applications, offering a suite of reusable UI components and services compatible with Tailwind CSS.
+* [nicacoder-ng](https://ng.nicacoder.com/) - A centralized library of customizable Angular components designed to speed up development and maintain consistency across internal projects.
 
 ##### Node Based
 

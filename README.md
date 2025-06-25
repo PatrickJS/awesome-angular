@@ -1391,6 +1391,7 @@ become an Angular expert.
 * [ngx-pipe-lib](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
 * [pyno-date](https://github.com/amirhsnf/pyno-date) - A lightweight Angular library for converting and formatting Jalali and Gregorian dates.
 * [ngx-fittext](https://github.com/7kasper/ngx-fittext) - An Angular library that allows you fit text in a box or a line.
+* [ngx-optimus](https://github.com/Bilal-Abubakari/ngx-optimus) - An Angular library dedicated to providing a collection of useful custom pipes to transform data in your templates. This library aims to simplify common data formatting tasks and keep your component logic cleaner.
 
 #### Drag and Drop
 

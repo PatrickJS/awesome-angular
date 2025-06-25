@@ -1462,6 +1462,7 @@ become an Angular expert.
 * [filestack-angular](https://github.com/filestack/filestack-angular) - Integrate [Filestack](https://www.filestack.com/) into your Angular app for a faster, safer, and more reliable file upload experience.
 * [ngx-uploader-file](https://github.com/IsaiasCardenasM/ngx-uploader-file) - A versatile Angular library for file uploads, offering features like file upload and preview (including image previews with a lightbox), validation, an image cropper, drag-and-drop functionality, and multi-language support.
 * [ngx-filesize-pipe](https://www.npmjs.com/package/ngx-filesize-pipe) - An Angular pipe that converts a file size (in bytes) into a human-readable format. Perfect for file uploaders, media managers, or storage apps.
+* [ngx-file-helpers](https://www.npmjs.com/package/ngx-file-helpers) - Angular file helpers including a file picker and dropzone.
 
 #### Forms
 

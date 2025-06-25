@@ -1392,6 +1392,7 @@ become an Angular expert.
 * [pyno-date](https://github.com/amirhsnf/pyno-date) - A lightweight Angular library for converting and formatting Jalali and Gregorian dates.
 * [ngx-fittext](https://github.com/7kasper/ngx-fittext) - An Angular library that allows you fit text in a box or a line.
 * [ngx-optimus](https://github.com/Bilal-Abubakari/ngx-optimus) - An Angular library dedicated to providing a collection of useful custom pipes to transform data in your templates. This library aims to simplify common data formatting tasks and keep your component logic cleaner.
+* [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - An Angular library that provides a simple and effective pipe to convert numbers into their respective word representations. This is particularly useful for applications that need to display numbers in words, such as invoices, reports, or financial applications.
 
 #### Drag and Drop
 

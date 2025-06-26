@@ -939,6 +939,7 @@ become an Angular expert.
 #### Security
 
 * [Angular Security](https://angular.dev/best-practices/security) - Best Practices
+* [SafeDep](https://safedep.io/) - SafeDep continuously scans open source code for vulnerabilities and malware, helping security engineering teams proactively mitigate inherited OSS risks.
 * [Socket](https://socket.dev/) - Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies.
 * [Synk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
 * [Github](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  

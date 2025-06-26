@@ -1677,6 +1677,7 @@ to simplify usage and allow quick customization.
 * [ngx-bladex](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
 * [@berg-layout/angular](https://www.npmjs.com/package/@berg-layout/angular) - This is the Angular version of [berg-layout](https://github.com/blidblid/berg-layout).
 * [static-columns](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
+* [ngx-flex-layout](https://github.com/jtc10005/ngx-flex-layout) - Port of [@angular/flex-layout](https://github.com/angular/flex-layout) to provide support after EOL.
 
 #### Loaders
 

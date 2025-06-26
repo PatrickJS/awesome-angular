@@ -1728,7 +1728,8 @@ to simplify usage and allow quick customization.
 * [cesium-angular-example](https://github.com/Developer-Plexscape/cesium-angular-example) - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
 * [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
 * [ng-maps](https://github.com/ng-maps/ng-maps) - Modular map components for Angular.
-* [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.
+* [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.
+* [ngx-leaflet-markercluster](https://github.com/bluehalo/ngx-leaflet-markercluster) - Provides [leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) integration into Angular projects.
 * [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 * [@angular/google-maps](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 * [ng-azure-maps](https://github.com/arnaudleclerc/ng-azure-maps) - An Angular library, mostly an HTML-driven wrapper of the azure-maps-controls package, allowing you to easily integrate its functionalities into an Angular application.

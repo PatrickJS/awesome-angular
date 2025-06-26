@@ -1849,6 +1849,7 @@ to simplify usage and allow quick customization.
 * [ng-toast-service](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
 * [grand-notifications](https://github.com/rishi-rj-s/grand-notifications) - Beautiful, customizable toast notifications with artistic animations.
 * [ngx-notifications](https://github.com/pascaliske/ngx-notifications) - Simple notifications module for Angular.
+* [ngx-toastr-notifier](https://github.com/Mazen-Embaby/ngx-toastr-notifier) - Lightweight, customizable toast notifications for Angular 20+. A modern replacement for toastr with Angular Material design and flexible APIs.
 
 #### Printing
 

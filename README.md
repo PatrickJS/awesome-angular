@@ -2105,6 +2105,7 @@ to simplify usage and allow quick customization.
 * [ngx-core-business](https://github.com/jxcodes/ngx-core-business) - An Angular library in active development, built on top of `@angular/material`. It aims to provide reusable, enterprise-grade UI components and utilities to streamline the development of scalable Angular applications.
 * [c3-components](https://github.com/c3ulnta0rk/c3-components) - An open-source component library that extends the `@angular/material` library.
 * [simplematcomponents](https://github.com/wobkenh/simplematcomponents) - Set of Angular components that fit into or use Angular Material Design.
+* [Angular Material Dev UI](https://ui.angular-material.dev/home) - Angular Material Dev UI (or Angular Material Blocks) is one place stop for developers to explore components and blocks for their Angular Material and Tailwind CSS based applications.
 
 ##### Bootstrap Based
 

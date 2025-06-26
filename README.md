@@ -967,6 +967,7 @@ become an Angular expert.
 * [treaty](https://github.com/treatyjs/treaty) - The meta framework for Angular. An alternative to Analog.
 * [analog-stuff](https://github.com/joshuamorony/analog-stuff) - Extra stuff for AnalogJS including `agx-remark-rehype`.
 * [ngx-trpc](https://github.com/lennybakkalian/ngx-trpc) - Angular tRPC client with SSR, RxJS, Signals and Subscriptions Support.
+* [ngx-sitemaps](https://github.com/json-derulo/ngx-sitemaps) - Generate sitemaps from Angular prerendered routes.
 
 #### Site Templates
 

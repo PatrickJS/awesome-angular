@@ -1599,6 +1599,7 @@ to simplify usage and allow quick customization.
 * [error-message](https://github.com/LuEsc/error-message) - A lightweight, flexible error handling library for Angular applications that provides standardized validation error display and management.
 * [ng-reactive-form-validate](https://github.com/vbnr/ng-reactive-form-validate) - This library streamlines form control validation, displaying error messages based on rules, supporting customizable messages via static strings or observables, integrating with Transloco for translations, and applying default styles for smooth validation label transitions.
 * [angular-password-checker](https://github.com/akehir/angular-password-checker) - Protect your users from re-using a password known to be hacked with this simple Angular directive.
+* [translation-validation](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language.
 
 #### Icons
 

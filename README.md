@@ -1560,6 +1560,7 @@ become an Angular expert.
 * [ng-otp-input](https://github.com/code-farmz/ng-otp-input) - A fully customizable, one-time password (OTP) input component for the web built with Angular.
 * [ngx-np-datepicker](https://www.npmjs.com/package/ngx-np-datepicker) - An Angular datepicker component that supports the Nepali calendar (Bikram Sambat). It allows users to pick Nepali dates easily, supports form integrations, and is ideal for applications needing a native Nepali date experience.
 * [ngx-multi-select-input](https://github.com/noredinebahri/ngx-multi-select-input) - A modern, customizable Angular standalone component for multi-term input with chips, autocomplete dropdown, and beautiful color support. Perfect for tag editors, search bars, and more!
+* [rm-ng-star-rating](https://github.com/malikrajat/rm-ng-star-rating) - A fully customizable and feature-rich Angular standalone component for advanced star ratings with precision and responsive design.
 
 ##### JSON Forms
 

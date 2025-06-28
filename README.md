@@ -325,7 +325,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Design Patterns and Best Practices](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 * [Angular for Enterprise Applications](https://angularforenterprise.com/home) - `Packt Publishing`
 * [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
-* [Mastering Angular Signals](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
+* [Angular Signals Masterclass](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
 * [Learn With: Angular 17 with Modules and Bootstrap](https://www.learn-with.com/) - `Jeffry Houser`
 * [Mastering Angular Signals: A Practical Guide to Modern Reactivity, Performance, and Migration](https://www.amazon.com/dp/B0FF9LSHJN/) - `Muhammad Ahsan Ayaz`
 * [Angular Book](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**

@@ -525,6 +525,7 @@ become an Angular expert.
 * [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
 * [opentelemetry-angular-interceptor](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
 * [ng-webdatarocks](https://github.com/WebDataRocks/ng-webdatarocks) - This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/).  Follow this [example](https://github.com/WebDataRocks/pivot-angular) to integrate the WebDataRocks web reporting tool.
+* [ngx-amplitude](https://github.com/th3n00bc0d3r/ngx-amplitude) - A library that provides an easy-to-use interface for integrating [Amplitude](https://amplitude.com/) analytics into your Angular 18+ standalone applications. It includes a global initialization module and a service for logging events.
 
 #### Authentication
 

@@ -274,13 +274,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ##### Blogs
 
-* [modern-angular](https://modernangular.com/) - Josh Morony's website is a collection of content centered around creating modern Angular applications using the latest Angular features and concepts.
 * [angular experts](https://angularexperts.io/blog) - Learn all about Angular, NgRx, RxJS & NX and advance your skills with guides, in-depth content and actionable tips and tricks!
 * [angular-university](https://blog.angular-university.io/) - Learn and Keep Up with the Angular Ecosystem.
 * [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 * [just angular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 * [angular.love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular.
-* [angular in depth](https://angularindepth.com/)
 * [angular minds](https://www.angularminds.com/blog)
 * [angular architects](https://www.angulararchitects.io/en/blog/)
 * [house of angular](https://houseofangular.io/blog/)
@@ -302,7 +300,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Tomasz Ducin](https://ducin.dev/blog)
 * [This is Angular](https://dev.to/this-is-angular)
 * [daily.dev](https://app.daily.dev/tags/angular)
-* [qupaya](https://qupaya.com/blog/)
 * [Offering Solutions](https://offering.solutions/blog/)
 * [Daniel Kreider](https://danielk.tech/)
 * [Amadou Sall](https://www.amadousall.com/)

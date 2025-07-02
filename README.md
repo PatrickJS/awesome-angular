@@ -465,7 +465,8 @@ become an Angular expert.
 
 #### AI
 
-* [Generative AI web development with Angular YouTube Video](https://www.youtube.com/watch?v=5FdtPwZrkGw)
+* [Official web page](https://angular.dev/ai)
+* [@angular/examples](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
 * [Workik](https://workik.com/angular-code-generator) - Free AI-Powered Angular code generator | Your Context-Driven AI Partner!
 * [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert Designs to Clean Angular Code in a Click.
 * [Zipy](https://www.zipy.ai/online-tools/ai-angular-code-generator) - AI Angular Code Generator.
@@ -477,22 +478,18 @@ become an Angular expert.
 * [gemini-angular-drawing-demo](https://github.com/mgechev/gemini-angular-drawing-demo) - Developer sample written in Angular demonstrating Gemini multimodal (image and audio) input and understanding. The user enters a prompt and the app generates images via VertexAI’s image generation which the user can after that preview in a three-dimensional gallery.
 * [Alan AI](https://alan.app/docs/tutorials/web/integrating-angular-app/) - Build a voice agent for an Angular app.
 * [Vishal Gosain Hashnode](https://vishugosain.hashnode.dev/integrating-open-ai-into-angular-application) - Integrate OpenAI into an Angular app.
-* [ng-text-to-image](https://github.com/desoga10/ng-text-to-image) - Build an AI Image Generator in Angular 17 Using the Clipdrop API || AI Text to Image Generator.
 * [ng-generative-ai-demo](https://github.com/c-o-l-i-n/ng-generative-ai-demo) - Result from this [angular-ai-chatbot tutorial](https://colinaw.com/blog/angular-ai-chatbot/).
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
 * [angular-webxr-art-sample](https://github.com/google-gemini/angular-webxr-art-sample) - A WebXR Gallery that creates Generative AI images using [Vertex AI Image Generation](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) and creates captioning using [Gemini Multimodel API](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview#multimodal_models).
 * [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
 * [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 * [abbi-ng-ai-image-descriptor](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
-* [ng-flexbot](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
-* [Frontend AI](https://www.webcrumbs.org/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
-* [Gurubase](https://gurubase.io/g/angular) - Angular Guru leverages up-to-date information from the Angular documentation, Stack Overflow, and articles across the internet to answer your questions.
+* [Frontend AI](https://app.webcrumbs.ai/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 * [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
 * [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular Application UIs 50% faster with PureCode AI.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [ai-friendly-docs](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
-* [@angular/examples](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) - [Hashbrown](https://hashbrown.dev/) is a framework for building joyful, AI-powered user experiences.
 * [CodeSage AI](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.

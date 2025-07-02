@@ -363,12 +363,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 * [angular-debugging-challenge](https://github.com/ppsdang/angular-debugging-challenge) - This repository hosts an Angular-based project designed as a coding and debugging exercise.
 * [angular-api-challenge](https://github.com/ppsdang/angular-api-challenge) - This repository hosts an Angular-based project designed as a api integration exercise.
-* [angular-exercises](https://github.com/kobi-hari-courses/angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
+* [modern-angular-exercises](https://github.com/kobi-hari-courses/modern-angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
 * [angular-debug-quest](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
 
 ##### Online Training
 
-* [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular v17 applications using new features with modern best practices.
+* [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular applications using new features with modern best practices.
 * [Angular Training](https://www.angulartraining.com/) - The Angular Coach
 You Need.
 * [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem.
@@ -591,7 +591,6 @@ become an Angular expert.
 
 * [Official web page](https://angular.dev/tools/cli)
 * [Official repository](https://github.com/angular/angular-cli)
-* [ng-cli-hooks](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build.
 * [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
 * [mantis-cli](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
@@ -759,7 +758,6 @@ become an Angular expert.
 * [angular-http-cache-interceptor](https://github.com/patrikx3/angular-http-cache-interceptor) - Angular HTTP cache interceptor.
 * [ngx-generic-rest-service](https://github.com/jm2097/ngx-generic-rest-service) - Wrapper for Angular services.
 * [@ngify/http](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
-* [ngx-http-annotations](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
 * [ng-http-loader](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 * [ngx-signalify](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJS Observables into Angular Signals.
 * [angular-odata](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
@@ -1664,7 +1662,6 @@ to simplify usage and allow quick customization.
 #### Keyboard Mouse
 
 * [ngx-focus-control](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility.
-* [angular2-hotkeys](https://github.com/brtnshrdr/angular2-hotkeys) - Keyboard shortcuts for Angular 2 apps.
 * [virtual-keyboard-javascript](https://github.com/virtual-keyboard-javascript/virtual-keyboard-javascript.github.io) - Virtual Keyboard for Javascript, React, Angular, & Vue.
 * [angular-touch-keyboard](https://github.com/mohsen77sk/angular-touch-keyboard) - Virtual Keyboard for Angular applications.
 * [hotkeys](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.

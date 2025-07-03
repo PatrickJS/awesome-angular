@@ -501,8 +501,6 @@ become an Angular expert.
 
 * [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Heap is the only digital insights platform that gives you complete understanding of your customers’ digital journeys, so you can quickly improve conversion, retention, and customer delight.
 * [ngx-tableau](https://www.npmjs.com/package/ngx-tableau) - `ngx-tableau` is an Angular module that allows you to embed a Tableau report in an Angular webapp.
-* [ngx-google-analytics](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
-* [ng2-adsense](https://github.com/scttcper/ng2-adsense) - Angular Adsense Component.
 * [ngx-matomo-client](https://github.com/EmmanuelRoux/ngx-matomo-client) - Matomo analytics client for Angular applications.
 * [angulartics2](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
 * [angular-google-tag-manager](https://github.com/mzuccaroli/angular-google-tag-manager) - A service library for integrate google tag manager in your Angular project.
@@ -524,7 +522,6 @@ become an Angular expert.
 #### Authentication
 
 * [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic permissions management library [CASL](https://github.com/stalniy/casl) with Angular.
-* [ngx-auth-firebaseui](https://github.com/AnthonyNahas/ngx-auth-firebaseui) - Angular Material UI component for Firebase authentication.
 * [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
 * [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - NPM package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow.
 * [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
@@ -533,16 +530,11 @@ become an Angular expert.
 * [angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps.
 * [keycloak-angular](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
 * [auth0-angular](https://github.com/auth0/auth0-angular) - Auth0 SDK for Angular Single Page Applications.
-* [ng-universal](https://github.com/nestjs/ng-universal) - Angular Universal module for Nest framework (Node.js).
 * [angularfire](https://github.com/angular/angularfire) - Angular + Firebase.
 * [supabase](https://supabase.com/docs/guides/getting-started/tutorials/with-angular) - Build a User Management App with Angular.  
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
 * [amplify](https://docs.amplify.aws/angular/) - AWS Amplify streamlines full-stack app development. With its libraries, CLI, and services, you can easily connect your frontend to the cloud for authentication, storage, APIs, and more.
-* [cryptr-angular](https://github.com/cryptr-auth/cryptr-angular) - Codeless Auth platform for business.
 * [angular-authentication](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
-* [ngx-security](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
-* [@anagstef/ngx-clerk](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular 17 applications.
-* [@wobsoriano/ngx-clerk](https://github.com/wobsoriano/ngx-clerk) - Community [Clerk](https://clerk.com/) integration for Angular.
 * [ng-supabase](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 * [zitadel](https://zitadel.com/docs/examples/login/angular) - Secure authentication management for your application. Customize as you grow, with easy APIs and programmable workflows. Focus on growing, your login is in good hands.
 * [appwrite](https://github.com/appwrite/appwrite) - Using Appwrite, you can easily integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, cloud functions, and more services.
@@ -577,7 +569,6 @@ become an Angular expert.
 * [Bazel](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
 * [Timestamp](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
 * [ngx-build-plus](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
-* [ng-process-env](https://github.com/danduh/ng-process-env) - Angular schematics and builder to retrieve values from System Environment (OS) variables and update relevant `environment.ts` file.
 * [ngx-electronify](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
 * [dotenv-run](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
 * [ng-packagr](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
@@ -620,7 +611,6 @@ become an Angular expert.
 * [Firebase Hosting](https://firebase.google.com/docs/app-hosting/get-started)
 * [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality. The [Angular Runtime](https://github.com/netlify/angular-runtime) plugin implements Angular Support on Netlify.
 * [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
-* [ngx-aws-deploy](https://github.com/Jefiozie/ngx-aws-deploy) - Deploy your Angular app to Amazon S3 directly from the Angular CLI.
 * [analog-publish-gh-pages](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
 * [Genezio](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 * [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
@@ -642,10 +632,6 @@ become an Angular expert.
 
 #### Developer tools
 
-* [StackBlitz](https://stackblitz.com) - Instant Dev Environments.
-* [bolt](https://bolt.new/) -  Dev sandbox with AI from StackBlitz.
-* [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
-* [Firebase Studio](https://firebase.studio/) - Firebase Studio accelerates your entire development lifecycle with AI agents. Build backends, front ends, and mobile apps, all in one place.
 * [ngx-html-syntax](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [SublimeText](https://www.sublimetext.com/).
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 * [Angular Dev Tools](https://angular.dev/tools/devtools) - Angular DevTools is a browser extension that provides debugging and profiling capabilities for Angular applications.
@@ -697,8 +683,6 @@ become an Angular expert.
 * [OpenFeature Angular SDK](https://openfeature.dev/docs/reference/technologies/client/web/angular) - [OpenFeature](https://openfeature.dev/) is an open specification that provides a vendor-agnostic, community-driven API for feature flagging that works with your favorite feature flag management tool or in-house solution.
 * [@devcycle/openfeature-angular-provider](https://www.npmjs.com/package/@devcycle/openfeature-angular-provider) - [DevCycle](https://docs.devcycle.com/sdk/client-side-sdks/angular/) supports the OpenFeature Angular SDK.
 * [@openfeature/go-feature-flag-web-provider](https://www.npmjs.com/package/@openfeature/go-feature-flag-web-provider) - [GO Feature Flag](https://gofeatureflag.org/) provider allows you to [connect](https://gofeatureflag.org/docs/sdk/client_providers/openfeature_angular) to your GO Feature Flag instance with the `@openfeature/web-sdk`.
-* [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
-* [ngx-flagr](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 * [ngx-growthbook](https://github.com/carlcrede/ngx-growthbook-workspace/tree/master/projects/ngx-growthbook) - An Angular wrapper for [GrowthBook](https://www.growthbook.io/), providing feature flags and A/B testing capabilities with full TypeScript support.
 * [Flagsmith](https://www.flagsmith.com/) - Ship Faster and Control Releases with Feature Flag Management.
 * [angular-unleash-proxy-client](https://github.com/Karelics/angular-unleash-proxy-client) - Angular wrapper for [unleash](https://www.getunleash.io/) and [unleash-proxy-client-js](https://github.com/Unleash/unleash-proxy-client-js).
@@ -706,7 +690,6 @@ become an Angular expert.
 * [@statsig/angular-bindings](https://www.npmjs.com/package/@statsig/angular-bindings) - The [Statsig](https://www.statsig.com/) Angular bindings package provides a `StatsigService` that can be injected into your components. See the [Statsig docs](https://docs.statsig.com/client/javascript-sdk/Angular/) for more details.
 * [@configcat/js-sdk](https://github.com/configcat/js-sdk) - ConfigCat SDK for JavaScript provides easy integration for your application to [ConfigCat](https://configcat.com/).
 * [@configcat-labs/feature-flags-in-angular-sample-app](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
-* [angular-sdk-plugin](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
 * [featurit-sdk-angular](https://github.com/featurit/featurit-sdk-angular) - Angular wrapper of the Javascript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
 * [@flagpole/angular](https://www.npmjs.com/package/@flagpole/angular) - Angular SDK for the [Flagpole](https://useflagpole.dev/) feature flag management system. Provides real-time feature flag updates, A/B testing capabilities, and seamless integration with Angular applications.
 
@@ -958,8 +941,6 @@ become an Angular expert.
 
 #### Server-Side Rendering
 
-* [Angular Universal Repository (GitHub)](https://github.com/angular/universal)
-* [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
 * [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.
 * [angular-prerender](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.

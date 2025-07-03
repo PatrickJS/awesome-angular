@@ -349,7 +349,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
 * [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
-* [Angular Checklist](https://github.com/typebytes/angular-checklist)
 * [ZeroToMastery Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
 * [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React & Vue all at once.
 * [Marmicode Cookbook](https://cookbook.marmicode.io/) - Ingredients & Recipes for Cooking Delicious Apps.
@@ -1135,10 +1134,7 @@ become an Angular expert.
 #### Calendars
 
 * [angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for Angular 15+ that can display events on a month, week, or day view.
-* [angular-calendar-scheduler](https://github.com/michelebombardi/angular-calendar-scheduler) - A scheduler view component for angular.
-* [ng-fullcalendar](https://github.com/ng-fullcalendar/ng-fullcalendar) - Fullcalendar module for Angular.
 * [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
-* [angular-year-calendar](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
 * [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 * [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
@@ -1158,7 +1154,7 @@ become an Angular expert.
 * [ngx-slider-recaptcha](https://github.com/mrzinkowin/ngx-slider-recaptcha) - Customizable Angular library that provides a slider-based CAPTCHA component to help secure forms from spam and bot submissions.
 * [@semantic-components/re-captcha](https://github.com/khalilou88/semantic-components/tree/main/libs/re-captcha) - Angular 19+ integration of Google's reCAPTCHA using **signal inputs** and **standalone components**.
 * [ng-cloudflare-turnstile](https://github.com/pangz-lab/ng-cloudflare-turnstile) - An intuitive, lightweight and easy to integrate [Cloudflare turnstile](https://developers.cloudflare.com/turnstile/) component for Angular.
-* [trustcaptcha-angular](https://www.npmjs.com/package/@trustcaptcha/trustcaptcha-angular) - This library helps you [integrate](https://docs.trustcaptcha.com/en/frontend/integration?frontend=angular) [Trustcaptcha](https://www.trustcaptcha.com/en) into your Angular frontend applications.
+* [trustcaptcha-angular](https://www.npmjs.com/package/@trustcomponent/trustcaptcha-angular) - This library helps you [integrate](https://docs.trustcaptcha.com/en/frontend/integration?frontend=angular) [Trustcaptcha](https://www.trustcaptcha.com/en) into your Angular frontend applications.
 * [altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
 * [yandex-smart-captcha](https://github.com/ngx-rock/yandex-smart-captcha) - An Angular library for integrating [Yandex SmartCaptcha](https://yandex.cloud/en/services/smartcaptcha) into your applications. This package provides Angular components that wrap the Yandex SmartCaptcha JavaScript library, supporting both standard and invisible captchas. It leverages Angular’s reactive forms (via ControlValueAccessor and Validator) and modern features like signals and effects (with zoneless support).
 
@@ -1174,8 +1170,6 @@ become an Angular expert.
 * [angular2-image-gallery](https://github.com/BenjaminBrandmeier/angular2-image-gallery) - Image Gallery built with Angular 17+, node.js and GraphicsMagick.
 * [egjs-flicking](https://naver.github.io/egjs-flicking/docs/quick-start) - Flicking Angular Quick Start
 * [ngx-drag-scroll](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
-* [ng-slider](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
-* [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 * [ngx-darkbox-gallery-library](https://github.com/failed-successfully/ngx-darkbox-gallery-library) - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
 * [slidecontent-angular](https://github.com/criar-art/slidecontent-angular) - A simple content slide developed in Angular with navigation buttons and transition animations.
 * [ngx-hm-carousel](https://github.com/ZouYouShun/ngx-hm-carousel) - A light carousel for Angular 18+, supports mobile touch with [HammerJs](https://hammerjs.github.io/).
@@ -1183,8 +1177,6 @@ become an Angular expert.
 * [carousel-library](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
 * [ngx-simple-gallery](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
 * [@daelmaak/ngx-gallery](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
-* [ngx-custom-carousel](https://github.com/devendramilmile121/ngx-custom-carousel) - A feature-rich Angular 17 component crafted to elevate your carousel experience.
-* [ngx-edge-slider](https://github.com/WingmanColt/ngx-edge-slider) - Highly flexible and customizable slider component designed for Angular applications. It offers an intuitive interface to manage slides, providing smooth transitions, autoplay functionality, responsive design, with interactive features like draggable slides and configurable navigation.
 * [embla-carousel-angular](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel](https://github.com/davidjerleke/embla-carousel).
 * [@vinlos/ngx-gallery](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular 16+.
 
@@ -1199,16 +1191,11 @@ become an Angular expert.
 * [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
 * [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
-* [dag](https://github.com/ngneat/dag) - An Angular service for managing directed acyclic graphs.
 * [ngx-simple-charts](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
-* [ng-flowchart](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular Library for building drag and drop flow charts. Chart behavior and steps are customizable. Data can be exported or uploaded in json format.
 * [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/incubator-echarts).
-* [angular-fusioncharts](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for [FusionCharts](https://www.fusioncharts.com) JavaScript Charting Library.
 * [ngu-flow](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
 * [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
-* [angular-highcharts](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 * [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
-* [zingchart-angular](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 * [ngx-flexmonster](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
@@ -1216,8 +1203,6 @@ become an Angular expert.
 * [ng-draw-flow](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes. It allows you to create both simple diagrams and complex editors for building customised charts and graphs.
 * [sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
 * [ngx-hierarchy](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
-* [ngx-relationship-visualiser](https://github.com/Rudgey84/ngx-relationship-visualiser) - A D3 force-directed-graph, implemented in Typescript for Angular, generates a visualisation graph with customisable link lengths and multiple labels between nodes. The graph can handle new data that will update lines, nodes, links, and path labels.
-* [railz-visualizations](https://github.com/railz-ai/railz-visualizations) - A collection of reusable web components that help you build a dashboard using normalized financial transactions and analytics from the FIS Accounting Data as a Service API.
 * [@cubejs-client/ngx](https://www.npmjs.com/package/@cubejs-client/ngx) — Along with [@cubejs-client/core](https://www.npmjs.com/package/@cubejs-client/core), you can [integrate](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular) Cube.js in Angular.
 * [ngx-lightweight-charts](https://github.com/jamesbrobb/ngx-lightweight-charts) - An easily extendable Angular wrapper for [Trading View Lightweight Charts](https://www.tradingview.com/lightweight-charts/).
 * [amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/) to get started. Additionally, older versions are still being updated to support newer releases of Angular.
@@ -1228,7 +1213,6 @@ become an Angular expert.
 * [ngx-cookie-consent](https://github.com/giacomo/ngx-cookie-consent) - Angular multi-language module to display a cookie consent banner without other dependencies.
 * [ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
 * [cookieconsent](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
-* [ngx-cookiebot](https://github.com/halloverden/ngx-cookiebot) - An Angular wrapper around the [Cookiebot](https://www.cookiebot.com/) SDK.
 * [ngx-cookie-ssr](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 * [ngx-gdpr-cookie-consent](https://github.com/KoblerS/ngx-gdpr-cookie-consent) - A beautiful Cookie consent library, easy to use.
 
@@ -1244,22 +1228,17 @@ become an Angular expert.
 * [ag-grid](https://www.ag-grid.com/) - The best JavaScript Data Table for building Enterprise Applications. Supports React, Angular, Vue and Plain JavaScript.
 * [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
 * [sheetjs](https://docs.sheetjs.com/docs/demos/frontend/angular) - SheetJS is a JavaScript library for reading and writing data from spreadsheets.
-* [ngx-easy-table](https://github.com/ssuperczynski/ngx-easy-table) - The Easiest Angular Table. 12kb gzipped! Tree-shakeable. 55 features and growing!
 * [active-table](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
 * [jsgrids](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo.
-* [ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
 * [jspreadsheet](https://github.com/jspreadsheet/ce) - [Jspreadsheet](https://bossanova.uk/jspreadsheet/docs/getting-started) is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
-* [datagrid](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
-* [angular-datatables](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
-* [angular-slickgrid](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
+* [slickgrid-universal](https://github.com/ghiscoding/slickgrid-universal) - A monorepo which includes all editors, filters, extensions, and services related to framework agnostic [SlickGrid](https://github.com/6pac/SlickGrid) usage.
 * [revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
 * [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
 * [ngx-panemu-table](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
 * [ngx-grid](https://github.com/blueshiftone/ngx-grid) - A professional Angular data grid.
 * [@guiexpert/angular-table](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).
 * [ngx-tabulator-tables](https://github.com/knackstedt/ngx-tabulator-tables) - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
-* [ngx-simple-material-table](https://github.com/holographic-blockchain/ngx-simple-material-table) - Angular library to simplify usage of the Angular Material table component.
 * [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
 * [ngx-s-data-table](https://github.com/Samuel-Pinheiro-C-Lopes/ngx-s-data-table) - An Angular module for a data table that automatically maps data from a specified class. It also allows users to provide custom mappings for greater flexibility in rendering data.
 * [mat-datatable](https://github.com/BePo65/mat-datatable) - A simple data table with virtual scrolling using Angular Material.
@@ -1272,14 +1251,10 @@ become an Angular expert.
 #### Dates
 
 * [ngx-date-fns](https://github.com/joanllenas/ngx-date-fns) - [Date-fns](https://date-fns.org/) pipes for Angular.
-* [luxon-angular](https://github.com/dstelljes/luxon-angular) - Date pipes for Angular.
-* [angular-globalize](https://github.com/code-art-eg/angular-globalize) - Angular pipes for localizing numbers and dates using Globalize.
 * [ngx-mat-timepicker](https://github.com/tonysamperi/ngx-mat-timepicker) - A true material timepicker.
-* [angular-bootstrap-datetimepicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker) - Native Angular date/time picker component styled by Bootstrap.
 * [ngx-datetime-range-picker](https://github.com/BhavinPatel04/ngx-datetime-range-picker) - Angular material datetime range picker with daily, weekly, monthly, quarterly & yearly levels.
 * [mat-datetimepicker](https://github.com/kuhnroyal/mat-datetimepicker) - Material datetimepicker for `@angular/material`.
 * [angular-datepicker](https://github.com/vlio20/angular-datepicker) - Highly configurable date picker built for Angular applications.
-* [ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) - Pure Angular date range picker with material design theme.
 * [ngx-multiple-dates](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
 * [ng-datetime](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
 * [time2blocks-ngx](https://github.com/antonioconselheiro/time2blocks-ngx) - Angular lib to identify which time is associated with a blockchain block in the past (and format it).
@@ -1287,7 +1262,6 @@ become an Angular expert.
 * [ngx-timeline](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
 * [ngx-prayertimes-api](https://github.com/WurshaApps/ngx-prayertimes-api) - An Angular API client for [Prayer Times API](https://aladhan.com/prayer-times-api).
 * [frxjs-Ngx-Timeline](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
-* [angular-wheel-date-picker](https://github.com/maryland09/angular-wheel-date-picker) - A date picker component for Angular applications that features a scrollable wheel interface similar to native mobile date pickers.
 * [ngx-daterangepicker-pro](https://github.com/Abhinavgaur01/ngx-daterangepicker-pro-demo) - A powerful, customizable Angular date range picker built with Angular 17+ and [Day.js](https://github.com/iamkun/dayjs).
 * [ngx-custom-daterangepicker](https://github.com/nedpuganti/ngx-custom-daterangepicker) - An Angular date range picker component with advanced functionality and Material Design support. It allows for easy date range selection with customizable options and is simple to integrate.
 * [angular-material-jalali-datepicker-adapter](https://www.npmjs.com/package/angular-material-jalali-datepicker-adapter) - A comprehensive Angular library that provides Jalali (Persian/Solar Hijri/Shamsi) date adapter for Angular Material datepicker component.
@@ -1297,26 +1271,18 @@ become an Angular expert.
 #### DOM
 
 * [ngx-resize-observer](https://github.com/fidian/ngx-resize-observer) - Angular 8+ module for detecting when elements are resized.
-* [ng-resize-observer](https://github.com/ChristianKohler/ng-resize-observer)
 * [ngx-mutation-observer](https://github.com/fidian/ngx-mutation-observer) - Get Angular 8+ events fired when an element is mutated in the DOM.
 * [ngx-visibility](https://github.com/fidian/ngx-visibility) - Angular module that detects when elements are visible. Uses IntersectionObserver.
-* [ng-in-viewport](https://github.com/k3nsei/ng-in-viewport) - Allows us to check if an element is within the browsers visual viewport.
 * [ngx-breakpoint-observer](https://github.com/tutkli/ngx-breakpoint-observer) - This library adds reactive breakpoint and media query methods based on Signals.
 * [ngx-fade](https://github.com/omnedia/ngx-fade) - A versatile Angular component that provides a smooth fading and sliding effect for its content as it enters or leaves the viewport. This component uses the Intersection Observer API.
 * [ngx-dynamic-hooks](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
-* [edit-in-place](https://github.com/ngneat/edit-in-place) - A flexible and unopinionated edit in place library.
 * [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 * [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 * [safe-pipe](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
-* [ngxd](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
 * [ngx-highlightjs](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
 * [ngx-sharebuttons](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
-* [ngx-pipes](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
-* [nglrx/pipes](https://github.com/nglrx/pipes) - A library of useful pipes for Angular apps.
 * [ng-helpers](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
-* [ng-condition](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
-* [ngx-sticky-kit](https://github.com/matheo/ngx-sticky-kit) - Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position.
 * [ngx-ellipsis](https://github.com/lentschi/ngx-ellipsis) - Multiline text with ellipsis for Angular 9+.
 * [ngx-func-pipe](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
 * [ngx-pipes-toolkit](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
@@ -1329,7 +1295,6 @@ become an Angular expert.
 * [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
 * [ngx-fixed-footer](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
 * [ng-dompurify](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
-* [ngx-windows](https://github.com/mateuszbilicz/ngx-windows) - Angular Windows Components and Services.
 * [ngx-speculative-link](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
 * [ngx-signal-pipes](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 * [ng-gd](https://github.com/luisalejandrofigueredo/ng-gd) - An easy way to manage a canvas element with support for mouse or tablet events.
@@ -1338,7 +1303,6 @@ become an Angular expert.
 * [ngx-copy-to-clipboard](https://github.com/andreasnicolaou/ngx-copy-to-clipboard) - an Angular directive that enables easy text copying to the clipboard with a single click. It supports customizable success/error messages and triggers events on copy actions.
 * [ng-click-outside](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
 * [ngx-search-pipe](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
-* [mTruncate](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
 * [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 * [ng-dynamic-component](https://github.com/gund/ng-dynamic-component) - Dynamic components with full life-cycle support for inputs and outputs for Angular.
 * [ngx-pipe-lib](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
@@ -1350,13 +1314,11 @@ become an Angular expert.
 
 #### Drag and Drop
 
-* [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Drag and Drop so simple it hurts!
 * [ngx-drag-drop](https://github.com/reppners/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API.
 * [@hackingharold/ngx-dropzone](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
 * [ng-dnd](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
 * [ngx-file-drag-drop](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 * [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The `@angular/cdk/drag-drop` module provides you with a way to easily and declaratively create drag-and-drop interfaces.
-* [moveable](https://github.com/daybrush/moveable) - Moveable is Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, and Snappable.
 * [angular-drag-drop-layout](https://github.com/skutam/angular-drag-drop-layout) - A lightweight, dependency-free Angular library for creating highly customizable, responsive grid layouts with drag-and-drop functionality.
 * [ngx-swapy](https://github.com/omnedia/ngx-swapy) - A simple component library to get a drag and drop DOM through the help of [Swapy](https://github.com/TahaSh/swapy).
 * [ngx-draggable-dom](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
@@ -1370,7 +1332,6 @@ become an Angular expert.
 #### Editor Components
 
 * [acrodata/code-editor](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
-* [@instechnologies/ng-rooster](https://github.com/insurance-technologies/ng-rooster) - Angular wrapper of roosterjs, a rich text editor.
 * [angular2-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) - Angular 2 wrapper for Froala WYSIWYG HTML Editor.
 * [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Ckeditor plugin for Angular2+.
 * [ngx-simple-text-editor](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
@@ -1400,17 +1361,14 @@ become an Angular expert.
 #### File Upload
 
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use file upload directives.
-* [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) - Angular Library for uploading files. It supports: File Upload and Preview (additionally preview images with lightbox), validation, image cropper, drag and drop with multi language support.
 * [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload.
 * [ngx-uploadx](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 * [file-upload](https://github.com/pIvan/file-upload) - Angular module used for file upload.
-* [ngx-filepond](https://github.com/pqina/ngx-filepond) - A handy [FilePond](https://github.com/pqina/filepond) adapter component for Angular.
 * [ngx-file-drop](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
 * [uppy](https://uppy.io/docs/angular/) - [Uppy](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.
 * [ngx-custom-material-file-input](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
 * [ngxf-uploader](https://github.com/ZouYouShun/ngxf-uploader) - File uploader for Angular 18+.
 * [ngx-dropzone-wrapper](https://github.com/zefoy/ngx-dropzone-wrapper) - Angular wrapper library for [Dropzone](https://www.dropzone.dev/).
-* [ngx-fileupload](https://github.com/r-hannuschka/ngx-fileupload) - [ngx-file-upload/core](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/core) only contains services and classes to enable file upload with Angular. [ngx-file-upload/ui](https://github.com/r-hannuschka/ngx-fileupload/tree/master/src/projects/ui) contains components and pipes to provide a UI.
 * [ngx-file-preview](https://github.com/wh131462/ngx-file-preview) - A powerful preview tool for many file types.
 * [ngx-image-upload](https://github.com/osmanabdelsalam/ngx-image-upload) - A lightweight, customizable library for image uploads with preview, validation, and smooth animations. Supports Reactive Forms and `ngTemplate` for full flexibility.
 * [filestack-angular](https://github.com/filestack/filestack-angular) - Integrate [Filestack](https://www.filestack.com/) into your Angular app for a faster, safer, and more reliable file upload experience.

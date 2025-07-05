@@ -1727,6 +1727,7 @@ to simplify usage and allow quick customization.
 * [storybook-addon-angular-router](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
 * [angular-router-menus](https://github.com/muuvmuuv/angular-router-menus) - Enhance your Angular app's navigation by defining menu entries directly within the route. With full typing and customization based on your requirements, you can create multiple navigations effortlessly. Nested menus allow for dynamic dropdowns, while all menus are generated and injected into various injection tokens for easy access anywhere in your application.
 * [ngx-multi-level-push-menu](https://github.com/ramiz4/ngx-multi-level-push-menu) - A modern, accessible Angular component for responsive multi-level push menus with extensive customization options.
+* [ngx-foresight](https://github.com/akshykhade/ngx-foresight) - An Angular integration of [ForesightJS](https://foresightjs.com/) that offers a router preloading strategy by intelligently preloading lazy-loaded modules based on user intent predictions derived from mouse and keyboard interactions.
 
 #### Scroll
 

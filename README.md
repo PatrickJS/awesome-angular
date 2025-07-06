@@ -800,6 +800,7 @@ become an Angular expert.
 * [Bloomreach Angular SDK](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Bloomreach Angular SDK provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
 * [zero-angular](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
 * [ngx-xyflow](https://github.com/knackstedt/ngx-xyflow) - Angular wrapper of [xyflow](https://github.com/xyflow/xyflow).
+* [@retejs/angular-plugin](https://github.com/retejs/angular-plugin) - This Angular plugin includes a classic preset featuring visual components for nodes, connections, sockets, and input controls. It is built on [Rete.js](https://retejs.org/), a customizable, TypeScript-first framework designed for creating processing-oriented, node-based editors.
 
 #### Internationalization
 

@@ -2035,6 +2035,7 @@ for the creation of web applications developed with Angular.
 * [ionic-component-snippets](https://github.com/LennonReid/ionic-component-snippets) - This repository showcases demos and libraries that aren't officially supported by Ionic yet, but can be useful for developers and their apps.
 * [ionic-header-parallax](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
 * [ionic-state](https://github.com/godenji/ionic-state) - Provides utilities for working with state in Ionic applications.
+* [simplici-auth-angular-ionic](https://www.npmjs.com/package/simplici-auth-angular-ionic) - A powerful Angular library designed to seamlessly integrate social authentication into your Ionic/Angular applications. It supports a wide range of providers including Google, Microsoft, Facebook, and Apple, with optimized compatibility for both web and native mobile platforms (iOS/Android) using Capacitor or Cordova.
 
 #### RxJS
 

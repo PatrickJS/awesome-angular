@@ -567,25 +567,26 @@ become an Angular expert.
 * [Official GitHub repository](https://github.com/angular/angular-cli)
 * [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
-* [mantis-cli](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
-* [angular-serve-and-run](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
-* [ngx-starter](https://github.com/bluehalo/ngx-starter) - An [@angular/cli](https://github.com/angular/angular-cli) based starter containing common components and services as well as a reference site.
-* [ngx-stylesweep](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
-* [ng-chrome-extension](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
-* [ngx-devs-cli](https://github.com/ngx-devs/ngx-devs-cli) - Command-line interface (CLI) built in Node.js allow you to automate repetitive tasks and make your life easier when working with Angular projects.
-* [firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) to add web framework support.
 * [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
-* [ngx-create](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
-* [rafacli](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
-* [mcp-angular-cli](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
 * [angular-parallel-test-runner](https://github.com/mahdi-hajian/angular-parallel-test-runner) - A command-line tool designed to run Angular tests in parallel across multiple projects. It utilizes the concurrency capabilities of your machine, maximizing the efficiency of running tests by leveraging multiple CPU cores.
-* [kqgen](https://github.com/KilloconQ/kqgen) - A fast and flexible CLI for generating Angular components and services. Includes presets for tables, filters, and for REST/GraphQL services.
-* [ngx-ws](https://github.com/art-ws/ngx-ws) - Easily split a large `angular.json` into modular, project-local files using the power of [JSON References](https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser), with the convenience of [YAML](https://yaml.org/) and [JSON5](https://json5.org/) formats.
-* [nest-schematics](https://github.com/lcasass3/nest-schematics) - A powerful Angular CLI schematic for generating CQRS (Command Query Responsibility Segregation) modules following hexagonal architecture principles in NestJS applications.
+* [angular-serve-and-run](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
 * [dotairc](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
+* [firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) to add web framework support.
+* [kqgen](https://github.com/KilloconQ/kqgen) - A fast and flexible CLI for generating Angular components and services. Includes presets for tables, filters, and for REST/GraphQL services.
 * [lin](https://github.com/yuo-app/lin) - Lazy I18N is a CLI tool that translates locale JSONs using LLMs.
-* [ngx-i18n-scan](https://github.com/pratiksonone/ngx-i18n-scan) - A powerful CLI tool for scanning Angular source code and managing i18n translation keys. It automatically extracts keys from your project and keeps your translation files (like en.json) clean and updated.
+* [mantis-cli](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
+* [mcp-angular-cli](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
+* [nest-schematics](https://github.com/lcasass3/nest-schematics) - A powerful Angular CLI schematic for generating CQRS (Command Query Responsibility Segregation) modules following hexagonal architecture principles in NestJS applications.
+* [ng-chrome-extension](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
 * [ns-gc](https://github.com/th3n00bc0d3r/ns-gc) - A lightweight command-line tool to generate standalone NativeScript Angular components and Angular services with clean structure and zero config.
+* [ngx-create](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
+* [ngx-devs-cli](https://github.com/ngx-devs/ngx-devs-cli) - Command-line interface (CLI) built in Node.js allow you to automate repetitive tasks and make your life easier when working with Angular projects.
+* [ngx-i18n-scan](https://github.com/pratiksonone/ngx-i18n-scan) - A powerful CLI tool for scanning Angular source code and managing i18n translation keys. It automatically extracts keys from your project and keeps your translation files (like en.json) clean and updated.
+* [ngx-starter](https://github.com/bluehalo/ngx-starter) - An [@angular/cli](https://github.com/angular/angular-cli) based starter containing common components and services as well as a reference site.
+* [ngx-stats](https://github.com/tomer953/ngx-stats) - A CLI tool for Angular project analysis that quantifies modules, components, directives, pipes, and services, offering a clear structural overview to help developers better understand architectural choices and app organization.
+* [ngx-stylesweep](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
+* [ngx-ws](https://github.com/art-ws/ngx-ws) - Easily split a large `angular.json` into modular, project-local files using the power of [JSON References](https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser), with the convenience of [YAML](https://yaml.org/) and [JSON5](https://json5.org/) formats.
+* [rafacli](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 
 #### Deployment
 

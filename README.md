@@ -1405,6 +1405,7 @@ become an Angular expert.
 * [ngx-np-datepicker](https://www.npmjs.com/package/ngx-np-datepicker) - An Angular datepicker component that supports the Nepali calendar (Bikram Sambat). It allows users to pick Nepali dates easily, supports form integrations, and is ideal for applications needing a native Nepali date experience.
 * [ngx-multi-select-input](https://github.com/noredinebahri/ngx-multi-select-input) - A modern, customizable Angular standalone component for multi-term input with chips, autocomplete dropdown, and beautiful color support. Perfect for tag editors, search bars, and more!
 * [rm-ng-star-rating](https://github.com/malikrajat/rm-ng-star-rating) - A fully customizable and feature-rich Angular standalone component for advanced star ratings with precision and responsive design.
+* [ngx-animated-paginator](https://github.com/eladbh-stanley/ngx-animated-paginator) - Angular wrapper for [animated-paginator-web-component](https://www.npmjs.com/package/animated-paginator-web-component) that plugs seamlessly into template-driven and reactive forms via `ControlValueAccessor`.
 
 ##### JSON Forms
 

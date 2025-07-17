@@ -1518,23 +1518,24 @@ to simplify usage and allow quick customization.
 
 #### Loaders
 
-* [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
-* [dotglitch-ngx](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components.
-* [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
-* [ngx-spinner](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
 * [angular-busy](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
-* [ngx-loader-indicator](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
-* [ngx-skeleton-loader](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 * [angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
-* [ngx-loading-buttons](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
+* [dotglitch-ngx](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components.
+* [groupix-spinner-library](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
+* [ng-loading-skeleton](https://github.com/arbrim/ng-loading-skeleton) - A lightweight and customizable Angular loading skeleton component.
 * [ngx-fastboot](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
+* [ngx-loader-indicator](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
+* [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.
+* [ngx-loading-buttons](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
+* [ngx-loading-overlay](https://github.com/shaman-apprentice/ngx-loading-overlay) - An Angular directive adding a loading overlay to your HTML.
+* [ngx-loading-page](https://github.com/dilipkumarsahoo/ngx-loading-page) - A sleek, adaptable loading page component featuring various loader styles, dynamic themes, customizable backgrounds, and a responsive card design built with Bootstrap.
+* [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
+* [ngx-skeleton-loader](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
+* [ngx-spinner](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
+* [ngx-spinner-loading](https://github.com/thalsi/ngx-spinner-loading) - A lightweight, customizable Angular loading spinner package that supports global, section-based, inline loaders, and automatic HTTP integration via interceptors. Built with Angular standalone components and signal-based state.
 * [nx-svg-loaders](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.
 * [skeletonizer](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
-* [ngx-loading-overlay](https://github.com/shaman-apprentice/ngx-loading-overlay) - An Angular directive adding a loading overlay to your HTML.
 * [square-progress](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
-* [ng-loading-skeleton](https://github.com/arbrim/ng-loading-skeleton) - A lightweight and customizable Angular loading skeleton component.
-* [groupix-spinner-library](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
-* [ngx-loading-page](https://github.com/dilipkumarsahoo/ngx-loading-page) - A sleek, adaptable loading page component featuring various loader styles, dynamic themes, customizable backgrounds, and a responsive card design built with Bootstrap.
 
 #### Loggers
 

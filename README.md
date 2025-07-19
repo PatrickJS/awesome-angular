@@ -1804,6 +1804,7 @@ to simplify usage and allow quick customization.
 * [angular-web-storage](https://github.com/cipchk/angular-web-storage) - Angular decorator to save and restore of HTML5 Local & Session Storage.
 * [indexeddb-helper](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
 * [ng-storage](https://github.com/edisonaugusthy/ng-storage) - A modern, reactive Angular service for browser storage management with AES-GCM encryption, TTL, change notifications, and Apollo-style providers.
+* [convex-angular](https://github.com/azhukau-dev/convex-angular) - The Angular client for Convex.
 
 #### Tooltips
 

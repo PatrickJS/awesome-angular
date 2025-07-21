@@ -1650,6 +1650,7 @@ to simplify usage and allow quick customization.
 
 #### Notifications
 
+* [alert-bar-library](https://github.com/npm-lahsiv/alert-bar-library) - Display contextual messages (success, info, warning, error) with clean, accessible styles that match modern web apps with this library.
 * [angular-bootstrap-toast-service](https://github.com/svierk/angular-bootstrap-toast-service) - Angular project for sending Bootstrap based toast notifications including Vercel deployment.
 * [angular-notification](https://github.com/lazycuh/angular-notification) - A singleton, global Angular service to programmatically show notifications.
 * [angular-toaster](https://github.com/damingerdai/angular-toaster) - Updated fork of [Angular2-Toaster](https://github.com/Stabzs/Angular2-Toaster).

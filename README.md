@@ -1110,16 +1110,17 @@ become an Angular expert.
 
 #### Captcha
 
-* [ngx-turnstile](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular.
-* [ng-hcaptcha](https://github.com/leNicDev/ng-hcaptcha) - Provides an easy to use component for [hCaptcha](https://hcaptcha.com/).
+* [altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
 * [angular-yandex-smart-captcha](https://github.com/flowXM/angular-yandex-smart-captcha) - This library adds the Yandex SmartCaptcha component to your Angular application, providing an easy way to integrate CAPTCHA protection into your forms and other user interactions.
 * [go-captcha-angular](https://github.com/wenlng/go-captcha-angular) - A simple, easy-to-use, interactive, and secure behavioral verification code that implements verification modes such as text/graphic clicking, sliding/dragging, and rotation.
+* [ng-cloudflare-turnstile](https://github.com/pangz-lab/ng-cloudflare-turnstile) - An intuitive, lightweight and easy to integrate [Cloudflare turnstile](https://developers.cloudflare.com/turnstile/) component for Angular.
+* [ng-hcaptcha](https://github.com/leNicDev/ng-hcaptcha) - Provides an easy to use component for [hCaptcha](https://hcaptcha.com/).
 * [ng-recaptcha-2](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
+* [ngx-captcha-kit](https://github.com/edward124689/ngx-captcha-kit) - This kit simplifies CAPTCHA implementation with a single component and service, ensuring compatibility with Angular 20+ features like Signals and zoneless change detection.
+* [ngx-turnstile](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular.
 * [ngx-slider-recaptcha](https://github.com/mrzinkowin/ngx-slider-recaptcha) - Customizable Angular library that provides a slider-based CAPTCHA component to help secure forms from spam and bot submissions.
 * [@semantic-components/re-captcha](https://github.com/khalilou88/semantic-components/tree/main/libs/re-captcha) - Angular 19+ integration of Google's reCAPTCHA using **signal inputs** and **standalone components**.
-* [ng-cloudflare-turnstile](https://github.com/pangz-lab/ng-cloudflare-turnstile) - An intuitive, lightweight and easy to integrate [Cloudflare turnstile](https://developers.cloudflare.com/turnstile/) component for Angular.
 * [trustcaptcha-angular](https://www.npmjs.com/package/@trustcomponent/trustcaptcha-angular) - This library helps you [integrate](https://docs.trustcaptcha.com/en/frontend/integration?frontend=angular) [Trustcaptcha](https://www.trustcaptcha.com/en) into your Angular frontend applications.
-* [altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
 * [yandex-smart-captcha](https://github.com/ngx-rock/yandex-smart-captcha) - An Angular library for integrating [Yandex SmartCaptcha](https://yandex.cloud/en/services/smartcaptcha) into your applications. This package provides Angular components that wrap the Yandex SmartCaptcha JavaScript library, supporting both standard and invisible captchas. It leverages Angular’s reactive forms (via ControlValueAccessor and Validator) and modern features like signals and effects (with zoneless support).
 
 #### Carousels

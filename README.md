@@ -647,6 +647,7 @@ become an Angular expert.
 * [angular schematics pro](https://cyrilletuzi.gumroad.com/l/schematicspro) - Ultimate Angular code generation in Visual Studio Code.
 * [vscode-angular-auto-import](https://github.com/ngx-rock/vscode-angular-auto-import) - Automatically suggests and inserts missing Angular component imports based on selectors used in templates.
 * [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
+* [ng-reactive-lint](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
 
 #### Documentation tools
 

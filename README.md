@@ -958,12 +958,12 @@ become an Angular expert.
 * [signal-admin](https://github.com/codebangla/signal-admin) - A modern admin panel built with Angular 20, Angular Material, and TailwindCSS. Features a responsive design with collapsible sidebar, user management, forms, and UI components.
 * [ngXpress](https://github.com/angularcafe/ngXpress) - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
 * [spartan-stack-starter](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
+* [jet](https://github.com/karmasakshi/jet) - Angular starter-kit for building quality web apps fast.
 
 ##### Paid
 
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
 * [Angular-Templates](https://angular-templates.io/)
-* [Jet](https://docs.jetproject.dev/) - Jet is the ultimate Angular + Material Design boilerplate to build ambitious, robust web apps. Jet satisfies 60+ functional and non-functional stories.
 * [NgFast](https://ngfast.com/) - The Angular boilerplate for building SaaS, landing pages, and web apps fast—turning your ideas into income.
 * [Nzoni](https://nzoni.app/) - Launch your SAAS in days with Angular.
 * [Theme Forest](https://themeforest.net/search/angular)

@@ -1534,6 +1534,7 @@ to simplify usage and allow quick customization.
 * [ngx-loading-page](https://github.com/dilipkumarsahoo/ngx-loading-page) - A sleek, adaptable loading page component featuring various loader styles, dynamic themes, customizable backgrounds, and a responsive card design built with Bootstrap.
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 * [ngx-skeleton-loader](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
+* [ngx-source](https://github.com/mehrabisajad/ngx-source) - Dynamically load JavaScript and CSS during application execution.
 * [ngx-spinner](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
 * [ngx-spinner-loading](https://github.com/thalsi/ngx-spinner-loading) - A lightweight, customizable Angular loading spinner package that supports global, section-based, inline loaders, and automatic HTTP integration via interceptors. Built with Angular standalone components and signal-based state.
 * [nx-svg-loaders](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.

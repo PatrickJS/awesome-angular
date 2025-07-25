@@ -1100,16 +1100,17 @@ become an Angular expert.
 
 #### Calendars
 
-* [angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for Angular 15+ that can display events on a month, week, or day view.
-* [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
-* [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
-* [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
-* [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
-* [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
-* [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
-* [ngx-calendario](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
-* [daypilot-lite-angular](https://www.npmjs.com/package/@daypilot/daypilot-lite-angular) - Angular version of JavaScript/HTML5 event calendar/scheduler components that can display day/week/month calendar views.
 * [@pyas/connect-angular](https://www.npmjs.com/package/@pyas/connect-angular) - A plugin wrapper around the [Pyas Connect](https://github.com/brutforce-tech/pyas-connect) Web Component, exposing PyasConnect as a first-class Angular component.
+* [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
+* [angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for Angular 15+ that can display events on a month, week, or day view.
+* [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
+* [daypilot-lite-angular](https://www.npmjs.com/package/@daypilot/daypilot-lite-angular) - Angular version of JavaScript/HTML5 event calendar/scheduler components that can display day/week/month calendar views.
+* [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
+* [ngx-calendario](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
+* [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+* [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
+* [ngx-strip-calendar](https://github.com/codingchefss/ngx-strip-calendar) - Strip calendar component for Angular 17+.
+* [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 
 #### Captcha
 

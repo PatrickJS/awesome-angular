@@ -1150,6 +1150,8 @@ become an Angular expert.
 
 #### Charts
 
+* [@cubejs-client/ngx](https://www.npmjs.com/package/@cubejs-client/ngx) — Along with [@cubejs-client/core](https://www.npmjs.com/package/@cubejs-client/core), you can [integrate](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular) Cube.js in Angular.
+* [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
 * [amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/) to get started. Additionally, older versions are still being updated to support newer releases of Angular.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
@@ -1161,8 +1163,6 @@ become an Angular expert.
 * [ng-draw-flow](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes.
 * [ng2-charts](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2 based on Chart.js.
 * [ngu-flow](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
-* [@cubejs-client/ngx](https://www.npmjs.com/package/@cubejs-client/ngx) — Along with [@cubejs-client/core](https://www.npmjs.com/package/@cubejs-client/core), you can [integrate](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular) Cube.js in Angular.
-* [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/incubator-echarts).
 * [ngx-flexmonster](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting and data visualization.
 * [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.

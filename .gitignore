@@ -29,8 +29,8 @@ node_modules
 
 ## WS
 .idea
-.vscode
-
+.vscode/*
+!.vscode/extensions.json
 
 ## Awesome Bot (https://github.com/dkhamsing/awesome_bot)
 ab-results-*

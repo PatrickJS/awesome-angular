@@ -1475,19 +1475,20 @@ to simplify usage and allow quick customization.
 
 #### Images
 
-* [ngx-image-hero](https://github.com/hm21/ngx-image-hero) - A package to implement hero animations, allowing users to click on images and smoothly zoom them into a larger, immersive view, enhancing the user experience and interaction with images.
-* [ngx-image-cropper](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
-* [@unpic/angular](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images. Generates a responsive `<img>` tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step.
 * [ngx-advanced-img](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
-* [ngx-img-cropper](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
-* [ngx-smart-cropper](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 * [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
-* [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
+* [ngx-avatars](https://github.com/Heatmanofurioso/ngx-avatars) - Spiritual successor of [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar).
 * [ngx-blurhash-render](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
-* [ngx-pinch-zoom](https://github.com/medDV-GmbH/ngx-pinch-zoom) - This module enables image zooming and positioning through touch screen gestures.
 * [ngx-broken-img](https://github.com/andreagrossetti/ngx-broken-img) - Angular directive to fix broken url in img. If image url returns 404, a placeholder is used to fill img's src.
+* [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
+* [ngx-image-cropper](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
+* [ngx-image-hero](https://github.com/hm21/ngx-image-hero) - A package to implement hero animations, allowing users to click on images and smoothly zoom them into a larger, immersive view, enhancing the user experience and interaction with images.
+* [ngx-img-cropper](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
 * [ngx-lightbox](https://github.com/jjmhalew/ngx-lightbox) - A [lightbox2](https://github.com/lokesh/lightbox2) implementation port to use with Angular >= 18 (zoneless).
+* [ngx-pinch-zoom](https://github.com/medDV-GmbH/ngx-pinch-zoom) - This module enables image zooming and positioning through touch screen gestures.
+* [ngx-smart-cropper](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
+* [@unpic/angular](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images. Generates a responsive `<img>` tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step.
 
 #### Keyboard Mouse
 

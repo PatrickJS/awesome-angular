@@ -1478,7 +1478,7 @@ to simplify usage and allow quick customization.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 * [ngx-advanced-img](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
 * [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
-* [ngx-avatars](https://github.com/Heatmanofurioso/ngx-avatars) - Spiritual successor of [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar).
+* [ngx-avatars](https://github.com/Heatmanofurioso/ngx-avatars) - Spiritual successor to [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar).
 * [ngx-blurhash-render](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
 * [ngx-broken-img](https://github.com/andreagrossetti/ngx-broken-img) - Angular directive to fix broken url in img. If image url returns 404, a placeholder is used to fill img's src.
 * [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.

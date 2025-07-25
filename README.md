@@ -1875,6 +1875,7 @@ to simplify usage and allow quick customization.
 
 ##### Material Based
 
+* [angular-ui-plusify](https://github.com/RockyCott/angular-ui-plusify) - It currently includes a Datetime Picker and the new Markdown Editor components — with plans to continue growing into a comprehensive UI toolkit for Angular developers.
 * [MDBootstrap](https://github.com/mdbootstrap/mdb-angular-ui-kit) - Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation.
 * [Angular Material](https://material.angular.io/) - Material Design components for Angular.
 * [Covalent](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.

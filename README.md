@@ -482,12 +482,12 @@ become an Angular expert.
 * [@blue-cardinal/ngx-google-analytics](https://github.com/blue-cardinal/ngx-google-analytics) - This package provides a module that injects the Google Analytics tag manager script into your Angular project. It provides some guard rails against including the tag manager script in a dev environment.
 * [clickstream-analytics-on-aws-web-sdk](https://github.com/aws-solutions/clickstream-analytics-on-aws-web-sdk) - [Clickstream Web SDK](https://aws-solutions.github.io/clickstream-analytics-on-aws/en/latest/sdk-manual/web/) can help you easily collect click stream data from browser to your AWS environments through the data pipeline provisioned by this solution.
 * [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Heap is the only digital insights platform that gives you complete understanding of your customers’ digital journeys, so you can quickly improve conversion, retention, and customer delight.
-* [litlyx](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
+* [litlyx](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. `Litlyx` is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
 * [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
 * [ng-webdatarocks](https://github.com/WebDataRocks/ng-webdatarocks) - This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/).  Follow this [example](https://github.com/WebDataRocks/pivot-angular) to integrate the WebDataRocks web reporting tool.
 * [ngx-amplitude](https://github.com/th3n00bc0d3r/ngx-amplitude) - A library that provides an easy-to-use interface for integrating [Amplitude](https://amplitude.com/) analytics into your Angular 18+ standalone applications. It includes a global initialization module and a service for logging events.
 * [ngx-clarity](https://github.com/jadengis/ngx-clarity) - A useful Angular library that automatically injects the script tag required to use [Microsoft Clarity](https://clarity.microsoft.com/).
-* [ngx-material-tracking](https://github.com/Service-Soft/ngx-material-tracking) - Provides gdpr-compliant tracking functionality for Angular websites. Google Analytics and Meta Pixel are supported out of the box, but you are also able to build your own tracking.
+* [ngx-material-tracking](https://github.com/Service-Soft/ngx-material-tracking) - Provides GDPR-compliant tracking functionality for Angular websites. Google Analytics and Meta Pixel are supported out of the box, but you are also able to build your own tracking.
 * [ngx-matomo-client](https://github.com/EmmanuelRoux/ngx-matomo-client) - Matomo analytics client for Angular applications.
 * [ngx-meta-pixel](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
 * [ngx-piwik-pro](https://github.com/PiwikPRO/ngx-piwik-pro) - Dedicated [Piwik PRO](https://piwik.pro/) library that helps with implementing Piwik PRO Tag Manager and the Piwik PRO tracking client in Angular applications.
@@ -496,7 +496,7 @@ become an Angular expert.
 * [oculr-ngx](https://github.com/Progressive-Insurance/oculr-ngx) - An analytics library that makes collecting data in an Angular app simple.
 * [opentelemetry-angular-interceptor](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
 * [plausible](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. Works without any extra configuration on [single page applications](https://plausible.io/docs/spa-support).
-* [rybbit](https://github.com/rybbit-io/rybbit) - A privacy friendly alternative to Google Analytics. This [guide](https://www.rybbit.io/docs/guides/angular) walks you through integrating it with Angular.
+* [rybbit](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics. This [guide](https://www.rybbit.io/docs/guides/angular) walks you through integrating it with Angular.
 
 #### Authentication
 

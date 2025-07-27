@@ -2059,27 +2059,28 @@ for the creation of web applications developed with Angular.
 * [Official TypeScript REPL](https://www.typescriptlang.org/play/)
 * [Official GitHub repository](https://github.com/Microsoft/TypeScript)
 * [DefinitelyTyped GitHub repository](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-* [typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
-* [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
-* [typescript-challenges](https://github.com/psmyrdek/typescript-challenges) - A set of challenges helping you understand TypeScript.
-* [Sheriff](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects.
-* [Total Typescript Book](https://github.com/total-typescript/total-typescript-book) - The companion repository for the upcoming Total TypeScript book.
-* [ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place.
-* [trpc](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-* [quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
-* [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
-* [ngx-mf](https://github.com/iamguid/ngx-mf) - Bind your model types to Angular FormGroup type.
-* [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
-* [typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
-* [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
-* [valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
-* [ngx-exhaustive-check](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
+* [guardz](https://github.com/thiennp/guardz) - Lightweight, zero-dependency TypeScript type guards for runtime validation with structured error handling.
 * [mutates](https://github.com/IKatsuba/mutates) - A powerful toolset for mutating the Abstract Syntax Tree (AST) of TypeScript files. It is a fork of [ng-morph](https://github.com/taiga-family/ng-morph), with a broader focus beyond Angular-specific transformations, allowing for extensive AST modifications in any TypeScript project.
-* [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
+* [ngx-exhaustive-check](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
+* [ngx-mf](https://github.com/iamguid/ngx-mf) - Bind your model types to Angular FormGroup type.
+* [quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
+* [Sheriff](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects.
+* [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
+* [Total Typescript Book](https://github.com/total-typescript/total-typescript-book) - The companion repository for the upcoming Total TypeScript book.
+* [transform.tools](https://transform.tools/json-to-typescript) - Save a lot of time typing API responses with this JSON to TypeScript converter.
+* [trpc](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+* [ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place.
+* [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 * [ts-serializer](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 * [tsconfig](https://github.com/smartrecruiters/tsconfig) - SmartRecruiters’ tsconfig contains all strict rules and improves your project type-safety.
-* [transform.tools](https://transform.tools/json-to-typescript) - Save a lot of time typing API responses with this JSON to TypeScript converter.
+* [typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript.
 * [typebuddy](https://github.com/typed-rocks/type-buddy) - Finally make sense of your complex types.
+* [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
+* [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
+* [typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
+* [typescript-challenges](https://github.com/psmyrdek/typescript-challenges) - A set of challenges helping you understand TypeScript.
+* [valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
+* [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 #### Inspired by Angular
 

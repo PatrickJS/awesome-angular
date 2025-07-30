@@ -358,8 +358,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Boot Camp](https://angularbootcamp.com)
 * [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 * [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular applications using new features with modern best practices.
-* [Angular Training](https://www.angulartraining.com/) - The Angular Coach
-You Need.
+* [Angular Training](https://www.angulartraining.com/) - The Angular Coach You Need.
 * [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
 * [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem.
 * [Angular.Schule (in Germany)](https://angular.schule/)
@@ -372,8 +371,7 @@ You Need.
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 * [Tech OS](https://tech-os.org/) - Tech OS offers high-level Angular training designed for demanding developers and ambitious teams.
 * [Udemy: Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
-* [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
-become an Angular expert.
+* [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to become an Angular expert.
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
 
 ##### YouTube Channels

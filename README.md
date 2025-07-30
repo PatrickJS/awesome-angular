@@ -126,7 +126,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [TypeScript](#typescript)
 * [Inspired By Angular](#inspired-by-angular)
 * [Other Lists](#other-lists)
-* [License](#license)
 
 ### Angular
 
@@ -2107,9 +2106,3 @@ for the creation of web applications developed with Angular.
 * [awesome-angular](https://github.com/DaanDeSmedt/awesome-angular)
 * [angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 * [framework.dev](https://angular.framework.dev/) - Search, compare, and discover top Angular libraries and community-driven resources in Angular.
-
----
-
-#### License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

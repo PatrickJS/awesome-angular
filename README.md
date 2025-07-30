@@ -1,4 +1,4 @@
-# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Angular [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
   <a href="https://patrickjs.com" target="_blank">
@@ -32,8 +32,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     * [Certification](#certification)
     * [Cheatsheet](#cheatsheet)
     * [Exercises](#exercises)
-    * [Online Training](#online-training)
-    * [On-Site Training](#on-site-training)
+    * [Training](#training)
     * [Style Guides](#style-guides)
     * [YouTube Channels](#youtube-channels)
   * [Accessibility](#accessibility)
@@ -154,7 +153,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Top rated Angular Stack Overflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 * [angular-logos](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 * [made with angular](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
-* [angular.love](https://angular.love/) - Polish community for Angular fans.
 * [angular hub](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 * [angular space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
 * [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
@@ -354,35 +352,29 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [modern-angular-exercises](https://github.com/kobi-hari-courses/modern-angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
 * [angular-debug-quest](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
 
-##### Online Training
+##### Training
 
+* [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
+* [Angular Boot Camp](https://angularbootcamp.com)
+* [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 * [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular applications using new features with modern best practices.
 * [Angular Training](https://www.angulartraining.com/) - The Angular Coach
 You Need.
-* [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem.
-* [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
-become an Angular expert.
-* [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
-* [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
-* [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
-* [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
-* [Offering Solutions](https://offering.solutions/trainings/)
-* [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
-* [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 * [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
-* [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/video-courses/). Content either in Italian or English.
-* [Tech OS](https://tech-os.org/) - Tech OS offers high-level Angular training designed for demanding developers and ambitious teams.
-* [ng.guide](https://ng.guide/) - Learn Angular by building real-world apps.
-
-##### On-Site Training
-
-* [Angular Boot Camp](https://angularbootcamp.com)
+* [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem.
 * [Angular.Schule (in Germany)](https://angular.schule/)
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
-* [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
-* [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
-* [Offering Solutions](https://offering.solutions/trainings/)
+* [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/video-courses/). Content either in Italian or English.
 * [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
+* [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
+* [ng.guide](https://ng.guide/) - Learn Angular by building real-world apps.
+* [Offering Solutions](https://offering.solutions/trainings/)
+* [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
+* [Tech OS](https://tech-os.org/) - Tech OS offers high-level Angular training designed for demanding developers and ambitious teams.
+* [Udemy: Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
+* [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
+become an Angular expert.
+* [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
 
 ##### YouTube Channels
 

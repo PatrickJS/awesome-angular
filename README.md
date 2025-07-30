@@ -848,7 +848,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [appwrite](https://github.com/appwrite/appwrite) - Using Appwrite, you can easily integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, cloud functions, and more services.
 * [auth0-angular](https://github.com/auth0/auth0-angular) - Auth0 SDK for Angular Single Page Applications.
 * [@badisi/ngx-auth](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
-* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic permissions management library [CASL](https://github.com/stalniy/casl) with Angular.
 * [corbado](https://www.corbado.com/#signup-init) - [Integrate](https://docs.corbado.com/corbado-complete/frontend-integration/angular) Corbado with Angular to use passkeys for authentication.
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
 * [frontegg-angular](https://github.com/frontegg/frontegg-angular) - [Frontegg](https://frontegg.com) is a web platform where SaaS companies can set up their fully managed, scalable, and brand-aware SaaS features and integrate them into their SaaS portals in up to 5 lines of code. Quickly integrate Frontegg's login box with this [quickstart guide](https://developers.frontegg.com/sdks/frontend/angular/hosted-login).
@@ -861,15 +860,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@melody-auth/angular](https://www.npmjs.com/package/@melody-auth/angular) - [Melody Auth](https://github.com/ValueMelody/melody-auth) Angular SDK facilitates seamless interaction between Angular applications and the melody auth server. It silently handles authentication state management, redirect flows, token exchange, and authentication validation for you.
 * [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
 * [msal-angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular) - MSAL for Angular enables Angular web applications to authenticate users using [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-overview) work and school accounts (AAD), Microsoft personal accounts (MSA) and social identity providers like Facebook, Google, LinkedIn, Microsoft accounts, etc. through [Azure AD B2C](https://docs.microsoft.com/azure/active-directory-b2c/active-directory-b2c-overview#identity-providers) service. It also enables your app to get tokens to access [Microsoft Cloud](https://www.microsoft.com/enterprise) services such as [Microsoft Graph](https://graph.microsoft.io).
-* [nblocks](https://www.nblocks.dev/) - A control center for seamless management of Authentication, Payments, Subscriptions, Feature, and Role management.
 * [ng-supabase](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 * [ngxfire](https://github.com/teve-no/ngxfire) - Zoneless AngularFire replacement.
-* [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
-* [ngx-role-accessor](https://github.com/IroshanRathnayake/ngx-role-accessor) - Enterprise-grade Angular Role-Based Access Control (RBAC) Library.
-* [ngx-smart-permissions](https://github.com/rami-sheikha-dev/ngx-smart-permissions) - A lightweight library for managing role-based and permission-based access control in Angular applications. Supports both standalone components and NgModules.
 * [ngx-webauthn](https://github.com/JonnyHeavey/ngx-webauthn) - An Angular library that provides a clean, type-safe abstraction over the native WebAuthn API. Features direct support for standard WebAuthn types with an optional preset system for common scenarios.
 * [otp-angular](https://github.com/subha-patra/otp-angular) - A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.
-* [permit](https://www.permit.io/) - An authorization-as-a-service solution that can be used with [Angular](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular).
 * [@serhiisol/ngx-auth](https://github.com/serhiisol/ngx-auth) - Angular 20+ Authentication Module.
 * [supabase](https://supabase.com/docs/guides/getting-started/tutorials/with-angular) - Build a User Management App with Angular.
 * [SuperTokens](https://supertokens.com) - Configure your [Angular](https://supertokens.com/docs/quickstart/frontend-setup) application to use SuperTokens for authentication.
@@ -887,6 +881,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
 
 ### Role-Based Access Control
+
+* [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic permissions management library [CASL](https://github.com/stalniy/casl) with Angular.
+* [nblocks](https://www.nblocks.dev/) - A control center for seamless management of Authentication, Payments, Subscriptions, Feature, and Role management.
+* [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
+* [ngx-role-accessor](https://github.com/IroshanRathnayake/ngx-role-accessor) - Enterprise-grade Angular Role-Based Access Control (RBAC) Library.
+* [ngx-smart-permissions](https://github.com/rami-sheikha-dev/ngx-smart-permissions) - A lightweight library for managing role-based and permission-based access control in Angular applications. Supports both standalone components and NgModules.
+* [permit](https://www.permit.io/) - An authorization-as-a-service solution that can be used with [Angular](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular).
 
 ### Security Best Practices
 

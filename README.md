@@ -14,7 +14,7 @@ This is the Awesome list of the Angular framework, and it contains intriguing li
 
 Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)  
 
-## Table of contents
+## Contents
 
 * [Angular](#angular)
   * [Official Resources](#official-resources)
@@ -23,9 +23,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     * [Podcasts](#podcasts)
     * [Bluesky](#bluesky)
     * [X](#x)
-      * [angular-team](#angular-team)
-      * [experts](#experts)
-      * [google-developer-experts](#google-developer-experts)
+      * [Angular Team](#angular-team)
+      * [Experts](#experts)
+      * [Google Developer Experts](#google-developer-experts)
   * [Learning](#learning)
     * [Blogs](#blogs)
     * [Books](#books)
@@ -43,8 +43,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [CLI](#cli)
   * [Deployment](#deployment)
   * [Desktop](#desktop)
-  * [Developer tools](#developer-tools)
-  * [Documentation tools](#documentation-tools)
+  * [Developer Tools](#developer-tools)
+  * [Documentation Tools](#documentation-tools)
   * [Feature Flags](#feature-flags)
   * [Generators](#generators)
     * [Go](#go)
@@ -65,7 +65,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     * [Free](#free)
     * [Paid](#paid)
   * [Testing](#testing)
-    * [e2e](#e2e)
+    * [E2E](#e2e)
     * [Component](#component)
     * [Guides](#guides)
     * [Helpers](#helpers)
@@ -98,7 +98,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Maps](#maps)
   * [Markdown](#markdown)
   * [Media](#media)
-  * [Mixed utilities](#mixed-utilities)
+  * [Mixed Utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
   * [Printing](#printing)
@@ -113,10 +113,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Tooltips](#tooltips)
   * [UI Libraries](#ui-libraries)
     * [Unspecified](#unspecified)
-    * [Material](#material-based)
-    * [Bootstrap](#bootstrap-based)
-    * [Tailwind](#tailwind-css-based)
-    * [Node](#node-based)
+    * [Material Based](#material-based)
+    * [Bootstrap Based](#bootstrap-based)
+    * [Tailwind CSS Based](#tailwind-css-based)
+    * [Node Based](#node-based)
     * [Primitives](#primitives)
   * [UX Components](#ux-components)
   * [Viewers](#viewers)
@@ -216,7 +216,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@maciejtreder](https://x.com/maciejtreder)
 * [@maartentibau](https://x.com/maartentibau)
 
-###### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+###### Google Developer Experts
 
 * [Jack Franklin](https://x.com/jack_franklin)
 * [Thierry Chatel](https://x.com/ThierryChatel)
@@ -373,6 +373,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to become an Angular expert.
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
 
+##### Style Guides
+
+* [Official Angular style guide](https://angular.dev/style-guide)
+* [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
+* [TypeScript style guide](https://mkosir.github.io/typescript-style-guide/)
+
 ##### YouTube Channels
 
 * [Angular](https://www.youtube.com/@Angular)
@@ -408,12 +414,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Programming Practicals](https://www.youtube.com/@programmingpracticals)
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - In Japanese.
 * [Code with Keys](https://www.youtube.com/@codewithkeys) - In Persian.
-
-##### Style Guides
-
-* [Official Angular style guide](https://angular.dev/style-guide)
-* [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
-* [TypeScript style guide](https://mkosir.github.io/typescript-style-guide/)
 
 ---
 
@@ -597,7 +597,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 * [wails](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
 
-#### Developer tools
+#### Developer Tools
 
 * [ngx-html-syntax](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [SublimeText](https://www.sublimetext.com/).
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
@@ -632,7 +632,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 * [ng-reactive-lint](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
 
-#### Documentation tools
+#### Documentation Tools
 
 * [Storybook](https://github.com/storybooks/storybook) - The UI development environment you'll love to use.
 * [Compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
@@ -958,7 +958,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 #### Testing
 
-##### e2e
+##### E2E
 
 * [cypress](https://www.cypress.io/) - End to End and Component Testing for Angular.
 * [cypress-harness](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
@@ -1576,7 +1576,7 @@ to simplify usage and allow quick customization.
 * [@poseclop/ngx-video-player](https://www.npmjs.com/package/@poseclop/ngx-video-player) - A lightweight video player component that emulates YouTube.
 * [ngx-lite-video-v2](https://github.com/KSmp/ngx-lite-video) - An updated fork of [ngx-lite-video](https://github.com/karim-mamdouh/ngx-lite-video), an Angular package that provides lazy loading capabilities for embedded iframes from popular video-sharing platforms like YouTube and Vimeo.
 
-#### Mixed utilities
+#### Mixed Utilities
 
 * [rx-angular](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
 * [ng-web-apis](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular.
@@ -2067,7 +2067,7 @@ for the creation of web applications developed with Angular.
 * [valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 * [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
-#### Inspired by Angular
+#### Inspired By Angular
 
 > These repositories showcase a variety of projects and tools inspired by Angular, demonstrating how its foundational concepts can drive innovative and adaptable solutions across diverse applications.
 

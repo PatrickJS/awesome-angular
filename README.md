@@ -499,8 +499,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - In Japanese.
 * [Code with Keys](https://www.youtube.com/@codewithkeys) - In Persian.
 
----
-
 ## Architecture and Advanced Topics
 
 ### Feature Flags
@@ -1036,8 +1034,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Theme Forest](https://themeforest.net/search/angular)
 * [Vortex](https://template.giacomobellazzi.com/) - A high-performance web application template built with Angular and Java, designed to deliver seamless user experiences and powerful backend solutions.
 * [Wrap Pixel](https://www.wrappixel.com/templates/category/angular-templates/)
-
----
 
 ## Third Party Components
 

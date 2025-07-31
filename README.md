@@ -44,7 +44,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Feature Flags](#feature-flags)
   * [GraphQL](#graphql)
   * [HTTP](#http)
-  * [Integrations](#integrations)
   * [Micro-Frontends](#micro-frontends)
   * [Module Federation](#module-federation)
   * [Monorepos](#monorepos)
@@ -123,6 +122,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Underlying Technologies](#underlying-technologies)
   * [RxJS](#rxjs)
   * [TypeScript](#typescript)
+* [Framework Interoperability](#framework-interoperability)
+  * [Cross-Framework Integration](#cross-framework-integration)
+  * [External Integration](#external-integration)
+  * [Wrappers](#wrappers)
 * [Angular-Inspired Solutions](#angular-inspired-solutions)
 * [External Lists](#external-lists)
 
@@ -555,66 +558,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@angular-experts-io/resource](https://github.com/angular-experts-io/resource) - The missing create, update, delete (CUD) support for Angular resource.
 * [ng-speed-test](https://github.com/jrquick17/ng-speed-test) - A light weight Angular 2+ library for checking internet speed.
 * [ngx-http-resilience](https://github.com/ebh/ngx-http-resilience) - Angular HttpInterceptors that provide resiliency capabilities.
-
-### Integrations
-
-* [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
-* [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
-* [TailwindCSS + Angular](https://tailwindcss.com/docs/guides/angular) - Integrate Angular app with Tailwind.
-* [Sentry](https://docs.sentry.io/platforms/javascript/guides/angular/configuration/integrations/) - Sentry is a developer-first error tracking and performance monitoring platform.
-* [Stencil](https://stenciljs.com/docs/angular) - Stencil can generate Angular component wrappers for your web components. This can improve Angular performance.
-* [GoodData](https://www.gooddata.com/blog/frontend-integration-series-angular/) - Integrate GoodData Visualizations into your Angular application.
-* [DataDog](https://docs.datadoghq.com/integrations/rum_angular/) - With the Datadog Angular integration, you can resolve performance issues quickly.
-* [Elastic](https://www.elastic.co/guide/en/apm/agent/rum-js/current/angular-integration.html) - Real User Monitoring JavaScript agent with Angular applications.
-* [HyperFormula](https://hyperformula.handsontable.com/guide/integration-with-angular.html#demo) - HyperFormula is a headless spreadsheet built in TypeScript, serving as both a parser and evaluator of spreadsheet formulas. It can be integrated into your browser.  
-* [Strich](https://docs.strich.io/angular-integration-guide.html) - STRICH is a JavaScript library for real-time, multi-format barcode scanning directly in the web browser.
-* [Pega](https://community.pega.com/marketplace/component/angular-sdk) - Angular SDK includes a bridge and DX components that connect the ConstellationJS Engine to an Angular-based design system.
-* [Postcat](https://github.com/Postcatlab/postcat) - A lightweight, extensible API tool based on Angular and Electron.
-* [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience.
-* [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
-* [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
-* [ngx-grapesjs](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
-* [gojs-angular](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
-* [ngx-three](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
-* [ngx-socket-io](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
-* [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
-* [limitless-angular](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on `Sanity.io` integration.
-* [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript).
-* [ngx-fabric-wrapper](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
-* [ngx-three-globe](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using `Three.js`.
-* [stream-chat-angular](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
-* [gong](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
-* [ngx-tagify](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify](https://github.com/yaireo/tagify/).
-* [ngx-xapi](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
-* [ngx-notion-cms](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
-* [angular-rsocket](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
-* [ngx-pendo](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
-* [ngx-surreal](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
-* [ngx-filesize](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
-* [ngx-katex](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX](https://github.com/KaTeX/KaTeX).
-* [ngx-wagmi](https://github.com/thanhhoa214/ngx-wagmi) - An essential toolkit to connect your Angular app to the blockchain, bringing powerful wallet and contract interactions to your fingertips.
-* [ngx-chessground](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground](https://github.com/ornicar/chessground).
-* [ngx-barcode6](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode](https://github.com/lindell/JsBarcode).
-* [ngx-viz](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
-* [ngx-reactify](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
-* [Otter](https://github.com/AmadeusITGroup/otter) - A highly modular framework whose goal is to provide a common platform to accelerate and facilitate the development on Angular web applications. It is split into several units to cover different aspects of these applications (localization, testing, customization, etc.). Also, to customize an application, metadata can be extracted from the application source code and injected into a CMS to manage dynamic configuration.
-* [ngx-serializer](https://github.com/paddls/ngx-serializer) - Angular wrapper of @paddls/ts-serializer library.
-* [ngx-pocketbase](https://github.com/BerniHC/ngx-pocketbase) - PocketBase Angular SDK for interacting with the [PocketBase API](https://pocketbase.io/docs). Based on the [PocketBase JavaScript SDK](https://github.com/pocketbase/js-sdk).
-* [fusio-sdk-javascript-angular](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend](https://github.com/apioo/fusio-apps-backend) and [developer](https://github.com/apioo/fusio-apps-developer) app.
-* [ng-storyblok](https://github.com/geometricpanda/ng-storyblok) - A simple way to integrate [Storyblok](https://www.storyblok.com/) into your Angular application.
-* [ng-react-bridge](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.
-* [zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag](https://github.com/chakra-ui/zag).
-* [seatsio-angular](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
-* [ngx-kel-agent](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent](https://github.com/k0swe/kel-agent).
-* [foblex2D](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in `Foblex Flow` for 2D geometric operations.
-* [ngx-d3](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service](https://github.com/tomwanzek/d3-ng2-service).
-* [@elastic/apm-rum-angular](https://www.npmjs.com/package/@elastic/apm-rum-angular) - Elastic APM Real User Monitoring for Angular applications.
-* [ngx-react](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
-* [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
-* [Bloomreach Angular SDK](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Bloomreach Angular SDK provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
-* [zero-angular](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
-* [ngx-xyflow](https://github.com/knackstedt/ngx-xyflow) - Angular wrapper of [xyflow](https://github.com/xyflow/xyflow).
-* [@retejs/angular-plugin](https://github.com/retejs/angular-plugin) - This Angular plugin includes a classic preset featuring visual components for nodes, connections, sockets, and input controls. It is built on [Rete.js](https://retejs.org/), a customizable, TypeScript-first framework designed for creating processing-oriented, node-based editors.
 
 ### Micro-Frontends
 
@@ -2053,6 +1996,73 @@ for the creation of web applications developed with Angular.
 * [typescript-challenges](https://github.com/psmyrdek/typescript-challenges) - A set of challenges helping you understand TypeScript.
 * [valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 * [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+
+## Framework Interoperability
+
+### Cross-Framework Integration
+
+* [ngx-react](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
+* [ngx-reactify](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
+* [ng-react-bridge](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.
+* [gong](https://github.com/fullstack-lang/gong) - Gong (go + ng) is a framework for full stack development based on Go and Angular. The Go back-end uses gin, gorm, and sqlite (a pure go sqlite, no cgo needed). The Angular front-end uses Angular Material.
+* [@retejs/angular-plugin](https://github.com/retejs/angular-plugin) - This Angular plugin includes a classic preset featuring visual components for nodes, connections, sockets, and input controls. It is built on [Rete.js](https://retejs.org/), a customizable, TypeScript-first framework designed for creating processing-oriented, node-based editors.
+* [Stencil](https://stenciljs.com/docs/angular) - Stencil can generate Angular component wrappers for your web components. This can improve Angular performance.
+* [zero-angular](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
+
+### External Integration
+
+* [Sentry](https://docs.sentry.io/platforms/javascript/guides/angular/configuration/integrations/) - Sentry is a developer-first error tracking and performance monitoring platform.
+* [DataDog](https://docs.datadoghq.com/integrations/rum_angular/) - With the Datadog Angular integration, you can resolve performance issues quickly.
+* [Elastic](https://www.elastic.co/guide/en/apm/agent/rum-js/current/angular-integration.html) - Real User Monitoring JavaScript agent with Angular applications.
+* [@elastic/apm-rum-angular](https://www.npmjs.com/package/@elastic/apm-rum-angular) - Elastic APM Real User Monitoring for Angular applications.
+* [Partytown](https://partytown.builder.io/angular) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+* [Pega](https://community.pega.com/marketplace/component/angular-sdk) - Angular SDK includes a bridge and DX components that connect the ConstellationJS Engine to an Angular-based design system.
+* [Postcat](https://github.com/Postcatlab/postcat) - A lightweight, extensible API tool based on Angular and Electron.
+* [GoodData](https://www.gooddata.com/blog/frontend-integration-series-angular/) - Integrate GoodData Visualizations into your Angular application.
+* [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience.
+* [Strich](https://docs.strich.io/angular-integration-guide.html) - STRICH is a JavaScript library for real-time, multi-format barcode scanning directly in the web browser.
+* [stream-chat-angular](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
+* [foblex2D](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in `Foblex Flow` for 2D geometric operations.
+* [Bloomreach Angular SDK](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Bloomreach Angular SDK provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
+* [ng-storyblok](https://github.com/geometricpanda/ng-storyblok) - A simple way to integrate [Storyblok](https://www.storyblok.com/) into your Angular application.
+* [ngx-notion-cms](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
+* [ngx-wagmi](https://github.com/thanhhoa214/ngx-wagmi) - An essential toolkit to connect your Angular app to the blockchain, bringing powerful wallet and contract interactions to your fingertips.
+* [Otter](https://github.com/AmadeusITGroup/otter) - A highly modular framework whose goal is to provide a common platform to accelerate and facilitate the development on Angular web applications. It is split into several units to cover different aspects of these applications (localization, testing, customization, etc.). Also, to customize an application, metadata can be extracted from the application source code and injected into a CMS to manage dynamic configuration.
+* [HyperFormula](https://hyperformula.handsontable.com/guide/integration-with-angular.html#demo) - HyperFormula is a headless spreadsheet built in TypeScript, serving as both a parser and evaluator of spreadsheet formulas. It can be integrated into your browser.
+* [fusio-sdk-javascript-angular](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend](https://github.com/apioo/fusio-apps-backend) and [developer](https://github.com/apioo/fusio-apps-developer) app.
+* [limitless-angular](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on `Sanity.io` integration.
+* [angular-rsocket](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
+* [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
+
+### Wrappers
+
+* [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
+* [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
+* [ngx-chessground](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground](https://github.com/ornicar/chessground).
+* [ngx-grapesjs](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
+* [gojs-angular](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
+* [ngx-three](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
+* [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
+* [ngx-three-globe](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using `Three.js`.
+* [ngx-socket-io](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
+* [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript).
+* [ngx-fabric-wrapper](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
+* [ngx-tagify](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify](https://github.com/yaireo/tagify/).
+* [ngx-barcode6](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode](https://github.com/lindell/JsBarcode).
+* [ngx-viz](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
+* [zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag](https://github.com/chakra-ui/zag).
+* [seatsio-angular](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
+* [ngx-pendo](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
+* [ngx-katex](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX](https://github.com/KaTeX/KaTeX).
+* [ngx-d3](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service](https://github.com/tomwanzek/d3-ng2-service).
+* [ngx-xyflow](https://github.com/knackstedt/ngx-xyflow) - Angular wrapper of [xyflow](https://github.com/xyflow/xyflow).
+* [ngx-serializer](https://github.com/paddls/ngx-serializer) - Angular wrapper of `@paddls/ts-serializer` library.
+* [ngx-pocketbase](https://github.com/BerniHC/ngx-pocketbase) - PocketBase Angular SDK for interacting with the [PocketBase API](https://pocketbase.io/docs). Based on the [PocketBase JavaScript SDK](https://github.com/pocketbase/js-sdk).
+* [ngx-kel-agent](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent](https://github.com/k0swe/kel-agent).
+* [ngx-surreal](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
+* [ngx-filesize](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
+* [ngx-xapi](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
+* [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
 
 ## Angular-Inspired Solutions
 

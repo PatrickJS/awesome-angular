@@ -56,6 +56,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Documentation Tools](#documentation-tools)
   * [Generators and Scaffolding](#generators-and-scaffolding)
   * [Internationalization](#internationalization)
+  * [Performance](#performance)
   * [SEO](#seo)
 * [Security and Authentication](#security-and-authentication)
   * [Authentication](#authentication)
@@ -680,30 +681,21 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-scaffold](https://github.com/EPAM-JS-Competency-center/angular-scaffold) - Scaffold an Angular project with all tooling you need for production projects.
 * [vscode-angulartools](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
 * [ngx-schematics-utilities](https://github.com/DSI-HUG/ngx-schematics-utilities) - Useful utilities for Angular Schematics.
-* [detective](https://github.com/angular-architects/detective) - Detective leverages forensic code analysis at the architectural level to uncover hidden patterns in your codebase.
-* [esbuild Bundle Size Analyzer](https://esbuild.github.io/analyze/) - Visualize the contents of your esbuild bundle.
-* [hawkeye](https://github.com/angular-experts-io/hawkeye) - A powerful tool designed to help developers visualize and optimize their JavaScript bundles. With our intuitive interface, you can gain deep insights into your project's bundle structure, identifying large modules, dependencies, and assets that may be impacting performance.
-* [ngx-script-optimizer](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
 * [ngx-dev-toolbar](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 * [ngx-rename](https://github.com/Khumozin/ngx-rename) - This repository contains PowerShell and Bash scripts to rename an Angular project folder and update relevant files, such as angular.json, package.json, tsconfig.json, and other configuration files.
 * [manifest](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
 * [zed-angular](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
 * [i18n-studio](https://marketplace.visualstudio.com/items/?itemName=AdrienAudouard.i18n-studio) - Powerful Angular internationalization (i18n) extension for VS Code that displays translations inline, provides autocompletion for i18n keys in TypeScript and HTML files, and offers quick access to translation files. Streamline your multilingual development workflow.
-* [ngx-unused](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
 * [angular-http-server](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
 * [angular file generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator) - Supercharge your Angular development with intuitive and rapid file generation. Create components, services, modules, and more with just a few clicks - compatible with Angular 16-20.
-* [sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
 * [angular schematics pro](https://cyrilletuzi.gumroad.com/l/schematicspro) - Ultimate Angular code generation in Visual Studio Code.
 * [vscode-angular-auto-import](https://github.com/ngx-rock/vscode-angular-auto-import) - Automatically suggests and inserts missing Angular component imports based on selectors used in templates.
 * [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
-* [ng-reactive-lint](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
 * [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
 * [angular-compiler-output](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given Angular template.
 * [lbx-change-sets](https://github.com/Service-Soft/lbx-change-sets) - This package helps you to track changes made on your entities automatically using a base repository class to extend from.
-* [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 * [angular-compile](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
 * [ngs-json-utils](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight utility library for Angular applications that provides easy-to-use functions for working with JSON objects. It includes methods for deep cloning, serialization, and deserialization of JSON data, designed specifically for Angular projects with TypeScript support.
-* [ngememoize](https://github.com/akbarsaputrait/ngememoize) - Easily boost the performance of your Angular applications by memoizing functions and getters with this lightweight and simple-to-use library.
 * [ngx-error-handling](https://github.com/gonzalad/ngx-error-handling) - This library seamlessly manages unhandled RxJS, signal, and classic errors, making them accessible through an Rx subject (ErrorBus).
 * [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - A lightweight, reactive signal hub service for Angular applications built using signals. It offers a hybrid approach, allowing both traditional callback-based subscriptions and efficient signal-based observation of the latest event state.
 * [ngx-offline-indicator](https://github.com/thdang1009/ngx-offline-indicator) - A library designed to provide developers with a simple and customizable way to inform users about their internet connection status within their Angular applications.
@@ -780,6 +772,18 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@transifex/angular](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [@transifex/angular](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
 * [transloco](https://github.com/jsverse/transloco) - The internationalization (i18n) library for Angular.
 * [transloco-keys-manager](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
+
+### Performance
+
+* [detective](https://github.com/angular-architects/detective) - Detective leverages forensic code analysis at the architectural level to uncover hidden patterns in your codebase.
+* [esbuild Bundle Size Analyzer](https://esbuild.github.io/analyze/) - Visualize the contents of your esbuild bundle.
+* [hawkeye](https://github.com/angular-experts-io/hawkeye) - A powerful tool designed to help developers visualize and optimize their JavaScript bundles. With our intuitive interface, you can gain deep insights into your project's bundle structure, identifying large modules, dependencies, and assets that may be impacting performance.
+* [ngx-script-optimizer](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
+* [sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
+* [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
+* [ng-reactive-lint](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
+* [ngx-unused](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
+* [ngememoize](https://github.com/akbarsaputrait/ngememoize) - Easily boost the performance of your Angular applications by memoizing functions and getters with this lightweight and simple-to-use library.
 
 ### SEO
 

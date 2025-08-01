@@ -84,6 +84,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [CSV](#csv)
   * [Data Grids](#data-grids)
   * [Dates](#dates)
+  * [Directives](#directives)
   * [DOM](#dom)
   * [Drag and Drop](#drag-and-drop)
   * [Editor Components](#editor-components)
@@ -104,6 +105,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Mixed Utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
+  * [Pipes](#pipes)
   * [Printing](#printing)
   * [QR Codes](#qr-codes)
   * [Router](#router)
@@ -119,7 +121,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [UX Components](#ux-components)
   * [Viewers](#viewers)
   * [Visual Effects](#visual-effects)
-  * [Misc Components](#misc-components)
 * [Underlying Technologies](#underlying-technologies)
   * [RxJS](#rxjs)
   * [TypeScript](#typescript)
@@ -701,6 +702,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [lbx-change-sets](https://github.com/Service-Soft/lbx-change-sets) - This package helps you to track changes made on your entities automatically using a base repository class to extend from.
 * [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 * [angular-compile](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
+* [ngs-json-utils](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight utility library for Angular applications that provides easy-to-use functions for working with JSON objects. It includes methods for deep cloning, serialization, and deserialization of JSON data, designed specifically for Angular projects with TypeScript support.
+* [ngememoize](https://github.com/akbarsaputrait/ngememoize) - Easily boost the performance of your Angular applications by memoizing functions and getters with this lightweight and simple-to-use library.
+* [ngx-error-handling](https://github.com/gonzalad/ngx-error-handling) - This library seamlessly manages unhandled RxJS, signal, and classic errors, making them accessible through an Rx subject (ErrorBus).
+* [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - A lightweight, reactive signal hub service for Angular applications built using signals. It offers a hybrid approach, allowing both traditional callback-based subscriptions and efficient signal-based observation of the latest event state.
+* [ngx-offline-indicator](https://github.com/thdang1009/ngx-offline-indicator) - A library designed to provide developers with a simple and customizable way to inform users about their internet connection status within their Angular applications.
+* [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
+* [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
+* [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 
 ### Documentation Tools
 
@@ -1223,6 +1232,23 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [date-interceptors](https://github.com/AdaskoTheBeAsT/date-interceptors) - This library provides a robust solution for converting date and duration strings from JSON payloads into native Date objects and Duration objects, respectively.
 * [@asadi/angular-date-components](https://www.npmjs.com/package/@asadi/angular-date-components) - A comprehensive Angular library of date-related components designed to meet the needs of applications that require localization based on various calendar systems.
 
+### Directives
+
+* [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into HTML component template.
+* [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global `trackBy` property directive with strict type checking.
+* [ngx-nullish](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
+* [ngx-nullable](https://github.com/Celtian/ngx-nullable) - This library provides a way to make properties nullable in Angular templates.
+* [ngx-if-platform](https://github.com/Celtian/ngx-if-platform) - Directive for conditional display based on platform.
+* [ngx-cut](https://github.com/Celtian/ngx-cut) - Angular directive for cutting texts with responsive options.
+* [ngx-app-version](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
+* [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
+* [ngx-fixed-footer](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
+* [ngx-responsive-if](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
+* [ngx-copy-to-clipboard](https://github.com/andreasnicolaou/ngx-copy-to-clipboard) - An Angular directive that enables easy text copying to the clipboard with a single click. It supports customizable success/error messages and triggers events on copy actions.
+* [ng-click-outside](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
+* [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
+* [ngx-copypaste](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
+
 ### DOM
 
 * [ngx-resize-observer](https://github.com/fidian/ngx-resize-observer) - Angular 8+ module for detecting when elements are resized.
@@ -1231,41 +1257,19 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-breakpoint-observer](https://github.com/tutkli/ngx-breakpoint-observer) - This library adds reactive breakpoint and media query methods based on Signals.
 * [ngx-fade](https://github.com/omnedia/ngx-fade) - A versatile Angular component that provides a smooth fading and sliding effect for its content as it enters or leaves the viewport. This component uses the Intersection Observer API.
 * [ngx-dynamic-hooks](https://github.com/MTobisch/ngx-dynamic-hooks) - Automatically insert live Angular components into dynamic strings (based on their selector or any pattern of your choice) and render the result in the DOM.
-* [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
-* [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
-* [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
-* [safe-pipe](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 * [ngx-highlightjs](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
 * [ngx-sharebuttons](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
 * [ng-helpers](https://github.com/Jaspero/ng-helpers) - A collection of useful components, directives and pipes for Angular.
 * [ngx-ellipsis](https://github.com/lentschi/ngx-ellipsis) - Multiline text with ellipsis for Angular 9+.
-* [ngx-func-pipe](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
-* [ngx-pipes-toolkit](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
-* [ngx-nullish](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
 * [ngx-interpolation](https://github.com/yassine-klilich/ngx-interpolation) - An Angular lightweight library to interprate string interpolation expressions.
-* [ngx-nullable](https://github.com/Celtian/ngx-nullable) - This library provides a way to make properties nullable in Angular templates.
-* [ngx-if-platform](https://github.com/Celtian/ngx-if-platform) - Directive for conditional display based on platform.
-* [ngx-cut](https://github.com/Celtian/ngx-cut) - Angular directive for cutting texts with responsive options.
-* [ngx-app-version](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
-* [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
-* [ngx-fixed-footer](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
-* [ng-dompurify](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
-* [ngx-speculative-link](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
-* [ngx-signal-pipes](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 * [ng-gd](https://github.com/luisalejandrofigueredo/ng-gd) - An easy way to manage a canvas element with support for mouse or tablet events.
 * [ngx-annotate-text](https://github.com/philenius/ngx-annotate-text) - This Angular component library is perfect for tasks like visualizing named entity recognition, part of speech tagging, or annotating text datasets. It allows for interactively highlighting and annotating parts of text.
-* [ngx-responsive-if](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
-* [ngx-copy-to-clipboard](https://github.com/andreasnicolaou/ngx-copy-to-clipboard) - An Angular directive that enables easy text copying to the clipboard with a single click. It supports customizable success/error messages and triggers events on copy actions.
-* [ng-click-outside](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
-* [ngx-search-pipe](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
-* [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 * [ng-dynamic-component](https://github.com/gund/ng-dynamic-component) - Dynamic components with full life-cycle support for inputs and outputs for Angular.
-* [ngx-pipe-lib](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
 * [pyno-date](https://github.com/amirhsnf/pyno-date) - A lightweight Angular library for converting and formatting Jalali and Gregorian dates.
 * [ngx-fittext](https://github.com/7kasper/ngx-fittext) - An Angular library that allows you fit text in a box or a line.
 * [ngx-optimus](https://github.com/Bilal-Abubakari/ngx-optimus) - An Angular library dedicated to providing a collection of useful custom pipes to transform data in your templates. This library aims to simplify common data formatting tasks and keep your component logic cleaner.
-* [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - An Angular library that provides a simple and effective pipe to convert numbers into their respective word representations. This is particularly useful for applications that need to display numbers in words, such as invoices, reports, or financial applications.
-* [memoize-pipe](https://github.com/ngx-rock/memoize-pipe) - A universal pipe for memoizing computations in Angular templates.
+* [ng-lock](https://www.npmjs.com/package/ng-lock) - Angular decorator to lock a function and user interface while a task is running.
+* [angular-paginator](https://github.com/sibiraj-s/angular-paginator) - Pagination Component for Angular applications.
 
 ### Drag and Drop
 
@@ -1397,6 +1401,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rm-ng-star-rating](https://github.com/malikrajat/rm-ng-star-rating) - A fully customizable and feature-rich Angular standalone component for advanced star ratings with precision and responsive design.
 * [ngx-animated-paginator](https://github.com/eladbh-stanley/ngx-animated-paginator) - Angular wrapper for [animated-paginator-web-component](https://www.npmjs.com/package/animated-paginator-web-component) that plugs seamlessly into template-driven and reactive forms via `ControlValueAccessor`.
 * [ngx-input-color](https://github.com/mr-samani/ngx-input-color) - `ngx-input-color` and `ngx-input-gradient` are powerful, customizable Angular components for color and gradient picking. They support multiple color formats, real-time preview, inline and input modes, and seamless integration with Angular forms.
+* [ngx-morse](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 
 ### JSON Forms
 
@@ -1506,6 +1511,7 @@ to simplify usage and allow quick customization.
 * [static-columns](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
 * [ngx-flex-layout](https://github.com/jtc10005/ngx-flex-layout) - Port of [@angular/flex-layout](https://github.com/angular/flex-layout) to provide support after EOL.
 * [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
+* [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 
 ### Loaders
 
@@ -1637,6 +1643,8 @@ to simplify usage and allow quick customization.
 * [ng-modal-service](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
 * [strictly-typed-mat-dialog](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
 * [ngx-light-modal](https://www.npmjs.com/package/ngx-light-modal) - A lightweight, dependency-free Angular modal package built with standalone components and fully dynamic rendering. It supports modal stacking, backdrop control, custom content components, and complete lifecycle observables — without requiring a host component in your templates.
+* [angular-confirmation-capture](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
+* [angular-anchored-floating-box](https://github.com/lazycuh/angular-anchored-floating-box) - A singleton, global Angular service to programmatically render a floating box anchored at an element that can have arbitrary content specified by either a `TemplateRef` or component.
 
 ### Notifications
 
@@ -1660,6 +1668,19 @@ to simplify usage and allow quick customization.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
 * [toastify](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
 * [web-notifier](https://github.com/andreasnicolaou/web-notifier) - A lightweight and flexible web notification library that provides a simple API for handling browser notifications using RxJS observables.
+
+### Pipes
+
+* [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
+* [safe-pipe](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
+* [ngx-func-pipe](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
+* [ngx-pipes-toolkit](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
+* [ng-dompurify](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
+* [ngx-signal-pipes](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
+* [ngx-search-pipe](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
+* [ngx-pipe-lib](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
+* [memoize-pipe](https://github.com/ngx-rock/memoize-pipe) - A universal pipe for memoizing computations in Angular templates.
+* [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - An Angular library that provides a simple and effective pipe to convert numbers into their respective word representations. This is particularly useful for applications that need to display numbers in words, such as invoices, reports, or financial applications.
 
 ### Printing
 
@@ -1696,6 +1717,7 @@ to simplify usage and allow quick customization.
 * [angular-router-menus](https://github.com/muuvmuuv/angular-router-menus) - Enhance your Angular app's navigation by defining menu entries directly within the route. With full typing and customization based on your requirements, you can create multiple navigations effortlessly. Nested menus allow for dynamic dropdowns, while all menus are generated and injected into various injection tokens for easy access anywhere in your application.
 * [ngx-multi-level-push-menu](https://github.com/ramiz4/ngx-multi-level-push-menu) - A modern, accessible Angular component for responsive multi-level push menus with extensive customization options.
 * [ngx-foresight](https://github.com/akshykhade/ngx-foresight) - An Angular integration of [ForesightJS](https://foresightjs.com/) that offers a router preloading strategy by intelligently preloading lazy-loaded modules based on user intent predictions derived from mouse and keyboard interactions.
+* [ngx-speculative-link](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink](https://github.com/GoogleChromeLabs/quicklink) and `ngx-quicklink`.
 
 ### Scroll
 
@@ -1721,6 +1743,7 @@ to simplify usage and allow quick customization.
 * [ngx-responsive-virtual-scroll](https://github.com/dcbeck/ngx-responsive-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, responsive grid lists, and view caching.
 * [ngx-virtual-scroller-flexible](https://github.com/onexip/ngx-virtual-scroller-flexible) - A ultra-fast and flexible virtual scroller, which can render an unlimited set of items with different heights perfectly.
 * [ngx-perfect-scrollbar-portable](https://github.com/brakmic/ngx-perfect-scrollbar-portable) - Angular wrapper library for Perfect Scrollbar.
+* [ng-virtual-list](https://github.com/djonnyx/ng-virtual-list) - Maximum performance for extremely large lists. It is based on algorithms for virtualization of screen objects.
 
 ### Storage
 
@@ -1911,29 +1934,8 @@ for the creation of web applications developed with Angular.
 * [ngx-gooey](https://github.com/wadie/ngx-gooey) - The gooey effect for Angular, used for shape blobbing / metaballs.
 * [ngx-font-picker](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
-
-### Misc Components
-
-* [ng-lock](https://www.npmjs.com/package/ng-lock) - Angular decorator for lock a function and user interface while a task running.
-* [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
-* [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 * [angular-tag-cloud-module](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
-* [angular-twitter-timeline](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
-* [angular-paginator](https://github.com/sibiraj-s/angular-paginator) - Pagination Component for Angular applications.
-* [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
-* [angular-confirmation-capture](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
-* [angular-anchored-floating-box](https://github.com/lazycuh/angular-anchored-floating-box) - A singleton, global Angular service to programmatically render a floating box anchored at an element that can have arbitrary content specified by either a TemplateRef or component.
-* [ngx-copypaste](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
-* [ngx-morse](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 * [ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
-* [ngs-json-utils](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight utility library for Angular applications that provides easy-to-use functions for working with JSON objects. It includes methods for deep cloning, serialization, and deserialization of JSON data, designed specifically for Angular projects with TypeScript support.
-* [ngememoize](https://github.com/akbarsaputrait/ngememoize) - Easily boost the performance of your Angular applications by memoizing functions and getters with this lightweight and simple-to-use library.
-* [ngx-error-handling](https://github.com/gonzalad/ngx-error-handling) - This library seamlessly manages unhandled RxJS, signal, and classic errors, making them accessible through an Rx subject (ErrorBus).
-* [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - A lightweight, reactive signal hub service for Angular applications built using signals. It offers a hybrid approach, allowing both traditional callback-based subscriptions and efficient signal-based observation of the latest event state.
-* [ngx-offline-indicator](https://github.com/thdang1009/ngx-offline-indicator) - A library designed to provide developers with a simple and customizable way to inform users about their internet connection status within their Angular applications.
-* [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
-* [d3-cloud-angular](https://github.com/maitrungduc1410/d3-cloud-angular) - D3 Cloud component for Angular built upon [d3-cloud](https://github.com/jasondavies/d3-cloud).
-* [ng-virtual-list](https://github.com/djonnyx/ng-virtual-list) - Maximum performance for extremely large lists. It is based on algorithms for virtualization of screen objects.
 
 ## Underlying Technologies
 
@@ -2033,6 +2035,7 @@ for the creation of web applications developed with Angular.
 * [limitless-angular](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on `Sanity.io` integration.
 * [angular-rsocket](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 * [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
+* [angular-twitter-timeline](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
 
 ### Wrappers
 
@@ -2063,6 +2066,7 @@ for the creation of web applications developed with Angular.
 * [ngx-filesize](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
 * [ngx-xapi](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
+* [d3-cloud-angular](https://github.com/maitrungduc1410/d3-cloud-angular) - D3 Cloud component for Angular built upon [d3-cloud](https://github.com/jasondavies/d3-cloud).
 
 ## Angular-Inspired Solutions
 

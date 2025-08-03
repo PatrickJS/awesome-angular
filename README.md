@@ -1045,6 +1045,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngXpress](https://github.com/angularcafe/ngXpress) - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
 * [spartan-stack-starter](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
 * [jet](https://github.com/karmasakshi/jet) - Angular starter-kit for building quality web apps fast.
+* [serene](https://github.com/ClaudioAlcantaraR/serene) - A modern starter-kit for full-stack web development using Spring Boot and Angular. Inspired by Laravel Breeze, it provides a clean, secure, and minimalist foundation.
 
 ### Paid Templates
 

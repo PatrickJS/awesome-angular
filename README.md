@@ -523,6 +523,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### GraphQL
 
 * [apollo-angular](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
+* [apollo-dynamic-angular](https://github.com/giuliano-marinelli/apollo-dynamic-angular) - Apollo Angular with a dynamic twist! It enables the creation of flexible selection sets for queries, mutations, and subscriptions, all driven by a decorated schema.
 * [apollo-orbit](https://github.com/wassim-k/apollo-orbit) - A fully-featured GraphQL client for Angular with modular state management.
 * [buoy](https://github.com/buoy-graphql/buoy) - A GraphQL client for Angular built on top of Apollo.
 * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.

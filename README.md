@@ -2054,13 +2054,16 @@ for the creation of web applications developed with Angular.
 
 ### Wrappers
 
+* [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 * [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
+* [d3-cloud-angular](https://github.com/maitrungduc1410/d3-cloud-angular) - D3 Cloud component for Angular built upon [d3-cloud](https://github.com/jasondavies/d3-cloud).
+* [gojs-angular](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
+* [lyne-angular](https://github.com/sbb-design-systems/lyne-angular) - Angular wrapper for the [Lyne Web Components](https://github.com/sbb-design-systems/lyne-components).
+* [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
 * [ngx-chessground](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground](https://github.com/ornicar/chessground).
 * [ngx-grapesjs](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
-* [gojs-angular](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
 * [ngx-three](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
-* [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
 * [ngx-three-globe](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using `Three.js`.
 * [ngx-socket-io](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 * [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript).
@@ -2068,8 +2071,6 @@ for the creation of web applications developed with Angular.
 * [ngx-tagify](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify](https://github.com/yaireo/tagify/).
 * [ngx-barcode6](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode](https://github.com/lindell/JsBarcode).
 * [ngx-viz](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
-* [zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag](https://github.com/chakra-ui/zag).
-* [seatsio-angular](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 * [ngx-pendo](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
 * [ngx-katex](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX](https://github.com/KaTeX/KaTeX).
 * [ngx-d3](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service](https://github.com/tomwanzek/d3-ng2-service).
@@ -2080,8 +2081,8 @@ for the creation of web applications developed with Angular.
 * [ngx-surreal](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
 * [ngx-filesize](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
 * [ngx-xapi](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
-* [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
-* [d3-cloud-angular](https://github.com/maitrungduc1410/d3-cloud-angular) - D3 Cloud component for Angular built upon [d3-cloud](https://github.com/jasondavies/d3-cloud).
+* [seatsio-angular](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
+* [zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag](https://github.com/chakra-ui/zag).
 
 ## Angular-Inspired Solutions
 

@@ -1926,6 +1926,7 @@ for the creation of web applications developed with Angular.
 ### Viewers
 
 * [file-viewer](https://github.com/ameyb88/file-viewer) - A powerful, universal file previewer library for Angular applications with support for PDF, images, documents, spreadsheets, and more.
+* [json-diff](https://github.com/mufasa-dev/Json-diff) - An Angular-powered tool to quickly compare two JSON objects and highlight their differences!
 * [ng-pdf-renderer](https://github.com/askinjohn/ng-pdf-renderer) - A modern, zero-configuration PDF viewer for Angular applications with intelligent auto-fit, text selection, and responsive design.
 * [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - PDF viewer component.
 * [ng2-pdfjs-viewer](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).

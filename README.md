@@ -2053,6 +2053,7 @@ for the creation of web applications developed with Angular.
 * [angular-rsocket](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 * [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 * [angular-twitter-timeline](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
+* [ngx-signalr-websocket](https://github.com/yurivoronin/ngx-signalr-websocket) - A lightweight ASP.NET SignalR client for Angular.
 
 ### Wrappers
 

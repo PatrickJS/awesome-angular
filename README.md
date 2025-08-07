@@ -1489,6 +1489,7 @@ to simplify usage and allow quick customization.
 * [ngx-blurhash-render](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
 * [ngx-broken-img](https://github.com/andreagrossetti/ngx-broken-img) - Angular directive to fix broken url in img. If image url returns 404, a placeholder is used to fill img's src.
 * [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
+* [ngx-image-compression](https://github.com/ShreyashThorat-17/ngx-image-compression) - A lightweight image compression and conversion library for Angular.
 * [ngx-image-cropper](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
 * [ngx-image-hero](https://github.com/hm21/ngx-image-hero) - A package to implement hero animations, allowing users to click on images and smoothly zoom them into a larger, immersive view, enhancing the user experience and interaction with images.
 * [ngx-img-cropper](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.

@@ -1943,16 +1943,17 @@ for the creation of web applications developed with Angular.
 
 ### Visual Effects
 
-* [ngx-gauge](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
-* [ngx-neon-underline](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
-* [ngx-lamp](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
-* [ngx-globe](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
-* [ngx-parallax-stars](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
-* [ngx-gooey](https://github.com/wadie/ngx-gooey) - The gooey effect for Angular, used for shape blobbing / metaballs.
-* [ngx-font-picker](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
-* [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
 * [angular-tag-cloud-module](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 * [ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
+* [ngx-color-scheme](https://github.com/rbalet/ngx-color-scheme) - Add dark mode to your Angular applications with ease.
+* [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
+* [ngx-font-picker](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
+* [ngx-gauge](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
+* [ngx-globe](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
+* [ngx-gooey](https://github.com/wadie/ngx-gooey) - The gooey effect for Angular, used for shape blobbing / metaballs.
+* [ngx-lamp](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
+* [ngx-neon-underline](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
+* [ngx-parallax-stars](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
 
 ## Underlying Technologies
 

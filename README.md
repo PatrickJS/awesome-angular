@@ -1649,6 +1649,7 @@ to simplify usage and allow quick customization.
 * [ng-util](https://github.com/ng-util/ng-util) - A set of Angular utilities.
 * [reactive-kit](https://github.com/max-scopp/reactive-kit) - A lightweight set of utilities that make reactive Angular apps more enjoyable and less boilerplate-heavy. Works great alongside `ngxtension`.
 * [fireng](https://github.com/BhanukaDev/fireng) - A collection of Angular libraries to simplify responsive development using signals.
+* [xprng](https://github.com/ziv/xprng) - Micro packages of simple and smart components for Angular.
 
 ### Modals
 

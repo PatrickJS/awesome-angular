@@ -1248,6 +1248,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-material-jalali-datepicker-adapter](https://www.npmjs.com/package/angular-material-jalali-datepicker-adapter) - A comprehensive Angular library that provides Jalali (Persian/Solar Hijri/Shamsi) date adapter for Angular Material datepicker component.
 * [date-interceptors](https://github.com/AdaskoTheBeAsT/date-interceptors) - This library provides a robust solution for converting date and duration strings from JSON payloads into native Date objects and Duration objects, respectively.
 * [@asadi/angular-date-components](https://www.npmjs.com/package/@asadi/angular-date-components) - A comprehensive Angular library of date-related components designed to meet the needs of applications that require localization based on various calendar systems.
+* [ngx-vertical-timeline](https://github.com/callyafiune/ngx-vertical-timeline) - An Angular component for creating a responsive vertical timeline.
 
 ### Directives
 

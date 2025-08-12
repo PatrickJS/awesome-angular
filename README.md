@@ -854,6 +854,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Module which integrates isomorphic permissions management library [CASL](https://github.com/stalniy/casl) with Angular.
 * [nblocks](https://www.nblocks.dev/) - A control center for seamless management of Authentication, Payments, Subscriptions, Feature, and Role management.
+* [ngx-can-i](https://github.com/kopy011/ngx-can-i) - A package for Angular developers to help them deal with permissions.
 * [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
 * [ngx-role-accessor](https://github.com/IroshanRathnayake/ngx-role-accessor) - Enterprise-grade Angular Role-Based Access Control (RBAC) Library.
 * [ngx-smart-permissions](https://github.com/rami-sheikha-dev/ngx-smart-permissions) - A lightweight library for managing role-based and permission-based access control in Angular applications. Supports both standalone components and NgModules.

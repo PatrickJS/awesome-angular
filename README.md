@@ -1490,6 +1490,7 @@ to simplify usage and allow quick customization.
 ### Images
 
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
+* [ng-cropper](https://github.com/DanielGabbay/ng-cropper) - An Angular image cropper library built on the powerful `CropperJS` web components. Features a fully customizable interface with an optional built-in toolbar for seamless image cropping experiences.
 * [ngx-advanced-img](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
 * [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
 * [ngx-avatars](https://github.com/Heatmanofurioso/ngx-avatars) - Spiritual successor to [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar).

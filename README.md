@@ -1382,7 +1382,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxAccessor](https://github.com/Zarlex/ngxAccessor) - This library introduces an innovative method for interacting with Angular forms and signals. While Angular 19 supports Template Driven Forms and Reactive Forms, this library offers a third approach, seamlessly integrating signals while remaining adaptable to other state management solutions.
 * [angular-template-signal-forms](https://github.com/chocosd/angular-template-signal-forms) - A modern Angular form library built from the ground up with Signals — flexible, type-safe, and fully themeable.
 * [ngx-formidable](https://github.com/Cynthion/ngx-formidable) - A powerful Angular component library for building rich, validated forms.
-* [piying-view](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed; Alternatives to ngx-formly; Alternative to Angular's Official Form
+* [piying-view](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed; Alternatives to ngx-formly; Alternative to Angular's Official Form.
 
 ### Form Controls
 

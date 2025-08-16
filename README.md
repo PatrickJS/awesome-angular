@@ -710,6 +710,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
 * [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 * [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
+* [ng-lens](https://github.com/MerrittMelker/ng-lens) - This Node.js utility uses `ts-morph` to statically analyze Angular TypeScript components and identify service usage patterns from any specified API library.
 
 ### Documentation Tools
 

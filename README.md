@@ -160,7 +160,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dotenv-run](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
 * [ng-packagr](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 * [angular-env-builder](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
-* [angular-rspack](https://github.com/nrwl/nx/tree/master/packages/angular-rspack) - [Rspack](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
+* [angular-rspack](https://github.com/nrwl/nx/tree/HEAD/packages/angular-rspack) - [Rspack](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
 * [ngx-devkit-builders](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
 * [angular-static-assets-hash](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
 * [ngx-schematic-builder](https://github.com/kstepien3/ngx-schematic-builder) - A tool for building Angular schematic projects. Compiles and packages your custom schematics, preparing them for publishing and use.

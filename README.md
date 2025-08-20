@@ -1665,6 +1665,7 @@ to simplify usage and allow quick customization.
 * [reactive-kit](https://github.com/max-scopp/reactive-kit) - A lightweight set of utilities that make reactive Angular apps more enjoyable and less boilerplate-heavy. Works great alongside `ngxtension`.
 * [fireng](https://github.com/BhanukaDev/fireng) - A collection of Angular libraries to simplify responsive development using signals.
 * [xprng](https://github.com/ziv/xprng) - Micro packages of simple and smart components for Angular.
+* [ngx-primeng-toolkit](https://github.com/saiful-70/ngx-primeng-toolkit) - A comprehensive TypeScript utility library for Angular component state management, including PrimeNG table helpers, `ng-select` integration, data storage, and HTTP caching utilities with NgRx signals.
 
 ### Modals
 

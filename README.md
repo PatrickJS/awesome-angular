@@ -935,6 +935,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-statewise](https://github.com/Pierre-MarieMarchio/ngx-statewise) - A state management solution for Angular applications, offering a lighter and easier-to-use alternative to libraries like NgRx or NGXS, while maintaining a clear and predictable architecture for managing your application's state.
 * [fsm-state-manager](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
 * [signaltree](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications.
+* [ngx-simple-signal-store](https://github.com/adamcsk1/ngx-simple-signal-store) - A simple way to create signal stores with a read-only interface.
 
 ## Testing
 

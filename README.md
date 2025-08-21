@@ -1388,6 +1388,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-template-signal-forms](https://github.com/chocosd/angular-template-signal-forms) - A modern Angular form library built from the ground up with Signals — flexible, type-safe, and fully themeable.
 * [ngx-formidable](https://github.com/Cynthion/ngx-formidable) - A powerful Angular component library for building rich, validated forms.
 * [piying-view](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed; Alternatives to ngx-formly; Alternative to Angular's Official Form.
+* [ngx-form-m3](https://github.com/webilix/ngx-form-m3) - Persian form library for Angular and Material 3.
 
 ### Form Controls
 

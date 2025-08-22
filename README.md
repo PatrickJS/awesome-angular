@@ -742,6 +742,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Internationalization
 
 * [angular-ecmascript-intl](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
+* [angular-i18next](https://github.com/Romanchuk/angular-i18next) - Best [i18next](http://i18next.com/) integration with Angular.
 * [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer](https://github.com/aymericzip/intlayer) package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
 * [angular-l10n](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
 * [angular-translation-checker](https://github.com/ricardoferreirades/angular-translation-checker) - A comprehensive tool for analyzing translation keys in Angular projects using `ngx-translate`. Detect unused translations, missing keys, and keep your i18n files clean.

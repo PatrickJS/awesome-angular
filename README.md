@@ -1600,13 +1600,14 @@ to simplify usage and allow quick customization.
 
 ### Markdown
 
-* [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
-* [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
 * [angular-markdown-editor](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
-* [ngx-md](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
-* [ngx-textile](https://github.com/vincent/ngx-textile) - Use the Textile markup language in your Angular project using [textile-js](https://github.com/borgar/textile-js).
+* [markular](https://github.com/larswaechter/markular) - A lightweight Markdown editor for Angular.
 * [mdbook-angular](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns Angular code samples into running Angular applications.
+* [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
+* [ngx-md](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 * [ngx-mdx](https://github.com/SalathielGenese/ngx-mdx) - Take Angular lifecycle to Markdown for a seamless experience.
+* [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
+* [ngx-textile](https://github.com/vincent/ngx-textile) - Use the Textile markup language in your Angular project using [textile-js](https://github.com/borgar/textile-js).
 
 ### Media
 

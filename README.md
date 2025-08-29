@@ -903,6 +903,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngrx-manager](https://github.com/smoosee/ngrx-manager) - Plug-N-Play State Manager for NgRx stores.
 * [ngrx-set](https://github.com/parloti/ngrx-set) - This simplifies the creation of actions for asynchronous requests that can succeed, fail, or be aborted.
 * [easy-ngrx-distinct-selector](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
+* [ngrx-store-wrapper](https://github.com/himanshuarora111/ngrx-store-wrapper) - A lightweight Angular library that lets you manage NgRx store state without writing actions, reducers, or effects manually, with built-in support for syncing to session and local storage.
 
 ### NGXS
 

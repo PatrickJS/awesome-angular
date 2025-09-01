@@ -260,11 +260,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Newsletters
 
 * [angular addicts](https://www.angularaddicts.com/)
-* [weekly angular](https://prodigious-knitter-4508.ck.page/subscribe)
+* [angular digest](https://geromegrignon.substack.com/)
 * [angular weekly](https://angularweekly.substack.com/)
-* [practical-angular-newsletter](https://angularmentor.io/practical-angular-newsletter)
 * [danywalls](https://www.danywalls.com/newsletter)
+* [practical-angular-newsletter](https://angularmentor.io/practical-angular-newsletter)
 * [ultimate courses](https://ultimatecourses.com/newsletter)
+* [weekly angular](https://prodigious-knitter-4508.kit.com/subscribe)
 
 ### Podcasts
 

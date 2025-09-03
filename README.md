@@ -1323,6 +1323,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-mixed-cdk-drag-drop](https://github.com/rosejoe47/angular-mixed-cdk-drag-drop) - Angular Directive to support mixed orientation drag drop using Angular CDK.
 * [cdk-drag-snap-to-point](https://github.com/shhdharmen/cdk-drag-snap-to-point) - A demo to showcase cdkDrag features to achieve drop only on certain points.
 * [@MasterATM/ngx-dropzone](https://github.com/MasterATM/ngx-dropzone) - A lightweight and highly customizable Angular dropzone component for file uploads. Based on [@peterfreeman/ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) repository.
+* [ngx-puzzle](https://github.com/zhongmiao-org/ngx-puzzle) - Drag-and-drop dashboard builder for Angular applications.
 
 ### Editor Components
 

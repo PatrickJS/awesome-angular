@@ -1069,6 +1069,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [jet](https://github.com/karmasakshi/jet) - Angular starter-kit for building quality web apps fast.
 * [serene](https://github.com/ClaudioAlcantaraR/serene) - A modern starter-kit for full-stack web development using Spring Boot and Angular. Inspired by Laravel Breeze, it provides a clean, secure, and minimalist foundation.
 * [free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source Angular + Tailwind CSS admin dashboard with essential UI components and pre-built pages for a sleek, modern interface.
+* [hanko-angular-express-starter](https://github.com/teamhanko/hanko-angular-express-starter) - This repo demonstrates how to integrate Hanko with an Angular application for authentication and user management.
 
 ### Paid Templates
 

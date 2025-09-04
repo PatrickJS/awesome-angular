@@ -391,6 +391,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Code With Omkar](https://www.codewithomkar.com/)
 * [Angular Tips](https://ngtips.com/) - Best practices and recommendations for building complex, large and maintainable applications with Angular.
 * [Practical Angular Guide](https://practical-angular.donaldmurillo.com/) - Real-world-ish solutions for Angular developers By [Donald Murillo](https://github.com/DonaldMurillo).
+* [Bálint Neuhausz](https://bneuhausz.dev/blog)
 
 ### Books
 

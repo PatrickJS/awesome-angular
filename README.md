@@ -1888,7 +1888,7 @@ to simplify usage and allow quick customization.
 * [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) - Material Design
 for Bootstrap 5 & Angular 17.
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular widgets built from the ground up using only Bootstrap 5 CSS with APIs designed for the Angular ecosystem.
-* [ng-bootstrap-addons](https://github.com/mikaelbotassi/ng-bootstrap-addons) - Project to add components that are not available in `ng-bootstrap`, such as input fields.
+* [ng-bootstrap-addons](https://github.com/mikaelbotassi/ng-bootstrap-addons) - Adds UI components not available in `ng-bootstrap` (e.g., input/form controls).
 * [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine).
 * [design-angular-kit](https://github.com/italia/design-angular-kit) - A toolkit based on Bootstrap Italia
 for the creation of web applications developed with Angular.

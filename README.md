@@ -1882,6 +1882,7 @@ to simplify usage and allow quick customization.
 * [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 * [ship-ui](https://github.com/shipuicom/core) - A modern, signal-based, zoneless-compatible UI library for Angular. Explore its features and documentation on their [official website](https://www.shipui.com).
 * [slateui](https://github.com/angularcafe/slateui) - A modern, accessible UI component library that provides directive-based components built with Angular primitives, Tailwind CSS, and signals.
+* [@nexcraft/forge](https://github.com/dev-ignis/forge) - A future-proof UI component library built on web standards that will outlive framework trends.
 
 ### UI Libraries built on Bootstrap
 

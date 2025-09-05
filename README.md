@@ -1923,6 +1923,7 @@ for the creation of web applications developed with Angular.
 * [FlyonUI](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 * [koala-ui](https://github.com/igordrangel/koala-ui) - A modern and accessible component library designed to speed up interface development.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
+* [ngx-tw](https://github.com/bugMaker-237/ngx-tw) - A comprehensive component library built with Tailwind CSS, providing a modern and customizable set of UI components for Angular applications.
 * [nicacoder-ng](https://ng.nicacoder.com/) - A centralized library of customizable Angular components designed to speed up development and maintain consistency across internal projects.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * [Rectangle UI](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.

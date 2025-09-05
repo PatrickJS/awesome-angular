@@ -1249,6 +1249,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-flamegraph](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
 * [ng-virtual-grid](https://github.com/DjonnyX/ng-virtual-grid) - Maximum performance for extremely large grids.
 * [ngx-simple-datatables](https://github.com/rinturaj/ngx-simple-datatables) - A lightweight, high-performance Angular data table component with features like virtual scrolling, column freezing, and customizable templates.
+* [ngx-list-manager](https://github.com/RzoDev/ngx-list-manager) - An Angular service tool to manage lists efficiently.
 
 ### Dates
 

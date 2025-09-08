@@ -1994,6 +1994,7 @@ for the creation of web applications developed with Angular.
 
 * [angular-tag-cloud-module](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 * [ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
+* [ngx-analog-clock](https://github.com/DerStimmler/ngx-analog-clock) - Customizable analog clock for your Angular app.
 * [ngx-color-scheme](https://github.com/rbalet/ngx-color-scheme) - Add dark mode to your Angular applications with ease.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
 * [ngx-font-picker](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.

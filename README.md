@@ -1803,6 +1803,7 @@ to simplify usage and allow quick customization.
 * [ngx-perfect-scrollbar-portable](https://github.com/brakmic/ngx-perfect-scrollbar-portable) - Angular wrapper library for Perfect Scrollbar.
 * [ng-virtual-list](https://github.com/djonnyx/ng-virtual-list) - Maximum performance for extremely large lists. It is based on algorithms for virtualization of screen objects.
 * [ngx-horizontal-menu-scroll](https://github.com/isahohieku/ngx-horizontal-menu-scroll) - A lightweight, customizable Angular library for creating beautiful horizontal scrolling menus with smooth navigation controls.
+* [usal](https://github.com/italoalmeida0/usal) - Framework agnostic ultimate scroll animation library.
 
 ### Storage
 

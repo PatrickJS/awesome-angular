@@ -1,5 +1,6 @@
 {
   "name": "awesome-angular",
+  "private": true,
   "version": "0.0.0",
   "description": "A curated list of Awesome Angular resources",
   "main": "README.md",
@@ -8,14 +9,12 @@
   },
   "keywords": [
     "angular",
-    "angular 2",
     "awesome",
-    "awesome list",
-    "awesome angular 2"
+    "awesome-list"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/PatrickJS/awesome-angular.git"
+    "url": "git+https://github.com/PatrickJS/awesome-angular.git"
   },
   "author": "PatrickJS",
   "license": "CC0",

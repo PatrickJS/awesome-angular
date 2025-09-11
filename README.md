@@ -167,7 +167,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### CLI Tools
 
-* [Official web page](https://angular.dev/tools/cli)
+* [Official website](https://angular.dev/tools/cli)
 * [Official GitHub repository](https://github.com/angular/angular-cli)
 * [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
@@ -223,7 +223,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Updating Angular
 
-* [Official web page](https://angular.dev/update-guide) - Interactive guide to help you migrate from one version of Angular to another.  
+* [Official website](https://angular.dev/update-guide) - Interactive guide to help you migrate from one version of Angular to another.  
 * [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 * [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
 * [ng-morph](https://github.com/taiga-family/ng-morph) - Code mutations in your project or schematics were never easier than now.
@@ -596,7 +596,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Server-Side Rendering
 
-* [Official web page](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.
+* [Official website](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.
 * [angular-prerender](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 * [ngx-ssr-code-remover](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
@@ -788,7 +788,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-translate-version](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
 * [signal-translate](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
 * [tldraw-web-component](https://github.com/neosh11/tldraw-web-component) - Make [tldraw](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
-* [transifex](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [transifex](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
+* [Transifex](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [Transifex library extension](https://www.npmjs.com/package/@transifex/angular). This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
 * [transloco](https://github.com/jsverse/transloco) - The internationalization (i18n) library for Angular.
 * [transloco-keys-manager](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 * [ngx-translate-phraseapp](https://github.com/phrase/ngx-translate-phraseapp) - The official library for integrating [Phrase Strings In-Context Editor](https://support.phrase.com/hc/articles/5784095916188-In-Context-Editor-Strings) with `ngx-translate` in your Angular application.
@@ -1406,7 +1406,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxAccessor](https://github.com/Zarlex/ngxAccessor) - This library introduces an innovative method for interacting with Angular forms and signals. While Angular 19 supports Template Driven Forms and Reactive Forms, this library offers a third approach, seamlessly integrating signals while remaining adaptable to other state management solutions.
 * [angular-template-signal-forms](https://github.com/chocosd/angular-template-signal-forms) - A modern Angular form library built from the ground up with Signals — flexible, type-safe, and fully themeable.
 * [ngx-formidable](https://github.com/Cynthion/ngx-formidable) - A powerful Angular component library for building rich, validated forms.
-* [piying-view](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed; Alternatives to ngx-formly; Alternative to Angular's Official Form.
+* [piying-view](https://github.com/piying-org/piying-view) - A strongly typed frontend form solution; an alternative to `ngx-formly` and Angular's official form framework.
 * [ngx-form-m3](https://github.com/webilix/ngx-form-m3) - Persian form library for Angular and Material 3.
 
 ### Form Controls
@@ -1507,7 +1507,7 @@ to simplify usage and allow quick customization.
 * [ngx-x-browser-svg-mask](https://github.com/bmartinson/ngx-x-browser-svg-mask) - Directive to easily achieve cross browser compliance while creating SVG masks.
 * [Semantic Icons](https://github.com/khalilou88/semantic-icons) - A collection of free and open source icons ready for use in your Angular projects using the component attribute selector and the SVG tag.
 * [coolshapes](https://github.com/ngxpert/coolshapes) -  An Angular library aiming at allowing developers to use cool-looking abstract shapes with little grainy gradients from [coolshapes](https://coolshap.es/).
-* [lucide](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
+* [lucide](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an [official package](https://lucide.dev/guide/packages/lucide-angular).
 * [@ngverse/icons](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 * [angular-phosphor-icons](https://github.com/aromero86/angular-phosphor-icons) - Set of components designed for utilizing [Phosphor Icons](https://phosphoricons.com/) in Angular via directives.
 * [ic-on](https://www.npmjs.com/package/@ic-on/main) - The future of iconing.
@@ -1648,7 +1648,7 @@ to simplify usage and allow quick customization.
 * [daffodil](https://github.com/graycoreio/daffodil) - Angular Ecommerce PWA Framework.
 * [ngworker](https://github.com/ngworker/ngworker) - Monorepo for the @ngworker NPM organization. Packages for Angular applications and testing.
 * [jscutlery devkit](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
-* [Official Angular Components repo](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
+* [Official Angular Components repository](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 * [lithium-angular](https://github.com/lVlyke/lithium-angular) - Reactive components made easy! Lithium provides utilities that enable seamless reactive state and event interactions for Angular components.
 * [rxweb](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
 * [ngspot](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
@@ -1696,7 +1696,7 @@ to simplify usage and allow quick customization.
 * [dialog](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 * [ngx-modal-ease](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
 * [up-window-angular](https://github.com/criar-art/up-window-angular) - An Angular library designed to create dynamic, customizable modals and window-based components for web applications.
-* [ngx-whats-new](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal Windows.
+* [ngx-whats-new](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal dialogs.
 * [ngx-dialog](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
 * [ng-modal-service](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
 * [strictly-typed-mat-dialog](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
@@ -2041,7 +2041,7 @@ for the creation of web applications developed with Angular.
 
 ### TypeScript
 
-* [Official Website](https://www.typescriptlang.org/)
+* [Official website](https://www.typescriptlang.org/)
 * [Official TypeScript REPL](https://www.typescriptlang.org/play/)
 * [Official GitHub repository](https://github.com/Microsoft/TypeScript)
 * [DefinitelyTyped GitHub repository](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -2175,5 +2175,5 @@ for the creation of web applications developed with Angular.
 
 * [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
 * [awesome-angular](https://github.com/DaanDeSmedt/awesome-angular)
-* [Angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
+* [Angular Enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 * [framework.dev](https://angular.framework.dev/) - Search, compare, and discover top Angular libraries and community-driven resources in Angular.

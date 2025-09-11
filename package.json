@@ -1,8 +1,7 @@
 {
   "name": "awesome-angular",
-  "private": true,
   "version": "0.0.0",
-  "description": "A curated list of Awesome Angular resources",
+  "description": ":page_facing_up: A curated list of awesome Angular resources",
   "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,9 +16,9 @@
     "url": "git+https://github.com/PatrickJS/awesome-angular.git"
   },
   "author": "PatrickJS",
-  "license": "CC0",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/PatrickJS/awesome-angular/issues"
   },
-  "homepage": "https://github.com/PatrickJS/awesome-angular#contents"
+  "homepage": "https://github.com/PatrickJS/awesome-angular#readme"
 }

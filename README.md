@@ -1573,6 +1573,7 @@ to simplify usage and allow quick customization.
 * [dotglitch-ngx](https://github.com/knackstedt/dotglitch-ngx/tree/main/packages/common/src/components/lazy-loader) - Highly customizable lazy loader for Angular components.
 * [groupix-spinner-library](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
 * [ng-loading-skeleton](https://github.com/arbrim/ng-loading-skeleton) - A lightweight and customizable Angular loading skeleton component.
+* [ng-overlay-skeleton-loader](https://github.com/ebrahim-salehipanah/ng-overlay-skeleton-loader) - A lightweight Angular directive to add customizable skeleton loading states to your components.
 * [ngx-fastboot](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
 * [ngx-loader-indicator](https://github.com/jsdaddy/ngx-loader-indicator) - Awesome loader for Angular applications. No wrappers only your elements.
 * [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar) - Automatic page loading / progress bar for Angular.

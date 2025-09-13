@@ -1017,7 +1017,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@storybookjs/testing-angular](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
 * [ngx-testbox](https://github.com/kirill-kolomin/ngx-testbox) - A comprehensive testing utility library for Angular applications that simplifies test writing and improves test reliability. You will find this library useful for unit, integration, and e2e testing.
 * [ng-automocks](https://github.com/MillerSvt/ng-automocks) - It simplifies Angular testing by automatically generating mock components, directives, pipes, modules, and services using Jest's module mocking, eliminating the need for manual stubbing or complex workarounds.
-* [jest-angular-test-verifier](https://github.com/Neizan93/jest-angular-test-verifier) - A custom Jest reporter for Angular projects that verifies components, services, directives, and other file types have matching test files.
+* [jest-angular-test-verifier](https://github.com/Neizan93/jest-angular-test-verifier) - Jest reporter that verifies Angular components, services, directives, and other file types have matching test files.
 
 ## Site Templates
 

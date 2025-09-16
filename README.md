@@ -746,6 +746,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [jangular-cli](https://github.com/nathangtg/jangular-cli) - Comprehensive Full-Stack Starter Kit: Powered by Spring Boot and Angular, featuring JWT-based authentication, seamless Flyway migrations, robust route protection, and a command-line interface for quick project initialization.
 * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular.
 * [ng-openapi](https://github.com/ng-openapi/ng-openapi) - Angular OpenAPI Client Generator.
+* [tmf](https://github.com/tripsnek/tmf) - A lightweight TypeScript port of Eclipse Modeling Framework (EMF), this tool enables model-driven development with type-safe, reflective data models that integrate effortlessly across Node.js, Java, and Angular/React frontends.
 
 ### Internationalization
 

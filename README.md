@@ -1489,6 +1489,7 @@ to simplify usage and allow quick customization.
 * [ng-reactive-form-validate](https://github.com/vbnr/ng-reactive-form-validate) - This library streamlines form control validation, displaying error messages based on rules, supporting customizable messages via static strings or observables, integrating with Transloco for translations, and applying default styles for smooth validation label transitions.
 * [angular-password-checker](https://github.com/akehir/angular-password-checker) - Protect your users from re-using a password known to be hacked with this simple Angular directive.
 * [translation-validation](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language.
+* [polish-validators](https://github.com/joker876/polish-validators) - A validation library designed for Polish-specific formats, also available as an Angular wrapper via [ngx-polish-validators](https://www.npmjs.com/package/ngx-polish-validators).
 
 ### Icons
 

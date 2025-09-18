@@ -1295,6 +1295,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-click-outside](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
 * [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 * [ngx-copypaste](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
+* [ngxture](https://github.com/gianpierreVelasquez/ngxture) - A lightweight and modular Angular library that provides ready-to-use animations and gesture directives.
 
 ### DOM
 

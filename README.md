@@ -1226,9 +1226,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### CSV
 
-* [ngx-export-as](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+* [impler](https://github.com/implerhq/impler.io) - Using [Angular package](https://www.npmjs.com/package/@impler/angular) you can embed CSV Excel Importer into your application with just few lines of code.
 * [ng2csv](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
 * [ngx-csv-parser](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
+* [ngx-export-as](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 * [rm-ng-export-to-csv](https://github.com/malikrajat/rm-ng-export-to-csv) - A lightweight and customizable Angular library to export JSON data to CSV files with auto-download support. Ideal for charts, tables, reports, and dashboards.
 
 ### Data Grids

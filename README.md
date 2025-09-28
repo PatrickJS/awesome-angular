@@ -194,6 +194,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-crafter](https://github.com/ErwanHeschung/ngx-crafter) - A powerful CLI tool that helps you craft Angular projects with pre-configured folder structures and essential packages.
 * [angular-v20-bulk-file-refactor](https://github.com/esteecodes/angular-v20-bulk-file-refactor) - A CLI tool to automate file renaming and content refactoring to match Angular 20 conventions.
 * [ng new command generator](https://ng.gridatek.com/) - Generate optimized `ng new` commands.
+* [tailwind-init-cli](https://github.com/ImLeoNova/tailwind-init-cli) - A one-command setup tool for Tailwind CSS in Angular, React, or Next.js projects!
 
 ### Deployment
 

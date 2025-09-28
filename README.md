@@ -58,6 +58,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Internationalization](#internationalization)
   * [Performance](#performance)
   * [SEO](#seo)
+  * [Styling](#styling)
 * [Security and Authentication](#security-and-authentication)
   * [Authentication](#authentication)
   * [Payments](#payments)
@@ -818,6 +819,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular React SEO](https://github.com/ganatan/angular-react-seo) - Angular & React Examples SEO (Search engine optimization).
 * [unhead](https://www.npmjs.com/package/@unhead/angular) - Full-stack `<head>` management for Angular applications.
 * [seo-manager-pro](https://github.com/mbsh-code/seo-manager-pro) - A powerful SEO Manager for Angular, React, Vue, and Vanilla JS projects. Easily set meta tags, Open Graph tags, Schema.org structured data, canonical URLs, robots meta, and more!
+
+### Styling
+
+* [ngx-classed](https://github.com/lukonik/ngx-classed) - A library allows you to dynamically add or remove classes based on state.
+* [panda](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
 
 ## Security and Authentication
 

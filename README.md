@@ -234,6 +234,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-update-app](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 * [Angular Caniuse](https://www.dolmen.tools/en/angular/caniuse/explorer) - Track Angular features from preview to stable stages.
 * [ngx-boomer](https://github.com/angular-sanctuary/ngx-boomer) - This project is a straightforward utility designed to enforce rules that preserve Angular's previous naming conventions in Angular 20.
+* [angular-updater](https://github.com/stardyn/angular-updater) - A flexible and lightweight solution for managing version control and update alerts in Angular apps, featuring seamless integration with service workers.
 
 ## Angular Pulse
 

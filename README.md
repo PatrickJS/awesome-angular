@@ -1984,6 +1984,7 @@ for the creation of web applications developed with Angular.
 * [ionic-header-parallax](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
 * [ionic-state](https://github.com/godenji/ionic-state) - Provides utilities for working with state in Ionic applications.
 * [simplici-auth-angular-ionic](https://www.npmjs.com/package/simplici-auth-angular-ionic) - A powerful Angular library designed to seamlessly integrate social authentication into your Ionic/Angular applications. It supports a wide range of providers including Google, Microsoft, Facebook, and Apple, with optimized compatibility for both web and native mobile platforms (iOS/Android) using Capacitor or Cordova.
+* [ionx-search-select](https://github.com/kisimediaDE/ionx-search-select) - A modern search & select component for Angular and Ionic. Built with standalone components, Angular signals, and full `ControlValueAccessor` support.
 
 ### UI Primitives
 

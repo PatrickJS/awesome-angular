@@ -1965,6 +1965,7 @@ for the creation of web applications developed with Angular.
 * [Rectangle UI](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
 * [seacotools](https://github.com/Seacotec/seacotools) - A library designed for modern Angular applications, offering a suite of reusable UI components and services compatible with Tailwind CSS.
 * [simui](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
+* [synerity-ui](https://github.com/synerity-ai/synerity-ui) - A comprehensive, enterprise-grade Angular 20+ component library offering 90+ accessible, performant components styled with Tailwind CSS for modern web applications.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
 * [tailwind-ng](https://github.com/william-mba/tailwind-ng) - An open source UI components library that aims to provide a seamless and robust integration of Tailwind CSS components with Angular to make building a great UI easier and joyful at any scale.
 * [zapui](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).

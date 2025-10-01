@@ -829,6 +829,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [element-identifier](https://github.com/jooherrera/element-identifier) - Create reliable, distinct CSS selectors to target DOM elements, and utilize a web component for visual inspection and selection.
 * [ngx-angora-css](https://github.com/LynxPardelle/ngx-angora-css) - A JavaScript-based CSS framework that dynamically generates styles on page load.
 * [ngx-classed](https://github.com/lukonik/ngx-classed) - A library allows you to dynamically add or remove classes based on state.
+* [ngx-css](https://github.com/squidit/ngx-css) - An Angular abstraction for [Squid CSS](https://github.com/squidit/css).
 * [panda](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
 
 ## Security and Authentication

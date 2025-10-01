@@ -210,7 +210,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Zerops](https://zerops.io/) - Zerops makes deploying and running Analog apps, both [server side rendered](https://github.com/zeropsio/recipe-analog-nodejs) and [static](https://github.com/zeropsio/recipe-analog-static), a breeze.
 * [actions-angular-deploy](https://github.com/OrthoFi/actions-angular-deploy)
 * [actions-angular-ci-cd](https://github.com/OrthoFi/actions-angular-ci-cd)
-* [sst](https://sst.dev/) - A framework that makes it easy to build and automate modern full-stack applications.
+* [SST](https://sst.dev/) - A framework that makes it easy to build and automate modern full-stack applications.
 
 ### Desktop Applications
 

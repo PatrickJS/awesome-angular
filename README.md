@@ -2180,7 +2180,8 @@ for the creation of web applications developed with Angular.
 * [ngx-xapi](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
 * [ngx-xyflow](https://github.com/knackstedt/ngx-xyflow) - Angular wrapper of [xyflow](https://github.com/xyflow/xyflow).
 * [seatsio-angular](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
-* [zag-angular](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag](https://github.com/chakra-ui/zag).
+* [zag-angular](https://github.com/makuko/zag-angular) - Angular wrapper for [zag](https://github.com/chakra-ui/zag).
+* [ngx-neoline](https://github.com/smartargs/ngx-neoline) - Angular wrapper for [NeoLine](https://tutorial.neoline.io/) N3 dAPI: detects provider, waits for READY, and exposes typed read/write/event methods.
 
 ## Angular-Inspired Solutions
 

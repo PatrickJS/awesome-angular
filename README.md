@@ -1299,6 +1299,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@asadi/angular-date-components](https://www.npmjs.com/package/@asadi/angular-date-components) - A comprehensive Angular library of date-related components designed to meet the needs of applications that require localization based on various calendar systems.
 * [ngx-vertical-timeline](https://github.com/callyafiune/ngx-vertical-timeline) - An Angular component for creating a responsive vertical timeline.
 * [ngx-timeago](https://github.com/ihym/ngx-timeago) - Dynamic timestamp rendering in Angular.
+* [ngx-chronica](https://github.com/klajdm/ngx-chronica) - A comprehensive Angular library providing six specialized date and time picker components that fill critical gaps in the Angular ecosystem.
 
 ### Directives
 

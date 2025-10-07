@@ -1441,6 +1441,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [piying-view](https://github.com/piying-org/piying-view) - A strongly typed frontend form solution; an alternative to `ngx-formly` and Angular's official form framework.
 * [ngx-form-m3](https://github.com/webilix/ngx-form-m3) - Persian form library for Angular and Material 3.
 * [lite-form](https://github.com/liangk/lite-form) - A comprehensive Angular library that provides lightweight, customizable form components with built-in validation, styling, and animations.
+* [cc-form-engine](https://github.com/ChristianCruzArango/cc-form-engine) - Advanced Angular library for reactive form generation and management with dynamic validation, change tracking, and customizable error messages.
 
 ### Form Controls
 

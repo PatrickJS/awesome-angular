@@ -165,6 +165,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-devkit-builders](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
 * [angular-static-assets-hash](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
 * [ngx-schematic-builder](https://github.com/kstepien3/ngx-schematic-builder) - A tool for building Angular schematic projects. Compiles and packages your custom schematics, preparing them for publishing and use.
+* [ng-builder-typescript](https://github.com/da-mkay/ng-builder-typescript) - A builder for the Angular CLI to build Node.js apps using the TypeScript compiler `tsc` (no Webpack or any other bundler used).
 
 ### CLI Tools
 

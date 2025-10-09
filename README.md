@@ -1178,6 +1178,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-recaptcha-2](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
 * [ngx-captcha](https://github.com/Enngage/ngx-captcha) - reCaptcha components for Angular.
 * [ngx-captcha-kit](https://github.com/edward124689/ngx-captcha-kit) - This kit simplifies CAPTCHA implementation with a single component and service, ensuring compatibility with Angular 20+ features like Signals and zoneless change detection.
+* [ngx-dice-captcha](https://github.com/Easy-Cloud-in/ngx-dice-captcha) - A dynamic 3D CAPTCHA library featuring dice-based interaction and lifelike physics powered by Three.js and Cannon-es.
 * [ngx-easy-captcha](https://github.com/angx-libs/ngx-easy-captcha) - Easy captcha implementation for both Google Recaptcha and Cloudflare Turnstile.
 * [ngx-numeric-captcha](https://github.com/ShreyashThorat-17/ngx-numeric-captcha) - A modern, lightweight Angular CAPTCHA library featuring multiple verification challenges.
 * [ngx-turnstile](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular.

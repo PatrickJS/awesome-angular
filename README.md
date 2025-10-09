@@ -1629,6 +1629,7 @@ to simplify usage and allow quick customization.
 * [ngx-spinner](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
 * [ngx-spinner-loading](https://github.com/thalsi/ngx-spinner-loading) - A lightweight, customizable Angular loading spinner package that supports global, section-based, inline loaders, and automatic HTTP integration via interceptors. Built with Angular standalone components and signal-based state.
 * [ngxsmk-skeleton-loader](https://github.com/Cholki2025/ngxsmk-skeleton-loader) - A lightweight skeleton loader featuring SCSS animations and easy theming.
+* [ngx-virtual-select](https://github.com/zinetnorf/ngx-virtual-select) - Component to integrate [Virtual Select](https://github.com/sa-si-dev/virtual-select) in Angular.
 * [nx-svg-loaders](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.
 * [skeletonizer](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
 * [skeleton-styler](https://github.com/HoaiNam071001/skeleton-styler) - A lightweight, framework-agnostic library to generate skeleton loading UIs with customizable styles and animations.

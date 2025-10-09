@@ -1492,6 +1492,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-morse](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 * [ngxsmk-tel-input](https://github.com/toozuuu/ngxsmk-tel-input) - An Angular telephone input component with country dropdown, flags, and robust validation/formatting.
 * [gradient-picker](https://github.com/acrodata/gradient-picker) - A powerful and beautiful gradient picker.
+* [ngxsmk-datepicker](https://github.com/toozuuu/ngxsmk-datepicker) - A modern, highly customizable Angular date range picker component.
 
 ### JSON Forms
 

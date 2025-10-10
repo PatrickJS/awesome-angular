@@ -1739,6 +1739,7 @@ to simplify usage and allow quick customization.
 * [fireng](https://github.com/BhanukaDev/fireng) - A collection of Angular libraries to simplify responsive development using signals.
 * [xprng](https://github.com/ziv/xprng) - Micro packages of simple and smart components for Angular.
 * [ngx-primeng-toolkit](https://github.com/saiful-70/ngx-primeng-toolkit) - A comprehensive TypeScript utility library for Angular component state management, including PrimeNG table helpers, `ng-select` integration, data storage, and HTTP caching utilities with NgRx signals.
+* [@ibenvandeveire opensource](https://github.com/IbenTesara/opensource) - A monorepo hosting multiple packages—both Angular and non-Angular—developed and maintained by [Iben Van de Veire](https://github.com/IbenTesara).
 
 ### Modals
 

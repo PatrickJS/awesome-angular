@@ -2050,8 +2050,8 @@ for the creation of web applications developed with Angular.
 * [ngx-profile-comparison](https://github.com/singharsh0/ngx-profile-comparison) - A high-quality, production-ready Angular component library that visually compares two user profiles by highlighting their similarities and differences.
 * [ngx-serial-console](https://github.com/binuud/ngx-serial-console) - Angular component and service to monitor output from a serial device.
 * [ngx-treeview2](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
-* [ngx-voyage](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 * [ngx-universal-viewer](https://github.com/Imishu29/ngx-universal-viewer) - A powerful and versatile Angular component for viewing multiple file formats including PDF, Word (DOC/DOCX), Excel (XLS/XLSX), and PowerPoint (PPT/PPTX) files with both continuous scroll and page-by-page view modes.
+* [ngx-voyage](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 
 ### Visual Effects
 

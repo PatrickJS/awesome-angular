@@ -975,6 +975,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-query](https://github.com/CoreSyncHub/ngx-query) - A lightweight, observable-based query library that helps you manage server state, caching, and synchronization between your backend and UI.
 * [@tanstack/angular-db](https://github.com/TanStack/db/tree/main/packages/angular-db) - Angular hooks for TanStack DB, a reactive client store that lets you build fast, sync‑driven apps with a backend‑agnostic real‑time data layer.
 * [usm](https://github.com/unadlib/usm) - A modular state management library compatible with Angular.
+* [ngx-mxstore](https://github.com/MaxxtonGroup/ngx-mxstore) - Simplifies state management by moving logic into pure, testable methods and connecting components to the store via decorators.
 
 ## Testing
 

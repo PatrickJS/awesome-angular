@@ -1742,6 +1742,7 @@ to simplify usage and allow quick customization.
 * [xprng](https://github.com/ziv/xprng) - Micro packages of simple and smart components for Angular.
 * [ngx-primeng-toolkit](https://github.com/saiful-70/ngx-primeng-toolkit) - A comprehensive TypeScript utility library for Angular component state management, including PrimeNG table helpers, `ng-select` integration, data storage, and HTTP caching utilities with NgRx signals.
 * [@ibenvandeveire opensource](https://github.com/IbenTesara/opensource) - A monorepo hosting multiple packages—both Angular and non-Angular—developed and maintained by [Iben Van de Veire](https://github.com/IbenTesara).
+* [@farfadev/ngx-lib](https://github.com/farfadev/ngx-lib) - A repository of Angular libraries—including components, services, and more—commonly used across [Farfadev](https://github.com/farfadev) applications, but available for use in any other app.
 
 ### Modals
 

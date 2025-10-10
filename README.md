@@ -1495,6 +1495,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxsmk-datepicker](https://github.com/toozuuu/ngxsmk-datepicker) - A modern, highly customizable Angular date range picker component.
 * [ngx-country-selector](https://github.com/evicio1/ngx-country-selector) - A sleek, customizable Angular Material country selector offering accessible dropdowns with flags, codes, local names, and more.
 * [angular-datepicker2](https://github.com/nsnayp13/angular-datepicker2) - Lightweight Angular 16+ datepicker with standalone support, range and multi-date selection, and customizable templates—no external dependencies.
+* [ngx-phone](https://github.com/manishpatidar028/ngx-phone) - Angular international phone number input component with automatic country detection, real-time formatting, validation, and seamless support for both reactive & template-driven forms.
 
 ### JSON Forms
 

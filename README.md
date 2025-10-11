@@ -1243,6 +1243,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
 * [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
+* [pioneer-charts](https://github.com/PioneerCode/pioneer-charts) - An Angular library for creating responsive, customizable charts using D3.js—supports bar, line, pie, and more.
 
 ### Cookies
 

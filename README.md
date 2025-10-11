@@ -1619,6 +1619,7 @@ to simplify usage and allow quick customization.
 * [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
 * [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 * [ngx-zoomable](https://github.com/json-k/ngx-zoomable) - A zoomable, pannable container component for Angular applications.
+* [ngx-material-drawer](https://github.com/ansarisufiyan777/ngx-material-drawer) - Configurable Angular Material Drawer and Toolbar.
 
 ### Loaders
 

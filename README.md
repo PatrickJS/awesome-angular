@@ -1957,6 +1957,7 @@ to simplify usage and allow quick customization.
 * [elementar-ui](https://github.com/elementarlabs/elementar-ui) - Fully open-source Angular UI Components & Admin Panel based on Angular Material and Tailwind CSS.
 * [ngx-vant-revive](https://github.com/IfFaith/ngx-vant-revive) - Angular UI component library implemented according to the [Zan Design System](https://design.youzan.com/) visual specifications.
 * [MaxterDev NGX Components](https://github.com/MatoMakuch/maxterdev/tree/main/projects/ngx-components) - A highly flexible and SCSS-customizable components library for Angular.
+* [gcds-components](https://github.com/cds-snc/gcds-components/tree/main/packages/angular) - The `gcds-components-angular` package simplifies integration of [GC Design System](https://design-system.alpha.canada.ca/) web components into Angular by providing wrappers that optimize change detection and support ngModel and reactive forms.
 
 ### UI Libraries built on Bootstrap
 

@@ -2190,7 +2190,7 @@ for the creation of web applications developed with Angular.
 
 ### Wrappers
 
-* [angular-email-editor](https://github.com/unlayer/angular-email-editor) - Drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as a Angular wrapper component.
+* [angular-email-editor](https://github.com/unlayer/angular-email-editor) - Drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as an Angular wrapper component.
 * [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 * [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.

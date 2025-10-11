@@ -1370,6 +1370,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@MasterATM/ngx-dropzone](https://github.com/MasterATM/ngx-dropzone) - A lightweight and highly customizable Angular dropzone component for file uploads. Based on [@peterfreeman/ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) repository.
 * [ngx-puzzle](https://github.com/zhongmiao-org/ngx-puzzle) - Drag-and-drop dashboard builder for Angular applications.
 * [ngx-drag-drop-kit](https://github.com/mr-samani/ngx-drag-drop-kit) - High-performance Angular drag & drop toolkit featuring grid layouts, sorting, resizing, nesting, and more.
+* [ngx-dashboard](https://github.com/TobyBackstrom/ngx-dashboard) - Modern Angular workspace for building drag-and-drop grid dashboards with resizable cells and customizable widgets.
 
 ### Editor Components
 

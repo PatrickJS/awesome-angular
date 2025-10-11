@@ -1949,6 +1949,7 @@ to simplify usage and allow quick customization.
 * [@nexcraft/forge](https://github.com/dev-ignis/forge) - Framework-agnostic Web Components UI library. Works in Angular via custom elements.
 * [ngx-nova-ui](https://github.com/lebocow/ngx-nova-ui) - A modern Angular 20 UI component library built with signals, standalone components, and a CSS-first theming approach.
 * [elementar-ui](https://github.com/elementarlabs/elementar-ui) - Fully open-source Angular UI Components & Admin Panel based on Angular Material and Tailwind CSS.
+* [ngx-vant-revive](https://github.com/IfFaith/ngx-vant-revive) - Angular UI component library implemented according to the [Zan Design System](https://design.youzan.com/) visual specifications.
 
 ### UI Libraries built on Bootstrap
 

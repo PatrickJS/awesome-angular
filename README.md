@@ -836,6 +836,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-angora-css](https://github.com/LynxPardelle/ngx-angora-css) - A JavaScript-based CSS framework that dynamically generates styles on page load.
 * [ngx-classed](https://github.com/lukonik/ngx-classed) - A library allows you to dynamically add or remove classes based on state.
 * [ngx-css](https://github.com/squidit/ngx-css) - An Angular abstraction for [Squid CSS](https://github.com/squidit/css).
+* [ngx-mq](https://github.com/martsinlabs/ngx-mq) - A declarative library that uses signals and the native [matchMedia API](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia) to manage media queries, with built-in breakpoint presets for Tailwind, Bootstrap, and Angular Material.
 * [panda](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
 * [Super JSS](https://github.com/rsantoyo-dev/super-jss-workspace) - Super JavaScript Stylesheets is a tiny, runtime styling library for Angular. It generates atomic CSS as you use it, supports responsive breakpoints and theming, and gives you a minimal, ergonomic API.
 

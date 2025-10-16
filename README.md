@@ -1548,6 +1548,7 @@ to simplify usage and allow quick customization.
 * [translation-validation](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language.
 * [polish-validators](https://github.com/joker876/polish-validators) - A validation library designed for Polish-specific formats, also available as an Angular wrapper via [ngx-polish-validators](https://www.npmjs.com/package/ngx-polish-validators).
 * [ngx-mat-errors](https://github.com/Totati/ngx-mat-errors) - Offers a simple and adaptable approach to presenting error messages within a `MatFormField`.
+* [oop-validator](https://github.com/visaruruqi/oop-validator) - A powerful, flexible validation library that works effortlessly with any UI framework—Vue.js, React, Angular, and more—offering a complete solution for front-end validation.
 
 ### Icons
 

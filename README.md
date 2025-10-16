@@ -2163,6 +2163,7 @@ for the creation of web applications developed with Angular.
 
 ### Cross-Framework Integration
 
+* [detector](https://github.com/kitium-ai/detector) - A zero-dependency, TypeScript-first library for fast, universal detection of platforms, frameworks, browsers, and capabilities.
 * [ngx-react](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
 * [ngx-reactify](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
 * [ng-react-bridge](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.

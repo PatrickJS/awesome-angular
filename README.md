@@ -532,7 +532,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@configcat-labs/feature-flags-in-angular-sample-app](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
 * [featurit-sdk-angular](https://github.com/featurit/featurit-sdk-angular) - Angular wrapper of the JavaScript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
 * [flagpole](https://www.npmjs.com/package/@flagpole/angular) - Angular SDK for the [Flagpole](https://useflagpole.dev/) feature flag management system. Provides real-time feature flag updates, A/B testing capabilities, and seamless integration with Angular applications.
-* [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash integration, provides reactive programing, type-safe feature flag management with zero-configuration setup.
+* [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash integration, provides reactive programming, type-safe feature flag management with zero-configuration setup.
 
 ### GraphQL
 

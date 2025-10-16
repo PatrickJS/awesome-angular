@@ -2021,6 +2021,7 @@ for the creation of web applications developed with Angular.
 * [PrimeBlocks](https://primeblocks.org/) - Professionally designed UI blocks tailored for rapid application development.
 * [Rectangle UI](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
 * [seacotools](https://github.com/Seacotec/seacotools) - A library designed for modern Angular applications, offering a suite of reusable UI components and services compatible with Tailwind CSS.
+* [semantic-components](https://github.com/gridatek/semantic-components) - Modular, reusable UI elements built with Angular CDK and Tailwind CSS that prioritize semantic HTML and accessibility, delivering lightweight, flexible, and maintainable interfaces with full A11y support.
 * [simui](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
 * [synerity-ui](https://github.com/synerity-ai/synerity-ui) - A comprehensive, enterprise-grade Angular 20+ component library offering 90+ accessible, performant components styled with Tailwind CSS for modern web applications.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.

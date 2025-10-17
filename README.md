@@ -1516,6 +1516,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-phone](https://github.com/manishpatidar028/ngx-phone) - Angular international phone number input component with automatic country detection, real-time formatting, validation, and seamless support for both reactive & template-driven forms.
 * [ngx-phone-country-input](https://github.com/mostafaM212/ngx-phone-country-input) - A comprehensive Angular library providing phone input and country selection components with full reactive forms support.
 * [ngx-mat-period-picker](https://github.com/felixdulfer/ngx-mat-period-picker) - A modern Angular Material period picker component built with standalone components.
+* [touchspin-angular](https://github.com/istvan-ujjmeszaros/touchspin-angular) - Angular adapter for the [TouchSpin](https://github.com/istvan-ujjmeszaros/touchspin) number input component with per-renderer support.
 
 ### JSON Forms
 

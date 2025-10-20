@@ -578,6 +578,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-interceptors](https://github.com/SebaRenner/ngx-interceptors) - Library with common HTTP interceptors for Angular applications.
 * [ngx-hal](https://github.com/infinum/ngx-hal) - A datastore library with support for handling [HAL-formatted](http://stateless.co/hal_specification.html) HTTP requests.
 * [trpc-angular](https://github.com/heddendorp/trpc-angular) - This repository offers two Angular packages adapted from tRPC for Angular use: `@heddendorp/trpc-link-angular` for integrating Angular's HttpClient with tRPC, and `@heddendorp/tanstack-angular-query` for reactive data fetching via TanStack Angular Query.
+* [my-http-resource](https://github.com/consoleLogMyAss/my-http-resource/tree/main/projects/my-http-resource) - A reactive wrapper for Angular’s HttpClient that streamlines HTTP requests by managing state, handling URL parameters, and simplifying post-request configuration.
 
 ### Micro-Frontends
 

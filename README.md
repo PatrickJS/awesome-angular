@@ -1975,6 +1975,7 @@ to simplify usage and allow quick customization.
 * [MaxterDev NGX Components](https://github.com/MatoMakuch/maxterdev/tree/main/projects/ngx-components) - A highly flexible and SCSS-customizable components library for Angular.
 * [gcds-components](https://github.com/cds-snc/gcds-components/tree/main/packages/angular) - The `gcds-components-angular` package simplifies integration of [GC Design System](https://design-system.alpha.canada.ca/) web components into Angular by providing wrappers that optimize change detection and support ngModel and reactive forms.
 * [particle-ng](https://github.com/entake-org/particle-ng) - A lightweight, themeable component library offering flexible, high-control alternatives to Angular Material and PrimeNG.
+* [ngx-kit-ui](https://github.com/OpenKit-Labs/ngx-kit-ui) - Modern Angular UI library for mobile and web.
 
 ### UI Libraries built on Bootstrap
 

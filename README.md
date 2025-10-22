@@ -1799,6 +1799,7 @@ to simplify usage and allow quick customization.
 * [ngx-modern-alerts](https://github.com/jonaaix/ngx-modern-alerts) - This library provides a flexible system for displaying banner and floating alerts (notifications), complete with a notification hub, timeouts, custom actions, and more.
 * [ngx-notifications](https://github.com/pascaliske/ngx-notifications) - Simple notifications module for Angular.
 * [ngx-notifier](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
+* [ngx-popify](https://github.com/fgilmet/ngx-popify) - Toast notifications for Angular 16+ built using reactive signals and easily integrated via a view component.
 * [ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 * [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.

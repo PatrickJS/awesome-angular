@@ -1792,6 +1792,7 @@ to simplify usage and allow quick customization.
 * [angular-toaster](https://github.com/damingerdai/angular-toaster) - Updated fork of [Angular2-Toaster](https://github.com/Stabzs/Angular2-Toaster).
 * [grand-notifications](https://github.com/rishi-rj-s/grand-notifications) - Beautiful, customizable toast notifications with artistic animations.
 * [hot-toast](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
+* [mk-magic-messages-library](https://github.com/mkeller1992/mk-magic-messages-library) - Easily display animated success, info, warning, and error alerts in your Angular 20+ application.
 * [ng-fast-toast](https://github.com/rperezll/ng-fast-toast) - A fast and lightweight library for Angular 18+, also compatible with Ionic projects (based on Angular), that makes handling alerts and notifications effortless. Styled with Tailwind, but built for production with a fully agnostic approach using Shadow DOM.
 * [ng-toast-service](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
 * [notifyx](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.

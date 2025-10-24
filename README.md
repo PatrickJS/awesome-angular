@@ -1247,6 +1247,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-hierarchy](https://github.com/rushik1992/ngx-hierarchy) - Angular component module for vertical or horizontal hierarchy/tree view with flexible dynamic template design and controls.
 * [ngx-interactive-org-chart](https://github.com/zeyadelshaf3y/ngx-interactive-org-chart) - Modern Angular organizational chart component with interactive panning and zooming.
 * [ngx-lightweight-charts](https://github.com/jamesbrobb/ngx-lightweight-charts) - An easily extendable Angular wrapper for [Trading View Lightweight Charts](https://www.tradingview.com/lightweight-charts/).
+* [ngx-recharts](https://github.com/wook95/ngx-recharts) - Build composable charts with Angular components using the same API as [Recharts](https://recharts.org/).
 * [ngx-simple-charts](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
 * [org-chart](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
 * [pioneer-charts](https://github.com/PioneerCode/pioneer-charts) - An Angular library for creating responsive, customizable charts using D3.js—supports bar, line, pie, and more.

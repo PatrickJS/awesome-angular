@@ -1285,7 +1285,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
 * [ZingGrid](https://github.com/ZingGrid/zinggrid) -  A JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can be used in [Angular](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) and many more frameworks.
 * [ngx-panemu-table](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
-* [ngx-grid](https://github.com/blueshiftone/ngx-grid) - A professional Angular data grid.
+* [@blueshiftone/ngx-grid](https://github.com/blueshiftone/ngx-grid) - A professional Angular data grid.
 * [@guiexpert/angular-table](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).
 * [ngx-tabulator-tables](https://github.com/knackstedt/ngx-tabulator-tables) - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
 * [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
@@ -1638,6 +1638,7 @@ to simplify usage and allow quick customization.
 * [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 * [ngx-zoomable](https://github.com/json-k/ngx-zoomable) - A zoomable, pannable container component for Angular applications.
 * [ngx-material-drawer](https://github.com/ansarisufiyan777/ngx-material-drawer) - Configurable Angular Material Drawer and Toolbar.
+* [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Simple Angular Grid Module for modern grid layouts.
 
 ### Loaders
 

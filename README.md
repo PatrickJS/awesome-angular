@@ -1301,6 +1301,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-simple-datatables](https://github.com/rinturaj/ngx-simple-datatables) - A lightweight, high-performance Angular data table component with features like virtual scrolling, column freezing, and customizable templates.
 * [ngx-list-manager](https://github.com/RzoDev/ngx-list-manager) - An Angular service tool to manage lists efficiently.
 * [cerious-grid](https://github.com/ryoucerious/cerious-widgets) - A seriously powerful Angular grid for developers who demand control, flexibility, and performance.
+* [ngxsmk-datatable](https://github.com/toozuuu/ngxsmk-datatable) - A modern, feature-rich Angular datatable component built from the ground up for Angular 17+. Designed with performance, customization, and developer experience as top priorities.
 
 ### Dates
 

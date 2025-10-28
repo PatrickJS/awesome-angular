@@ -1721,6 +1721,7 @@ to simplify usage and allow quick customization.
 * [cometchat-uikit-angular](https://github.com/cometchat/cometchat-uikit-angular) - [CometChat](https://www.cometchat.com/) Angular UI Kit provides pre-built user interface kit that developers can use to quickly integrate a reliable & fully featured chat experience into an existing or a new app.
 * [@poseclop/ngx-video-player](https://www.npmjs.com/package/@poseclop/ngx-video-player) - A lightweight video player component that emulates YouTube.
 * [ngx-lite-video-v2](https://github.com/KSmp/ngx-lite-video) - An updated fork of [ngx-lite-video](https://github.com/karim-mamdouh/ngx-lite-video), an Angular package that provides lazy loading capabilities for embedded iframes from popular video-sharing platforms like YouTube and Vimeo.
+* [ngx-user-camera](https://codeberg.org/tomaszatoo/ngx-user-camera) - A modern Angular 20+ component for accessing user cameras, supporting front/back (user/environment) switching, optional canvas rendering, and reactive signals — fully zoneless.
 
 ### Mixed Utilities
 

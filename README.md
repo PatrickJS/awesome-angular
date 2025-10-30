@@ -763,6 +763,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [tmf](https://github.com/tripsnek/tmf) - A lightweight TypeScript port of Eclipse Modeling Framework (EMF), this tool enables model-driven development with type-safe, reflective data models that integrate effortlessly across Node.js, Java, and Angular/React frontends.
 * [polyfront-scaffold](https://github.com/NirmalSamaranayaka/polyfront-scaffold) - A generator that offers a wide range of configuration options to build a flexible, scalable Angular app tailored to your development needs.
 * [orval](https://github.com/orval-labs/orval) - Generate, validate, cache and mock in your frontend applications, based on your OpenAPI specification.
+* [angular-sitemap-generator](https://github.com/borisonekenobi/angular-sitemap-generator) - Generates a `sitemap.xml` file for an Angular project.
 
 ### Internationalization
 

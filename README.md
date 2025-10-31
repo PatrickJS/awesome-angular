@@ -1475,7 +1475,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cc-form-engine](https://github.com/ChristianCruzArango/cc-form-engine) - Advanced Angular library for reactive form generation and management with dynamic validation, change tracking, and customizable error messages.
 * [ngx-vest-forms](https://github.com/ngx-vest-forms/ngx-vest-forms) - A lightweight, type-safe adapter between Angular template-driven forms and [Vest.js](https://vestjs.dev/) validation. Build complex forms with unidirectional data flow, sophisticated async validations, and zero boilerplate.
 * [ngx-autosave-forms](https://github.com/zinetnorf/ngx-autosave-forms) - Autosave form values in localStorage using template forms or reactive forms in Angular.
-* [ngx-formbar](https://github.com/TheNordicOne/ngx-formbar) - A highly flexible framework for generating declarative reactive forms.
 
 ### Form Controls
 
@@ -1540,6 +1539,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dynamic-forms](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
 * [json-forms-zorro-wrapper](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
 * [ngx-formwork](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
+* [ngx-formbar](https://github.com/TheNordicOne/ngx-formbar) - A highly flexible framework for generating declarative reactive forms.
 
 ### Form Validation
 

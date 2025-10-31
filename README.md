@@ -1333,20 +1333,21 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Directives
 
-* [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into HTML component template.
-* [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global `trackBy` property directive with strict type checking.
-* [ngx-nullish](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
-* [ngx-nullable](https://github.com/Celtian/ngx-nullable) - This library provides a way to make properties nullable in Angular templates.
-* [ngx-if-platform](https://github.com/Celtian/ngx-if-platform) - Directive for conditional display based on platform.
-* [ngx-cut](https://github.com/Celtian/ngx-cut) - Angular directive for cutting texts with responsive options.
-* [ngx-app-version](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
-* [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
-* [ngx-fixed-footer](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
-* [ngx-responsive-if](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
-* [ngx-copy-to-clipboard](https://github.com/andreasnicolaou/ngx-copy-to-clipboard) - An Angular directive that enables easy text copying to the clipboard with a single click. It supports customizable success/error messages and triggers events on copy actions.
 * [ng-click-outside](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
+* [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global `trackBy` property directive with strict type checking.
+* [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into HTML component template.
+* [ngx-app-version](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
 * [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 * [ngx-copypaste](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
+* [ngx-copy-to-clipboard](https://github.com/andreasnicolaou/ngx-copy-to-clipboard) - An Angular directive that enables easy text copying to the clipboard with a single click. It supports customizable success/error messages and triggers events on copy actions.
+* [ngx-cut](https://github.com/Celtian/ngx-cut) - Angular directive for cutting texts with responsive options.
+* [ngx-fixed-footer](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds a fixed footer without overlap.
+* [ngx-if-platform](https://github.com/Celtian/ngx-if-platform) - Directive for conditional display based on platform.
+* [ngx-nullable](https://github.com/Celtian/ngx-nullable) - This library provides a way to make properties nullable in Angular templates.
+* [ngx-nullish](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
+* [ngx-overflow-reveal](https://github.com/hosembafer/ngx-overflow-reveal) - An Angular directive that elegantly reveals truncated text on hover.
+* [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
+* [ngx-responsive-if](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
 * [ngxture](https://github.com/gianpierreVelasquez/ngxture) - A lightweight and modular Angular library that provides ready-to-use animations and gesture directives.
 * [@maxime1jacquet/npm-directives](https://github.com/maxime1jacquet/npm-directives) - Angular Directives including [ngx-cursor](https://www.npmjs.com/package/ngx-cursor) and [ngx-simple-countdown](https://www.npmjs.com/package/ngx-simple-countdown).
 

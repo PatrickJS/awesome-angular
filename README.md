@@ -2082,6 +2082,7 @@ for the creation of web applications developed with Angular.
 * [ngx-tour-wizard](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
 * [bdc-walkthrough](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
 * [ngx-onboarding](https://github.com/rosen-group/ngx-onboarding) - This onboarding library enables you to integrate a tutorial seamlessly into your Angular application. This helps users to quickly and easily learn how to navigate and use your app, reducing the learning curve.
+* [ngxsmk-help-tour](https://github.com/toozuuu/ngxsmk-help-tour) - Angular 17+ standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
 
 ### Viewers
 

@@ -1229,6 +1229,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@daelmaak/ngx-gallery](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
 * [embla-carousel-angular](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel](https://github.com/davidjerleke/embla-carousel).
 * [@vinlos/ngx-gallery](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular 16+.
+* [ngx-cdk-lightbox](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
 
 ### Charts
 

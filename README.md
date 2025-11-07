@@ -1533,6 +1533,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mat-period-picker](https://github.com/felixdulfer/ngx-mat-period-picker) - A modern Angular Material period picker component built with standalone components.
 * [touchspin-angular](https://github.com/istvan-ujjmeszaros/touchspin-angular) - Angular adapter for the [TouchSpin](https://github.com/istvan-ujjmeszaros/touchspin) number input component with per-renderer support.
 * [ngxsmk-otp-input](https://github.com/toozuuu/ngxsmk-otp-input) - A lightweight, standalone Angular 17+ OTP/PIN input component with SCSS theming, mobile-friendly autofill, masking, and full reactive forms support.
+* [ngx-cron-editor](https://github.com/haavardj/ngx-cron-editor) - A graphical cron expression builder component for Angular 15+, designed for seamless integration with reactive forms and styled using Angular Material Design.
 
 ### JSON Forms
 

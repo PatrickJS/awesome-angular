@@ -2106,6 +2106,7 @@ for the creation of web applications developed with Angular.
 * [ngx-json-diff-viewer](https://www.npmjs.com/package/ngx-json-diff-viewer) - Angular component for visually displaying the differences between two JSON objects.
 * [ngx-json-schema-viewer](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
 * [ngx-json-treeview](https://github.com/MichaelDoyle/ngx-json-treeview) - A collapsible JSON tree view for Angular.
+* [ngx-omniview](https://github.com/binapani-edu/ngx-omniview) - An all-in-one content viewer for Angular that seamlessly displays raw string inputs as Plain Text, HTML, Markdown, LaTeX, MathJax, JSON, and more—using just a single component.
 * [ngx-profile-comparison](https://github.com/singharsh0/ngx-profile-comparison) - A high-quality, production-ready Angular component library that visually compares two user profiles by highlighting their similarities and differences.
 * [ngx-serial-console](https://github.com/binuud/ngx-serial-console) - Angular component and service to monitor output from a serial device.
 * [ngx-treeview2](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.

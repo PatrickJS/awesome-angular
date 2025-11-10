@@ -542,6 +542,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [buoy](https://github.com/buoy-graphql/buoy) - A GraphQL client for Angular built on top of Apollo.
 * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 * [hasura](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
+* [ngx-graphql-client](https://github.com/Alevettih/ngx-graphql-client) - A typed GraphQL client for Angular applications with full TypeScript support.
 * [tailcall](https://tailcall.run/blog/graphql-angular-client/) - This comprehensive guide dives into five powerful approaches for integrating GraphQL into your Angular applications.
 * [takeshape](https://www.takeshape.io/) - It's easy to build a GraphQL API using TakeShape. Integrating with an Angular project is easy, and you can follow this [guide](https://app.takeshape.io/docs/get-started/client/angular).
 

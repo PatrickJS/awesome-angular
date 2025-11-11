@@ -1870,20 +1870,21 @@ to simplify usage and allow quick customization.
 
 ### Router
 
-* [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+* [ngx-route-breadcrumbs](https://github.com/alevettih/ngx-route-breadcrumbs) - Angular library that simplifies creating breadcrumbs based on routing URLs and parameters.
 * [olt-ngx-breadcrumbs](https://github.com/OuterlimitsTech/olt-ngx-breadcrumbs) - Angular Library for generating breadcrumbs based on the routing state.
-* [ui-router](https://github.com/ui-router/angular) - State-based routing in Angular is enabled through [UI-Router for Angular](https://ui-router.github.io).
-* [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+* [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+* [angular-router-menus](https://github.com/muuvmuuv/angular-router-menus) - Define typed, customizable route-based menus in Angular with effortless multi-navigation, nested dropdowns, and injection-token access.
+* [ngx-back-button](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
+* [ngx-foresight](https://github.com/akshykhade/ngx-foresight) - An Angular integration of [ForesightJS](https://foresightjs.com/) for intelligent router preloading based on user intent.
 * [ngx-hover-preload](https://github.com/mgechev/ngx-hover-preload) - Preload Angular lazy-loaded routes on mouse over.
 * [ngx-href](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
-* [ngx-route-manager](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
-* [ngx-back-button](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
-* [ngx-navigate-back](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
-* [storybook-addon-angular-router](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
-* [angular-router-menus](https://github.com/muuvmuuv/angular-router-menus) - Enhance your Angular app's navigation by defining menu entries directly within the route. With full typing and customization based on your requirements, you can create multiple navigations effortlessly. Nested menus allow for dynamic dropdowns, while all menus are generated and injected into various injection tokens for easy access anywhere in your application.
 * [ngx-multi-level-push-menu](https://github.com/ramiz4/ngx-multi-level-push-menu) - A modern, accessible Angular component for responsive multi-level push menus with extensive customization options.
-* [ngx-foresight](https://github.com/akshykhade/ngx-foresight) - An Angular integration of [ForesightJS](https://foresightjs.com/) that offers a router preloading strategy by intelligently preloading lazy-loaded modules based on user intent predictions derived from mouse and keyboard interactions.
+* [ngx-navigate-back](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library that adds simple browser-like back navigation.
+* [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+* [ngx-route-manager](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
 * [ngx-speculative-link](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink](https://github.com/GoogleChromeLabs/quicklink) and `ngx-quicklink`.
+* [storybook-addon-angular-router](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
+* [ui-router](https://github.com/ui-router/angular) - State-based routing in Angular is enabled through [UI-Router for Angular](https://ui-router.github.io).
 
 ### Scroll
 

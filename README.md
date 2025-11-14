@@ -2046,6 +2046,7 @@ for the creation of web applications developed with Angular.
 * [angular-tailwind-ui](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 * [FlyonUI](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
+* [Galaxy UI](https://github.com/buikevin/galaxy-design) - Universal Component Library that brings beautiful, accessible components to Angular.
 * [koala-ui](https://github.com/igordrangel/koala-ui) - A modern and accessible component library designed to speed up interface development.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
 * [ngx-tw](https://github.com/bugMaker-237/ngx-tw) - A comprehensive component library built with Tailwind CSS, providing a modern and customizable set of UI components for Angular applications.

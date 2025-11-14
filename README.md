@@ -1740,7 +1740,7 @@ to simplify usage and allow quick customization.
 * [ngx-lite-video-v2](https://github.com/KSmp/ngx-lite-video) - An updated fork of [ngx-lite-video](https://github.com/karim-mamdouh/ngx-lite-video), an Angular package that provides lazy loading capabilities for embedded iframes from popular video-sharing platforms like YouTube and Vimeo.
 * [ngx-user-camera](https://codeberg.org/tomaszatoo/ngx-user-camera) - A modern Angular 20+ component for accessing user cameras, supporting front/back (user/environment) switching, optional canvas rendering, and reactive signals — fully zoneless.
 * [rm-ng-video-player](https://github.com/malikrajat/rm-ng-video-player-main) - An advanced, feature-rich Angular video player with YouTube-style controls and Apple-inspired glassmorphism design.
-* [ngx-rumbletalk](https://github.com/RumbleTalk/ngx-rumbletalk) - An angular library for [Rumbletalk](https://rumbletalk.com/) group chats.
+* [ngx-rumbletalk](https://github.com/RumbleTalk/ngx-rumbletalk) - An Angular library for [Rumbletalk](https://rumbletalk.com/) group chats.
 
 ### Mixed Utilities
 

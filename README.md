@@ -1916,8 +1916,7 @@ to simplify usage and allow quick customization.
 * [ng-virtual-list](https://github.com/djonnyx/ng-virtual-list) - Maximum performance for extremely large lists. It is based on algorithms for virtualization of screen objects.
 * [ngx-horizontal-menu-scroll](https://github.com/isahohieku/ngx-horizontal-menu-scroll) - A lightweight, customizable Angular library for creating beautiful horizontal scrolling menus with smooth navigation controls.
 * [usal](https://github.com/italoalmeida0/usal) - Framework agnostic ultimate scroll animation library.
-* [ar-virtual-scroll](https://github.com/artomenwork/ar-virtual-scroll) — Lightweight Angular virtual scroll with automatic dynamic height measurement. Ideal for chats, message feeds and variable-height lists. Better alternative to Angular CDK virtual scroll when dynamic heights are required.
-
+* [ar-virtual-scroll](https://github.com/artomenwork/ar-virtual-scroll) - Lightweight Angular virtual scroll with automatic dynamic height measurement. Ideal for chats, message feeds, and variable-height lists. Better alternative to Angular CDK virtual scroll when dynamic heights are required.
 ### Storage
 
 * [rxdb](https://rxdb.info/) - An abstraction layer for [IndexedDB](https://rxdb.info/articles/angular-indexeddb.html).

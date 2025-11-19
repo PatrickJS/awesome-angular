@@ -1796,6 +1796,7 @@ to simplify usage and allow quick customization.
 * [@ibenvandeveire opensource](https://github.com/IbenTesara/opensource) - A monorepo hosting multiple packages—both Angular and non-Angular—developed and maintained by [Iben Van de Veire](https://github.com/IbenTesara).
 * [@farfadev/ngx-lib](https://github.com/farfadev/ngx-lib) - A repository of Angular libraries—including components, services, and more—commonly used across [Farfadev](https://github.com/farfadev) applications, but available for use in any other app.
 * [ngx-security](https://github.com/xbranch/ngx-security) - A modular Angular library for authentication, roles, and permissions management.
+* [nmce](https://github.com/zijianhuang/nmce) – A suite of Angular Material Component Extensions delivering reusable code and UI enhancements for complex business applications with rich data structures, intensive GUIs, and complex workflows.
 
 ### Modals
 

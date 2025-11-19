@@ -1796,7 +1796,6 @@ to simplify usage and allow quick customization.
 * [@ibenvandeveire opensource](https://github.com/IbenTesara/opensource) - A monorepo hosting multiple packages—both Angular and non-Angular—developed and maintained by [Iben Van de Veire](https://github.com/IbenTesara).
 * [@farfadev/ngx-lib](https://github.com/farfadev/ngx-lib) - A repository of Angular libraries—including components, services, and more—commonly used across [Farfadev](https://github.com/farfadev) applications, but available for use in any other app.
 * [ngx-security](https://github.com/xbranch/ngx-security) - A modular Angular library for authentication, roles, and permissions management.
-* [nmce](https://github.com/zijianhuang/nmce) – A suite of Angular Material Component Extensions delivering reusable code and UI enhancements for complex business applications with rich data structures, intensive GUIs, and complex workflows.
 
 ### Modals
 
@@ -2044,6 +2043,7 @@ for the creation of web applications developed with Angular.
 * [c3-components](https://github.com/c3ulnta0rk/c3-components) - An open-source component library that extends the `@angular/material` library.
 * [simplematcomponents](https://github.com/wobkenh/simplematcomponents) - Set of Angular components that fit into or use Angular Material Design.
 * [Angular Material Dev UI](https://ui.angular-material.dev/home) - One place stop for developers to explore components and blocks for their Angular Material and Tailwind CSS based applications.
+* [nmce](https://github.com/zijianhuang/nmce) – A suite of Angular Material Component Extensions delivering reusable code and UI enhancements for complex business applications with rich data structures, intensive GUIs, and complex workflows.
 
 ### UI Libraries built on Tailwind CSS
 

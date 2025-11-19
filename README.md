@@ -1384,7 +1384,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-optimus](https://github.com/Bilal-Abubakari/ngx-optimus) - An Angular library dedicated to providing a collection of useful custom pipes to transform data in your templates. This library aims to simplify common data formatting tasks and keep your component logic cleaner.
 * [ng-lock](https://www.npmjs.com/package/ng-lock) - Angular decorator to lock a function and user interface while a task is running.
 * [angular-paginator](https://github.com/sibiraj-s/angular-paginator) - Pagination Component for Angular applications.
-* [ngx-signal-combinators](https://github.com/alessiopelliccione/ngx-signal-combinators) – Composable boolean helpers for Angular signals, enabling cleaner reactive template logic.
+* [ngx-signal-combinators](https://github.com/alessiopelliccione/ngx-signal-combinators) - Composable boolean helpers for Angular signals, enabling cleaner reactive template logic.
 
 ### Drag and Drop
 

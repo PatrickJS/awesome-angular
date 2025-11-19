@@ -2084,6 +2084,7 @@ for the creation of web applications developed with Angular.
 * [simplici-auth-angular-ionic](https://www.npmjs.com/package/simplici-auth-angular-ionic) - A powerful Angular library designed to seamlessly integrate social authentication into your Ionic/Angular applications. It supports a wide range of providers including Google, Microsoft, Facebook, and Apple, with optimized compatibility for both web and native mobile platforms (iOS/Android) using Capacitor or Cordova.
 * [ionx-search-select](https://github.com/kisimediaDE/ionx-search-select) - A modern search & select component for Angular and Ionic. Built with standalone components, Angular signals, and full `ControlValueAccessor` support.
 * [ionic-insta-api-wrapper](https://github.com/appit-online/ionic-insta-api-wrapper) - Lightweight library for fetching Instagram content—Stories, Reels, Highlights, posts, profiles—with login and cookie support, built for Ionic/Cordova using native HTTP.
+* [ionic-adv-tooltip](https://github.com/PhaZRic/ionic-adv-tooltip) - Media rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
 
 ### UI Primitives
 

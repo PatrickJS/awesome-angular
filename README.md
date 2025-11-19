@@ -2246,6 +2246,7 @@ for the creation of web applications developed with Angular.
 
 ### Wrappers
 
+* [angular-calendly](https://github.com/tolutronics/angular-calendly) - A modern Angular library that provides standalone components for embedding [Calendly](https://calendly.com/) scheduling widgets.
 * [angular-email-editor](https://github.com/unlayer/angular-email-editor) - Drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as an Angular wrapper component.
 * [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
 * [chat-widget-adapters](https://github.com/livechat/chat-widget-adapters) - Angular wrapper for the [LiveChat](https://developers.livechat.com/) Chat Widget (JavaScript API).

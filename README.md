@@ -623,7 +623,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Accessibility
 
-* [Official Angular Aria](https://angular.dev/guide/aria/overview) - A collection of headless, accessible directives that implement common WAI-ARIA patterns.
+* [Official Angular ARIA](https://angular.dev/guide/aria/overview) - A collection of headless, accessible directives that implement common WAI-ARIA patterns.
 * [digital.gov](https://digital.gov/guides/accessibility-for-teams/) - Accessibility for teams guide from USA government.
 * [WAI](https://www.w3.org/WAI/) - The W3C Web Accessibility Initiative (WAI) develops standards and support materials to help you understand and implement accessibility.
 * [webaim](https://webaim.org/) - Web accessibility in mind.

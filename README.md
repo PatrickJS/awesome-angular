@@ -1440,7 +1440,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [quill-table-better-dooooit](https://www.npmjs.com/package/quill-table-better-dooooit) - A module that enhances the table functionality of `Quill`.
 * [ngx-wysicat](https://github.com/michalgrzegorczyk-dev/ngx-wysicat) - Build beautiful, structured documents with ease. `ngx-wysicat` combines block-based editing, advanced formatting, and a flexible plugin system—all powered by `Quill`. Perfect for collaborative apps, note-taking tools, or any project where content quality matters.
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) - A robust Angular library for building interactive diagrams, Node-based editors, and visual programming interfaces.
-* [ngx-query-builder](https://github.com/solidexpert-ltd/ngx-query-builder) - Angular query builder with standalone components, sensible defaults, templating hooks, and full forms support for building domain-specific visual editors.
 
 ### File Upload
 
@@ -1492,6 +1491,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cc-form-engine](https://github.com/ChristianCruzArango/cc-form-engine) - Advanced Angular library for reactive form generation and management with dynamic validation, change tracking, and customizable error messages.
 * [ngx-vest-forms](https://github.com/ngx-vest-forms/ngx-vest-forms) - A lightweight, type-safe adapter between Angular template-driven forms and [Vest.js](https://vestjs.dev/) validation. Build complex forms with unidirectional data flow, sophisticated async validations, and zero boilerplate.
 * [ngx-autosave-forms](https://github.com/zinetnorf/ngx-autosave-forms) - Autosave form values in localStorage using template forms or reactive forms in Angular.
+* [ngx-query-builder](https://github.com/solidexpert-ltd/ngx-query-builder) - Angular query builder with standalone components, sensible defaults, templating hooks, and full forms support for building domain-specific visual editors.
 
 ### Form Controls
 

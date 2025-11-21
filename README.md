@@ -1816,6 +1816,7 @@ to simplify usage and allow quick customization.
 * [ngx-light-modal](https://www.npmjs.com/package/ngx-light-modal) - A lightweight, dependency-free Angular modal package built with standalone components and fully dynamic rendering. It supports modal stacking, backdrop control, custom content components, and complete lifecycle observables — without requiring a host component in your templates.
 * [angular-confirmation-capture](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
 * [angular-anchored-floating-box](https://github.com/lazycuh/angular-anchored-floating-box) - A singleton, global Angular service to programmatically render a floating box anchored at an element that can have arbitrary content specified by either a `TemplateRef` or component.
+* [ngx-side-page](https://github.com/strikerh/ngx-side-page) - A versatile Angular library for managing slide‑out side panels with smooth, service‑based animations, designed like Angular Material dialogs but tailored for side pages.
 
 ### Notifications
 

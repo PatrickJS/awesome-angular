@@ -1136,8 +1136,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-dev-enhanced](https://github.com/nelsongraa8/angular-dev-enhanced) - A ready-to-use Angular starter with Vite, Vitest, ESLint, and Prettier—perfect for clean, modern development.
 * [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app) - Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 * [angular.ng](https://github.com/desoga10/angular.ng) - An open-source productivity dashboard built with Angular and Supabase.
-* [angluar-crm](https://github.com/minhpham-mew/angluar-crm) - Build and manage customer relationships with this modern CRM app, complete with contact management, deal tracking, and real-time analytics.
-
+* [angluar-crm](https://github.com/minhpham-mew/angluar-crm) - Angular CRM template with contact management, deal tracking, and analytics.
 ### Paid Templates
 
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)

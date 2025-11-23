@@ -269,9 +269,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Angular Addicts](https://www.angularaddicts.com/)
 * [Angular Digest](https://geromegrignon.substack.com/)
-* [Angular Weekly](https://angularweekly.substack.com/)
-* [danywalls](https://www.danywalls.com/newsletter)
-* [practical-angular-newsletter](https://angularmentor.io/practical-angular-newsletter)
 * [ultimate courses](https://ultimatecourses.com/newsletter)
 * [Weekly Angular](https://prodigious-knitter-4508.kit.com/subscribe)
 

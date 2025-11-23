@@ -277,12 +277,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Podcasts
 
-* [Adventures in Angular](https://topenddevs.com/podcasts/adventures-in-angular)
-* [Angular Experts](https://angularexperts.io/podcasts/)
 * [Angular Air](https://angularair.com/)
-* [Angular Plus Show](https://open.spotify.com/show/1PrLErQHBqBhZsRV1KHhGM)
 * [Angular Master Podcast](https://www.youtube.com/playlist?list=PLYJFRoKhU5SNcu5GBjIn4X3oVpy4fP1wV)
-* [Angular Catch Up](https://angular-catch-up.podbean.com/)
+* [Angular Plus Show](https://open.spotify.com/show/1PrLErQHBqBhZsRV1KHhGM)
 * [Angularidades](https://podcasts.apple.com/us/podcast/angularidades/id1702444448) - In Spanish.
 
 ### Bluesky
@@ -396,7 +393,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
 * [Playful Programming](https://playfulprogramming.com/)
 * [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
-* [Code With Omkar](https://www.codewithomkar.com/)
 * [Angular Tips](https://ngtips.com/) - Best practices and recommendations for building complex, large and maintainable applications with Angular.
 * [Practical Angular Guide](https://practical-angular.donaldmurillo.com/) - Real-world-ish solutions for Angular developers By [Donald Murillo](https://github.com/DonaldMurillo).
 * [Bálint Neuhausz](https://bneuhausz.dev/blog)
@@ -433,20 +429,17 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Past Angular Cheatsheet](https://v17.angular.io/guide/cheatsheet) - Note: *NEW* official docs do not have a cheatsheet.
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
-* [Interviewbit Angular Cheatsheet](https://www.interviewbit.com/angular-cheat-sheet/)
 * [ZeroToMastery Angular Cheatsheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/)
-* [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React & Vue all at once.
+* [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React, & Vue all at once.
 * [Marmicode Cookbook](https://cookbook.marmicode.io/) - Ingredients & Recipes for Cooking Delicious Apps.
-* [angular-interview-questions](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview in 2025.
+* [angular-interview-questions](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview.
 
 ### Exercises
 
 * [angular-fundamental-lessons](https://github.com/MarkTechson/angular-fundamentals-lessons)
 * [Angular Challenges](https://angular-challenges.vercel.app/) - This repository gathers 50+ challenges related to Angular, Nx, RxJS, NgRx, and TypeScript. These challenges revolve around real-life issues or specific features to elevate your skills.
-* [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application.
+* [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs offer guided, hands-on tutorials to build apps or add new features.
 * [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
-* [angular-debugging-challenge](https://github.com/ppsdang/angular-debugging-challenge) - This repository hosts an Angular-based project designed as a coding and debugging exercise.
-* [angular-api-challenge](https://github.com/ppsdang/angular-api-challenge) - This repository hosts an Angular-based project designed as a api integration exercise.
 * [modern-angular-exercises](https://github.com/kobi-hari-courses/modern-angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
 * [angular-debug-quest](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
 
@@ -454,7 +447,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
 * [Angular Boot Camp](https://angularbootcamp.com)
-* [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 * [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular applications using new features with modern best practices.
 * [Angular Training](https://www.angulartraining.com/) - The Angular Coach You Need.
 * [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
@@ -466,7 +458,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
 * [ng.guide](https://ng.guide/) - Learn Angular by building real-world apps.
 * [Offering Solutions](https://offering.solutions/trainings/)
-* [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 * [Tech OS](https://tech-os.org/) - Offers high-level Angular training designed for demanding developers and ambitious teams.
 * [Udemy: Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
 * [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to become an Angular expert.

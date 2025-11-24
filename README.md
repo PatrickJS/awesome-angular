@@ -174,7 +174,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
 * [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
-* [angular-parallel-test-runner](https://github.com/mahdi-hajian/angular-parallel-test-runner) - A CLI tool for running Angular tests in parallel across multiple projects, maximizing efficiency with your CPU's concurrency.
+* [angular-parallel-test-runner](https://github.com/mahdi-hajian/angular-parallel-test-runner) - CLI to run Angular tests in parallel across projects; uses available CPU cores.
 * [angular-serve-and-run](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
 * [dotairc](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
 * [firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) to add web framework support.
@@ -236,7 +236,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-morph](https://github.com/taiga-family/ng-morph) - Code mutations in your project or schematics were never easier than now.
 * [ngx-libs](https://github.com/eneajaho/ngx-libs) - Angular Libraries Support lists community libs support for each Angular version.
 * [fast-facts/ng-update](https://github.com/fast-facts/ng-update) - A GitHub Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
-* [npx-app-updater](https://github.com/DSI-HUG/ngx-app-updater) - On deployment of a new version, this library alerts users to available updates.
+* [npx-app-updater](https://github.com/DSI-HUG/ngx-app-updater) - Alerts users to available updates when a new version is deployed.
 * [ngx-update-app](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 * [Angular Caniuse](https://www.dolmen.tools/en/angular/caniuse/explorer) - Track Angular features from preview to stable stages.
 * [ngx-boomer](https://github.com/angular-sanctuary/ngx-boomer) - This project is a straightforward utility designed to enforce rules that preserve Angular's previous naming conventions in Angular 20.
@@ -519,7 +519,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@configcat-labs/feature-flags-in-angular-sample-app](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
 * [featurit-sdk-angular](https://github.com/featurit/featurit-sdk-angular) - Angular wrapper of the JavaScript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
 * [flagpole](https://www.npmjs.com/package/@flagpole/angular) - Angular SDK for the [Flagpole](https://useflagpole.dev/) feature flag management system.
-* [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash, offering reactive, type-safe, zero‑config flag management.
+* [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash; reactive and type-safe flag management with minimal setup.
 
 ### GraphQL
 
@@ -583,7 +583,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-dynamic-mf](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 * [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - Plugin integrating Module Federation with Angular CLI for loading micro frontends or plugins.
 * [webpack-module-federation-with-angular](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
-* [Vite-module-federation-angular-test](https://github.com/Seifenn/vite-module-federation-angular-test) - This repo tests [Module Federation Vite](https://github.com/module-federation/vite) with Angular and AnalogJS (via [@brandonroberts/angular-vite](https://github.com/brandonroberts/angular-vite)), and explores SSR with an AnalogJS host—though the plugin isn’t SSR‑compatible.
+* [Vite-module-federation-angular-test](https://github.com/Seifenn/vite-module-federation-angular-test) - Tests [Module Federation Vite](https://github.com/module-federation/vite) with Angular and AnalogJS (via [@brandonroberts/angular-vite](https://github.com/brandonroberts/angular-vite)); explores SSR with an AnalogJS host (plugin SSR support may vary).
 * [mfe-crossframework](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 * [npm-mfe-live-reload](https://www.npmjs.com/package/npm-mfe-live-reload) - This tool auto-reloads the shell in development mode when remote microfrontends change.
 * [ngx-remote-component](https://github.com/eurusik/ngx-remote-component) - An Angular library for loading remote components dynamically in Nx workspaces.
@@ -592,7 +592,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Moon](https://moonrepo.dev/docs/guides/examples/angular) - A Rust-based build and monorepo management tool for the web.
 * [Nx](https://github.com/nrwl/nx) - A build system with integrated tools and advanced CI features for maintaining and scaling monorepos locally and in CI.
-* [Turbo](https://github.com/vercel/turbo) - An incremental Rust-based bundler for JavaScript and TypeScript, including Turbopack and Turborepo.
+* [Turbo](https://github.com/vercel/turbo) - Turbopack (Rust bundler) and Turborepo (build system/monorepo tools) for JavaScript and TypeScript.
 
 ### Server-Side Rendering
 
@@ -666,7 +666,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angulartics2](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
 * [@blue-cardinal/ngx-google-analytics](https://github.com/blue-cardinal/ngx-google-analytics) - This package provides a module that injects the Google Analytics tag manager script into your Angular project. It provides some guardrails against including the tag manager script in a dev environment.
 * [clickstream-analytics-on-aws-web-sdk](https://github.com/aws-solutions/clickstream-analytics-on-aws-web-sdk) - [Clickstream Web SDK](https://aws-solutions.github.io/clickstream-analytics-on-aws/en/latest/sdk-manual/web/) enables easy collection of browser clickstream data to AWS via the provided data pipeline.
-* [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - The only platform offering full insights into customer digital journeys to boost conversion, retention, and satisfaction.
+* [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Product analytics for tracking customer journeys, conversion, and retention.
 * [litlyx](https://github.com/Litlyx/litlyx) - A dev-friendly, open-source analytics tool for JavaScript frameworks—set up in under 30 seconds with one line of code!
 * [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
 * [ngx-amplitude](https://github.com/th3n00bc0d3r/ngx-amplitude) - An Angular 18+ library for easy integration of [Amplitude](https://amplitude.com/) analytics, with global init and event logging service.
@@ -680,14 +680,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-tableau](https://www.npmjs.com/package/ngx-tableau) - A module that allows you to embed a Tableau report in an Angular webapp.
 * [oculr-ngx](https://github.com/Progressive-Insurance/oculr-ngx) - An analytics library that makes collecting data in an Angular app simple.
 * [opentelemetry-angular-interceptor](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
-* [plausible](https://github.com/plausible/analytics) - Lightweight, open-source, privacy-friendly analytics (under 1 KB) that works on SPAs without extra setup—see [SPA support](https://plausible.io/docs/spa-support).
+* [plausible](https://github.com/plausible/analytics) - Lightweight, open‑source, privacy‑friendly analytics with SPA support—see [SPA support](https://plausible.io/docs/spa-support).
 * [rybbit](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
 
 ### Developer Tools
 
 * [ngx-html-syntax](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [Sublime Text](https://www.sublimetext.com/).
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
-* [Angular Dev Tools](https://angular.dev/tools/devtools) - A browser extension that provides debugging and profiling capabilities for Angular applications.
+* [Angular Dev Tools](https://angular.dev/tools/devtools) - Browser extension for debugging and profiling Angular applications.
 * [VS Code NG Language Service](https://github.com/angular/vscode-ng-language-service) - This extension provides a rich editing experience for Angular templates.
 * [Redux DevTools](https://github.com/reduxjs/redux-devtools/) - Can be used in combination with `@ngrx/store-devtools` to inspect the state of your NgRx app.  
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
@@ -739,8 +739,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Generators and Scaffolding
 
-* [goxygen](https://github.com/Shpota/goxygen) - Generates Go backend code, links it with front-end, and provides Docker and docker-compose files for development and production.
-* [abp](https://github.com/abpframework/abp) - Open-source `ASP.NET` Core framework for building enterprise apps with best practices and opinionated architecture.
+* [goxygen](https://github.com/Shpota/goxygen) - Generates a Go backend, links a front‑end, and provides Docker files for dev and prod.
+* [abp](https://github.com/abpframework/abp) - Open‑source ASP.NET Core framework for enterprise apps with opinionated architecture.
 * [LymeStack](https://www.lymestack.com/) - A full-stack web app template and toolset that helps small teams quickly build and enhance applications.
 * [spiderly](https://github.com/filiptrivan/spiderly) - `.NET` (C#) code generator that transforms an EF Core model into a fully customizable `.NET` (C#) and Angular web app.
 * [generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
@@ -1422,13 +1422,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-quill-wrapper](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
 * [ngx-tinymce](https://github.com/cipchk/ngx-tinymce) - `TinyMCE` components built with Angular.
 * [formly-editor](https://github.com/sesan07/formly-editor) - A configurable editor for `ngx-formly` forms.
-* [MagnetarQuill](https://github.com/scherenhaenden/MagnetarQuill) - An extensible Angular WYSIWYG editor for rich text, media, and tables, featuring plugin architecture, cross-browser support, and customizable themes.
+* [MagnetarQuill](https://github.com/scherenhaenden/MagnetarQuill) - Extensible Angular WYSIWYG editor for rich text, media, and tables with a plugin architecture.
 * [ngx-editorjs2](https://github.com/Ba5ik7/ngx-editorjs2) - A highly extensible block-style editor inspired by [Editor.js](https://editorjs.io/), enabling rich text creation with customizable blocks and Angular's reactive features. [ngx-editor-js2-blocks](https://github.com/Ba5ik7/ngx-editor-js2-blocks) offers custom blocks for additional content types.
 * [ngx-traak](https://github.com/mouhamadalmounayar/ngx-traak) - A WYSIWYG Angular editor library built on top of ProseMirror, built for standalone components and highly customizable with plugins.
 * [ngx-summernote](https://github.com/lula/ngx-summernote) - [Summernote](https://github.com/summernote/summernote) editor for Angular.
 * [angular-rich-text-editor](https://github.com/manishpatidar028/angular-rich-text-editor) - Angular wrapper for [RichTextEditor](https://richtexteditor.com/) with license key support and `ControlValueAccessor`.
 * [quill-table-better-dooooit](https://www.npmjs.com/package/quill-table-better-dooooit) - A module that enhances the table functionality of `Quill`.
-* [ngx-wysicat](https://github.com/michalgrzegorczyk-dev/ngx-wysicat) - Build beautiful, structured documents with `ngx-wysicat`, combining block editing, advanced formatting, and plugins with `Quill`. Perfect for collaborative apps and notes.
+* [ngx-wysicat](https://github.com/michalgrzegorczyk-dev/ngx-wysicat) - Block‑editing and advanced formatting on top of Quill; plugins for structured documents.
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) - A robust Angular library for building interactive diagrams, Node-based editors, and visual programming interfaces.
 
 ### File Upload

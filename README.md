@@ -860,14 +860,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@badisi/ngx-auth](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
 * [corbado](https://www.corbado.com/#signup-init) - [Integrate](https://docs.corbado.com/corbado-complete/frontend-integration/angular) Corbado with Angular to use passkeys for authentication.
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
-* [frontegg-angular](https://github.com/frontegg/frontegg-angular) - [Frontegg](https://frontegg.com) is a web platform that helps SaaS companies quickly set up and integrate scalable, brand-aware features. Get started with this [quickstart guide](https://developers.frontegg.com/sdks/frontend/angular/hosted-login).
-* [FusionAuth Angular SDK](https://fusionauth.io/docs/sdks/angular-sdk) - [FusionAuth](https://fusionauth.io/) SDK manages authentication in your Angular app, enabling login, registration, logout, and automatic refresh token management.
+* [frontegg-angular](https://github.com/frontegg/frontegg-angular) - Hosted login SDK for Angular; see the [quickstart](https://developers.frontegg.com/ciam/sdks/frontend/angular/hosted-login).
+* [FusionAuth Angular SDK](https://fusionauth.io/docs/sdks/angular-sdk) - Angular SDK for login/registration, logout, and refresh token handling.
 * [hanko](https://github.com/teamhanko/hanko) - Follow this [quickstart guide](https://docs.hanko.io/quickstarts/frontend/angular) to integrate [Hanko](https://www.hanko.io/), an open source authentication and user management solution, into your Angular app.
-* [hexaeight-sessions](https://www.npmjs.com/package/hexaeight-sessions) - [HexaEight Sessions](https://docs.hexaeight.com/HexaEight-Sessions/003-HexaEightSessions/) is an NPM library that simplifies session management and authentication for React, Angular, and Vue web apps.
+* [hexaeight-sessions](https://www.npmjs.com/package/hexaeight-sessions) - Session/auth management library for Angular, React, and Vue.
 * [keycloak-angular](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
 * [kinde-angular](https://github.com/luukhaijes/kinde-angular) - Angular wrapper around the [Kinde](https://kinde.com/) TypeScript [SDK](https://docs.kinde.com/developer-tools/sdks/backend/typescript-sdk/).
 * [lbx-jwt](https://github.com/Service-Soft/lbx-jwt) - Provides JWT authentication for loopback applications. Includes storing roles inside tokens and handling refreshing. Built-in reuse detection.
-* [Logto](https://logto.io/) - Open-source Auth0 alternative supporting OIDC, OAuth 2.0, and SAML for authentication and authorization. Use this [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites) to integrate Logto with Angular.
+* [Logto](https://logto.io/) - Open‑source Auth0 alternative (OIDC/OAuth2/SAML). Angular [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites).
 * [Melody Auth](https://github.com/ValueMelody/melody-auth) - Its [SDK](https://www.npmjs.com/package/@melody-auth/angular) enables seamless Angular–melody auth integration with automated state, redirects, and token handling.
 * [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
 * [msal-angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular) - MSAL for Angular allows Angular apps to authenticate users via [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), Microsoft accounts, and social providers through [Azure AD B2C](https://docs.microsoft.com/azure/active-directory-b2c/active-directory-b2c-overview#identity-providers), and to acquire tokens for [Microsoft Cloud](https://www.microsoft.com/enterprise) services like [Microsoft Graph](https://graph.microsoft.io).
@@ -890,8 +890,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [google-pay-button](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
 * [izipay](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
 * [ngxsmk-stripe](https://github.com/toozuuu/ngxsmk-stripe) - Angular plugin for integrating Stripe payments (one-time & subscriptions) with theme customization, event emitters, and standalone components.
-* [ngx-stripe](https://github.com/richnologies/ngx-stripe) - A library that seamlessly integrates [Stripe Elements](https://stripe.com/docs/stripe-js) and payment processing into Angular apps, using [StripeJS](https://stripe.com/docs/js) for payments.
-* [ngx-supabase-stripe](https://github.com/dotted-labs/ngx-supabase-stripe) - An Angular library that integrates Supabase and Stripe, offering ready-to-use components for payments and subscriptions.
+* [ngx-stripe](https://github.com/richnologies/ngx-stripe) - Angular bindings for [StripeJS](https://stripe.com/docs/js) and [Stripe Elements](https://stripe.com/docs/stripe-js).
+* [ngx-supabase-stripe](https://github.com/dotted-labs/ngx-supabase-stripe) - Ready‑made Angular components for Supabase + Stripe payments/subscriptions.
 * [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
 
 ### Role-Based Access Control
@@ -1096,7 +1096,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [LightNap](https://github.com/SharpLogic/LightNap) - A full-stack SPA starter kit with `ASP.NET` Core Identity, JWT management, and admin identity features.
 * [ngx-package-starter](https://github.com/uzenith360/ngx-package-starter) - An Angular library NPM starter (or example) project to ease setup of Angular libraries as NPM packages from your GitHub repo.
 * [@cristobalgvera/angular-template](https://github.com/cristobalgvera/angular-template) - Project to easily start an Angular project using Server Side Rendering, Angular Material, and Tailwind CSS. It also includes development tools to easy your workflow.
-* [angular-boilerplate](https://github.com/hofiorg/angular-boilerplate) - A modern web app boilerplate with Angular 18, Bootstrap, Angular Material, NgRx, and Spring Boot REST API, featuring modular architecture and advanced ngx-datatable support.
+* [angular-boilerplate](https://github.com/hofiorg/angular-boilerplate) - Angular 18 + Bootstrap/Material + NgRx + Spring Boot starter with modular architecture and ngx-datatable.
 * [nx-starter](https://github.com/touhidrahman/nx-starter) - Nx powered starter project for Angular with SpartanUI.
 * [angular-material-tailwind-playwright-starter](https://github.com/adrian-taralunga/angular-material-tailwind-playwright-starter) - Angular 19 with Material, Tailwind, Jest, Playwright, and NGXS.
 * [Angspire](https://github.com/tbarracha/Angspire) - Angular + `.NET` monorepo template with built-in auth, themes, and a scalable foundation for faster development.
@@ -1111,7 +1111,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-lib-starter-kit](https://github.com/r3zafa/ngx-lib-starter-kit) - An Angular library boilerplate with pre-configured structure for scalable, maintainable development.
 * [tailwind-angular-starter](https://github.com/themesberg/tailwind-angular-starter) - Free and open-source starter project to help you get started with Angular, Tailwind CSS, and the [Flowbite UI components](https://github.com/themesberg/flowbite-angular).
 * [ngx-app-starter-kit](https://github.com/r3zafa/ngx-app-starter-kit) - A modern Angular 18+ starter kit with Docker, devcontainer, and Angular Material integration for rapid, scalable web app development.
-* [signal-admin](https://github.com/codebangla/signal-admin) - A modern Angular 20 admin panel with Angular Material and Tailwind CSS, featuring responsive design, collapsible sidebar, user management, and UI components.
+* [signal-admin](https://github.com/codebangla/signal-admin) - Angular 20 admin panel (Material + Tailwind) with responsive layout, sidebar, user management, and UI components.
 * [ngXpress](https://github.com/angularcafe/ngXpress) - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
 * [spartan-stack-starter](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
 * [jet](https://github.com/karmasakshi/jet) - Angular starter-kit for building quality web apps fast.

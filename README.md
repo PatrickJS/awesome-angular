@@ -215,6 +215,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [actions-angular-deploy](https://github.com/OrthoFi/actions-angular-deploy)
 * [actions-angular-ci-cd](https://github.com/OrthoFi/actions-angular-ci-cd)
 * [SST](https://sst.dev/) - A framework that makes it easy to build and automate modern full-stack applications.
+* [ngx-config-orchestrator](https://github.com/xhani-manolis-trungu/ngx-config-orchestrator) - Angular library for runtime configuration via external JSON, enabling “Build Once, Deploy Anywhere.”
 
 ### Desktop Applications
 

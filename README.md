@@ -1576,6 +1576,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mat-errors](https://github.com/Totati/ngx-mat-errors) - Offers a simple and adaptable approach to presenting error messages within a `MatFormField`.
 * [oop-validator](https://github.com/visaruruqi/oop-validator) - Powerful, flexible validation library for any UI framework—Vue, React, Angular, and more—for complete front-end validation.
 * [ngx-cross-field-validation](https://github.com/soc221b/ngx-cross-field-validation) - Angular library providing conditional, equality, inequality, and sequence-based validations on form controls.
+* [validauth](https://github.com/adiksuu/validauth) - Lightweight, powerful authentication validators for JavaScript applications.
 
 ### Icons
 

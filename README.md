@@ -903,6 +903,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-can-i](https://github.com/kopy011/ngx-can-i) - A package for Angular developers to help them deal with permissions.
 * [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your Angular applications(AOT, lazy modules compatible).
 * [ngx-role-accessor](https://github.com/IroshanRathnayake/ngx-role-accessor) - Enterprise-grade Angular Role-Based Access Control (RBAC) Library.
+* [ngx-signal-permissions](https://github.com/levart/ngx-signal-permissions) - A modern, signal-based Angular library for managing permissions and roles with full TypeScript support.
 * [ngx-smart-permissions](https://github.com/rami-sheikha-dev/ngx-smart-permissions) - A lightweight Angular library for role and permission-based access control, supporting standalone components and NgModules.
 * [permit](https://www.permit.io/) - An authorization-as-a-service solution that can be used with [Angular](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular).
 

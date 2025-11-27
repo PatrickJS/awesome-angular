@@ -1485,6 +1485,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-autosave-forms](https://github.com/zinetnorf/ngx-autosave-forms) - Autosave form values in localStorage using template forms or reactive forms in Angular.
 * [ngx-better-forms](https://github.com/Bioroxx/ngx-better-forms) - Streamlined, maintainable reactive form utilities.
 * [ngx-query-builder](https://github.com/solidexpert-ltd/ngx-query-builder) - Angular query builder with standalone components, sensible defaults, templating hooks, and full form support for domain-specific editors.
+* [ngx-mat-form](https://github.com/Salromag/ngx-mat-form) - Angular library that uses Reactive Forms and Angular Material to dynamically generate configurable forms from a schema.
 
 ### Form Controls
 

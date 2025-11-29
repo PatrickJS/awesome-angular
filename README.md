@@ -1936,6 +1936,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-storage](https://github.com/edisonaugusthy/ng-storage) - A modern, reactive Angular service for browser storage management with AES-GCM encryption, TTL, change notifications, and Apollo-style providers.
 * [convex-angular](https://github.com/azhukau-dev/convex-angular) - The Angular client for Convex.
 * [secure-client-store](https://github.com/msaadart/secure-client-store) - Universal TypeScript library for AES-256-GCM client-side encryption (works in browsers & Node.js).
+* [ngx-persist](https://github.com/khvedela/ngx-persist) - A type‑safe, signal‑based persistent state utility for Angular 19+, syncing seamlessly with localStorage, sessionStorage, IndexedDB, or custom backends.
 
 ### Tooltips
 

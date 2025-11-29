@@ -1432,6 +1432,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [quill-table-better-dooooit](https://www.npmjs.com/package/quill-table-better-dooooit) - A module that enhances the table functionality of `Quill`.
 * [ngx-wysicat](https://github.com/michalgrzegorczyk-dev/ngx-wysicat) - Block‑editing and advanced formatting on top of Quill; plugins for structured documents.
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) - A robust Angular library for building interactive diagrams, Node-based editors, and visual programming interfaces.
+* [armor-editor](https://github.com/technicults/armor-editor) - A secure, lightweight rich text editor with premium features—built to integrate seamlessly into Angular applications.
 
 ### File Upload
 

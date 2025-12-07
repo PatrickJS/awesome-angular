@@ -241,7 +241,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [npx-app-updater](https://github.com/DSI-HUG/ngx-app-updater) - Alerts users to available updates when a new version is deployed.
 * [ngx-update-app](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 * [Angular Caniuse](https://www.dolmen.tools/en/angular/caniuse/explorer) - Track Angular features from preview to stable stages.
-* [ngx-boomer](https://github.com/angular-sanctuary/ngx-boomer) - A straightforward utility designed to enforce rules that preserve Angular's previous naming conventions in Angular 20.
+* [ngx-boomer](https://github.com/angular-sanctuary/ngx-boomer) - A straightforward utility to enforce legacy naming‑convention rules for Angular 20 projects.
 * [angular-updater](https://github.com/stardyn/angular-updater) - A lightweight solution for managing version control and updates in Angular apps with seamless Service Worker integration.
 
 ## Angular Pulse
@@ -418,7 +418,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Certification Programs
 
 * [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
-* [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - The #1 provider of hands-on instructor-led classroom training in Canada!
+* [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Hands‑on, instructor‑led Angular training in Canada.
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 * [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
 * [Simplilearn](https://www.simplilearn.com/angular-certification-training-course) - Angular Certification Training Course.
@@ -1140,7 +1140,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Animations
 
-* [tsparticles](https://github.com/tsparticles/angular/#readme) - A component to easily add Particles animations to your Angular application.
+* [tsparticles](https://github.com/tsparticles/angular) - A component to easily add Particles animations to your Angular application.
 * [ngx-confetti-explosion](https://github.com/ChellappanRajan/ngx-confetti-explosion) - Confetti in Angular.
 * [ngx-lottie](https://github.com/ngx-lottie/ngx-lottie) - Fully customizable Angular component for rendering After Effects animations. Compatible with Angular 9+.
 * [angular-animations-explorer](https://github.com/williamjuan027/angular-animations-explorer) - A resource to showcase the different animations that you could do with Angular.
@@ -2243,9 +2243,9 @@ for the creation of web applications developed with Angular.
 * [Bloomreach Angular SDK](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
 * [ng-storyblok](https://github.com/geometricpanda/ng-storyblok) - A simple way to integrate [Storyblok](https://www.storyblok.com/) into your Angular application.
 * [ngx-notion-cms](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
-* [ngx-wagmi](https://github.com/thanhhoa214/ngx-wagmi) - Connect Angular apps to Blockchain with wallet and contract tools.
+* [ngx-wagmi](https://github.com/thanhhoa214/ngx-wagmi) - Connect Angular apps to Blockchain wallets and contract interactions.
 * [Otter](https://github.com/AmadeusITGroup/otter) - Highly modular Angular framework with units for localization, testing, customization, and CMS-driven dynamic configuration.
-* [HyperFormula](https://hyperformula.handsontable.com/guide/integration-with-angular.html#demo) - Browser-integrated, headless spreadsheet in TypeScript for formula parsing and evaluation.
+* [HyperFormula](https://hyperformula.handsontable.com/guide/integration-with-angular.html#demo) - Headless spreadsheet engine in TypeScript for formula parsing/evaluation, with an Angular integration demo.
 * [fusio-sdk-javascript-angular](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK enables Angular apps to integrate with [Fusio](https://www.fusio-project.org/), used by projects like the [backend](https://github.com/apioo/fusio-apps-backend) and [developer](https://github.com/apioo/fusio-apps-developer).
 * [limitless-angular](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on `Sanity.io` integration.
 * [angular-rsocket](https://github.com/saleweaver/angular-rsocket) - Connect to an [RSocket](https://rsocket.io/) server, handle streams/messages, and manage tokens via a provider.

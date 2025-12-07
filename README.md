@@ -241,7 +241,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [npx-app-updater](https://github.com/DSI-HUG/ngx-app-updater) - Alerts users to available updates when a new version is deployed.
 * [ngx-update-app](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 * [Angular Caniuse](https://www.dolmen.tools/en/angular/caniuse/explorer) - Track Angular features from preview to stable stages.
-* [ngx-boomer](https://github.com/angular-sanctuary/ngx-boomer) - This project is a straightforward utility designed to enforce rules that preserve Angular's previous naming conventions in Angular 20.
+* [ngx-boomer](https://github.com/angular-sanctuary/ngx-boomer) - A straightforward utility designed to enforce rules that preserve Angular's previous naming conventions in Angular 20.
 * [angular-updater](https://github.com/stardyn/angular-updater) - A lightweight solution for managing version control and updates in Angular apps with seamless Service Worker integration.
 
 ## Angular Pulse
@@ -418,7 +418,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Certification Programs
 
 * [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
-* [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
+* [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - The #1 provider of hands-on instructor-led classroom training in Canada!
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 * [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
 * [Simplilearn](https://www.simplilearn.com/angular-certification-training-course) - Angular Certification Training Course.
@@ -482,11 +482,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Deborah Kurata](https://www.youtube.com/@deborah_kurata)
 * [BrandonRobertsDev](https://www.youtube.com/@BrandonRobertsDev)
 * [Decoded Frontend](https://www.youtube.com/@DecodedFrontend)
-* [Galaxies_dev](https://www.youtube.com/@galaxies_dev)
 * [Zoaib Khan](https://www.youtube.com/@ZoaibKhan)
 * [AyyazTech](https://www.youtube.com/@AyyazTech)
 * [NivekDev](https://www.youtube.com/@nivekDev)
-* [LeelaWebDev](https://www.youtube.com/@LeelaWebDev)
 * [WebTechTalk](https://www.youtube.com/@WebTechTalk)
 * [Babatunde Lamidi](https://www.youtube.com/@babatundelmd)
 * [TechStackNation](https://www.youtube.com/@techstacknation)
@@ -495,7 +493,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Learning Partner](https://www.youtube.com/@LearningPartnerDigital)
 * [Code Deck](https://www.youtube.com/@codedeck)
 * [Igor Sedov](https://www.youtube.com/@theigorsedov)
-* [Demystify Frontend](https://www.youtube.com/@DemystifyFrontend)
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 * [Brian Treese](https://www.youtube.com/@briantreese)
 * [JSgigs](https://www.youtube.com/@jsgigs4909)
@@ -509,10 +506,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Feature Flags
 
-* [OpenFeature Angular SDK](https://openfeature.dev/docs/reference/technologies/client/web/angular) - [OpenFeature](https://openfeature.dev/) is a vendor-agnostic, community-driven API specification for feature flagging.
+* [OpenFeature Angular SDK](https://openfeature.dev/docs/reference/technologies/client/web/angular) - A vendor-agnostic, community-driven API specification for feature flagging.
 * [@devcycle/openfeature-angular-provider](https://www.npmjs.com/package/@devcycle/openfeature-angular-provider) - [DevCycle](https://docs.devcycle.com/sdk/client-side-sdks/angular/) supports the OpenFeature Angular SDK.
 * [@openfeature/go-feature-flag-web-provider](https://www.npmjs.com/package/@openfeature/go-feature-flag-web-provider) - [GO Feature Flag](https://gofeatureflag.org/) provider allows you to [connect](https://gofeatureflag.org/docs/sdk/client_providers/openfeature_angular) to your GO Feature Flag instance with the `@openfeature/web-sdk`.
-* [ngx-growthbook](https://github.com/carlcrede/ngx-growthbook-workspace/tree/master/projects/ngx-growthbook) - An Angular wrapper for [GrowthBook](https://www.growthbook.io/), providing feature flags and A/B testing capabilities with full TypeScript support.
+* [ngx-growthbook](https://github.com/carlcrede/ngx-growthbook-workspace/tree/master/projects/ngx-growthbook) - An Angular wrapper for [GrowthBook](https://www.growthbook.io/), providing feature flags and A/B testing capabilities.
 * [Flagsmith](https://www.flagsmith.com/) - Ship Faster and Control Releases with Feature Flag Management.
 * [angular-unleash-proxy-client](https://github.com/Karelics/angular-unleash-proxy-client) - Angular wrapper for [unleash](https://www.getunleash.io/) and [unleash-proxy-client-js](https://github.com/Unleash/unleash-proxy-client-js).
 * [ngx-version-view](https://github.com/zenkiet/ngx-version-view) - A powerful Angular library that enables version-aware component rendering for seamless feature toggling based on application versions.
@@ -2246,9 +2243,9 @@ for the creation of web applications developed with Angular.
 * [Bloomreach Angular SDK](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
 * [ng-storyblok](https://github.com/geometricpanda/ng-storyblok) - A simple way to integrate [Storyblok](https://www.storyblok.com/) into your Angular application.
 * [ngx-notion-cms](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
-* [ngx-wagmi](https://github.com/thanhhoa214/ngx-wagmi) - An essential toolkit to connect your Angular app to the Blockchain, bringing powerful wallet and contract interactions to your fingertips.
+* [ngx-wagmi](https://github.com/thanhhoa214/ngx-wagmi) - Connect Angular apps to Blockchain with wallet and contract tools.
 * [Otter](https://github.com/AmadeusITGroup/otter) - Highly modular Angular framework with units for localization, testing, customization, and CMS-driven dynamic configuration.
-* [HyperFormula](https://hyperformula.handsontable.com/guide/integration-with-angular.html#demo) - A headless spreadsheet built in TypeScript, serving as both a parser and evaluator of spreadsheet formulas. It can be integrated into your browser.
+* [HyperFormula](https://hyperformula.handsontable.com/guide/integration-with-angular.html#demo) - Browser-integrated, headless spreadsheet in TypeScript for formula parsing and evaluation.
 * [fusio-sdk-javascript-angular](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK enables Angular apps to integrate with [Fusio](https://www.fusio-project.org/), used by projects like the [backend](https://github.com/apioo/fusio-apps-backend) and [developer](https://github.com/apioo/fusio-apps-developer).
 * [limitless-angular](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on `Sanity.io` integration.
 * [angular-rsocket](https://github.com/saleweaver/angular-rsocket) - Connect to an [RSocket](https://rsocket.io/) server, handle streams/messages, and manage tokens via a provider.
@@ -2299,8 +2296,6 @@ for the creation of web applications developed with Angular.
 
 ## Angular-Inspired Solutions
 
-> These repositories showcase Angular-based projects and tools that demonstrate its core concepts driving innovative, adaptable solutions across various applications.
-
 * [angular-style-injector](https://github.com/emmat-york/angular-style-injector) - A lightweight dependency injection container inspired by Angular's Injector.
 * [arky-js](https://www.npmjs.com/package/arky-js) - Annotation-based framework for AWS Lambda/API Gateway, inspired by Angular/NestJS, with decorators for modules, controllers, and services.
 * [css-fx-layout](https://github.com/philmtd/css-fx-layout) - A responsive SCSS flexbox library inspired by Angular Flex-Layout.
@@ -2329,11 +2324,11 @@ for the creation of web applications developed with Angular.
 * [ts-react-directives](https://github.com/skycodr/ts-react-directives) - A small React/TypeScript library designed to mimic Angular directives.
 * [UnReact.js](https://github.com/arnvjshi/unreactpjs) - A modern framework combining the best of Angular and React for enhanced component communication.
 * [use-vue-service](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
-* [vyuha](https://github.com/RamanSharma100/vyuha) - A Node.js Template Engine Inspired by EJS, Angular, and Laravel Blade.
+* [vyuha](https://github.com/RamanSharma100/vyuha) - A Node.js template engine inspired by EJS, Angular, and Laravel Blade.
 
 ## External Lists
 
-* [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - Exhaustive list of Angular ecosystem resources—your next step if you haven’t found what you need.
+* [awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - Exhaustive Angular resources—your fallback if you still need more.
 * [awesome-angular](https://github.com/DaanDeSmedt/awesome-angular)
 * [Angular Enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
-* [framework.dev](https://angular.framework.dev/) - Search, compare, and discover top Angular libraries and community-driven resources in Angular.
+* [framework.dev](https://angular.framework.dev/)

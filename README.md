@@ -568,6 +568,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [my-http-resource](https://github.com/consoleLogMyAss/my-http-resource/tree/main/projects/my-http-resource) - A reactive Angular HttpClient wrapper that streamlines requests by managing state, URL parameters, and configuration.
 * [luminara](https://github.com/miller-28/luminara) - A modern, universal HTTP client built on native fetch, designed for reliable, scalable, and clear architecture.
 * [ngx-cachr](https://github.com/nulzo/ngx-cachr) - A slim, signal-based caching library for Angular.
+* [ngx-data-polling](https://github.com/antonio-spinelli/ngx-data-polling) - Angular 20 library with utilities to handle data polling in a declarative and type-safe way.
 
 ### Micro-Frontends
 

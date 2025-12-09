@@ -1666,6 +1666,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-zoomable](https://github.com/json-k/ngx-zoomable) - A zoomable, pannable container component for Angular applications.
 * [ngx-material-drawer](https://github.com/ansarisufiyan777/ngx-material-drawer) - Configurable Angular Material Drawer and Toolbar.
 * [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Simple Angular Grid Module for modern grid layouts.
+* [lightweight-grid-layout](https://github.com/liketiger/lightweight-grid-layout) - A headless, dependency-free grid layout library for JavaScript/TypeScript that works with any framework or none, leaving rendering and styling to users.
 
 ### Loaders
 

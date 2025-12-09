@@ -632,6 +632,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official llms-full.txt file](https://angular.dev/context/llm-files/llms-full.txt)
 * [Official Angular Examples Repo](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
 * [abbi-ng-ai-image-descriptor](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
+* [agentbridge](https://github.com/ayoubachak/agentbridge) - A framework that standardizes how AI agents discover, interact with, and control application components.
 * [AGENT.md](https://ampcode.com/AGENT.md#tool-integration) - The Universal Agent Configuration File.
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool for AI that installs and configures rules to guide agents in technology stack best practices.
 * [ai-friendly-docs](https://github.com/gergelyszerovay/ai-friendly-docs) - Angular AI-optimized documentation, enhancing accessibility and response quality for Large Language Models.

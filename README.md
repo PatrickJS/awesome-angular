@@ -1437,6 +1437,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-wysicat](https://github.com/michalgrzegorczyk-dev/ngx-wysicat) - Block‑editing and advanced formatting on top of Quill; plugins for structured documents.
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) - A robust Angular library for building interactive diagrams, Node-based editors, and visual programming interfaces.
 * [armor-editor](https://github.com/technicults/armor-editor) - A secure, lightweight rich text editor with premium features—built to integrate seamlessly into Angular applications.
+* [ngx-workflow](https://github.com/abdulkyume/ngx-workflow) - A powerful, highly customizable Angular library for building interactive node-based editors, flow charts, and diagrams.
 
 ### File Upload
 

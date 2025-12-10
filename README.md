@@ -569,6 +569,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [luminara](https://github.com/miller-28/luminara) - A modern, universal HTTP client built on native fetch, designed for reliable, scalable, and clear architecture.
 * [ngx-cachr](https://github.com/nulzo/ngx-cachr) - A slim, signal-based caching library for Angular.
 * [ngx-data-polling](https://github.com/antonio-spinelli/ngx-data-polling) - Angular library with utilities to handle data polling in a declarative and type-safe way.
+* [ngx-soap](https://github.com/seyfer/ngx-soap) - A lightweight SOAP client built on [node‑soap](https://github.com/vpulim/node-soap), fully compatible with Angular’s signals, standalone components, and modern features.
 
 ### Micro-Frontends
 

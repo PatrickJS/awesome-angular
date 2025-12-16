@@ -1554,6 +1554,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [touchspin-angular](https://github.com/istvan-ujjmeszaros/touchspin-angular) - Angular adapter for the [TouchSpin](https://github.com/istvan-ujjmeszaros/touchspin) number input component with per-renderer support.
 * [ngxsmk-otp-input](https://github.com/toozuuu/ngxsmk-otp-input) - Lightweight standalone Angular 17+ OTP/PIN input with SCSS theming, autofill, masking, and reactive forms support.
 * [ngx-cron-editor](https://github.com/haavardj/ngx-cron-editor) - Graphical Angular 15+ cron builder with reactive forms integration and Material Design styling.
+* [ngx-otp-code-input](https://github.com/Swaraj55/otp-input) - An Angular OTP input component with extensive customization options, including masking, numeric-only input, and autofocus.
 
 ### JSON Forms
 

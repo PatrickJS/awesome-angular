@@ -1678,12 +1678,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [berg-layout](https://github.com/blidblid/berg-layout) - This monorepo contains versions of the [Berg Layout for Angular](https://www.npmjs.com/package/@berg-layout/angular), React, and Web Components.
 * [static-columns](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
 * [ngx-flex-layout](https://github.com/jtc10005/ngx-flex-layout) - Port of [Angular Flex Layout](https://github.com/angular/flex-layout) to provide support after EOL.
-* [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
+* [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - A tiny library for polymorphic templates in Angular.
 * [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 * [ngx-zoomable](https://github.com/json-k/ngx-zoomable) - A zoomable, pannable container component for Angular applications.
 * [ngx-material-drawer](https://github.com/ansarisufiyan777/ngx-material-drawer) - Configurable Angular Material Drawer and Toolbar.
 * [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Simple Angular Grid Module for modern grid layouts.
 * [lightweight-grid-layout](https://github.com/liketiger/lightweight-grid-layout) - A headless, dependency-free grid layout library for JavaScript/TypeScript that works with any framework or none, leaving rendering and styling to users.
+* [ng-flex-layout](https://github.com/alessiobianchini/ng-flex-layout) - Angular library that provides a responsive, flexible layout API built on Flexbox and mediaQuery observables.
 
 ### Loaders
 

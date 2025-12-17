@@ -1505,6 +1505,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-query-builder](https://github.com/solidexpert-ltd/ngx-query-builder) - Angular query builder with standalone components, sensible defaults, templating hooks, and full form support for domain-specific editors.
 * [ngx-mat-form](https://github.com/Salromag/ngx-mat-form) - Angular library that uses Reactive Forms and Angular Material to dynamically generate configurable forms from a schema.
 * [ng-forge](https://github.com/ng-forge/ng-forge) - A type‑safe, dynamic forms library built for Angular’s signal‑based forms.
+* [zignal](https://github.com/biyonik/zignal) - A type-safe Angular form library using signals and Zod validation, with Turkey-specific validators and multi-language support.
 
 ### Form Controls
 

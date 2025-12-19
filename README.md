@@ -655,6 +655,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert designs to clean Angular code in a click.
 * [Frontend AI](https://app.webcrumbs.ai/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
+* [glama](https://glama.ai/mcp/servers?query=angular) - Directory of MCP servers filtered for Angular-related entries.
 * [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) - The [Hashbrown](https://hashbrown.dev/) framework is for building joyful, AI-powered user experiences.
 * [mini-bard-palm2-angular](https://github.com/gsans/mini-bard-palm2-angular) - Result from this [step by step guide](https://medium.com/google-cloud/build-ai-powered-angular-apps-with-google-gemini-5bf5e905ca1d#f02a) on how to integrate Google Gemini with Angular.

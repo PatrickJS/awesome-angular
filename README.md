@@ -1352,6 +1352,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-vertical-timeline](https://github.com/callyafiune/ngx-vertical-timeline) - An Angular component for creating a responsive vertical timeline.
 * [ngx-timeago](https://github.com/ihym/ngx-timeago) - Dynamic timestamp rendering in Angular.
 * [ngx-chronica](https://github.com/klajdm/ngx-chronica) - A comprehensive Angular library providing six specialized date and time picker components that fill critical gaps in the Angular ecosystem.
+* [ngx-mat-multi-date-picker](https://github.com/ali79heidari/ngx-mat-multi-date-picker) - A comprehensive, standalone Angular library providing high-quality Gregorian, Jalali (Persian), and Hijri (Islamic) date pickers.
 
 ### Directives
 

@@ -2165,6 +2165,7 @@ for the creation of web applications developed with Angular.
 
 * [angular-game-of-life](https://github.com/Astgenne4922/angular-game-of-life) - Background component playing Conway's Game of Life for Angular 19+.
 * [angular-tag-cloud-module](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
+* [ng-snowfall](https://github.com/Leksip/ng-snowfall) - An interactive Angular snowfall component where snowflakes respond to mouse movement to create a realistic wind effect.
 * [ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 * [@craftedcode-dev/ngx-analog-clock](https://github.com/craftedcode-dev/ngx-analog-clock) - Analog clock component for Angular applications with timezone support, custom themes, and extensive styling options.
 * [@DerStimmler/ngx-analog-clock](https://github.com/DerStimmler/ngx-analog-clock) - Customizable analog clock for your Angular app.

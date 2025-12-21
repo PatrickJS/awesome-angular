@@ -2087,6 +2087,7 @@ for the creation of web applications developed with Angular.
 
 ### UI Libraries built on Tailwind CSS
 
+* [@pegasusheavy/ngx-tailwindcss](https://github.com/PegasusHeavyIndustries/ngx-tailwindcss) - A customizable Angular UI library for Tailwind CSS 4+, offering accessible, beautifully designed components with full styling control.
 * [angular-superui](https://github.com/bhaimicrosoft/angular-superui) - Comprehensive Angular UI library with 50+ production‑ready components, built on Tailwind CSS v4, TypeScript, and Angular 17+ Signals.
 * [angular-tailwind-ui](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.

@@ -1609,6 +1609,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [oop-validator](https://github.com/visaruruqi/oop-validator) - Powerful, flexible validation library for any UI framework—Vue, React, Angular, and more—for complete front-end validation.
 * [ngx-cross-field-validation](https://github.com/soc221b/ngx-cross-field-validation) - Angular library providing conditional, equality, inequality, and sequence-based validations on form controls.
 * [validauth](https://github.com/adiksuu/validauth) - Lightweight, powerful authentication validators for JavaScript applications.
+* [ngx-validation-messages](https://github.com/lagoshny/ngx-validation-messages) - This module simplifies the display of form validator messages by using a single component.
 
 ### Icons
 

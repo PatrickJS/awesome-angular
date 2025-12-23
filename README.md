@@ -1834,6 +1834,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@farfadev/ngx-lib](https://github.com/farfadev/ngx-lib) - Repository of Angular libraries from [Farfadev](https://github.com/farfadev), usable in any application.
 * [ngx-security](https://github.com/xbranch/ngx-security) - A modular Angular library for authentication, roles, and permissions management.
 * [ng-catbee](https://github.com/catbee-technologies/ng-catbee) - A collection of Angular libraries developed and maintained by the [Catbee](https://catbee.in/docs/@ng-catbee/) team.
+* [dfx-common](https://github.com/Dafnik/dfx-common) - Collection of Angular libraries including `dfx-qrcode` and more.
 
 ### Modals
 

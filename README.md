@@ -1206,6 +1206,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-calendario](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
 * [ngx-calendar-view](https://github.com/charlesschaefer/ngx-calendar-view/tree/main/projects/ngx-calendar-view) - A responsive Angular calendar component library with day/week/month views, drag-and-drop events, mobile swipe support, and built-in dark mode.
 * [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+* [ngx-datepicker-calendar](https://github.com/mumair4462/ngx-datepicker-calendar) - A fast, accessible Angular date‑picker library built with signals and standalone components.
 * [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 * [ngx-strip-calendar](https://github.com/codingchefss/ngx-strip-calendar) - Strip calendar component for Angular 17+.
 * [schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar.

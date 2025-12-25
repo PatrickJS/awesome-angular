@@ -2057,6 +2057,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [TecnualNG](https://github.com/tecnual/tecnualng) - A modern Angular UI library offering reusable, customizable, and accessible components for building professional web applications.
 * [takeoff-ui](https://github.com/turkishtechnology/takeoff-ui) - A comprehensive design system providing framework-agnostic web components developed with Stencil.js.
 * [mozek](https://github.com/thecodemeor/mozek-package) - A lightweight SCSS toolkit and UI library designed for clean, simple, non‑over‑engineered styling with consistent spacing, colors, and typography.
+* [Magma](https://github.com/ikilote/Magma) - A broad set of components, services, pipes, directives, and utilities that support its ecosystem and are available for anyone to use or extend.
 
 ### UI Libraries built on Bootstrap
 

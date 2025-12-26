@@ -1142,6 +1142,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular.ng](https://github.com/desoga10/angular.ng) - An open-source productivity dashboard built with Angular and Supabase.
 * [angluar-crm](https://github.com/minhpham-mew/angluar-crm) - Angular CRM template with contact management, deal tracking, and analytics.
 * [ngx-admin-v20](https://github.com/sebbegamer2222/ngx-admin-v20) - With this admin dashboard, you’ll enjoy a modern Bootstrap 5 UI with SASS customization, reusable components, and a sleek material theme.
+* [nestjs-angular-starter](https://github.com/tivanov/nestjs-angular-starter) - A full‑stack starter template featuring a NestJS backend and Angular frontend, complete with authentication, user management, and common infrastructure patterns.
 
 ### Paid Templates
 

@@ -2392,6 +2392,7 @@ for the creation of web applications developed with Angular.
 * [GameEngine](https://github.com/gandolphinnn/GameEngine) - A TypeScript game engine inspired by Angular.
 * [gapi](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex Node.js GraphQL Backend applications with minimum effort.
 * [GTPL](https://github.com/garag-lib/GTPL) - TypeScript library for reactive templates using Direct DOM and Proxy, inspired by Vue, Angular AOT, and JSX, in a compact 9KB package.
+* [illuma](https://github.com/git-zodyac/illuma) - Angular-style dependency injection for TypeScript.
 * [indulgent](https://github.com/frodi-karlsson/indulgent) - A lightweight set of TypeScript utilities designed for web development, free of external dependencies and optimized for solid runtime performance.
 * [ioc](https://github.com/Isqanderm/ioc) - A powerful and flexible Inversion of Control (IoC) container for TypeScript applications. Inspired by Angular and NestJS.
 * [Lua-Generate](https://github.com/Gabriel-c0Nsp/Lua-Generate) - A CLI tool to generate boilerplate code inspired by ng tool from Angular.

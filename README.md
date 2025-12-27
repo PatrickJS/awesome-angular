@@ -770,6 +770,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-sitemap-generator](https://github.com/borisonekenobi/angular-sitemap-generator) - Generates a `sitemap.xml` file for an Angular project.
 * [cem-angular-generator](https://github.com/lit-migrators/cem-angular-generator) - Generate Angular wrapper libraries from Custom Elements Manifest output.
 * [AutoFormsBuilderFilesGenerator](https://github.com/XHAlawa/AutoFormsBuilderFilesGenerator) - Generate Angular forms from OpenAPI/Swagger with `ng-openapi-gen`, featuring strong typing, validation, and UI helpers.
+* [ngx-autogen](https://github.com/barcidev/ngx-autogen) - A set of schematics that streamline Angular workflows by generating best‑practice code and reducing repetitive setup tasks.
 
 ### Internationalization
 

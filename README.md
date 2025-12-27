@@ -52,11 +52,16 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Accessibility](#accessibility)
   * [AI](#ai)
   * [Analytics](#analytics)
-  * [Developer Tools](#developer-tools)
+  * [Code Analysis](#code-analysis)
+  * [Debugging](#debugging)
   * [Documentation Tools](#documentation-tools)
+  * [Editor and IDE Extensions](#editor-and-ide-extensions)
   * [Generators and Scaffolding](#generators-and-scaffolding)
   * [Internationalization](#internationalization)
+  * [Linting](#linting)
+  * [Networking](#networking)
   * [Performance](#performance)
+  * [Runtime](#runtime)
   * [SEO](#seo)
   * [Styling](#styling)
 * [Security and Authentication](#security-and-authentication)
@@ -693,49 +698,19 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [plausible](https://github.com/plausible/analytics) - Lightweight, open‑source, privacy‑friendly analytics with SPA support—see [SPA support](https://plausible.io/docs/spa-support).
 * [rybbit](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
 
-### Developer Tools
+### Code Analysis
 
-* [ngx-html-syntax](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [Sublime Text](https://www.sublimetext.com/).
-* [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
-* [Angular Dev Tools](https://angular.dev/tools/devtools) - Browser extension for debugging and profiling Angular applications.
-* [VS Code NG Language Service](https://github.com/angular/vscode-ng-language-service) - This extension provides a rich editing experience for Angular templates.
-* [Redux DevTools](https://github.com/reduxjs/redux-devtools/) - Can be used in combination with `@ngrx/store-devtools` to inspect the state of your NgRx app.  
-* [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
-* [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code.
-* [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing).
-* [VS Code Angular Snippets](https://github.com/johnpapa/vscode-angular-snippets) - This extension for Visual Studio Code adds snippets for Angular for TypeScript and HTML.
-* [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) - This extension pack packages some of the most popular VS Code Angular extensions.
-* [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
-* [VS Code Angular HTML](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html) - Syntax highlighting for Angular HTML template files.
-* [angular-scaffold](https://github.com/EPAM-JS-Competency-center/angular-scaffold) - Scaffold an Angular project with all tooling you need for production projects.
-* [vscode-angulartools](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
-* [ngx-schematics-utilities](https://github.com/DSI-HUG/ngx-schematics-utilities) - Useful utilities for Angular Schematics.
-* [ngx-dev-toolbar](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
-* [ngx-rename](https://github.com/Khumozin/ngx-rename) - Windows (PowerShell) and Linux (Bash) scripts to rename an Angular project and update config files.
-* [manifest](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
-* [zed-angular](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
-* [i18n-studio](https://marketplace.visualstudio.com/items/?itemName=AdrienAudouard.i18n-studio) - A VS Code extension for Angular i18n that shows translations inline, autocompletes keys, and streamlines multilingual workflows.
-* [angular-http-server](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
-* [Angular File Generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator) - Supercharge your Angular development with intuitive and rapid file generation.
-* [Angular Schematics Pro](https://cyrilletuzi.gumroad.com/l/schematicspro) - Ultimate Angular code generation in Visual Studio Code.
-* [vscode-angular-auto-import](https://github.com/ngx-rock/vscode-angular-auto-import) - Automatically suggests and inserts missing Angular component imports based on selectors used in templates.
-* [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
-* [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
 * [angular-compiler-output](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given Angular template.
-* [lbx-change-sets](https://github.com/Service-Soft/lbx-change-sets) - This package helps you to track changes made on your entities automatically using a base repository class to extend from.
-* [angular-compile](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
-* [ngs-json-utils](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight Angular library for easy JSON manipulation—deep clone, serialize, and deserialize with TypeScript support.
-* [ngx-error-handling](https://github.com/gonzalad/ngx-error-handling) - This library seamlessly manages unhandled RxJS, signal, and classic errors, making them accessible through an Rx subject (ErrorBus).
-* [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - A lightweight Angular signal hub combining callbacks with reactive signal-based event observation.
-* [ngx-offline-indicator](https://github.com/thdang1009/ngx-offline-indicator) - A simple and customizable way to inform users about their internet connection status within their Angular applications.
-* [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
-* [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
-* [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
-* [ng-lens](https://github.com/MerrittMelker/ng-lens) - A Node.js tool that uses `ts-morph` to analyze Angular components and detect service usage patterns from any API library.
-* [ngx-json-reader](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
-* [ngx-compare-object](https://github.com/RzoDev/ngx-compare-object) - Angular utility to compare an original object with its modified version.
 * [compuse](https://github.com/jakub-hajduk/compuse) - Analyze Angular component usage across your codebase with a unified API for extracting usage insights.
+* [ng-lens](https://github.com/MerrittMelker/ng-lens) - A Node.js tool that uses `ts-morph` to analyze Angular components and detect service usage patterns from any API library.
+* [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
 * [ngx-genie](https://github.com/SparrowVic/ngx-genie) - A tool to visualize the dependency injection tree, analyze service states, track component relationships, and identify memory or architectural issues.
+
+### Debugging
+
+* [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
+* [ngx-dev-toolbar](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
+* [ngx-error-handling](https://github.com/gonzalad/ngx-error-handling) - This library seamlessly manages unhandled RxJS, signal, and classic errors, making them accessible through an Rx subject (ErrorBus).
 
 ### Documentation Tools
 
@@ -749,8 +724,31 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-latest-snippets](https://github.com/JMGomes/angular-latest-snippets) - Comprehensive Angular v19 [snippets](https://marketplace.visualstudio.com/items?itemName=JMGomes.angular-latest-snippets) for TypeScript and HTML, including support for the latest Angular features.
 * [story-ui](https://github.com/southleft/story-ui) - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
 
+### Editor and IDE Extensions
+
+* [Angular Dev Tools](https://angular.dev/tools/devtools) - Browser extension for debugging and profiling Angular applications.
+* [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) - This extension pack packages some of the most popular VS Code Angular extensions.
+* [Angular File Generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator) - Supercharge your Angular development with intuitive and rapid file generation.
+* [Angular Schematics Pro](https://cyrilletuzi.gumroad.com/l/schematicspro) - Ultimate Angular code generation in Visual Studio Code.
+* [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code.
+* [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing).
+* [i18n-studio](https://marketplace.visualstudio.com/items/?itemName=AdrienAudouard.i18n-studio) - A VS Code extension for Angular i18n that shows translations inline, autocompletes keys, and streamlines multilingual workflows.
+* [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
+* [ngx-html-syntax](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [Sublime Text](https://www.sublimetext.com/).
+* [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
+* [Redux DevTools](https://github.com/reduxjs/redux-devtools/) - Can be used in combination with `@ngrx/store-devtools` to inspect the state of your NgRx app.
+* [VS Code Angular Snippets](https://github.com/johnpapa/vscode-angular-snippets) - This extension for Visual Studio Code adds snippets for Angular for TypeScript and HTML.
+* [vscode-angulartools](https://github.com/CoderAllan/vscode-angulartools) - You can explore an Angular project, enhance documentation, reverse engineer code, and do refactoring with [AngularTools](https://marketplace.visualstudio.com/items?itemName=coderAllan.vscode-angulartools).
+* [VS Code Angular HTML](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html) - Syntax highlighting for Angular HTML template files.
+* [vscode-angular-auto-import](https://github.com/ngx-rock/vscode-angular-auto-import) - Automatically suggests and inserts missing Angular component imports based on selectors used in templates.
+* [VS Code NG Language Service](https://github.com/angular/vscode-ng-language-service) - This extension provides a rich editing experience for Angular templates.
+* [zed-angular](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
+
 ### Generators and Scaffolding
 
+* [angular-scaffold](https://github.com/EPAM-JS-Competency-center/angular-scaffold) - Scaffold an Angular project with all tooling you need for production projects.
+* [ngx-rename](https://github.com/Khumozin/ngx-rename) - Windows (PowerShell) and Linux (Bash) scripts to rename an Angular project and update config files.
+* [ngx-schematics-utilities](https://github.com/DSI-HUG/ngx-schematics-utilities) - Useful utilities for Angular Schematics.
 * [goxygen](https://github.com/Shpota/goxygen) - Generates a Go backend, links a front‑end, and provides Docker files for dev and prod.
 * [abp](https://github.com/abpframework/abp) - Open‑source ASP.NET Core framework for enterprise apps with opinionated architecture.
 * [LymeStack](https://www.lymestack.com/) - A full-stack web app template and toolset that helps small teams quickly build and enhance applications.
@@ -822,6 +820,24 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [transloco](https://github.com/jsverse/transloco) - The internationalization (i18n) library for Angular.
 * [transloco-keys-manager](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 
+### Linting
+
+* [@ni/javascript-styleguide](https://github.com/ni/javascript-styleguide) -  NI's JavaScript and TypeScript linter rules for ESLint.
+* [@yoo-digital/eslint-plugin-angular](https://github.com/yoo-digital/eslint-plugin-angular) - Custom lint rules for Angular.
+* [angular-eslint](https://github.com/angular-eslint/angular-eslint) - Monorepo for all the tooling which enables ESLint to lint Angular projects.
+* [eslint-config-angular-strict](https://github.com/Jbz797/eslint-config-angular-strict) - Modern ESLint configuration with strict rules for Angular development.
+* [eslint-config-spartan](https://github.com/glitch452/eslint-config-spartan) - An opinionated ESLint configuration with separate configs (called mixins) for various eslint plugins.
+* [eslint-plugin-ng-module-sort](https://github.com/ducktordanny/eslint-plugin-ng-module-sort) - Auto-sorts Angular and NestJS module arrays to keep your modules clean and organized.
+
+### Networking
+
+* [angular-http-server](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
+* [manifest](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
+* [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
+* [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
+* [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
+* [ngx-offline-indicator](https://github.com/thdang1009/ngx-offline-indicator) - A simple and customizable way to inform users about their internet connection status within their Angular applications.
+
 ### Performance
 
 * [angular-rust-compiler](https://github.com/truonglvos/angular-rust-compiler) - High-performance Angular AOT compiler written in Rust, providing full static compilation of Angular components and directives.
@@ -838,6 +854,16 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-script-optimizer](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
 * [ngx-unused](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
 * [sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
+
+### Runtime
+
+* [angular-compile](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
+* [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
+* [lbx-change-sets](https://github.com/Service-Soft/lbx-change-sets) - Automatically tracks entity changes using an extendable base repository.
+* [ngs-json-utils](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight Angular library for easy JSON manipulation—deep clone, serialize, and deserialize with TypeScript support.
+* [ngx-compare-object](https://github.com/RzoDev/ngx-compare-object) - Angular utility to compare an original object with its modified version.
+* [ngx-json-reader](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
+* [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - Lightweight Angular hub unifying callbacks with signal‑based event observation.
 
 ### SEO
 

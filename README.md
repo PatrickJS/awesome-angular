@@ -2363,6 +2363,7 @@ for the creation of web applications developed with Angular.
 * [ngx-highlight-js](https://github.com/cipchk/ngx-highlight-js) - Angular wrapper around [highlight.js](https://highlightjs.org/) for syntax highlighting.
 * [ngx-katex](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX](https://github.com/KaTeX/KaTeX).
 * [ngx-kel-agent](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent](https://github.com/k0swe/kel-agent).
+* [ngx-linkifyjs](https://github.com/code-name-jack/ngx-linkifyjs) - Angular [Linkify](https://github.com/nfrasser/linkifyjs) wrapper to auto-detect URLs, emails, hashtags, and mentions and convert them into HTML links.
 * [ngx-neoline](https://github.com/smartargs/ngx-neoline) - Angular wrapper for [NeoLine](https://tutorial.neoline.io/) N3 dAPI, detecting provider, awaiting READY, and exposing typed methods.
 * [ngx-open-web-ui-chat](https://github.com/JealousyM/ngx-open-web-ui-chat) - Angular component library for embedding [Open WebUI](https://openwebui.com/) chat with Socket.IO streaming, conversation history and markdown support.
 * [ngx-pendo](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.

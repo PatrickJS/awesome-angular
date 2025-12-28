@@ -829,6 +829,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eslint-config-angular-strict](https://github.com/Jbz797/eslint-config-angular-strict) - Modern ESLint configuration with strict rules for Angular development.
 * [eslint-config-spartan](https://github.com/glitch452/eslint-config-spartan) - An opinionated ESLint configuration with separate configs (called mixins) for various eslint plugins.
 * [eslint-plugin-ng-module-sort](https://github.com/ducktordanny/eslint-plugin-ng-module-sort) - Auto-sorts Angular and NestJS module arrays to keep your modules clean and organized.
+* [ngx-html-bridge-markuplint](https://github.com/nagashimam/ngx-html-bridge-markuplint) - This library links Markuplint to Angular templates by reverse‑compiling them into HTML, enabling accurate linting with proper source‑mapped reporting.
 
 ### Networking
 

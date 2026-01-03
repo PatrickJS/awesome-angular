@@ -580,6 +580,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-data-polling](https://github.com/antonio-spinelli/ngx-data-polling) - Angular library with utilities to handle data polling in a declarative and type-safe way.
 * [ngx-soap](https://github.com/seyfer/ngx-soap) - A lightweight SOAP client built on [node‑soap](https://github.com/vpulim/node-soap), fully compatible with Angular’s signals, standalone components, and modern features.
 * [ngx-http-fetch-tracking](https://github.com/pegasusheavy/ngx-http-fetch-tracking) - Angular library providing upload progress tracking for the Fetch API backend.
+* [Vedika API](https://vedika.io) - AI-powered Vedic astrology REST API with 108+ endpoints.
 
 ### Micro-Frontends
 

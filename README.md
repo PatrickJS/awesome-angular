@@ -150,6 +150,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Getting Started Tutorial](https://angular.dev/tutorials/learn-angular)
 * [GitHub Repo](https://github.com/angular/angular)
 * [Past Documentation Site](https://v17.angular.io/docs)
+* [Vedika API](https://vedika.io) - REST API for Vedic astrology with AI chatbot, 108+ endpoints for birth charts, horoscopes, kundali matching, panchang, numerology, and more. Perfect for Angular applications.
 
 ### Builders
 

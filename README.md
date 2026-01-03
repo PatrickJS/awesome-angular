@@ -1397,6 +1397,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [date-time-picker](https://github.com/danielmoncada/date-time-picker) - Angular date time picker.
 * [date-time-picker-moment-adapter](https://github.com/danielmoncada/date-time-picker-moment-adapter) - Moment.js Adapter for `@danielmoncada/date-time-picker`.
 * [hijri-date-time-picker](https://github.com/hanygamal72/hijri-date-time-picker) - Angular standalone dual Gregorian/Hijri datetime picker using Umm Al-Qura calendar.
+* [ng-laydate](https://github.com/lanxuexing/ng-laydate) - A simple yet robust date & time picker for Angular 18+.
 
 ### Directives
 

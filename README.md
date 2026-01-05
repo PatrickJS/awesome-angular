@@ -798,6 +798,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-glagolize](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
 * [ngx-i18n-extract-regex-cli](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
 * [ngx-i18n-tools](https://github.com/Ascor8522/ngx-i18n-tools) - Tools for translating Angular apps, including an Excel/XLIFF converter—[ngx-xlf-xlsx](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
+* [ngx-localized-router](https://github.com/odomanskyi/ngx-localized-router) -  A lightweight Angular library that helps you localize your application routes by adding language segments to the URL.
 * [ngx-merge-json-translations](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
 * [ngx-runtime-i18n](https://github.com/AshwinSathian/ngx-runtime-i18n) - Runtime internationalization for Angular — signals-first, SSR-safe, and framework-agnostic core.
 * [ngx-signal-i18n](https://github.com/yagcioe/ngx-signal-i18n) - A type-safe, lazy-loaded i18n solution for Angular, built on signals for reactivity and compatible with zoneless.

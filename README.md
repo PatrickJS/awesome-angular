@@ -1000,6 +1000,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Official website](https://www.ngxs.io/)
 * [Official GitHub repository](https://github.com/ngxs/store) - NGXS aims to simplify state management with minimal boilerplate and maintenance.
+* [action-lifecycle-hooks](https://github.com/ngxs-labs/action-lifecycle-hooks) - Makes it simple to trigger code on action outcomes—such as success or error—without manual action wiring.
 * [actions-executing](https://github.com/ngxs-labs/actions-executing) - This plugin allows you to easily know if an action is being executed and control UI elements or control flow of your code to execute.
 * [emitter](https://github.com/ngxs-labs/emitter) - New pattern that provides the opportunity to feel free from actions.
 * [firestore-plugin](https://github.com/ngxs-labs/firestore-plugin) - Firestore plugin for NGXS.

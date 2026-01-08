@@ -1414,6 +1414,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cut](https://github.com/Celtian/ngx-cut) - Angular directive for cutting texts with responsive options.
 * [ngx-fixed-footer](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds a fixed footer without overlap.
 * [ngx-if-platform](https://github.com/Celtian/ngx-if-platform) - Directive for conditional display based on platform.
+* [ngx-memoize](https://github.com/ali79heidari/ngx-memoize) - A lightweight, zero‑dependency decorator that memoizes Angular class methods to eliminate repeated template-call overhead and boost performance.
 * [ngx-nullable](https://github.com/Celtian/ngx-nullable) - This library provides a way to make properties nullable in Angular templates.
 * [ngx-nullish](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
 * [ngx-overflow-reveal](https://github.com/hosembafer/ngx-overflow-reveal) - An Angular directive that elegantly reveals truncated text on hover.

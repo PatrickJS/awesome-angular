@@ -1532,6 +1532,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-signal-forms](https://github.com/timdeschryver/ng-signal-forms) - Signal powered Angular Forms.
 * [ngx-sub-form](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
 * [ngx-currency](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
+* [ngx-currency-v2](https://github.com/gabriel-hawerroth/ngx-currency-v2) - A fork of `ngx-currency` updated for the latest Angular version.
 * [ngx-super-forms](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
 * [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK offers customizable components for building and deploying forms. Use this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to integrate with Angular.
 * [@paddls/ngx-form](https://github.com/paddls/ngx-form) - Model based typed reactive forms made easy.

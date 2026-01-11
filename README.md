@@ -2097,18 +2097,13 @@ for the creation of web applications developed with Angular.
 ### RxJS
 
 * [Official website](https://rxjs.dev/) - Reactive Extensions Library for JavaScript.
-* [effects](https://github.com/ngneat/effects) - A framework-agnostic RxJS effects implementation.
 * [eslint-plugin-rxjs-x](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - Fork of [eslint-plugin-rxjs](https://github.com/cartant/eslint-plugin-rxjs) adding ESLint flat config support with breaking changes and improvements.
 * [fork-join-settled](https://github.com/DKozachenko/fork-join-settled) - RxJS library which is analog of [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) method.
 * [learn-rxjs](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
 * [ng-event-bus](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
-* [ng-rxjs-safe-subscribe](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
 * [ngx-device-permission](https://github.com/PhilipSh/ngx-device-permission) - Angular library for handling device permissions (camera, microphone, geolocation, etc.) in a reactive way using RxJS.
-* [ngx-observable-lifecycle](https://github.com/cloudnc/ngx-observable-lifecycle) - Library for observing the lifecycle of an (Ivy compiled) Angular component.
 * [ngx-operators](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
-* [ngx-rxjs-zone-scheduler](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing RxJS schedulers to run some kind of work inside or outside of `NgZone`.
 * [ngx-safe-subscribe](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
-* [observable-webworker](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
 * [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
 * [reactive-event-source](https://github.com/andreasnicolaou/reactive-event-source) - Lightweight RxJS-based EventSource wrapper with auto-reconnect, leak prevention, and reactive state management.
 * [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
@@ -2120,11 +2115,8 @@ for the creation of web applications developed with Angular.
 * [rxjs-common](https://github.com/paddls/rxjs-common) - A collection of useful RxJS operators.
 * [rxjs-conduit](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
 * [rxjs-course](https://github.com/angular-university/rxjs-course) - RxJS course from Angular University.
-* [rxjs-typewriter](https://github.com/omnedia/rxjs-typewriter) - Lightweight NPM library for typewriter effects using RxJS for smooth, customizable animations.
-* [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from `Angular Space`.
 * [subscribable-things](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
 * [subsiphon](https://github.com/shobeiry/subsiphon) - Lightweight utility for managing multiple RxJS subscriptions with indexed/named keys and simple cleanup methods.
-* [until-destroy](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
 
 ### TypeScript
 
@@ -2135,10 +2127,8 @@ for the creation of web applications developed with Angular.
 * [guardz](https://github.com/thiennp/guardz) - Lightweight, zero-dependency TypeScript type guards for runtime validation with structured error handling.
 * [mutates](https://github.com/IKatsuba/mutates) - Powerful TypeScript AST mutation toolset, forked from `ng-morph`, enabling extensive project-wide transformations beyond Angular.
 * [ngx-exhaustive-check](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
-* [ngx-mf](https://github.com/iamguid/ngx-mf) - Bind your model types to Angular FormGroup type.
 * [quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 * [Sheriff](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects.
-* [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 * [Total TypeScript Book](https://github.com/total-typescript/total-typescript-book) - The companion repository for the upcoming Total TypeScript book.
 * [transform.tools](https://transform.tools/json-to-typescript) - Save a lot of time typing API responses with this JSON to TypeScript converter.
 * [trpc](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -2147,7 +2137,6 @@ for the creation of web applications developed with Angular.
 * [ts-serializer](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed TypeScript classes.
 * [tsconfig](https://github.com/smartrecruiters/tsconfig) - SmartRecruiters' tsconfig contains all strict rules and improves your project type-safety.
 * [typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript.
-* [typebuddy](https://github.com/typed-rocks/type-buddy) - Finally make sense of your complex types.
 * [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
 * [type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
 * [typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
@@ -2185,14 +2174,11 @@ for the creation of web applications developed with Angular.
 * [stream-chat-angular](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
 * [foblex2D](https://github.com/siarheihuzarevich/foblex2D) - Angular library for 2D geometry with utilities for points, lines, vectors, shapes, and transformations, used in `Foblex Flow`.
 * [Bloomreach Angular SDK](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
-* [ng-storyblok](https://github.com/geometricpanda/ng-storyblok) - A simple way to integrate [Storyblok](https://www.storyblok.com/) into your Angular application.
 * [ngx-notion-cms](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
-* [ngx-wagmi](https://github.com/thanhhoa214/ngx-wagmi) - Connect Angular apps to Blockchain wallets and contract interactions.
 * [Otter](https://github.com/AmadeusITGroup/otter) - Highly modular Angular framework with units for localization, testing, customization, and CMS-driven dynamic configuration.
 * [HyperFormula](https://hyperformula.handsontable.com/guide/integration-with-angular.html#demo) - Headless spreadsheet engine in TypeScript for formula parsing/evaluation, with an Angular integration demo.
 * [fusio-sdk-javascript-angular](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK enables Angular apps to integrate with [Fusio](https://www.fusio-project.org/), used by projects like the [backend](https://github.com/apioo/fusio-apps-backend) and [developer](https://github.com/apioo/fusio-apps-developer).
 * [limitless-angular](https://github.com/limitless-angular/limitless-angular) - A collection of powerful Angular libraries designed to enhance the Angular ecosystem and help developers build better applications with a focus on `Sanity.io` integration.
-* [angular-rsocket](https://github.com/saleweaver/angular-rsocket) - Connect to an [RSocket](https://rsocket.io/) server, handle streams/messages, and manage tokens via a provider.
 * [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 * [angular-twitter-timeline](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
 * [ngx-signalr-websocket](https://github.com/yurivoronin/ngx-signalr-websocket) - A lightweight ASP.NET SignalR client for Angular.
@@ -2204,7 +2190,6 @@ for the creation of web applications developed with Angular.
 * [angular-email-editor](https://github.com/unlayer/angular-email-editor) - Drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as an Angular wrapper component.
 * [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
 * [chat-widget-adapters](https://github.com/livechat/chat-widget-adapters) - Angular wrapper for the [LiveChat](https://developers.livechat.com/) Chat Widget (JavaScript API).
-* [ckeditor4-angular](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+.
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 * [cytoscape-angular](https://github.com/michaelbushe/cytoscape-angular) - A production-ready Angular library providing sophisticated graph visualization capabilities using [Cytoscape.js](https://js.cytoscape.org/).
 * [d3-cloud-angular](https://github.com/maitrungduc1410/d3-cloud-angular) - D3 Cloud component for Angular built upon [d3-cloud](https://github.com/jasondavies/d3-cloud).
@@ -2221,7 +2206,6 @@ for the creation of web applications developed with Angular.
 * [ngx-filesize](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
 * [ngx-grapesjs](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
 * [ngx-highlight-js](https://github.com/cipchk/ngx-highlight-js) - Angular wrapper around [highlight.js](https://highlightjs.org/) for syntax highlighting.
-* [ngx-katex](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX](https://github.com/KaTeX/KaTeX).
 * [ngx-kel-agent](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent](https://github.com/k0swe/kel-agent).
 * [ngx-linkifyjs](https://github.com/code-name-jack/ngx-linkifyjs) - Angular [Linkify](https://github.com/nfrasser/linkifyjs) wrapper to auto-detect URLs, emails, hashtags, and mentions and convert them into HTML links.
 * [ngx-neoline](https://github.com/smartargs/ngx-neoline) - Angular wrapper for [NeoLine](https://tutorial.neoline.io/) N3 dAPI, detecting provider, awaiting READY, and exposing typed methods.
@@ -2238,7 +2222,6 @@ for the creation of web applications developed with Angular.
 * [ngx-virtual-select](https://github.com/zinetnorf/ngx-virtual-select) - Component to integrate [Virtual Select](https://github.com/sa-si-dev/virtual-select) in Angular.
 * [ngx-viz](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 * [ngx-webdatarocks](https://github.com/WebDataRocks/ngx-webdatarocks) - Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Follow this [example](https://github.com/WebDataRocks/pivot-angular) to integrate the WebDataRocks web reporting tool.
-* [ngx-xapi](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
 * [ngx-xyflow](https://github.com/knackstedt/ngx-xyflow) - Angular wrapper of [xyflow](https://github.com/xyflow/xyflow).
 * [seatsio-angular](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 * [zag-angular](https://github.com/makuko/zag-angular) - Angular wrapper for [zag](https://github.com/chakra-ui/zag).
@@ -2247,12 +2230,8 @@ for the creation of web applications developed with Angular.
 
 * [angular-style-injector](https://github.com/emmat-york/angular-style-injector) - A lightweight dependency injection container inspired by Angular's Injector.
 * [arky-js](https://www.npmjs.com/package/arky-js) - Annotation-based framework for AWS Lambda/API Gateway, inspired by Angular/NestJS, with decorators for modules, controllers, and services.
-* [css-fx-layout](https://github.com/philmtd/css-fx-layout) - A responsive SCSS flexbox library inspired by Angular Flex-Layout.
 * [di](https://github.com/kaokei/di) - This library is a lightweight dependency injection library, similar to [InversifyJS](https://github.com/inversify/InversifyJS) and [typedi](https://github.com/typestack/typedi).
 * [flexdi](https://github.com/AndreyShashlovDev/flexdi) - Flexible, lightweight DI library for React, React Native, and Vue3, inspired by NestJS and Angular.
-* [fornax](https://github.com/TBosak/fornax) - Lightweight, opinionated Bun-powered full‑stack framework for SPAs with custom components, routing, and flexible styling.
-* [friendly-di](https://github.com/AlexSergey/friendly-di) - A lightweight and high-performance inversion of control (IoC) container inspired by NestJS and Angular.
-* [GameEngine](https://github.com/gandolphinnn/GameEngine) - A TypeScript game engine inspired by Angular.
 * [gapi](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex Node.js GraphQL Backend applications with minimum effort.
 * [GTPL](https://github.com/garag-lib/GTPL) - TypeScript library for reactive templates using Direct DOM and Proxy, inspired by Vue, Angular AOT, and JSX, in a compact 9KB package.
 * [illuma](https://github.com/git-zodyac/illuma) - Angular-style dependency injection for TypeScript.
@@ -2262,19 +2241,13 @@ for the creation of web applications developed with Angular.
 * [named-slots](https://github.com/maybebot/named-slots) - Declarative "holes" for React components, inspired by slots in Vue, Svelte, Angular, and WebComponents.
 * [needle-di](https://github.com/needle-di/needle-di) - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects.
 * [npm-clang-format-node](https://github.com/lumirlumir/npm-clang-format-node) - Node wrapper for LLVM Clang's clang-format and git-clang-format native binaries inspired by [clang-format](https://github.com/angular/clang-format).
-* [obfetch](https://github.com/wflixu/obfetch) - A HttpClient base on RxJS and fetch API inspired by Angular `httpClient`.
 * [ozean](https://github.com/ozeanjs/ozean) - A modern, simple, and high-performance web framework built on the Bun runtime. It provides a development experience and architecture that should be familiar to Angular users.
-* [prang](https://github.com/Joery-M/prang) - A framework that looks like Angular, smells like Angular, but is actually Vue.
-* [PrasthuthTS](https://github.com/Prasthuth-Pradeep/PrasthuthTS) - TypeScript framework inspired by Angular with modular components, two‑way binding, flexible routing, and strong typing.
 * [react-di-lite](https://github.com/zobla-kv/react-di-lite) - Lightweight, hierarchical dependency injection for React inspired by Angular’s services.
-* [ReactiveForms](https://github.com/vipulkmr02/ReactiveForms) - Retrieve form input values using the DOM and implement form validation, drawing inspiration from Angular's Reactive Forms approach.
 * [@joanpablo/reactive_forms](https://github.com/joanpablo/reactive_forms) - A Dart library using a model-driven approach for forms and validations, inspired by Angular's Reactive Forms.
 * [reaktiv](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
 * [sio](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
-* [ts-react-directives](https://github.com/skycodr/ts-react-directives) - A small React/TypeScript library designed to mimic Angular directives.
 * [UnReact.js](https://github.com/arnvjshi/unreactpjs) - A modern framework combining the best of Angular and React for enhanced component communication.
 * [use-vue-service](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
-* [vyuha](https://github.com/RamanSharma100/vyuha) - A Node.js template engine inspired by EJS, Angular, and Laravel Blade.
 
 ## External Lists
 

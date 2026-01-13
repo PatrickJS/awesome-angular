@@ -194,7 +194,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-create](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
 * [ngx-i18n-scan](https://github.com/pratiksonone/ngx-i18n-scan) - A CLI tool that scans Angular code to extract and update i18n translation keys, keeping your translation files clean.
 * [ngx-stats](https://github.com/tomer953/ngx-stats) - CLI tool that analyzes Angular projects, quantifying modules, components, directives, pipes, and services to give a clear structural overview for better architectural insight.
-* [ngx-stylesweep](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
 * [ngx-ws](https://github.com/art-ws/ngx-ws) - Easily split a large `angular.json` into modular, project-local files using the power of [JSON References](https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser), with the convenience of [YAML](https://yaml.org/) and [JSON5](https://json5.org/) formats.
 * [prepare-angular-json](https://github.com/ackheron/prepare-angular-json) - A lightweight CLI tool that generates a clean `angular.json` file from a commented `angular.jsonc`.
 * [rafacli](https://github.com/rafa00716/rafacli) - CLI tool that generates authentication and CRUD modules for NestJS and Angular, automating boilerplate to streamline development and ensure consistency.
@@ -233,14 +232,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Updating Angular
 
 * [Official website](https://angular.dev/update-guide) - Interactive guide to help you migrate from one version of Angular to another.  
-* [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
-* [migrations](https://angular.dev/reference/migrations) - Angular schematics help update projects by enabling conversion to standalone components, new control flow syntax, and more.
+* [Official update reference](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
+* [Official migrations reference](https://angular.dev/reference/migrations) - Angular schematics help update projects by enabling conversion to standalone components, new control flow syntax, and more.
 * [ng-morph](https://github.com/taiga-family/ng-morph) - Code mutations in your project or schematics were never easier than now.
 * [ngx-libs](https://github.com/eneajaho/ngx-libs) - Angular Libraries Support lists community libs support for each Angular version.
-* [fast-facts/ng-update](https://github.com/fast-facts/ng-update) - A GitHub Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
+* [@fast-facts/ng-update](https://github.com/fast-facts/ng-update) - A GitHub Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
 * [npx-app-updater](https://github.com/DSI-HUG/ngx-app-updater) - Alerts users to available updates when a new version is deployed.
 * [ngx-update-app](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
-* [Angular Caniuse](https://www.dolmen.tools/en/angular/caniuse/explorer) - Track Angular features from preview to stable stages.
+* [Angular Caniuse](https://www.angular.courses/caniuse/features) - Track Angular features from preview to stable stages.
 * [Depfixer](https://depfixer.com/sample-report/angular) - Smart dependency analysis for JS/TS projects; detects compatibility conflicts and provides step‑by‑step fixes.
 * [migration-planificator](https://github.com/silvestv/migration-planificator-documentation) - Plan Angular migrations with precision AST analysis, calculate workload estimates, and generate interactive HTML dashboards.
 
@@ -657,7 +656,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [@blue-cardinal/ngx-google-analytics](https://github.com/blue-cardinal/ngx-google-analytics) - Angular module for injecting Google Analytics script, with safeguards to prevent use in dev environments.
 * [clickstream-analytics-on-aws-web-sdk](https://github.com/aws-solutions/clickstream-analytics-on-aws-web-sdk) - [Clickstream Web SDK](https://aws-solutions.github.io/clickstream-analytics-on-aws/en/latest/sdk-manual/web/) enables easy collection of browser clickstream data to AWS via the provided data pipeline.
-* [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Product analytics for tracking customer journeys, conversion, and retention.
+* [Heap](https://help.heap.io/hc/en-us/articles/37271957075345-Using-Heap-With-Popular-Web-Frameworks-Libraries) - Product analytics for tracking customer journeys, conversion, and retention.
 * [litlyx](https://github.com/Litlyx/litlyx) - A dev-friendly, open-source analytics tool for JavaScript frameworks—set up in under 30 seconds with one line of code!
 * [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
 * [ngx-gtm](https://github.com/jerkovicl/ngx-gtm) - Angular library that automatically injects the script tag required to use Google Tag Manager (GTM).
@@ -945,7 +944,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngrx-wieder](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
 * [ngrx-immer](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
 * [ngrx-rtk-query](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
-* [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
+* [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 21, NgRx 21, and Nx 22.
 * [ngx-view-state](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
 * [store-service](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
 * [ngx-signal-store-query](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
@@ -1007,7 +1006,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [lib-e2e-cypress-for-dummys](https://github.com/GonzaloCarmenado/lib-e2e-cypress-for-dummys) - An Angular library that automatically records the Cypress commands needed to test your application while you browse and use the interface.
 * [testcafe](https://testcafe.io/) - A user-friendly end-to-end testing solution.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
-* [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
+* [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics) - Adds [Puppeteer-based](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 * [ngx-playwright](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
 * [playwright-ng-schematics](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 * [playwright-coverage](https://github.com/bgotink/playwright-coverage) - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.

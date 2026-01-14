@@ -673,6 +673,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [angular-compiler-output](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given Angular template.
 * [compuse](https://github.com/jakub-hajduk/compuse) - Analyze Angular component usage across your codebase with a unified API for extracting usage insights.
+* [ng-di-graph](https://github.com/m-yoshiro/ng-di-graph) - A command-line tool that analyzes Angular TypeScript codebases to extract dependency injection relationships.
 * [ng-lens](https://github.com/MerrittMelker/ng-lens) - A Node.js tool that uses `ts-morph` to analyze Angular components and detect service usage patterns from any API library.
 * [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
 * [ngx-genie](https://github.com/SparrowVic/ngx-genie) - A tool to visualize the dependency injection tree, analyze service states, track component relationships, and identify memory or architectural issues.

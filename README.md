@@ -1170,6 +1170,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-countUp](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 * [ngx-gsap](https://github.com/marcos-velasquez/ngx-gsap) - A lightweight, customizable Angular animation library powered by GSAP that's declarative and easy to use.
 * [ngx-animations](https://github.com/bananalasmari/ngx-animations) - Angular animation library inspired by GSAP, offering high-performance directives, components, and a timeline service with full RTL support.
+* [ngx-spring](https://github.com/angular-threejs/ngx-spring) - Create fluid, natural-feeling animations using spring physics instead of durations and easing curves.
 
 ### Calendars
 

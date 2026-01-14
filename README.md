@@ -1660,6 +1660,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [log4ngx](https://github.com/secondbounce/log4ngx) - A TypeScript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
 * [ng-route-logger](https://github.com/souravion/ng-route-logger) - A simple and powerful library that helps you track page navigation times inside your Angular application.
 * [candy-logger](https://github.com/shehari007/candy-logger) - A lightweight logging library for JavaScript/TypeScript with a popup UI in browsers and enhanced terminal output in Node.
+* [@pubfunc/ngx-common-log](https://github.com/pubfunc/ngx-libs/tree/master/packages/common/log) - A flexible logging library for Angular applications with support for multiple transports, log levels, namespaces, and dependency injection.
 
 ### Maps
 

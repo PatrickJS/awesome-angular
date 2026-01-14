@@ -1760,6 +1760,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Directive Workspace](https://github.com/sergeydus/ng-tailwind-workspace) - An Angular monorepo that hosts several standalone directive and utility libraries, including [ng-signals-utils](https://www.npmjs.com/package/@sergeydus/ng-signals-utils).
 * [angular-cool](https://github.com/Hacklone/angular-cool) - A monorepo packed with developer‑friendly Angular utilities that supercharge apps with effortless UI, storage, networking, and performance features.
 * [dasch-ng](https://github.com/DaSchTour/dasch-ng) - A collection of reusable Angular libraries and TypeScript utilities for modern web development.
+* [ngx-schema-tools](https://github.com/Expeed-Software/ngx-schema-tools) - A monorepo containing Angular libraries for JSON schema editing, visual data mapping, and dynamic form rendering.
 
 ### Modals
 

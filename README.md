@@ -1770,7 +1770,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-confirmation-capture](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
 * [angular-anchored-floating-box](https://github.com/lazycuh/angular-anchored-floating-box) - Singleton Angular service to render floating boxes anchored to elements with `TemplateRef` or component content.
 * [ngx-side-page](https://github.com/strikerh/ngx-side-page) - Versatile Angular library for slide‑out side panels with smooth, service‑based animations, like Material dialogs for side pages.
-* [async-modal-ngx](https://github.com/antonioconselheiro/async-modal-ngx) - This library renders Angular components with flexible data flow, while all styling and modal‑host design remain your responsibility.
+* [async-modal-ngx](https://github.com/antonioconselheiro/async-modal-ngx) - This library renders Angular components with flexible data flow, while all styling and modal-host design remain your responsibility.
 
 ### Notifications
 

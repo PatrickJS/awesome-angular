@@ -696,6 +696,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-component-hierarchy-visualizer](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - An unobtrusive tool that generates Mermaid diagrams of your Angular component hierarchy from route configs.
 * [easy-template-x-angular-expressions](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x](https://github.com/alonrbar/easy-template-x).
 * [story-ui](https://github.com/southleft/story-ui) - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
+* [envguards](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 
 ### Editor and IDE Extensions
 

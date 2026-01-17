@@ -1129,6 +1129,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [nestjs-angular-starter](https://github.com/tivanov/nestjs-angular-starter) - A full‑stack starter template featuring a NestJS backend and Angular frontend, complete with authentication, user management, and common infrastructure patterns.
 * [AngularTemplate](https://github.com/EmmanuelLefevre/AngularTemplate) - This Angular template delivers a production‑ready project setup with structured architecture, tooling, testing, CI/CD, styling, schematics, and clear rule documentation.
 * [free-tailwind-admin-dashboard-template](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - A free, open-source Tailwind CSS admin dashboard template built for modern web developers.
+* [ngx-blog](https://github.com/pegasusheavy/ngx-blog) - A modern Angular-based blogging CMS with theme support and SEO optimization.
 
 ### Paid Templates
 

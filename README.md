@@ -1768,6 +1768,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dasch-ng](https://github.com/DaSchTour/dasch-ng) - A collection of reusable Angular libraries and TypeScript utilities for modern web development.
 * [ngx-schema-tools](https://github.com/Expeed-Software/ngx-schema-tools) - A monorepo containing Angular libraries for JSON schema editing, visual data mapping, and dynamic form rendering.
 * [angular-3d](https://github.com/Hive-Academy/angular-3d) - Modern Angular libraries for building stunning 3D graphics and scroll animations.
+* [npm-ntk-cms-angular](https://github.com/akaravi/npm-ntk-cms-angular) - This monorepo contains a collection of 9 reusable Angular libraries designed for building modern CMS applications.
 
 ### Modals
 

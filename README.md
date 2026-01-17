@@ -1819,6 +1819,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - Angular pipe to convert numbers into words, ideal for invoices, reports, and financial apps.
 * [ngx-highlight-text](https://github.com/ultrasonicsoft/ngx-highlight-text) - Angular pipe that highlights a selected word in the HTML markup.
 * [ngx-smart-pipes](https://github.com/Kavshree/-bjkavyashree-ngx-smart-pipes) - A lightweight, tree-shakeable collection of standalone Angular pipes designed for real-world use cases.
+* [ngx-dynamic-search](https://github.com/mustafaer/ngx-dynamic-search) - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
 
 ### Printing
 

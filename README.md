@@ -112,6 +112,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Mixed Utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
+  * [Onboarding and Product Tours](#onboarding-and-product-tours)
   * [Pipes](#pipes)
   * [Printing](#printing)
   * [QR Codes](#qr-codes)
@@ -125,7 +126,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [UI Libraries built on Tailwind CSS](#ui-libraries-built-on-tailwind-css)
   * [UI Library and Framework Ionic](#ui-library-and-framework-ionic)
   * [UI Primitives](#ui-primitives)
-  * [UX Components](#ux-components)
   * [Viewers](#viewers)
   * [Visual Effects](#visual-effects)
 * [Underlying Technologies](#underlying-technologies)
@@ -1813,6 +1813,17 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [toastify](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
 * [web-notifier](https://github.com/andreasnicolaou/web-notifier) - Lightweight, flexible web notification library with simple RxJS‑based API for browser notifications.
 
+### Onboarding and Product Tours
+
+* [angular-shepherd](https://github.com/shepherd-pro/angular-shepherd) - Angular Service wrapping the site tour library [Shepherd](https://github.com/shepherd-pro/shepherd).
+* [skyux](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
+* [ngx-ui-tour](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour](https://github.com/benmarch/angular-ui-tour).
+* [ngx-tour-wizard](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
+* [bdc-walkthrough](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
+* [ngx-onboarding](https://github.com/rosen-group/ngx-onboarding) - Onboarding library for seamless Angular tutorials, helping users quickly learn and navigate your app.
+* [ngx-web-tour](https://github.com/abbas-mgz/ngx-web-tour) - A customizable product tour library for Angular applications that supports user onboarding with animations and professional UI.
+* [ngxsmk-help-tour](https://github.com/toozuuu/ngxsmk-help-tour) - Angular standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
+
 ### Pipes
 
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
@@ -2059,17 +2070,6 @@ for the creation of web applications developed with Angular.
 * [primitives](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 * [vacui-ui](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
 * [ngx-headless](https://github.com/fawadtariq/ngx-headless) - A collection of standalone, accessible Angular primitives inspired by [Headless UI](https://headlessui.com) & [FormKit](https://formkit.com).
-
-### UX Components
-
-* [angular-shepherd](https://github.com/shepherd-pro/angular-shepherd) - Angular Service wrapping the site tour library [Shepherd](https://github.com/shepherd-pro/shepherd).
-* [skyux](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
-* [ngx-ui-tour](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour](https://github.com/benmarch/angular-ui-tour).
-* [ngx-tour-wizard](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
-* [bdc-walkthrough](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
-* [ngx-onboarding](https://github.com/rosen-group/ngx-onboarding) - Onboarding library for seamless Angular tutorials, helping users quickly learn and navigate your app.
-* [ngx-web-tour](https://github.com/abbas-mgz/ngx-web-tour) - A customizable product tour library for Angular applications that supports user onboarding with animations and professional UI.
-* [ngxsmk-help-tour](https://github.com/toozuuu/ngxsmk-help-tour) - Angular 17+ standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
 
 ### Viewers
 

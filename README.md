@@ -76,7 +76,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Testing](#testing)
   * [E2E](#e2e)
   * [Component](#component)
-  * [Guides](#guides)
   * [Helpers](#helpers)
 * [Site Templates](#site-templates)
   * [Free Templates](#free-templates)
@@ -406,6 +405,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
 * [Angular Signals Masterclass](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`.
 * [Mastering Angular Signals: A Practical Guide to Modern Reactivity, Performance, and Migration](https://www.amazon.com/dp/B0FF9LSHJN/) - `Muhammad Ahsan Ayaz`.
+* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
 * [Angular Book](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**.
 * [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**.
 * [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**.
@@ -1039,13 +1039,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [swc-angular-plugin](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
 * [wdio-harness](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 * [testronaut](https://github.com/testronaut/testronaut) - By removing mocks and guesswork, [Testronaut](https://testronaut.github.io/testronaut/) enables developers to visually inspect output and write precise tests with Playwright’s robust API.
-
-### Guides
-
-* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
-* [angular-tour-of-heroes-jest-100-coverage](https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) - 100% unit testing coverage of the popular Angular demo app - Tour of Heroes.
-* [how-do-i-test](https://github.com/rainerhahnekamp/how-do-i-test) - Repository representing different testing use cases for Angular and Spring.
-* [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=Testing) - A rich source of valuable perspectives and practical tips on testing.
 
 ### Helpers
 

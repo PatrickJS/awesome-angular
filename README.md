@@ -55,7 +55,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Code Analysis](#code-analysis)
   * [Debugging](#debugging)
   * [Documentation Tools](#documentation-tools)
-  * [Editor and IDE Extensions](#editor-and-ide-extensions)
+  * [IDE Extensions](#ide-extensions)
   * [Generators and Scaffolding](#generators-and-scaffolding)
   * [Internationalization](#internationalization)
   * [Linting](#linting)
@@ -94,7 +94,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Directives](#directives)
   * [DOM](#dom)
   * [Drag and Drop](#drag-and-drop)
-  * [Editor Components](#editor-components)
+  * [Editors](#editors)
   * [File Upload](#file-upload)
   * [Forms](#forms)
   * [Form Controls](#form-controls)
@@ -103,7 +103,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Icons](#icons)
   * [Images](#images)
   * [Keyboard Mouse](#keyboard-mouse)
-  * [Layout Components](#layout-components)
+  * [Layout](#layout)
   * [Loaders](#loaders)
   * [Loggers](#loggers)
   * [Maps](#maps)
@@ -140,7 +140,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ## Angular
 
-> Angular is a development platform for building mobile and desktop web applications.
+> Angular is a web framework that empowers developers to build fast, reliable applications that users love.
 
 ### Official Resources
 
@@ -698,7 +698,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [story-ui](https://github.com/southleft/story-ui) - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
 * [envguards](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 
-### Editor and IDE Extensions
+### IDE Extensions
 
 * [Angular Dev Tools](https://angular.dev/tools/devtools) - Browser extension for debugging and profiling Angular applications.
 * [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) - This extension pack packages some of the most popular VS Code Angular extensions.
@@ -1213,6 +1213,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Carousels
 
+* [@daelmaak/ngx-gallery](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
+* [@MurhafSousli/ngx-gallery](https://github.com/MurhafSousli/ngx-gallery/tree/release/13.0.0) - Simplifies the process of creating beautiful image galleries for the web and mobile devices.
+* [@vinlos/ngx-gallery](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular.
 * [ngu-carousel](https://github.com/uiuniversal/ngu-carousel) - Angular Universal carousel.
 * [ngx-slider](https://github.com/angular-slider/ngx-slider) - Self-contained, mobile friendly slider component for Angular based on [angularjs-slider](https://github.com/angular-slider/angularjs-slider).
 * [ngx-slick-carousel](https://github.com/leo6104/ngx-slick-carousel) - Angular 17+ wrapper for slick plugin.
@@ -1224,9 +1227,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-stories](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
 * [carousel-library](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
 * [ngx-simple-gallery](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
-* [@daelmaak/ngx-gallery](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
 * [embla-carousel-angular](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel](https://github.com/davidjerleke/embla-carousel).
-* [@vinlos/ngx-gallery](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular 16+.
 * [ngx-cdk-lightbox](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
 * [rm-image-slider](https://github.com/malikrajat/rm-image-slider) - Standalone Angular image slider with lightbox, lazy loading, and video support (YouTube/MP4).
 * [ngx-carousel-modern](https://github.com/Aizaz-ul-haq/ngx-carousel-modern) - A modern, customizable carousel component for Angular 16+ with support for both standalone and NgModule-based applications.
@@ -1393,7 +1394,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dashboard](https://github.com/TobyBackstrom/ngx-dashboard) - Modern Angular workspace for building drag-and-drop grid dashboards with resizable cells and customizable widgets.
 * [ngx-dropzone-next](https://github.com/arturovt/ngx-dropzone-next) - A maintained fork of `@peterfreeman/ngx-dropzone`, providing bug fixes and compatibility with newer Angular versions.
 
-### Editor Components
+### Editors
 
 * [Angular-JSON-Tree-Editor-Component](https://github.com/stefonalfaro/Angular-JSON-Tree-Editor-Component) - Angular JSON Tree Editor Component that actually works.
 * [acrodata/code-editor](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
@@ -1611,7 +1612,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-arrow-state](https://github.com/jaychase/ngx-arrow-state) - An Angular library that provides terminal/shell-like input history navigation using arrow keys, plus Ctrl+Enter form submission for textareas.
 * [angular-onscreen-material-keyboard](https://github.com/eFaps/angular-onscreen-material-keyboard) - Onscreen virtual keyboard for Angular using Angular Material.
 
-### Layout Components
+### Layout
 
 * [angular-split](https://github.com/bertrandg/angular-split) - Angular split component.
 * [overview](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.

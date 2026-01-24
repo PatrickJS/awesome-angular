@@ -652,7 +652,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Workik](https://workik.com/angular-code-generator) - Free AI-Powered Angular code generator | Your Context-Driven AI Partner!
 * [Yes Chat AI](https://www.yeschat.ai/gpts-ZxX35UdX-Angular-Ninja-%F0%9F%A5%B7) - Angular Ninja - Angular Development Assistant.
 * [Zipy](https://www.zipy.ai/online-tools/ai-angular-code-generator) - AI Angular Code Generator.
-
+* [DesignToCode](https://copyweb.net) - Convert Any Web Design to Code for Free | CopyWeb 
+* [AI Image Geneerator](https://aiimagetoimage.net/) - Google Nano Banana AI: Try This Free AI Image Generator
 ### Analytics
 
 * [@blue-cardinal/ngx-google-analytics](https://github.com/blue-cardinal/ngx-google-analytics) - Angular module for injecting Google Analytics script, with safeguards to prevent use in dev environments.

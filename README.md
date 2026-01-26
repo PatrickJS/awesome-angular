@@ -1189,6 +1189,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-strip-calendar](https://github.com/codingchefss/ngx-strip-calendar) - Strip calendar component for Angular 17+.
 * [schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
+* [CalendarJS](https://github.com/jspreadsheet/calendarjs) – Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
 
 ### Captcha
 
@@ -1301,6 +1302,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cerious-grid](https://github.com/ryoucerious/cerious-widgets) - A seriously powerful Angular grid for developers who demand control, flexibility, and performance.
 * [ngxsmk-datatable](https://github.com/toozuuu/ngxsmk-datatable) - Modern Angular 17+ datatable focused on performance, customization, and developer experience.
 * [ngx-column-filter](https://github.com/kakarotx10/ngx-column-filter) - A powerful, reusable Angular column filter component with support for multiple field types, advanced filtering rules, and customizable match modes.
+* [Jspreadsheet CE](https://github.com/jspreadsheet/ce) – Open source JavaScript spreadsheet and data grid component, can be used in Angular apps when wrapped or consumed via Angular elements.
+* [TabularJS](https://github.com/jspreadsheet/tabularjs) – Lightweight JavaScript table and data grid library for advanced table features in Angular.
+
 
 ### Dates
 
@@ -2000,6 +2004,8 @@ for the creation of web applications developed with Angular.
 * [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ library with easy‑to‑use shared components, directives, pipes, and services. See [showcase](https://ngx-gccb.netlify.app/) for code snippets.
 * [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
 * [cute-widgets](https://github.com/cute-widgets/base) - An open‑source Angular UI library that provides native directive‑based components styled with Bootstrap 5+ utilities and design classes.
+* [JSuites](https://github.com/jsuites/jsuites) – Collection of UI components and utilities (forms, modals, inputs) that can be integrated into Angular with custom wrappers or directives.
+
 
 ### UI Libraries built on Material
 

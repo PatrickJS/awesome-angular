@@ -1189,7 +1189,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-strip-calendar](https://github.com/codingchefss/ngx-strip-calendar) - Strip calendar component for Angular 17+.
 * [schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
-* [CalendarJS](https://github.com/jspreadsheet/calendarjs) - Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
+* [CalendarJS](https://github.com/componade/calendarjs) - Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
 
 ### Captcha
 

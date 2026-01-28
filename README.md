@@ -1897,6 +1897,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-horizontal-menu-scroll](https://github.com/isahohieku/ngx-horizontal-menu-scroll) - A lightweight, customizable Angular library for creating beautiful horizontal scrolling menus with smooth navigation controls.
 * [usal](https://github.com/italoalmeida0/usal) - Framework agnostic ultimate scroll animation library.
 * [ar-virtual-scroll](https://github.com/artomenwork/ar-virtual-scroll) - Lightweight Angular virtual scroll with automatic dynamic height, ideal for chats, feeds, and variable lists.
+* [angular-infinity-scroller](https://github.com/Jayant061/angular-infinity-scroller) - A lightweight, high‑performance infinite‑scrolling directive built to work seamlessly with modern Angular and SSR setups.
 
 ### Storage
 

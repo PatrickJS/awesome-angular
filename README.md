@@ -1901,6 +1901,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [usal](https://github.com/italoalmeida0/usal) - Framework agnostic ultimate scroll animation library.
 * [ar-virtual-scroll](https://github.com/artomenwork/ar-virtual-scroll) - Lightweight Angular virtual scroll with automatic dynamic height, ideal for chats, feeds, and variable lists.
 * [angular-infinity-scroller](https://github.com/Jayant061/angular-infinity-scroller) - A lightweight, high‑performance infinite‑scrolling directive built to work seamlessly with modern Angular and SSR setups.
+* [cerious-scroll](https://github.com/ceriousdevtech/cerious-scroll) - High-performance virtual scrolling for web applications.
 
 ### Storage
 

@@ -802,6 +802,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-html-bridge-markuplint](https://github.com/nagashimam/ngx-html-bridge-markuplint) - This library links Markuplint to Angular templates by reverse‑compiling them into HTML, enabling accurate linting with proper source‑mapped reporting.
 * [eslint-config-neon](https://github.com/iCrawl/eslint-config-neon) - A comprehensive shareable ESLint configuration.
 * [eslint-config-angular](https://github.com/noneforge/eslint-config-angular) - Comprehensive Angular ESLint configuration with TypeScript support, component/template rules, accessibility, and CSS linting.
+* [linters](https://github.com/developer239/linters) - Collection of super strict configurations for ESLint / StyleLint and other code quality tools.
 
 ### Networking
 

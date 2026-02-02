@@ -2034,6 +2034,7 @@ for the creation of web applications developed with Angular.
 * [nmce](https://github.com/zijianhuang/nmce) - Suite of Angular Material extensions with reusable code and UI enhancements for complex, data‑rich business apps.
 * [NgxMatFacetToolkit](https://github.com/drsutphin/NgxMatFacetToolkit) - Angular standalone facet filtering toolkit with Material UI.
 * [ngx-dynamic-stepper](https://github.com/yingyu-projects/ngx-dynamic-stepper) - A powerful, flexible Angular library for creating dynamic wizard-style steppers built on top of Angular Material Stepper.
+* [BuilderKit](https://builderkit.dev/) - A complete UI toolkit and modern design system built on Angular Material, with blocks, templates, and a solid foundation for building Angular applications.
 
 ### UI Libraries built on Tailwind CSS
 

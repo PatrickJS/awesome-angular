@@ -2056,6 +2056,7 @@ for the creation of web applications developed with Angular.
 * [simui](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
 * [synerity-ui](https://github.com/synerity-ai/synerity-ui) - Enterprise‑grade Angular 20+ library with 90+ accessible, performant Tailwind‑styled components for modern apps.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, customizable, fully responsive Tailwind CSS components, templates, and tools for your projects.
+* [tailng](https://github.com/tociva/tailng) - Angular components styled with Tailwind to achieve a Material‑like look.
 * [zapui](https://github.com/zapuilib/zapui) - Build scalable Angular apps with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 
 ### UI Library and Framework Ionic

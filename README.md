@@ -1529,6 +1529,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-otp-code-input](https://github.com/Swaraj55/otp-input) - An Angular OTP input component with extensive customization options, including masking, numeric-only input, and autofocus.
 * [smart-date-input](https://github.com/ngxpert/smart-date-input) - A smart date input directive that uses the Writer API to parse natural language dates.
 * [color-picker](https://github.com/acrodata/color-picker) - Another beautiful color picker.
+* [ngx-pattern-lock](https://github.com/nicotole/ngx-pattern-lock) - A lightweight, fully responsive, and customizable Android-style pattern lock component for Angular.
 
 ### JSON Forms
 

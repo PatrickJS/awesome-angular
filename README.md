@@ -1596,6 +1596,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxi](https://github.com/adrian-ub/ngxi) - Comprehensive SVG icon set for Angular with seamless integration of thousands of popular icons.
 * [chill-wind-icons](https://github.com/alimjanablikim/chill-wind-icons) - Dynamic Angular icon library with native Tailwind CSS support, tree-shakeable icon data, and built from Iconoir SVGs.
 * [@TSB04/svg-icon](https://github.com/TSB04/svg-icon) - Framework-agnostic, customizable, lightweight SVG icon package for React, Vue, Angular, and more.
+* [animated-icons](https://github.com/ajitzero/animated-icons) - Animated icons for Angular based on [moving icons](https://www.movingicons.dev/).
 
 ### Images
 

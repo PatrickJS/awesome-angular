@@ -2014,6 +2014,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-aespartal-ui](https://github.com/Aespartal/ngx-aespartal-ui) - A professional, lightweight, and customizable Angular component library built with Atomic Design principles.
 * [JSuites](https://github.com/jsuites/jsuites) - Collection of UI components and utilities (forms, modals, inputs) that can be integrated into Angular with custom wrappers or directives.
 * [ngx-support-chat](https://github.com/avs2001/ngx-support-chat) - A pure presentational Angular component library for customer support chat interfaces.
+* [luma-ui](https://github.com/lumaui/luma-ui) - Neo-Minimal design system for Angular applications.
 
 ### UI Libraries built on Bootstrap
 

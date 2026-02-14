@@ -932,6 +932,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-smart-permissions](https://github.com/rami-sheikha-dev/ngx-smart-permissions) - A lightweight Angular library for role and permission-based access control, supporting standalone components and NgModules.
 * [ngxsmk-gatekeeper](https://github.com/NGXSMK/ngxsmk-gatekeeper) - A lightweight, developer‑friendly middleware engine for Angular that secures routes and HTTP requests through one composable setup.
 * [permit](https://www.permit.io/) - An authorization-as-a-service solution that can be used with [Angular](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular).
+* [ng-ability](https://github.com/topaxi/ng-ability) - Define access control lists in Angular.
 
 ### Security Best Practices
 

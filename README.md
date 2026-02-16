@@ -938,7 +938,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Aikido](https://www.aikido.dev/) - Secure your code, cloud, and runtime in one central system. Find and fix vulnerabilities automatically.
 * [Angular Security](https://angular.dev/best-practices/security) - Best Practices.
-* [GitHub](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  
+* [GitHub Code Scanning](https://docs.github.com/en/code-security/concepts/code-scanning) - Learn core concepts for GitHub's code scanning features.
 * [GitHub Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
 * [HackTricks](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/angular) - Angular Security  Checklist.
 * [SafeDep](https://safedep.io/) - It continuously scans open source code for vulnerabilities and malware, helping security engineering teams proactively mitigate inherited OSS risks.

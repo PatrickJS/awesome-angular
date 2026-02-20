@@ -748,6 +748,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [AutoFormsBuilderFilesGenerator](https://github.com/XHAlawa/AutoFormsBuilderFilesGenerator) - Generate Angular forms from OpenAPI/Swagger with `ng-openapi-gen`, featuring strong typing, validation, and UI helpers.
 * [ngx-autogen](https://github.com/barcidev/ngx-autogen) - A set of schematics that streamline Angular workflows by generating best‑practice code and reducing repetitive setup tasks.
 * [angular-momentum](https://github.com/TheGameKnave/angular-momentum) - Spins up Angular projects in a monorepo quickly with minimal configuration.
+* [swaggular](https://github.com/AlexMA2/swaggular) - A tool to generate Angular services and models from Swagger/OpenAPI specifications.
 * [prism](https://github.com/arclight-digital/prism) - Auto-generate framework wrappers (React, Vue, Svelte, Angular, Solid, Preact) and HTML/CSS examples from Lit web components.
 
 ### Internationalization
@@ -1244,6 +1245,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cdk-lightbox](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
 * [rm-image-slider](https://github.com/malikrajat/rm-image-slider) - Standalone Angular image slider with lightbox, lazy loading, and video support (YouTube/MP4).
 * [ngx-carousel-modern](https://github.com/Aizaz-ul-haq/ngx-carousel-modern) - A modern, customizable carousel component for Angular 16+ with support for both standalone and NgModule-based applications.
+* [fslightbox-angular](https://github.com/banthagroup/fslightbox-angular) - The Angular version of [Fullscreen Lightbox](https://fslightbox.com/).
 
 ### Charts
 

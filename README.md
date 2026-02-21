@@ -2136,6 +2136,7 @@ for the creation of web applications developed with Angular.
 * [ngx-voyage](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 * [pdf-viewer-kit](https://github.com/AmanKrr/pdf-viewer-kit) - A modern, high-performance, framework-agnostic, lightweight PDF viewer and annotation library built on top of [pdf.js](https://github.com/mozilla/pdf.js).
 * [Angular Image & PDF Viewer](https://github.com/NiranjanKushwaha/imgPdfViewer_library_Angular) - A customizable Angular library for viewing PDFs and images using Mozilla’s `pdf.js` engine for smooth previews.
+* [ngx-pdf-viewer](https://github.com/subedigaurav/ngx-pdf-viewer) - A lightweight PDF viewer library for Angular applications.
 
 ### Visual Effects
 

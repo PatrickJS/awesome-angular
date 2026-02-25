@@ -907,6 +907,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-webauthn](https://github.com/JonnyHeavey/ngx-webauthn) - An Angular library offering a type-safe, streamlined abstraction of the native WebAuthn API, with built-in support for standard types and optional presets for common use cases.
 * [omni-auth](https://github.com/ngx-addons/omni-auth) - Angular authentication library providing core functionality for authentication flows, guards, and error handling.
 * [otp-angular](https://github.com/subha-patra/otp-angular) - A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.
+* [passlock](https://github.com/passlock-dev/passlock) - Frictionless passkey authentication for Angular and other frameworks.
 * [@serhiisol/ngx-auth](https://github.com/serhiisol/ngx-auth) - Angular 20+ Authentication Module.
 * [Supabase](https://supabase.com/docs/guides/getting-started/tutorials/with-angular) - Build a User Management App with Angular.
 * [SuperTokens](https://supertokens.com) - Configure your [Angular](https://supertokens.com/docs/quickstart/frontend-setup) application to use SuperTokens for authentication.

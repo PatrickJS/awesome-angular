@@ -1021,6 +1021,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-event-bus-lib](https://github.com/orelnatan/ngx-event-bus-lib) - Broadcast strongly-typed events anywhere in your app and react to them declaratively — without services, DI, providers, RxJS, signals, or tight coupling.
 * [rs-x](https://github.com/robert-sanders-software-ontwikkeling/rs-x) - A reactive engine that unifies sync and async data into one transparent model, giving Angular fine‑grained automatic change detection without manual async handling.
 * [stateloom](https://github.com/sujeet-pro/stateloom) - A universal state‑management SDK featuring a signal‑driven reactive core, along with paradigm adapters (Store, Atom, Proxy) and framework adapters for React, Angular, and more.
+* [ngx-state-crafter](https://github.com/irvrodflo/ngx-state-crafter) - A lightweight, signal‑driven state library for Angular with a clean, boilerplate‑free API.
 
 ## Testing
 

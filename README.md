@@ -1836,6 +1836,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-toaster](https://github.com/damingerdai/angular-toaster) - Updated fork of [Angular2-Toaster](https://github.com/Stabzs/Angular2-Toaster).
 * [grand-notifications](https://github.com/rishi-rj-s/grand-notifications) - Beautiful, customizable toast notifications with artistic animations.
 * [hot-toast](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
+* [makki-toast-package](https://github.com/DanielJimenezC/makki-toast-package) - A customizable toast component built to streamline the creation and management of tailored alerts.
 * [mk-magic-messages-library](https://github.com/mkeller1992/mk-magic-messages-library) - Easily display animated success, info, warning, and error alerts in your Angular 20+ application.
 * [ng-toast-service](https://github.com/nhusby/ng-toast-service) - Simple, customizable Angular notification service with slide‑in alerts and configurable behavior.
 * [ngx-alertifying](https://github.com/Salromag/ngx-alertifying) - Customizable, responsive Angular alert component for stylish, accessible feedback across devices and contexts.

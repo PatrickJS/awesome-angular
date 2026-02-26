@@ -1503,6 +1503,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-form-stepper](https://github.com/rayaneriahi/ngx-form-stepper) - A strongly typed Angular library for building robust multi‑step forms that prevent invalid states during development with minimal configuration.
 * [ngx-form-rules](https://github.com/bulbul5391/ngx-form-rules) - A lightweight Angular library that makes it easy to enable, disable, and control reactive form fields using simple, declarative rules.
 * [ngx-reactive-forms-utils](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Utilities to assist in the use of reactive Angular forms.
+* [ngx-entity-forms](https://github.com/irvrodflo/ngx-entity-form) - Generates fully typed Angular FormGroups from your entity interface, complete with autocompletion, validation, and error messages.
 
 ### Form Controls
 

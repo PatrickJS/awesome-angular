@@ -1847,7 +1847,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-alertifying](https://github.com/Salromag/ngx-alertifying) - Customizable, responsive Angular alert component for stylish, accessible feedback across devices and contexts.
 * [ngx-french-toast](https://github.com/thiagopg84/ngx-french-toast) - Lightweight, customizable Angular 14+ toast library for informative messages, feedback, and dynamic component support.
 * [ngx-modern-alerts](https://github.com/jonaaix/ngx-modern-alerts) - Flexible Angular system for banner and floating alerts with hub, timeouts, custom actions, and more.
-* [ngx-notifications](https://github.com/pascaliske/ngx-notifications) - Simple notifications module for Angular.
+* [@klausbrandner/ngx-notifications](https://github.com/klausbrandner/ngx-notifications) - Simple, lightweight toast notifications for Angular.
+* [@pascaliske/ngx-notifications](https://github.com/pascaliske/ngx-notifications) - Simple notifications module for Angular.
 * [ngx-notifier](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
 * [ngx-popify](https://github.com/fgilmet/ngx-popify) - Toast notifications for Angular 16+ built using reactive signals and easily integrated via a view component.
 * [ngx-snotifire](https://github.com/ccpatrut/ngx-snotifire) - A flexible toast library offering multiple notification types, simultaneous positions, rich configuration, full custom styling, built‑in themes, callbacks, and custom HTML support.

@@ -688,6 +688,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-genie](https://github.com/SparrowVic/ngx-genie) - A tool to visualize the dependency injection tree, analyze service states, track component relationships, and identify memory or architectural issues.
 * [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge) - Converts Angular templates into static HTML variants, enabling reliable validation and linting with any standard HTML tool.
 * [ngx-locator](https://github.com/Ea-st-ring/ngx-locator) - Angular development utility to open components and templates from the browser like [LocatorJS](https://www.locatorjs.com/).
+* [oxc-angular-compiler](https://github.com/voidzero-dev/oxc-angular-compiler) - A high-performance Angular template compiler written in Rust, leveraging the [Oxc](https://github.com/oxc-project/oxc) infrastructure for blazing-fast compilation.
 
 ### Debugging
 

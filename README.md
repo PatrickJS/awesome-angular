@@ -1333,6 +1333,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cerious-grid](https://github.com/ryoucerious/cerious-widgets) - A seriously powerful Angular grid for developers who demand control, flexibility, and performance.
 * [ngxsmk-datatable](https://github.com/toozuuu/ngxsmk-datatable) - Modern Angular 17+ datatable focused on performance, customization, and developer experience.
 * [ngx-column-filter](https://github.com/kakarotx10/ngx-column-filter) - A powerful, reusable Angular column filter component with support for multiple field types, advanced filtering rules, and customizable match modes.
+* [@witqq/spreadsheet](https://spreadsheet.witqq.dev/) - Canvas-based spreadsheet and datagrid engine with zero dependencies, 100K+ rows at 60fps, editing, formulas, sorting, filtering, and real-time collaboration. Standalone Angular component wrapper.
 * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Open source JavaScript spreadsheet and data grid component, can be used in Angular apps when wrapped or consumed via Angular elements.
 * [TabularJS](https://github.com/jspreadsheet/tabularjs) - Lightweight JavaScript table and data grid library for advanced table features in Angular.
 * [uni-table](https://github.com/Unify-India/uni-table) - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.

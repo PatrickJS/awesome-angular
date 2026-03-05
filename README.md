@@ -636,6 +636,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [angular-material-ai-rules](https://github.com/Angular-Material-Dev/angular-material-ai-rules) - A collection of configuration rules and usage guidelines for using Angular Material in AI-driven code editors.
 * [angular-mcp-server](https://github.com/SAIPRANAY-GANGULA/angular-mcp-server) - An MCP server offering Angular documentation access, enabling AI assistants to search and retrieve relevant Angular info.
+* [angular-skills](https://github.com/analogjs/angular-skills) - A collection of skills that provide coding agents with up-to-date Angular v20+ patterns, best practices, and code examples.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodeSage AI](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 * [CodingFleet](https://codingfleet.com/code-generator/angular/) - An innovative AI-powered tool that transforms your instructions into efficient Angular code.

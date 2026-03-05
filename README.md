@@ -1862,6 +1862,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-snotifire](https://github.com/ccpatrut/ngx-snotifire) - A flexible toast library offering multiple notification types, simultaneous positions, rich configuration, full custom styling, built‑in themes, callbacks, and custom HTML support.
 * [ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 * [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
+* [ngx-toast](https://github.com/aminekun90/ngx-toast) - A lightweight, high-performance, and Zoneless-ready toast notification library for Angular 21+ and React 18-19 +.
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
 * [@IQXLimited/ngx-toastr](https://github.com/IQXLimited/ngx-toastr) - A fork of `ngx-toastr` that adds extra features, improvements, and customizations.
 * [ngx-toastr-notifier](https://github.com/Mazen-Embaby/ngx-toastr-notifier) - Lightweight, customizable Angular 20+ toast notifications with Material design and flexible APIs, replacing `toastr`.

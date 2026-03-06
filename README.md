@@ -1963,6 +1963,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cerious-scroll](https://github.com/ceriousdevtech/cerious-scroll) - High-performance virtual scrolling for web applications.
 * [ngx-zoneless-scrollbar](https://github.com/Legalfina/ngx-zoneless-scrollbar) - A lightweight Angular scrollbar built for zoneless mode, using native scrolling with CSS styling.
 * [ngx-scrollbar-ultimate](https://github.com/andrew-dev283/ngx-scrollbar-ultimate) - A lightweight library for vertical scrolling.
+* [ngx-scrollspy](https://github.com/uniprank/ngx-scrollspy) - Angular Scroll Spy Service with events.
 
 ### Storage
 

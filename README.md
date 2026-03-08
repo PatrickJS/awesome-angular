@@ -1890,6 +1890,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-web-tour](https://github.com/abbas-mgz/ngx-web-tour) - A customizable product tour library for Angular applications that supports user onboarding with animations and professional UI.
 * [ngxsmk-help-tour](https://github.com/toozuuu/ngxsmk-help-tour) - Angular standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
 * [ngx-intro](https://github.com/andresciceri/ngx-intro) - An Angular library that provides a simple integration of [Intro.js](https://introjs.com/) to create interactive guides and step-by-step tutorials.
+* [ngx-custom-tour](https://github.com/miraxes/ngx-custom-tour) - Easy to customize step-by-step tour / onboarding for Angular 15+.
 
 ### Pipes
 

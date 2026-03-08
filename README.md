@@ -1836,6 +1836,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-3d](https://github.com/Hive-Academy/angular-3d) - Modern Angular libraries for building stunning 3D graphics and scroll animations.
 * [npm-ntk-cms-angular](https://github.com/akaravi/npm-ntk-cms-angular) - This monorepo contains a collection of 9 reusable Angular libraries designed for building modern CMS applications.
 * [ngx-vertex](https://github.com/pjlamb12/ngx-vertex) - Designed to assist in creating and managing a directed acyclic graph model in an Angular application.
+* [telperion](https://github.com/telperiontech/telperion) - A collection of high-quality, framework-independent utilities and tools for modern web development, including [ng-pack](https://github.com/telperiontech/telperion/tree/main/libs/ng-pack).
 
 ### Modals
 

@@ -1212,6 +1212,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for Angular 15+ that can display events on a month, week, or day view.
 * [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - Angular 13+ timeline component for tasks or events in day, week, and month views, supporting SSR without large dependencies like jQuery or Moment.js.
 * [@pyas/connect-angular](https://www.npmjs.com/package/@pyas/connect-angular) - A plugin wrapper around the [Pyas Connect](https://github.com/brutforce-tech/pyas-connect) Web Component, exposing PyasConnect as a first-class Angular component.
+* [cyrus-calendar](https://github.com/mhmfofa/cyrus-calendar) - A lightweight, multi-calendar Angular date picker supporting Gregorian, Shamsi (Jalali / Persian), and Imperial calendars.
 * [daypilot-lite-angular](https://www.npmjs.com/package/@daypilot/daypilot-lite-angular) - Angular version of JavaScript/HTML5 event calendar/scheduler components that can display day/week/month calendar views.
 * [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
 * [ngx-calendario](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.

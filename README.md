@@ -1206,6 +1206,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-animations](https://github.com/bananalasmari/ngx-animations) - Angular animation library inspired by GSAP, offering high-performance directives, components, and a timeline service with full RTL support.
 * [ngx-spring](https://github.com/angular-threejs/ngx-spring) - Create fluid, natural-feeling animations using spring physics instead of durations and easing curves.
 * [ngx-unicode-spinners](https://github.com/neogenz/ngx-unicode-spinners) - 18 braille-based Unicode spinner animations for Angular. Zero runtime dependencies.
+* [ng-motion](https://github.com/ScriptType/ng-motion) - Angular animation library built on [motion-dom](https://github.com/motiondivision/motion).
 
 ### Calendars
 

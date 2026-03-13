@@ -2305,6 +2305,7 @@ for the creation of web applications developed with Angular.
 * [cytoscape-angular](https://github.com/michaelbushe/cytoscape-angular) - A production-ready Angular library providing sophisticated graph visualization capabilities using [Cytoscape.js](https://js.cytoscape.org/).
 * [d3-cloud-angular](https://github.com/maitrungduc1410/d3-cloud-angular) - D3 Cloud component for Angular built upon [d3-cloud](https://github.com/jasondavies/d3-cloud).
 * [gojs-angular](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
+* [@foisit/angular-wrapper](https://github.com/boluwatifee4/foisit/tree/main/libs/angular-wrapper) - The AI-Powered Conversational Assistant for Angular Applications.
 * [lyne-angular](https://github.com/sbb-design-systems/lyne-angular) - Angular wrapper for the [Lyne Web Components](https://github.com/sbb-design-systems/lyne-components).
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - [IO Connect](https://interop.io/) Angular wrapper to simplify initializing and using IO Connect libraries in projects.
 * [ng-elementum](https://github.com/MillerSvt/ng-elementum) - A modern fork of `@angular/elements` that enhances the integration of Angular components with the Web Components standard.

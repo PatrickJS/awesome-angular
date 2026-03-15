@@ -2230,6 +2230,7 @@ for the creation of web applications developed with Angular.
 * [rxjs-course](https://github.com/angular-university/rxjs-course) - RxJS course from Angular University.
 * [subscribable-things](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
 * [subsiphon](https://github.com/shobeiry/subsiphon) - Lightweight utility for managing multiple RxJS subscriptions with indexed/named keys and simple cleanup methods.
+* [web-serial-rxjs](https://github.com/gurezo/web-serial-rxjs) - A TypeScript library that provides a reactive RxJS-based wrapper for the Web Serial API, enabling easy serial port communication in web applications.
 
 ### TypeScript
 

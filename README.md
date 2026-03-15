@@ -766,6 +766,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-ecmascript-intl](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
 * [angular-i18next](https://github.com/Romanchuk/angular-i18next) - Angular integration for [i18next](https://www.i18next.com/).
 * [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer](https://github.com/aymericzip/intlayer) package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
+* [angular-locale-chain](https://github.com/i18n-agent/angular-locale-chain) - Smart locale fallback chains for Angular and Transloco.
 * [angular-l10n](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
 * [angular-translation-checker](https://github.com/ricardoferreirades/angular-translation-checker) - A tool for `ngx-translate` that detects unused or missing keys to keep i18n files clean.
 * [Crowdin](https://crowdin.com/) - AI-powered localization software, automating content translation with 600+ apps and [integrations](https://store.crowdin.com/search?query=angular).

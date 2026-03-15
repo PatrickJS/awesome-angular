@@ -569,6 +569,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-soap](https://github.com/seyfer/ngx-soap) - A lightweight SOAP client built on [node‑soap](https://github.com/vpulim/node-soap), fully compatible with Angular’s signals, standalone components, and modern features.
 * [ngx-http-fetch-tracking](https://github.com/pegasusheavy/ngx-http-fetch-tracking) - Angular library providing upload progress tracking for the Fetch API backend.
 * [fetchquack](https://github.com/adrian-bueno/fetchquack) - Angular‑ready HTTP client with an RxJS Observable wrapper and injection‑context support, offering lightweight Fetch‑based streaming, SSE, and upload/download progress handling.
+* [ziflux](https://github.com/neogenz/ziflux) - A zero‑dependency, signal‑native caching layer for Angular 21+ with stale‑while‑revalidate for resource()—instant navigations, background refreshes, no spinners.
 
 ### Micro-Frontends
 

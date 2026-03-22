@@ -2083,6 +2083,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-support-chat](https://github.com/avs2001/ngx-support-chat) - A pure presentational Angular component library for customer support chat interfaces.
 * [luma-ui](https://github.com/lumaui/luma-ui) - Neo-Minimal design system for Angular applications.
 * [Mundane UI](https://github.com/waga97/Mundane-UI) - Framework-agnostic, zero-dependency, lightweight UI component library.
+* [eagami-design-system](https://github.com/mwiraszka/eagami-design-system) - Lightweight, accessible Angular UI component library built on CSS custom properties.
 
 ### UI Libraries built on Bootstrap
 

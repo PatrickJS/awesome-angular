@@ -1379,6 +1379,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [hijri-date-time-picker](https://github.com/hanygamal72/hijri-date-time-picker) - Angular standalone dual Gregorian/Hijri datetime picker using Umm Al-Qura calendar.
 * [ng-laydate](https://github.com/lanxuexing/ng-laydate) - A simple yet robust date & time picker for Angular 18+.
 * [lifecycle-timeline](https://github.com/ericreboisson/lifecycle-timeline) - An interactive Vanilla JS component for visualizing product lifecycle stages, accompanied by an Angular integration guide.
+* [weekly-availability-picker](https://github.com/squareetlabs/weekly-availability-picker) - A standalone Angular weekly availability picker with drag & resize support.
 
 ### Directives
 

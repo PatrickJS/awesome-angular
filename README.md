@@ -1755,6 +1755,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-yandex-maps](https://github.com/ddubrava/angular-yandex-maps) - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
 * [workletjs](https://github.com/workletjs/workletjs) - An Angular map component library that provides seamless integration with OpenLayers, enabling developers to create interactive and customizable maps.
 * [ng-simple-maps](https://github.com/hanafnafs/ng-simple-maps) - Beautiful, lightweight SVG world maps for Angular applications.
+* [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
 
 ### Markdown
 

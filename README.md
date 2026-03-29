@@ -1169,7 +1169,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-blog](https://github.com/pegasusheavy/ngx-blog) - A modern Angular-based blogging CMS with theme support and SEO optimization.
 * [radixweb](https://radixweb.com/starter-kits/enterprise-microservices-boilerplate) - Full production-ready microservices boilerplate.
 * [base-angular-monorepo](https://github.com/myvictorlife/base-angular-monorepo) - A production-ready base project for developing scalable Angular applications (Nx, NgRx, Tailwind CSS, Jest, ESLint, Prettier).
-* [nx-ng-starter](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, NodeJS, NestJS, Firebase.
+* [nx-ng-starter](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, Node, Nest, Firebase.
 
 ### Paid Templates
 

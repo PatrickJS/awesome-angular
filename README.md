@@ -697,6 +697,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge) - Converts Angular templates into static HTML variants, enabling reliable validation and linting with any standard HTML tool.
 * [ngx-locator](https://github.com/Ea-st-ring/ngx-locator) - Angular development utility to open components and templates from the browser like [LocatorJS](https://www.locatorjs.com/).
 * [oxc-angular-compiler](https://github.com/voidzero-dev/oxc-angular-compiler) - A high-performance Angular template compiler written in Rust, leveraging the [Oxc](https://github.com/oxc-project/oxc) infrastructure for blazing-fast compilation.
+* [ts-analyzer](https://github.com/amir-valizadeh/ts-analyzer) - A comprehensive TypeScript codebase analyzer that provides detailed metrics on type safety, code complexity, and quality.
 
 ### Debugging
 

@@ -1693,6 +1693,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [focusly](https://github.com/mad-vx/focusly) - A lightweight Angular library that brings intuitive, keyboard-driven navigation to web applications.
 * [ngx-arrow-state](https://github.com/jaychase/ngx-arrow-state) - An Angular library that provides terminal/shell-like input history navigation using arrow keys, plus Ctrl+Enter form submission for textareas.
 * [angular-onscreen-material-keyboard](https://github.com/eFaps/angular-onscreen-material-keyboard) - Onscreen virtual keyboard for Angular using Angular Material.
+* [@TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools.
 
 ### Layout
 

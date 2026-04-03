@@ -854,6 +854,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-event-plugins](https://github.com/taiga-family/ng-event-plugins) - A tiny library for optimizing change detection cycles for performance sensitive events.
 * [ng-queuex](https://github.com/dagnygus/ng-queuex) - Experimental Angular ecosystem with React-like scheduler and signal-driven directives for fine-grained change detection.
 * [ng-reactive-lint](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
+* [ngx-idle-monitor](https://github.com/giorgi1441/ngx-idle-monitor) - A lightweight Angular service for tracking user activity, managing session timeouts, and syncing idle state across tabs.
 * [ngx-network-monitor](https://github.com/MadeByRaymond/ngx-network-monitor) - A lightweight Angular service to monitor network status: online/offline, connection quality (2G/3G/4G/5G), and ping latency.
 * [ngx-performance-diagnostics](https://github.com/maciekv/ngx-performance-diagnostics) - Spot performance bottlenecks, excessive change‑detection cycles, and memory leaks in Angular apps with zero setup.
 * [ngx-script-optimizer](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.

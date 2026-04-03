@@ -574,6 +574,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ziflux](https://github.com/neogenz/ziflux) - A zero‑dependency, signal‑native caching layer for Angular 21+ with stale‑while‑revalidate for resource()—instant navigations, background refreshes, no spinners.
 * [ng-signal-query](https://github.com/Ali7040/ng-signal-query) - A type‑safe Angular querying library built on signals that streamlines server state, infinite queries, mutations, and caching with high performance.
 * [api-caller](https://forge.deejayy.hu/angular-packages/api-caller) - Simple API caller library for Angular.
+* [ngx-lite-cache](https://github.com/Suleeyman/ngx-lite-cache) - An Angular library that caches HTTP responses via HttpClient interceptors to cut redundant requests and boost performance.
 
 ### Micro-Frontends
 

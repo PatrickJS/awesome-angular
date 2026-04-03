@@ -1807,6 +1807,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-rumbletalk](https://github.com/RumbleTalk/ngx-rumbletalk) - An Angular library for [Rumbletalk](https://rumbletalk.com/) group chats.
 * [ng-three-model-cropper](https://github.com/AlexRynas/ng-three-model-cropper) - An Angular `Three.js` library for configurable 3D model cropping with GLB/FBX support and triangle-pruning export.
 * [@ngx-core/media-optimizer](https://github.com/barbozaa/media-optimizer-workspace) - Professional framework-agnostic library for image optimization, conversion, and compression.
+* [ngx-streaming-player](https://github.com/jhonsferg/ngx-streaming-player) - A unified, plug-and-play video player component that handles HLS, DASH, MP4, and YouTube through a single API.
 
 ### Mixed Utilities
 

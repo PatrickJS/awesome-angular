@@ -951,6 +951,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [izipay](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
 * [ngxsmk-stripe](https://github.com/toozuuu/ngxsmk-stripe) - Angular plugin for integrating Stripe payments (one-time & subscriptions) with theme customization, event emitters, and standalone components.
 * [ngx-hyperpay](https://github.com/MagdyAbouelnasr/ngx-hyperpay) - An Angular library for easy integration of the [HyperPay](https://www.hyperpay.com/) payment gateway.
+* [ngx-mp-payments](https://github.com/JosemaCeballos/ngx-mp-payments) - Angular library for integration with [Mercado Pago](https://www.mercadopago.com.ar/).
 * [ngx-stripe](https://github.com/richnologies/ngx-stripe) - Angular bindings for [StripeJS](https://stripe.com/docs/js) and [Stripe Elements](https://stripe.com/docs/stripe-js).
 * [ngx-supabase-stripe](https://github.com/dotted-labs/ngx-supabase-stripe) - Ready‑made Angular components for Supabase + Stripe payments/subscriptions.
 * [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.

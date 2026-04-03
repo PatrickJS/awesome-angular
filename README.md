@@ -2216,6 +2216,7 @@ for the creation of web applications developed with Angular.
 * [pdf-viewer-kit](https://github.com/AmanKrr/pdf-viewer-kit) - A modern, high-performance, framework-agnostic, lightweight PDF viewer and annotation library built on top of [pdf.js](https://github.com/mozilla/pdf.js).
 * [Angular Image & PDF Viewer](https://github.com/NiranjanKushwaha/imgPdfViewer_library_Angular) - A customizable Angular library for viewing PDFs and images using Mozilla’s `pdf.js` engine for smooth previews.
 * [ngx-pdf-viewer](https://github.com/subedigaurav/ngx-pdf-viewer) - A lightweight PDF viewer library for Angular applications.
+* [ngx-file-peek](https://github.com/valtonngara/ngx-file-peek) - An Angular standalone component library that renders real file content as thumbnails from any URL or storage source.
 
 ### Visual Effects
 

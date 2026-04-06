@@ -14,6 +14,7 @@ This is the Awesome list of the Angular framework, and it contains intriguing li
 
 Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)  
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Angular development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Contents
 
 * [Angular](#angular)

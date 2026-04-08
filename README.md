@@ -1880,6 +1880,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [telperion](https://github.com/telperiontech/telperion) - A collection of high-quality, framework-independent utilities and tools for modern web development, including [ng-pack](https://github.com/telperiontech/telperion/tree/main/libs/ng-pack).
 * [signality](https://github.com/signalityjs/signality) - A collection of atomic utilities for building reactive compositions in Angular.
 * [@alvaromarinho/libs](https://github.com/alvaromarinho/libs) - A collection of Angular libraries for common UI needs, compatible with Angular 14+.
+* [angular-helpers](https://github.com/Gaspar1992/angular-helpers) - A suite of Angular libraries that help you build secure, browser-integrated applications with a clean developer experience.
 
 ### Modals
 

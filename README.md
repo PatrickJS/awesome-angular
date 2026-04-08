@@ -2036,7 +2036,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-persist](https://github.com/khvedela/ngx-persist) - A type‑safe, signal‑based persistent state utility for Angular, syncing with localStorage, sessionStorage, IndexedDB, or custom backends.
 * [strata-storage](https://github.com/aoneahsan/strata-storage) - Zero-dependency universal storage plugin providing a unified API for all storage operations across web, Android, and iOS platforms.
 * [ngx-webstore](https://github.com/saurabh-vaish/ngx-webstore) - A comprehensive Angular library for browser storage management with TypeScript support, reactive APIs, encryption, TTL, and more.
-* [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) - Rust/WASM local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
+* [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) - Rust/Web Assembly local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
 
 ### Tooltips
 

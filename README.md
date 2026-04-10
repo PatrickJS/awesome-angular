@@ -203,6 +203,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [svger-cli](https://github.com/faezemohades/svger-cli) - A lightweight CLI that transforms SVGs into optimized Angular components with zero dependencies.
 * [tailwind-init-cli](https://github.com/ImLeoNova/tailwind-init-cli) - A one-command setup tool for Tailwind CSS in Angular, React, or Next.js projects!
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=PatrickJS_awesome-angular) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### Deployment
 
 * [AWS Amplify](https://docs.amplify.aws/angular/)

@@ -2221,6 +2221,7 @@ for the creation of web applications developed with Angular.
 * [ngx-headless](https://github.com/fawadtariq/ngx-headless) - A collection of standalone, accessible Angular primitives inspired by [Headless UI](https://headlessui.com) & [FormKit](https://formkit.com).
 * [Clean Architecture Frontend](https://github.com/ialiaslani/caf) - Domain-agnostic primitives for building frontend applications with Clean Architecture. Works with React, Vue, Angular, or any future framework.
 * [@luminacn/ui](https://github.com/luminacn/ui) - Signal-first, headless UI primitives for Angular.
+* [Bloc UI](https://github.com/debasish1996/BLOC-UI) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
 
 ### Viewers
 

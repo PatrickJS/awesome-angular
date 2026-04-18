@@ -627,6 +627,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-vlibras](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates VLibras to automatically translate content into Brazilian Sign Language (Libras).
 * [ngx-accessible-ui](https://github.com/ShakeelKadri/ngx-accessible-ui) - Angular 9+ navigation and menu directives compliant with WCAG 2.1 AA and the European Accessibility Act 2025 for inclusive web experiences.
 * [a11y-libraries](https://github.com/LDV2k3/a11y-libraries) - A range of accessibility solutions for Angular.
+* [a11yguard](https://github.com/shamaz332/a11yguard) - Delivers a zero‑dependency accessibility toolkit with cross‑framework primitives, idiomatic adapters, and a runtime audit mapped to EAA / EN 301 549.
 
 ### AI
 

@@ -2054,6 +2054,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [strata-storage](https://github.com/aoneahsan/strata-storage) - Zero-dependency universal storage plugin providing a unified API for all storage operations across web, Android, and iOS platforms.
 * [ngx-webstore](https://github.com/saurabh-vaish/ngx-webstore) - A comprehensive Angular library for browser storage management with TypeScript support, reactive APIs, encryption, TTL, and more.
 * [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) - Rust/WebAssembly local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
+* [ngx-secure-storage](https://github.com/MadeByRaymond/ngx-secure-storage) - SSR-compatible Angular service to securely store, retrieve, and manage encrypted data in localStorage and sessionStorage using AES encryption.
 
 ### Tooltips
 

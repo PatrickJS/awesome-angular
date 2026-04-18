@@ -2421,7 +2421,7 @@ for the creation of web applications developed with Angular.
 * [indulgent](https://github.com/frodi-karlsson/indulgent) - A lightweight set of TypeScript utilities designed for web development, free of external dependencies and optimized for solid runtime performance.
 * [injection-js](https://github.com/mgechev/injection-js) - A fast, well‑tested JavaScript/TypeScript dependency injection library extracted from Angular’s `ReflectiveInjector`.
 * [ioc](https://github.com/Isqanderm/ioc) - A powerful and flexible Inversion of Control (IoC) container for TypeScript applications. Inspired by Angular and NestJS.
-* [knifecycle](https://github.com/nfroidure/knifecycle) - Manage your Node.js processes's lifecycle automatically with an unobtrusive dependency injection implementation.
+* [knifecycle](https://github.com/nfroidure/knifecycle) - Manage your Node.js processes' lifecycle automatically with an unobtrusive dependency injection implementation.
 * [Lua-Generate](https://github.com/Gabriel-c0Nsp/Lua-Generate) - A CLI tool to generate boilerplate code inspired by ng tool from Angular.
 * [named-slots](https://github.com/maybebot/named-slots) - Declarative "holes" for React components, inspired by slots in Vue, Svelte, Angular, and WebComponents.
 * [needle-di](https://github.com/needle-di/needle-di) - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects.

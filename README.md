@@ -1119,6 +1119,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [spectator](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests.
 * [stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
 * [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+* [msw-lens](https://github.com/hypertheory-labs/msw-lens) - A tool that generates AI‑readable project state snapshots so any model can understand your mocked APIs, active scenarios, and context without manual explanation.
 * [shallow-render](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
 * [@storybookjs/testing-angular](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
 * [ngx-testbox](https://github.com/kirill-kolomin/ngx-testbox) - A comprehensive testing utility library for Angular applications that simplifies test writing and improves test reliability. You will find this library useful for unit, integration, and e2e testing.

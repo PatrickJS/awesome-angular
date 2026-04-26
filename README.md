@@ -1067,6 +1067,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [coaction](https://github.com/unadlib/coaction) - An efficient and flexible state management library for building high-performance, multithreading web applications.
 * [flurryx](https://github.com/fmflurry/flurryx) - A signal-first reactive state toolkit for Angular that bridges RxJS streams into structured, cache-aware stores.
 * [ngStato](https://github.com/becher/ngStato) - State management for Angular that uses async/await instead of RxJS.
+* [ng-eagleeye.js](https://github.com/webKrafters/ng-eagleeye.js) - A framework-agnostic, native JavaScript immutable state manager with change-streams, deployable anywhere.
 
 ## Testing
 

@@ -810,7 +810,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [esbuild Bundle Size Analyzer](https://esbuild.github.io/analyze/) - Visualize the contents of your esbuild bundle.
 * [hawkeye](https://github.com/angular-experts-io/hawkeye) - A tool that visualizes and optimizes JavaScript bundles, revealing modules, dependencies, and assets affecting performance.
 * [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
-* [ngememoize](https://github.com/akbarsaputrait/ngememoize) - Easily boost the performance of your Angular applications by memoizing functions and getters with this lightweight and simple-to-use library.
 * [ng-event-plugins](https://github.com/taiga-family/ng-event-plugins) - A tiny library for optimizing change detection cycles for performance sensitive events.
 * [ng-queuex](https://github.com/dagnygus/ng-queuex) - Experimental Angular ecosystem with React-like scheduler and signal-driven directives for fine-grained change detection.
 * [ng-reactive-lint](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
@@ -832,7 +831,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-api-mimic](https://github.com/mateuszbilicz/ngx-api-mimic) - This library allows you to mock data and simulate a fake API using Angular’s HTTP Interceptor.
 * [ngx-compare-object](https://github.com/RzoDev/ngx-compare-object) - Angular utility to compare an original object with its modified version.
 * [ngx-json-reader](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
-* [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - Lightweight Angular hub unifying callbacks with signal‑based event observation.
 * [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) - Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 
 ### SEO
@@ -841,7 +839,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-seo](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
 * [Angular React SEO](https://github.com/ganatan/angular-react-seo) - Angular & React Examples SEO (Search engine optimization).
 * [unhead](https://www.npmjs.com/package/@unhead/angular) - Full-stack `<head>` management for Angular applications.
-* [seo-manager-pro](https://github.com/mbsh-code/seo-manager-pro) - A powerful SEO manager for Angular, React, Vue, and Vanilla JS to easily set tags and structured data.
 
 ### Styling
 
@@ -876,22 +873,18 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [authon-sdk](https://github.com/mikusnuz/authon-sdk/tree/main/packages/angular) - Angular SDK for [Authon](https://authon.dev/) — service, guard, and interceptor.
 * [authress-angular](https://github.com/mikepattyn/authress-angular) - This package only contains a module for easy setup and registration of the [Authress](https://authress.io/) LoginClient.
 * [@badisi/ngx-auth](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
-* [capacitor-biometric-authentication](https://github.com/aoneahsan/capacitor-biometric-authentication) - Framework‑agnostic biometric auth library with zero dependencies, provider‑less APIs, multi‑platform support, and optional Capacitor integration.
 * [corbado](https://www.corbado.com/#signup-init) - [Integrate](https://docs.corbado.com/corbado-complete/frontend-integration/angular) Corbado with Angular to use passkeys for authentication.
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
 * [frontegg-angular](https://github.com/frontegg/frontegg-angular) - Hosted login SDK for Angular; see the [quickstart](https://developers.frontegg.com/ciam/sdks/frontend/angular/hosted-login).
 * [FusionAuth Angular SDK](https://fusionauth.io/docs/sdks/angular-sdk) - Angular SDK for login/registration, logout, and refresh token handling.
 * [hanko](https://github.com/teamhanko/hanko) - Follow this [quickstart guide](https://docs.hanko.io/quickstarts/frontend/angular) to integrate [Hanko](https://www.hanko.io/), an open source authentication and user management solution, into your Angular app.
-* [hexaeight-sessions](https://www.npmjs.com/package/hexaeight-sessions) - Session/auth management library for Angular, React, and Vue.
 * [keycloak-angular](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
-* [kinde-angular](https://github.com/luukhaijes/kinde-angular) - Angular wrapper around the [Kinde](https://kinde.com/) TypeScript [SDK](https://docs.kinde.com/developer-tools/sdks/backend/typescript-sdk/).
 * [lbx-jwt](https://github.com/Service-Soft/lbx-jwt) - Provides JWT authentication for loopback applications. Includes storing roles inside tokens and handling refreshing. Built-in reuse detection.
 * [Logto](https://logto.io/) - Open‑source Auth0 alternative (OIDC/OAuth2/SAML). Angular [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites).
 * [Melody Auth](https://github.com/ValueMelody/melody-auth) - Its [SDK](https://www.npmjs.com/package/@melody-auth/angular) enables seamless Angular–melody auth integration with automated state, redirects, and token handling.
 * [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
 * [msal-angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular) - MSAL for Angular allows Angular apps to authenticate users via [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), Microsoft accounts, and social providers through [Azure AD B2C](https://docs.microsoft.com/azure/active-directory-b2c/active-directory-b2c-overview#identity-providers), and to acquire tokens for [Microsoft Cloud](https://www.microsoft.com/enterprise) services like [Microsoft Graph](https://graph.microsoft.io).
 * [ng-awesome-node-auth](https://github.com/nik2208/ng-awesome-node-auth) - Angular Interceptor and Guards for [awesome-node-auth](https://github.com/nik2208/awesome-node-auth).
-* [ng-supabase](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 * [ngx-better-auth](https://github.com/thomasorgeval/ngx-better-auth) - An Angular 20+ wrapper for [Better Auth](https://github.com/better-auth/better-auth). Provides reactive session handling with signals, clean DI provider setup with observables, and modern guards.
 * [ngx-cognito-auth](https://github.com/SamsonGross/ngx-cognito-auth) - Angular 21+ library for AWS Cognito authentication using the OAuth 2.0 Authorization Code flow with PKCE.
 * [ngxfire](https://github.com/teve-no/ngxfire) - Zoneless AngularFire replacement.
@@ -911,8 +904,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [adyen-angular-online-payments](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
 * [angular-spotflow-checkout](https://github.com/Spotflow-One/angular-spotflow-checkout) - The [Spotflow](https://www.spotflow.one/) Angular SDK enables users to make payments with a streamlined checkout experience.
 * [google-pay-button](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
-* [izipay](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
-* [ngxsmk-stripe](https://github.com/toozuuu/ngxsmk-stripe) - Angular plugin for integrating Stripe payments (one-time & subscriptions) with theme customization, event emitters, and standalone components.
 * [ngx-hyperpay](https://github.com/MagdyAbouelnasr/ngx-hyperpay) - An Angular library for easy integration of the [HyperPay](https://www.hyperpay.com/) payment gateway.
 * [ngx-mp-payments](https://github.com/JosemaCeballos/ngx-mp-payments) - Angular library for integration with [Mercado Pago](https://www.mercadopago.com.ar/).
 * [ngx-stripe](https://github.com/richnologies/ngx-stripe) - Angular bindings for [StripeJS](https://stripe.com/docs/js) and [Stripe Elements](https://stripe.com/docs/stripe-js).
@@ -934,8 +925,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Security Best Practices
 
+* [Official Angular Security](https://angular.dev/best-practices/security) - Best Practices.
 * [Aikido](https://www.aikido.dev/) - Secure your code, cloud, and runtime in one central system. Find and fix vulnerabilities automatically.
-* [Angular Security](https://angular.dev/best-practices/security) - Best Practices.
 * [GitHub Code Scanning](https://docs.github.com/en/code-security/concepts/code-scanning) - Learn core concepts for GitHub's code scanning features.
 * [GitHub Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
 * [HackTricks](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/angular) - Angular Security  Checklist.
@@ -966,7 +957,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [SmartNgRX](https://github.com/DaveMBush/SmartNgRX) - A library that simplifies CRUD operations by abstracting NgRx, while still leveraging and supporting existing NgRx code.
 * [ngrx-hateoas](https://github.com/angular-architects/ngrx-hateoas) - A library to bring hypermedia json into the NgRx Signal Store following the HATEOAS approach.
 * [ngrx-http-tracking](https://github.com/acandylevey/ngrx-http-tracking) - This NgRx library integrates with existing stores to reduce boilerplate and simplify handling HTTP request states like loading, success, and error.
-* [ngrx-manager](https://github.com/smoosee/ngrx-manager) - Plug-N-Play State Manager for NgRx stores.
 * [ngrx-set](https://github.com/parloti/ngrx-set) - This simplifies the creation of actions for asynchronous requests that can succeed, fail, or be aborted.
 * [easy-ngrx-distinct-selector](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
 * [ngrx-store-wrapper](https://github.com/himanshuarora111/ngrx-store-wrapper) - Angular library for NgRx state management with built-in session and local storage, no manual actions or reducers needed.
@@ -988,7 +978,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [elf](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 * [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
-* [query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
+* [Tanstack Query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
 * [state-adapt](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library.
 * [mini-rx-store](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
 * [ngx-collection](https://github.com/e-oz/ngx-collection) - Collection State Management Service for Angular.
@@ -1001,7 +991,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@ng-state/store](https://github.com/ng-state/store) - RxJS and Immer (or ImmutableJs) powered nested state management for Angular applications inspired by NgRx.
 * [ng-simple-state-management](https://github.com/LionMarc/ng-simple-state-management) - Simple state management implementation for Angular applications.
 * [ngx-statewise](https://github.com/Pierre-MarieMarchio/ngx-statewise) - A simiplifed state management alternative to NgRx or NGXS.
-* [fsm-state-manager](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
 * [signaltree](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications.
 * [ngx-simple-signal-store](https://github.com/adamcsk1/ngx-simple-signal-store) - A simple way to create signal stores with a read-only interface.
 * [angulator](https://github.com/angulator-dev/angulator) - A lightweight Angular [mediator](https://refactoring.guru/design-patterns/mediator) library, designed to simplify communication between different parts of your application using a request/response and notification/handler pattern.
@@ -1060,10 +1049,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Helpers
 
+* [Official Angular Material CDK Testing](https://material.angular.dev/cdk/testing/overview) - `@angular/cdk/testing` provides infrastructure to help with testing Angular components.
 * [ng-mocks](https://github.com/help-me-mom/ng-mocks) - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
 * [ng-mocks-sandbox](https://github.com/help-me-mom/ng-mocks-sandbox) - A repo with guides and examples for unit tests in Angular applications using ng-mocks.
 * [spectacular](https://github.com/ngworker/ngworker/tree/main/packages/spectacular) - Offers test harnesses for Angular applications and libraries.
-* [Angular Material CDK Testing](https://material.angular.dev/cdk/testing/overview) - `@angular/cdk/testing` provides infrastructure to help with testing Angular components.
 * [ngx-page-object-model](https://github.com/FrancescoBorzi/ngx-page-object-model) - This library simplifies Angular UI component testing using the Page Object Model (POM), separating test logic from DOM manipulation for better abstraction.
 * [ngtx](https://github.com/Centigrade/ngtx) - A**ng**ular **T**esting E**x**tensions is a small set of functions that make your life easier when testing Angular components.
 * [ngx-testing-tools](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
@@ -1072,7 +1061,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 * [msw-lens](https://github.com/hypertheory-labs/msw-lens) - A tool that generates AI‑readable project state snapshots so any model can understand your mocked APIs, active scenarios, and context without manual explanation.
 * [shallow-render](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
-* [@storybookjs/testing-angular](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
 * [ngx-testbox](https://github.com/kirill-kolomin/ngx-testbox) - A comprehensive testing utility library for Angular applications that simplifies test writing and improves test reliability. You will find this library useful for unit, integration, and e2e testing.
 * [ng-automocks](https://github.com/MillerSvt/ng-automocks) - It simplifies Angular testing by auto-generating mocks for components, directives, pipes, modules, and services using Jest, removing manual stubbing.
 * [jest-angular-test-verifier](https://github.com/Neizan93/jest-angular-test-verifier) - Jest reporter that verifies Angular components, services, directives, and other file types have matching test files.
@@ -1095,9 +1083,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Flexy-admin-angular-lite](https://github.com/wrappixel/Flexy-admin-angular-lite) - Flexy is the Most Powerful & Comprehensive free Angular admin template based on Material Angular.
 * [angular-quickstart](https://github.com/netlify-templates/angular-quickstart) - A bare-bones Angular template to get you deployed to Netlify fast!
 * [template-angular](https://github.com/phaserjs/template-angular) - Phaser 3 TypeScript project template that uses the Angular framework and Vite for bundling.
-* [angular-nest](https://github.com/mugifly/angular-nest) - Simple web app template with Angular + NestJS + ng-openapi-gen.
 * [angular-ngrx-frontend](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
-* [Threejs](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app.
 * [zen](https://github.com/ZenSoftware/zen) - Nest + Prisma + Apollo + Angular Full Stack GraphQL Starter Kit.
 * [Colorlib](https://colorlib.com/wp/free-angular-templates/)
 * [HTMLrev](https://htmlrev.com/free-angular-templates.html)
@@ -1106,7 +1092,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-starter-kit](https://github.com/svierk/angular-starter-kit) - Angular project template with Prettier, Linter, Git-Hooks and VS Code settings.
 * [fractal-boilerplate-lua-angular](https://github.com/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular) - Basic Angular & Lua - FiveM Boilerplate: A streamlined starter kit for web and in-game development with hot builds and utility scripts.
 * [angular-sample-app](https://github.com/descope-sample-apps/angular-sample-app) - A sample Angular app integrating [Descope](https://www.descope.com) with login, user dashboard, and dynamic navigation.
-* [angular-and-firebase-template](https://github.com/FullStacksDev/angular-and-firebase-template) - An opinionated full-stack starting point for building a web app, using Angular and Firebase.
 * [berry-free-angular-admin-template](https://github.com/codedthemes/berry-free-angular-admin-template) - Berry is a free Angular + Bootstrap 5 admin dashboard with customizable, feature-rich pages for optimal UX.
 * [gradient-able-free-admin-template](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free Bootstrap, Angular, React admin template.
 * [mantis-free-angular-admin-template](https://github.com/codedthemes/mantis-free-angular-admin-template)
@@ -1114,19 +1099,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [sanity-template-angular-clean](https://github.com/sanity-io/sanity-template-angular-clean) - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
 * [angular-templates](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
 * [LightNap](https://github.com/SharpLogic/LightNap) - A full-stack SPA starter kit with `ASP.NET` Core Identity, JWT management, and admin identity features.
-* [angular-boilerplate](https://github.com/hofiorg/angular-boilerplate) - Angular 18 + Bootstrap/Material + NgRx + Spring Boot starter with modular architecture and ngx-datatable.
 * [Angspire](https://github.com/tbarracha/Angspire) - Angular + `.NET` monorepo template with built-in auth, themes, and a scalable foundation for faster development.
 * [keycloakify-starter-angular-vite](https://github.com/keycloakify/keycloakify-starter-angular-vite) - Angular and Vite Starter for [Keycloakify 11](https://www.keycloakify.dev/).
-* [@rainerhahnekamp/angular-starter](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
-* [BoilerPlate-FirebaseAngular](https://github.com/Yewo-Devs/BoilerPlate-FirebaseAngular) - Starting point for apps built using `.NET`, Angular, and Firebase.
 * [extreme-angular](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
 * [@wlucha/angular-starter](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
-* [@carlossalasamper/angular-clean-architecture](https://github.com/carlossalasamper/angular-clean-architecture) - An Angular scaffold with a clean architecture that is easy to understand.
 * [dataclouder-template-angular](https://github.com/dataclouder-dev/dataclouder-template-angular) - A ready-to-use Angular/Ionic template with Firebase Authentication integration.
-* [angular-tailwind-e-commerce-template](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - A responsive Angular + Tailwind CSS e-commerce template with sleek, customizable design for minimalist online shops.
-* [ngx-lib-starter-kit](https://github.com/r3zafa/ngx-lib-starter-kit) - An Angular library boilerplate with pre-configured structure for scalable, maintainable development.
-* [tailwind-angular-starter](https://github.com/themesberg/tailwind-angular-starter) - Free and open-source starter project to help you get started with Angular, Tailwind CSS, and the [Flowbite UI components](https://github.com/themesberg/flowbite-angular).
-* [ngx-app-starter-kit](https://github.com/r3zafa/ngx-app-starter-kit) - A modern Angular 18+ starter kit with Docker, devcontainer, and Angular Material integration for rapid, scalable web app development.
 * [signal-admin](https://github.com/codebangla/signal-admin) - Angular 20 admin panel (Material + Tailwind) with responsive layout, sidebar, user management, and UI components.
 * [ngXpress](https://github.com/angularcafe/ngXpress) - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
 * [spartan-stack-starter](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
@@ -1150,10 +1127,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Paid Templates
 
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
-* [Angular-Templates](https://angular-templates.io/)
 * [CozyDevKit](https://cozydevkit.com/) - Interactive tools, architecture patterns, cheat sheets, and DevOps services for Angular 21.
 * [devkitly](https://www.devkitly.io/) - Production-ready Angular 21 starter kit with auth, billing, audit logging, feature flags, and SSR.
-* [NgFast](https://ngfast.com/) - The Angular boilerplate for building SaaS, landing pages, and web apps fast—turning your ideas into income.
 * [Nzoni](https://nzoni.app/) - Launch your SAAS in days with Angular.
 * [Theme Forest](https://themeforest.net/search/angular)
 * [Vortex](https://template.giacomobellazzi.com/) - A high-performance web application template built with Angular and Java, designed to deliver seamless user experiences and powerful backend solutions.

@@ -978,7 +978,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [elf](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 * [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
-* [Tanstack Query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
+* [TanStack Query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
 * [state-adapt](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library.
 * [mini-rx-store](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
 * [ngx-collection](https://github.com/e-oz/ngx-collection) - Collection State Management Service for Angular.

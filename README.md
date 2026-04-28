@@ -394,12 +394,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Manning](https://www.manning.com/) - Buy a Manning pBook anywhere, get the eBook free here.
 * [Become a ninja with Angular](https://books.ninja-squad.com/angular) - `Ninja Squad`.
 * [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`.
-* [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) - `Packt Publishing`.
+* [Code with Ahsan](https://www.codewithahsan.dev/books)
 * [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
-* [Angular Signals Masterclass](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`.
-* [Mastering Angular Signals: A Practical Guide to Modern Reactivity, Performance, and Migration](https://www.amazon.com/dp/B0FF9LSHJN/) - `Muhammad Ahsan Ayaz`.
-* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
-* [Angular Book](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**.
+* [Angular Enterprise Architecture](https://angularexperts.io/products/ebook-angular-enterprise-architecture) - `Tomas Trajan`.
+* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications **FREE**.
 * [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**.
 * [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**.
 * [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE**.
@@ -416,7 +414,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Cheat Sheets
 
-* [Past Angular Cheatsheet](https://v17.angular.io/guide/cheatsheet) - Note: *NEW* official docs do not have a cheatsheet.
+* [Official Angular Version 17 Cheatsheet](https://v17.angular.io/guide/cheatsheet)
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
 * [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React, & Vue all at once.

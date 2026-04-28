@@ -1878,7 +1878,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [ngx-ui-scroll](https://github.com/dhilt/ngx-ui-scroll) - Virtual/infinite scroll for Angular.
 * [ngx-page-scroll](https://github.com/Nolanus/ngx-page-scroll) - Animated scrolling functionality for Angular written in pure TypeScript.
-* [ngx-scroll-animations](https://github.com/hm21/ngx-scroll-animations) - Minimal Angular directive for scroll‑triggered CSS animations, dependency‑free and compatible with any animation choice.
 * [lithium-ngx-virtual-scroll](https://github.com/lVlyke/lithium-ngx-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, grid lists and view caching.
 * [angular-fullpage](https://github.com/alvarotrigo/angular-fullpage) - Official component for fullPage.js, a fullscreen scrolling library.
 * [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop) - Lightweight, Material Design inspired button for scroll-to-top of the page. No dependencies.
@@ -1890,7 +1889,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-virtual-dnd-list](https://github.com/mfuu/ngx-virtual-dnd-list) - A virtual scrolling list component that can be sorted by dragging.
 * [ngx-scroll-top](https://github.com/ProAngular/ngx-scroll-top) - Configurable, lightweight back to top button for Angular projects.
 * [ng-mat-select-infinite-scroll](https://github.com/HaidarZ/ng-mat-select-infinite-scroll) - Infinite Scroll directive for Angular Material select component.
-* [horizontal-scroller](https://github.com/miminerd/horizontal-scroller) - Infinite horizontal scroller for Angular apps using Tailwind.
 * [simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla JavaScript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 * [ngx-responsive-virtual-scroll](https://github.com/dcbeck/ngx-responsive-virtual-scroll) - Fast, lightweight Angular virtual scrolling for single‑column lists, responsive grids, and view caching.
 * [ngx-virtual-scroller-flexible](https://github.com/onexip/ngx-virtual-scroller-flexible) - Ultra‑fast, flexible virtual scroller rendering unlimited items with varying heights seamlessly.
@@ -1919,7 +1917,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [convex-angular](https://github.com/azhukau-dev/convex-angular) - The Angular client for Convex.
 * [secure-client-store](https://github.com/msaadart/secure-client-store) - Universal TypeScript library for AES-256-GCM client-side encryption (works in browsers & Node.js).
 * [ngx-persist](https://github.com/khvedela/ngx-persist) - A type‑safe, signal‑based persistent state utility for Angular, syncing with localStorage, sessionStorage, IndexedDB, or custom backends.
-* [strata-storage](https://github.com/aoneahsan/strata-storage) - Zero-dependency universal storage plugin providing a unified API for all storage operations across web, Android, and iOS platforms.
 * [ngx-webstore](https://github.com/saurabh-vaish/ngx-webstore) - A comprehensive Angular library for browser storage management with TypeScript support, reactive APIs, encryption, TTL, and more.
 * [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) - Rust/WebAssembly local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
 * [ngx-secure-storage](https://github.com/MadeByRaymond/ngx-secure-storage) - SSR-compatible Angular service to securely store, retrieve, and manage encrypted data in localStorage and sessionStorage using AES encryption.
@@ -1931,8 +1928,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-tooltip-directives](https://github.com/mkeller1992/ngx-tooltip-directives) - Library with three tooltip directives (string, HTML, template), inspired by [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
 * [angular-tooltip](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 * [ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular wrapper for [Tippy.js](https://github.com/atomiks/tippyjs).
-* [tooltip-testing](https://github.com/chandumaram/tooltip-testing) - Tooltip for Angular, forked from `cm-angular-tooltip`.
-* [ngx-popovers](https://github.com/al-march/ngx-popovers) - An Angular library based on `Floating UI` with already ready-made components to use.
 * [angular-tooltip](https://github.com/lazycuh/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 * [ngx-overlay](https://github.com/bastienmoulia/ngx-overlay) - Lightweight Angular library for modern CSS/HTML overlays—modals, tooltips, and popups—browser‑compatible and elegant.
 * [ngx-smart-tooltip](https://github.com/techasif/ngx-smart-tooltip) - A lightweight, customizable tooltip library for Angular 18 that uses signals, the Web Animations API, and OnPush change detection.
@@ -1951,9 +1946,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
 * [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
 * [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library.
-* [ng-devui](https://github.com/DevCloudFE/ng-devui) - Angular UI Component Library based on DevUI Design.
 * [ng-aquila](https://github.com/allianz/ng-aquila) - Aquila, an open‑source Allianz GDF component library, offered here as a white‑label variant.
-* [enterprise-ng](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
 * [oblique](https://github.com/oblique-bit/oblique) - Angular framework with Swiss corporate design and ready‑to‑use components for branded business apps.
 * [fundamental-ngx](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
 * [designsystem](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.
@@ -1972,7 +1965,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia): standalone Angular components, blocks, and templates for landing pages and marketing materials.
 * [po-angular](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
 * [ngx-nighthawk](https://github.com/evenuxjs/ngx-nighthawk) - Comprehensive, user‑friendly components with Bootstrip integration—streamlined Bootstrap for Grid and Utility features.
-* [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
 * [@ng-verse/ui](https://github.com/ngverse/ui) - Collection of feature‑rich Angular components, directives, and pipes—no install needed, just copy‑paste. See [docs](https://ui.ngverse.dev/) for more.
 * [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 * [flexi-ui](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/): reusable, customizable, open‑source UI components for modern, visually appealing front‑end applications.
@@ -1987,8 +1979,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [slateui](https://github.com/angularcafe/slateui) - A modern, accessible UI component library that provides directive-based components built with Angular primitives, Tailwind CSS, and signals.
 * [@nexcraft/forge](https://github.com/dev-ignis/forge) - Framework-agnostic Web Components UI library. Works in Angular via custom elements.
 * [ngx-nova-ui](https://github.com/lebocow/ngx-nova-ui) - A modern Angular 20 UI component library built with signals, standalone components, and a CSS-first theming approach.
-* [elementar-ui](https://github.com/elementarlabs/elementar-ui) - Fully open-source Angular UI Components & Admin Panel based on Angular Material and Tailwind CSS.
-* [ngx-vant-revive](https://github.com/IfFaith/ngx-vant-revive) - Angular UI component library implemented according to the [Zan Design System](https://design.youzan.com/) visual specifications.
 * [MaxterDev NGX Components](https://github.com/MatoMakuch/maxterdev/tree/main/projects/ngx-components) - A highly flexible and SCSS-customizable components library for Angular.
 * [gcds-components](https://github.com/cds-snc/gcds-components/tree/main/packages/angular) - The `gcds-components-angular` package enables easy integration of [GC Design System](https://design-system.alpha.canada.ca/) web components into Angular.
 * [particle-ng](https://github.com/entake-org/particle-ng) - A lightweight, themeable component library offering flexible, high-control alternatives to Angular Material and PrimeNG.
@@ -2016,17 +2006,15 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 for the creation of web applications developed with Angular.
 * [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 * [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ library with easy‑to‑use shared components, directives, pipes, and services. See [showcase](https://ngx-gccb.netlify.app/) for code snippets.
-* [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
 * [cute-widgets](https://github.com/cute-widgets/base) - An open‑source Angular UI library that provides native directive‑based components styled with Bootstrap 5+ utilities and design classes.
 
 ### UI Libraries built on Material
 
 * [angular-ui-plusify](https://github.com/RockyCott/angular-ui-plusify) - Includes Datetime Picker and Markdown Editor, with plans to expand into a full Angular UI toolkit.
 * [MDBootstrap](https://github.com/mdbootstrap/mdb-angular-ui-kit) - Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation.
-* [Angular Material](https://material.angular.io/) - Material Design components for Angular.
+* [Angular Material](https://material.angular.dev/) - Material Design components for Angular.
 * [Covalent](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
 * [IgniteUI Angular](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
-* [Alyle UI](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
 * [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
 * [@ng-matero/extensions](https://github.com/ng-matero/extensions) - Angular Material Extensions Library.
 * [angular-material-css-vars](https://github.com/johannesjo/angular-material-css-vars) - Little library to use CSS variables with Angular Material.
@@ -2046,7 +2034,7 @@ for the creation of web applications developed with Angular.
 
 * [angular-superui](https://github.com/bhaimicrosoft/angular-superui) - Comprehensive Angular UI library with 50+ production‑ready components, built on Tailwind CSS v4, TypeScript, and Angular 17+ Signals.
 * [angular-tailwind-ui](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
-* [elbe/ui](https://github.com/marcjulian/elbe-ui) - Angular UI components built with Tailwind CSS and Spartan UI.
+* [elbe-ui](https://github.com/marcjulian/elbe-ui) - Angular UI components built with Tailwind CSS and Spartan UI.
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 * [FlyonUI](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 * [Galaxy UI](https://github.com/buikevin/galaxy-design) - Universal Component Library that brings beautiful, accessible components to Angular.
@@ -2081,7 +2069,6 @@ for the creation of web applications developed with Angular.
 * [ionic-component-snippets](https://github.com/LennonReid/ionic-component-snippets) - Repository of unofficial Ionic demos and libraries that can still benefit developers and their apps.
 * [ionic-header-parallax](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
 * [ionic-state](https://github.com/godenji/ionic-state) - Provides utilities for working with state in Ionic applications.
-* [simplici-auth-angular-ionic](https://www.npmjs.com/package/simplici-auth-angular-ionic) - Powerful Angular library for seamless social auth in Ionic/Angular apps, supporting major providers with web/mobile compatibility via Capacitor or Cordova.
 * [ionx-search-select](https://github.com/kisimediaDE/ionx-search-select) - Modern Angular/Ionic search & select with standalone components, signals, and full `ControlValueAccessor` support.
 * [ionic-insta-api-wrapper](https://github.com/appit-online/ionic-insta-api-wrapper) - Lightweight Ionic/Cordova library for fetching Instagram content (Stories, Reels, posts, profiles) with login and cookie support.
 * [ionic-adv-tooltip](https://github.com/PhaZRic/ionic-adv-tooltip) - Media rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.

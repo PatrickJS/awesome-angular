@@ -1713,12 +1713,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Mixed Utilities
 
+* [Official Angular Components repository](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 * [rx-angular](https://github.com/rx-angular/rx-angular) - RxAngular toolkit for fully reactive apps focused on performance, template rendering, and developer experience.
 * [ng-web-apis](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular.
 * [daffodil](https://github.com/graycoreio/daffodil) - Angular Ecommerce PWA Framework.
 * [ngworker](https://github.com/ngworker/ngworker) - Monorepo for the @ngworker NPM organization. Packages for Angular applications and testing.
 * [jscutlery devkit](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
-* [Official Angular Components repository](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 * [lithium-angular](https://github.com/lVlyke/lithium-angular) - Lithium simplifies Angular with utilities for seamless reactive state and event interactions.
 * [rxweb](https://github.com/rxweb/rxweb) - Tons of extensively featured packages for Angular, Vue and React Projects.
 * [ngspot](https://github.com/DmitryEfimenko/ngspot) - Collection of awesome Angular libraries.
@@ -1730,7 +1730,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dfts-common](https://github.com/Dafnik/dfts-common) - Collection of TypeScript libraries (icons and other utilities).
 * [dfx-common](https://github.com/Dafnik/dfx-common) - Collection of Angular libraries including `dfx-qrcode` and more.
 * [sba-angular](https://github.com/sinequa/sba-angular) - [Sinequa's](https://www.sinequa.com/) Angular-based Search Based Application (SBA) Framework.
-* [ng-as](https://www.npmjs.com/package/ng-as) - Angular pipe and directive for type casting template variables.
+* [ng-as](https://github.com/nigrosimone/ng-as) - Angular pipe and directive for type casting template variables.
 * [angular-toolbox](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
 * [ngx-lift](https://github.com/wghglory/ngx-lift) - `clr-lift` and `ngx-lift` enhance Angular with utilities, operators, and components for simplified development.
 * [firestitch](https://github.com/orgs/Firestitch/repositories) - A wide range of open-source Angular solutions is available from [Firestitch](https://firestitch.com/).
@@ -1741,16 +1741,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [nxt-components](https://github.com/Liquid-JS/nxt-components) - A collection of various Angular components.
 * [ngx-signal-plus](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
 * [ngx-nuts-and-bolts](https://github.com/infinum/ngx-nuts-and-bolts) - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
-* [ngx-common](https://github.com/paddls/ngx-common) - A collection of useful features to enhance your Angular apps.
 * [ngx-signals-plus](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
-* [ngx-kit](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 * [ng-tool-collection](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
 * [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
 * [@everllence/ngx-tools](https://github.com/everllence/ngx-tools) - This repository contains a collection of libraries is designed to elevate your Angular development experience.
 * [ngx-oneforall](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums, and more.
 * [angular-signal-generators](https://github.com/DDtMM/angular-signal-generators) - Angular Signal Generators streamline development with signals and utilities for faster, cleaner code.
 * [mmstack](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
-* [@tomaszatoo/ngx-libs](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
 * [@shanieMoonlight/moonlight-repo](https://github.com/shanieMoonlight/moonlight-repo) - Monorepo of SpiderBaby’s open-source Angular libraries, utilities, and demo applications.
 * [@jchpro/ng](https://github.com/jchpro/ng) - Monorepo of various libraries for Angular.  Visit [example page](https://ng.jchpro.pl/) for more info.
 * [rxap](https://gitlab.com/rxap/packages) - A collection of modules and tools that reduce web and cloud app development effort.
@@ -1783,7 +1780,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dialog](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
 * [ng-modal-service](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
 * [strictly-typed-mat-dialog](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
-* [ngx-light-modal](https://www.npmjs.com/package/ngx-light-modal) - Lightweight, dependency-free Angular modal with standalone components, dynamic rendering, stacking, backdrop control, and lifecycle observables.
 * [angular-confirmation-capture](https://github.com/lazycuh/angular-confirmation-capture) - A singleton, global Angular service to programmatically show a confirmation box to capture an user's consent.
 * [angular-anchored-floating-box](https://github.com/lazycuh/angular-anchored-floating-box) - Singleton Angular service to render floating boxes anchored to elements with `TemplateRef` or component content.
 * [ngx-side-page](https://github.com/strikerh/ngx-side-page) - Versatile Angular library for slide‑out side panels with smooth, service‑based animations, like Material dialogs for side pages.
@@ -1799,7 +1795,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [hot-toast](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
 * [makki-toast-package](https://github.com/DanielJimenezC/makki-toast-package) - A customizable toast component built to streamline the creation and management of tailored alerts.
 * [mk-magic-messages-library](https://github.com/mkeller1992/mk-magic-messages-library) - Easily display animated success, info, warning, and error alerts in your Angular 20+ application.
-* [ng-toast-service](https://github.com/nhusby/ng-toast-service) - Simple, customizable Angular notification service with slide‑in alerts and configurable behavior.
 * [ngx-advanced-toast](https://github.com/Hamed-kshiem/ngx-advanced-toast) - Advanced Angular toast notifications built on the native `<dialog>` element — signals-first, zero RxJS, CSS-only animations, fully accessible.
 * [ngx-alertifying](https://github.com/Salromag/ngx-alertifying) - Customizable, responsive Angular alert component for stylish, accessible feedback across devices and contexts.
 * [ngx-french-toast](https://github.com/thiagopg84/ngx-french-toast) - Lightweight, customizable Angular 14+ toast library for informative messages, feedback, and dynamic component support.
@@ -1813,7 +1808,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 * [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
 * [ngx-toast](https://github.com/aminekun90/ngx-toast) - A lightweight, high-performance, and Zoneless-ready toast notification library for Angular 21+ and React 18+.
-* [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
 * [@IQXLimited/ngx-toastr](https://github.com/IQXLimited/ngx-toastr) - A fork of `ngx-toastr` that adds extra features, improvements, and customizations.
 * [ngx-toastr-notifier](https://github.com/Mazen-Embaby/ngx-toastr-notifier) - Lightweight, customizable Angular 20+ toast notifications with Material design and flexible APIs, replacing `toastr`.
 * [notifyx](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
@@ -1827,11 +1821,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-shepherd](https://github.com/shepherd-pro/angular-shepherd) - Angular Service wrapping the site tour library [Shepherd](https://github.com/shepherd-pro/shepherd).
 * [skyux](https://github.com/blackbaud/skyux) - SKY UX components for Angular.
 * [ngx-ui-tour](https://github.com/hakimio/ngx-ui-tour) - A UI tour library inspired by [angular-ui-tour](https://github.com/benmarch/angular-ui-tour).
-* [ngx-tour-wizard](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
-* [bdc-walkthrough](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
 * [ngx-onboarding](https://github.com/rosen-group/ngx-onboarding) - Onboarding library for seamless Angular tutorials, helping users quickly learn and navigate your app.
 * [ngx-web-tour](https://github.com/abbas-mgz/ngx-web-tour) - A customizable product tour library for Angular applications that supports user onboarding with animations and professional UI.
-* [ngxsmk-help-tour](https://github.com/toozuuu/ngxsmk-help-tour) - Angular standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
 * [ngx-intro](https://github.com/andresciceri/ngx-intro) - An Angular library that provides a simple integration of [Intro.js](https://introjs.com/) to create interactive guides and step-by-step tutorials.
 * [ngx-custom-tour](https://github.com/miraxes/ngx-custom-tour) - Easy to customize step-by-step tour / onboarding for Angular 15+.
 * [ng-beacon](https://github.com/HomelessCoder/ng-beacon) - Lightweight guided-tour library for Angular 19+ with signals and zoneless-compatible rendering.
@@ -1842,10 +1833,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 * [ng-dompurify](https://github.com/taiga-family/ng-dompurify) - Angular Sanitizer/Pipe using [DOMPurify](https://github.com/cure53/DOMPurify) with full configuration support.
 * [ngx-signal-pipes](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
-* [ngx-search-pipe](https://github.com/paulotokarskiglinski/ngx-search-pipe) - Angular search pipe that filters object collections by term, built to work seamlessly with signals.
 * [ngx-pipe-lib](https://github.com/mofirojean/ngx-pipe-lib) - Common Angular pipe examples for your day to day tasks.
 * [memoize-pipe](https://github.com/ngx-rock/memoize-pipe) - A universal pipe for memoizing computations in Angular templates.
-* [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - Angular pipe to convert numbers into words, ideal for invoices, reports, and financial apps.
 * [ngx-highlight-text](https://github.com/ultrasonicsoft/ngx-highlight-text) - Angular pipe that highlights a selected word in the HTML markup.
 * [ngx-smart-pipes](https://github.com/Kavshree/-bjkavyashree-ngx-smart-pipes) - A lightweight, tree-shakeable collection of standalone Angular pipes designed for real-world use cases.
 * [ngx-dynamic-search](https://github.com/mustafaer/ngx-dynamic-search) - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
@@ -1866,7 +1855,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular-html5qrcode](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
 * [ngx-kjua](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using [kjua](https://github.com/lrsjng/kjua).
 * [ngx-qrcode](https://github.com/GNURub/ngx-qrcode) - A simple Angular 18+ component to generate QR codes. Based on [react-native-qrcode-skia](https://github.com/enzomanuelmangano/react-native-qrcode-skia) library.
-* [ngx-scan-detect](https://github.com/sezmars/ngx-scan-detect) - Detects barcode or QR code scanning on document and emits the scanned code.
 * [qrcode-angular](https://github.com/selfxyz/self/tree/main/sdk/qrcode-angular) - A streamlined Angular library that creates verification QR codes for [Self.xyz](https://self.xyz/).
 
 ### Router
@@ -1878,7 +1866,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-foresight](https://github.com/akshykhade/ngx-foresight) - An Angular integration of [ForesightJS](https://foresightjs.com/) for intelligent router preloading based on user intent.
 * [ngx-href](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
 * [ngx-multi-level-push-menu](https://github.com/ramiz4/ngx-multi-level-push-menu) - A modern, accessible Angular component for responsive multi-level push menus with extensive customization options.
-* [ngx-navigate-back](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library that adds simple browser-like back navigation.
 * [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
 * [ngx-route-manager](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
 * [ngx-speculation-rules](https://github.com/SkyZeroZx/ngx-speculation-rules) - Angular library for the [Speculation Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) enabling prefetching and prerendering for faster, SSR- and Zoneless-compatible navigation.

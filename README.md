@@ -384,20 +384,20 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Philosophies](https://github.com/tomavic/angular-philosophies)
 * [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
 * [Angular Tips](https://ngtips.com/) - Best practices and recommendations for building complex, large and maintainable applications with Angular.
-* [Practical Angular Guide](https://practical-angular.donaldmurillo.com/) - Real-world-ish solutions for Angular developers By [Donald Murillo](https://github.com/DonaldMurillo).
+* [Practical Angular Guide](https://practical-angular.donaldmurillo.com/) - Real-world-ish solutions for Angular developers by [Donald Murillo](https://github.com/DonaldMurillo).
 
 ### Books
 
 * [Packt Publishing](https://www.packtpub.com/en-us/search?query=angular&sort=best-selling) - Your best option to find the largest variety of up-to-date programming books.
 * [GumRoad](https://gumroad.com/software-development/web-development/javascript?tags=angular) - Various Free and Paid Angular ebooks.
 * [LeanPub](https://leanpub.com/bookstore?type=all&search=angular) - Support authors on your own terms with LeanPub’s flexible pricing model, giving you the freedom to choose what you pay.
-* [Manning](https://www.manning.com/) - Buy a Manning pBook anywhere, get the eBook free here.
+* [Manning](https://www.manning.com/) - Buy a Manning pBook anywhere, get the eBook free.
 * [Become a ninja with Angular](https://books.ninja-squad.com/angular) - `Ninja Squad`.
 * [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`.
 * [Code with Ahsan](https://www.codewithahsan.dev/books)
 * [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
 * [Angular Enterprise Architecture](https://angularexperts.io/products/ebook-angular-enterprise-architecture) - `Tomas Trajan`.
-* [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications **FREE**.
+* [Testing Angular](https://testing-angular.com) - A Guide to Robust Angular Applications **FREE**.
 * [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**.
 * [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**.
 * [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE**.
@@ -440,7 +440,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem.
 * [Angular.Schule (in Germany)](https://angular.schule/)
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
-* [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/video-courses/). Content either in Italian or English.
+* [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/). Content either in Italian or English.
 * [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
 * [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
 * [ng.guide](https://ng.guide/) - Learn Angular by building real-world apps.
@@ -500,9 +500,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash; reactive and type-safe flag management with minimal setup.
 * [ngx-feature-flags](https://github.com/pavan-98/ngx-feature-flags) - An Angular‑first, enterprise‑ready feature‑flag layer that standardizes how flags are resolved, guarded, and rendered across Angular apps.
 * [ngx-feature-flags-toggly](https://www.npmjs.com/package/@ops-ai/ngx-feature-flags-toggly) - Angular SDK for [Toggly](https://toggly.io/) feature flags.
-* [ngx-circuit](https://github.com/pjlamb12/ngx-circuit) - Streamlines feature‑toggle management, offering flexible strategies such as simple boolean flags, scheduled activations, percentage rollouts, user‑group targeting, environment‑based rules, and more.
+* [ngx-circuit](https://github.com/pjlamb12/ngx-circuit) - Streamlines feature‑toggle management with flexible options like boolean flags and percentage rollouts.
 * [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) - Simplify managing feature toggles with this Angular directive.
-* [@rollgate/sdk-angular](https://github.com/rollgate/sdks/tree/main/packages/sdk-angular) - Angular SDK for [Rollgate](https://rollgate.io), a feature flag platform with scheduled releases, instant rollback, gradual rollouts, A/B testing and real-time SSE updates.
+* [@rollgate/sdk-angular](https://github.com/rollgate/sdks/tree/main/packages/sdk-angular) - Angular SDK for [Rollgate](https://rollgate.io), a feature‑flag platform with scheduled releases and gradual rollouts.
 
 ### GraphQL
 
@@ -602,7 +602,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Official AI docs](https://angular.dev/ai)
 * [Official Angular CLI MCP Server Setup](https://angular.dev/ai/mcp)
-* [Official Angular Examples Repo](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
+* [Official Angular Examples Repo](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and AI.
 * [Official Angular Skills](https://github.com/angular/skills)
 * [Official llms.txt file](https://angular.dev/llms.txt)
 * [Official llms-full.txt file](https://angular.dev/assets/context/llms-full.txt)
@@ -637,10 +637,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Analytics
 
 * [@blue-cardinal/ngx-google-analytics](https://github.com/blue-cardinal/ngx-google-analytics) - Angular module for injecting Google Analytics script, with safeguards to prevent use in dev environments.
-* [clickstream-analytics-on-aws-web-sdk](https://github.com/aws-solutions/clickstream-analytics-on-aws-web-sdk) - [Clickstream Web SDK](https://aws-solutions.github.io/clickstream-analytics-on-aws/en/latest/sdk-manual/web/) enables easy collection of browser clickstream data to AWS via the provided data pipeline.
+* [clickstream-analytics-on-aws-web-sdk](https://github.com/aws-solutions/clickstream-analytics-on-aws-web-sdk) - Enables collection of browser clickstream data to AWS via the provided data pipeline.
 * [Heap](https://help.heap.io/hc/en-us/articles/37271957075345-Using-Heap-With-Popular-Web-Frameworks-Libraries) - Product analytics for tracking customer journeys, conversion, and retention.
 * [kitbase](https://docs.kitbase.dev/sdks/angular) - A developer platform for product analytics and feature management.
-* [litlyx](https://github.com/Litlyx/litlyx) - A dev-friendly, open-source analytics tool for JavaScript frameworks—set up in under 30 seconds with one line of code!
+* [litlyx](https://github.com/Litlyx/litlyx) - An open-source analytics tool — set up with one line of code.
 * [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
 * [ngx-gtm](https://github.com/jerkovicl/ngx-gtm) - Angular library that automatically injects the script tag required to use Google Tag Manager (GTM).
 * [ngx-material-tracking](https://github.com/Service-Soft/ngx-material-tracking) - Provides GDPR-compliant tracking for Angular sites with built-in Google Analytics, Meta Pixel, and custom options.
@@ -657,12 +657,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [angular-compiler-output](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given Angular template.
 * [angular-doctor](https://github.com/antonygiomarxdev/angular-doctor) - Scans your project for Angular-specific lint issues and dead code, then produces a 0–100 health score plus actionable diagnostics.
-* [angular-mermaider](https://github.com/earthdmitriy/angular-mermaider) - Static code analyzer that produces Mermaid dataflow diagrams for Angular components.
-* [compuse](https://github.com/jakub-hajduk/compuse) - Analyze Angular component usage across your codebase with a unified API for extracting usage insights.
+* [angular-mermaider](https://github.com/earthdmitriy/angular-mermaider) - Static code analyzer that produces Mermaid dataflow diagrams.
+* [compuse](https://github.com/jakub-hajduk/compuse) - Unified API for analyzing Angular component usage across your codebase.
 * [modulens](https://github.com/sinanyilmaz0/modulens) - A suite of architecture, structure, and quality analysis tools for frontend workspaces.
 * [ng-di-graph](https://github.com/m-yoshiro/ng-di-graph) - A command-line tool that analyzes Angular TypeScript codebases to extract dependency injection relationships.
 * [ng-lens](https://github.com/MerrittMelker/ng-lens) - A Node.js tool that uses `ts-morph` to analyze Angular components and detect service usage patterns from any API library.
-* [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
+* [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular codebase to JSON abstraction - Great for displaying APIs and analysis.
 * [ngx-genie](https://github.com/SparrowVic/ngx-genie) - A tool to visualize the dependency injection tree, analyze service states, track component relationships, and identify memory or architectural issues.
 * [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge) - Converts Angular templates into static HTML variants, enabling reliable validation and linting with any standard HTML tool.
 * [ngx-locator](https://github.com/Ea-st-ring/ngx-locator) - Angular development utility to open components and templates from the browser like [LocatorJS](https://www.locatorjs.com/).
@@ -673,7 +673,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
 * [ngx-debug-console](https://github.com/andrerds/ngx-debug-console) - A floating debug console overlay for Angular 14+ applications.
-* [ngrx-devtool](https://github.com/AmadeusITGroup/ngrx-devtool) - A development tool for visualizing and debugging NgRx state management in Angular applications.
+* [ngrx-devtool](https://github.com/AmadeusITGroup/ngrx-devtool) - A development tool for visualizing and debugging NgRx state management.
 * [ngx-dev-toolbar](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 * [omelet-angular-debug-panel](https://github.com/maycuatroi1/omelet-angular-debug-panel) - Angular debug dashboard providing visibility into SQL activity, server timing, and authentication debugging.
 
@@ -713,10 +713,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-schematics-utilities](https://github.com/DSI-HUG/ngx-schematics-utilities) - Useful utilities for Angular Schematics.
 * [abp](https://github.com/abpframework/abp) - Open‑source ASP.NET Core framework for enterprise apps with opinionated architecture.
 * [LymeStack](https://www.lymestack.com/) - A full-stack web app template and toolset that helps small teams quickly build and enhance applications.
-* [spiderly](https://github.com/filiptrivan/spiderly) - `.NET` (C#) code generator that transforms an EF Core model into a fully customizable `.NET` (C#) and Angular web app.
+* [spiderly](https://github.com/filiptrivan/spiderly) - A `.NET` (C#) generator that turns your EF Core model into a customizable `.NET` and Angular app.
 * [generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 * [Node Initializr](https://start.nodeinit.dev/) - Quickly gathers your app’s dependencies and handles much of the initial setup for you.
-* [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular provides executors, generators, and utilities for managing apps and libraries in Nx.
+* [nx](https://nx.dev/nx-api/angular) - This plugin offers executors, generators, and utilities for managing applications and libraries.
 * [skulljs](https://skulljs.github.io/) - Provides a standardized file structure for building web applications using popular JavaScript and TypeScript frameworks.
 * [teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications.
 * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality.
@@ -798,7 +798,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Networking
 
 * [angular-http-server](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
-* [manifest](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
 * [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 * [ngx-offline-indicator](https://github.com/thdang1009/ngx-offline-indicator) - A simple and customizable way to inform users about their internet connection status within their Angular applications.
 
@@ -860,7 +859,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Authentication
 
-* [Agilicus](https://www.agilicus.com/) - Single sign-on with MFA for all users, with [integration samples](https://github.com/Agilicus/samples) on the Agilicus Platform.
 * [angular-auth-oidc-client](https://github.com/damienbod/angular-auth-oidc-client) - NPM package for OpenID Connect, OAuth Code Flow with PKCE, Refresh tokens, and Implicit Flow.
 * [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
 * [angular-authentication](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
@@ -876,13 +874,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
 * [frontegg-angular](https://github.com/frontegg/frontegg-angular) - Hosted login SDK for Angular; see the [quickstart](https://developers.frontegg.com/ciam/sdks/frontend/angular/hosted-login).
 * [FusionAuth Angular SDK](https://fusionauth.io/docs/sdks/angular-sdk) - Angular SDK for login/registration, logout, and refresh token handling.
-* [hanko](https://github.com/teamhanko/hanko) - Follow this [quickstart guide](https://docs.hanko.io/quickstarts/frontend/angular) to integrate [Hanko](https://www.hanko.io/), an open source authentication and user management solution, into your Angular app.
+* [hanko](https://github.com/teamhanko/hanko) - Follow this [quickstart](https://docs.hanko.io/quickstarts/frontend/angular) to integrate [Hanko](https://www.hanko.io/), an open source authentication and user management solution, into your Angular app.
 * [keycloak-angular](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
 * [lbx-jwt](https://github.com/Service-Soft/lbx-jwt) - Provides JWT authentication for loopback applications. Includes storing roles inside tokens and handling refreshing. Built-in reuse detection.
 * [Logto](https://logto.io/) - Open‑source Auth0 alternative (OIDC/OAuth2/SAML). Angular [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites).
 * [Melody Auth](https://github.com/ValueMelody/melody-auth) - Its [SDK](https://www.npmjs.com/package/@melody-auth/angular) enables seamless Angular–melody auth integration with automated state, redirects, and token handling.
 * [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
-* [msal-angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular) - MSAL for Angular allows Angular apps to authenticate users via [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), Microsoft accounts, and social providers through [Azure AD B2C](https://docs.microsoft.com/azure/active-directory-b2c/active-directory-b2c-overview#identity-providers), and to acquire tokens for [Microsoft Cloud](https://www.microsoft.com/enterprise) services like [Microsoft Graph](https://graph.microsoft.io).
+* [msal-angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular) - MSAL for Angular allows Angular apps to authenticate users via [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), Microsoft accounts, and social providers through [Azure AD B2C](https://docs.microsoft.com/azure/active-directory-b2c/active-directory-b2c-overview#identity-providers), and to acquire tokens for Microsoft services like [Graph](https://graph.microsoft.io).
 * [ng-awesome-node-auth](https://github.com/nik2208/ng-awesome-node-auth) - Angular Interceptor and Guards for [awesome-node-auth](https://github.com/nik2208/awesome-node-auth).
 * [ngx-better-auth](https://github.com/thomasorgeval/ngx-better-auth) - An Angular 20+ wrapper for [Better Auth](https://github.com/better-auth/better-auth). Provides reactive session handling with signals, clean DI provider setup with observables, and modern guards.
 * [ngx-cognito-auth](https://github.com/SamsonGross/ngx-cognito-auth) - Angular 21+ library for AWS Cognito authentication using the OAuth 2.0 Authorization Code flow with PKCE.
@@ -905,7 +903,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [google-pay-button](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
 * [ngx-hyperpay](https://github.com/MagdyAbouelnasr/ngx-hyperpay) - An Angular library for easy integration of the [HyperPay](https://www.hyperpay.com/) payment gateway.
 * [ngx-mp-payments](https://github.com/JosemaCeballos/ngx-mp-payments) - Angular library for integration with [Mercado Pago](https://www.mercadopago.com.ar/).
-* [ngx-stripe](https://github.com/richnologies/ngx-stripe) - Angular bindings for [StripeJS](https://stripe.com/docs/js) and [Stripe Elements](https://stripe.com/docs/stripe-js).
+* [ngx-stripe](https://github.com/richnologies/ngx-stripe) - Angular bindings for StripeJS and [Stripe Elements](https://stripe.com/docs/stripe-js).
 * [ngx-supabase-stripe](https://github.com/dotted-labs/ngx-supabase-stripe) - Ready‑made Angular components for Supabase + Stripe payments/subscriptions.
 * [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
 
@@ -975,11 +973,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Other State Libraries
 
 * [elf](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
-* [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
+* [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only services and RxJS.
 * [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 * [TanStack Query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
 * [state-adapt](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library.
-* [mini-rx-store](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
+* [mini-rx-store](https://github.com/spierala/mini-rx-store) - Reactive state management platform.
 * [ngx-collection](https://github.com/e-oz/ngx-collection) - Collection State Management Service for Angular.
 * [xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 * [signalstory](https://github.com/zuriscript/signalstory) - A state management library built on Angular signals, supporting simple repositories, decoupled commands, side effects, and inter-store communication via event-driven architecture.
@@ -1224,14 +1222,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cdk-lightbox](https://github.com/miskith/ngx-cdk-lightbox/tree/master/projects/ngx-cdk-lightbox) - Tailored CDK-based solution for rendering an image gallery with lightbox functionality in Angular.
 * [rm-image-slider](https://github.com/malikrajat/rm-image-slider) - Standalone Angular image slider with lightbox, lazy loading, and video support (YouTube/MP4).
 * [ngx-carousel-modern](https://github.com/Aizaz-ul-haq/ngx-carousel-modern) - A modern, customizable carousel component for Angular 16+ with support for both standalone and NgModule-based applications.
-* [fslightbox-angular](https://github.com/banthagroup/fslightbox-angular) - The Angular version of [Fullscreen Lightbox](https://fslightbox.com/).
+* [fslightbox-angular](https://github.com/banthagroup/fslightbox-angular) - Angular version of [Fullscreen Lightbox](https://fslightbox.com/).
 
 ### Charts
 
 * [@cubejs-client/ngx](https://www.npmjs.com/package/@cubejs-client/ngx) - Along with [@cubejs-client/core](https://www.npmjs.com/package/@cubejs-client/core), you can [integrate](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular) Cube.js in Angular.
 * [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
-* [amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/) to get started. Additionally, older versions are still being updated to support newer releases of Angular.
+* [amcharts5](https://github.com/amcharts/amcharts5) - Charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/).
 * [angular-chrts](https://github.com/dennisadriaans/angular-chrts) - A high-performance, developer-friendly data visualization library for modern Angular applications.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
@@ -1246,7 +1244,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
 * [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular.
 * [ngx-interactive-org-chart](https://github.com/zeyadelshaf3y/ngx-interactive-org-chart) - Modern Angular organizational chart component with interactive panning and zooming.
-* [ngx-recharts](https://github.com/wook95/ngx-recharts) - Build composable charts with Angular components using the same API as [Recharts](https://recharts.org/).
+* [ngx-recharts](https://github.com/wook95/ngx-recharts) - Build composable charts with Angular components using the same API as [Recharts](https://recharts.github.io/).
 * [ngx-simple-charts](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
 * [org-chart](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
 * [pioneer-charts](https://github.com/PioneerCode/pioneer-charts) - An Angular library for creating responsive, customizable charts using D3.js—supports bar, line, pie, and more.
@@ -1264,7 +1262,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### CSV
 
-* [impler](https://github.com/implerhq/impler.io) - Using [Angular package](https://www.npmjs.com/package/@impler/angular) you can embed CSV Excel Importer into your application with just few lines of code.
+* [impler](https://github.com/implerhq/impler.io) - Use the [Angular package](https://www.npmjs.com/package/@impler/angular) to embed the CSV Excel Importer into your app.
 * [ng2csv](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
 * [ngx-export-as](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 * [rm-ng-export-to-csv](https://github.com/malikrajat/rm-ng-export-to-csv) - A lightweight and customizable Angular library to export JSON data to CSV files with auto-download support. Ideal for charts, tables, reports, and dashboards.
@@ -1296,7 +1294,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cerious-grid](https://github.com/ryoucerious/cerious-widgets) - A seriously powerful Angular grid for developers who demand control, flexibility, and performance.
 * [ngxsmk-datatable](https://github.com/toozuuu/ngxsmk-datatable) - Modern Angular 17+ datatable focused on performance, customization, and developer experience.
 * [ngx-column-filter](https://github.com/kakarotx10/ngx-column-filter) - A powerful, reusable Angular column filter component with support for multiple field types, advanced filtering rules, and customizable match modes.
-* [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) - Canvas-based spreadsheet and datagrid engine with zero dependencies, 100K+ rows at 60fps, editing, formulas, sorting, filtering, and real-time collaboration. More details on this [website](https://spreadsheet.witqq.dev/).
+* [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) - Canvas‑based spreadsheet/datagrid engine with zero dependencies, 100K+ rows at 60fps, full editing, and real‑time collaboration. Check their [website](https://spreadsheet.witqq.dev/).
 * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Open source JavaScript spreadsheet and data grid component, can be used in Angular apps when wrapped or consumed via Angular elements.
 * [TabularJS](https://github.com/jspreadsheet/tabularjs) - Lightweight JavaScript table and data grid library for advanced table features in Angular.
 * [uni-table](https://github.com/Unify-India/uni-table) - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.
@@ -1490,7 +1488,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mat-birthday-input](https://github.com/rbalet/ngx-mat-birthday-input) - An Angular Material library for entering a birthday.
 * [ngx-countries-dropdown](https://github.com/kapilkumar0037/ngx-countries-dropdown) - Angular library with customizable countries dropdown component with flags, dial code, language and currency details.
 * [ngx-mat-split-button](https://github.com/feature23/ngx-mat-split-button) - Angular Material split button with a primary action and dropdown for secondary options.
-* [ng-select2](https://github.com/Harvest-Dev/ng-select2) - This Angular CLI module is a fork of [select2-component](https://github.com/plantain-00/select2-component).
+* [ng-select2](https://github.com/Harvest-Dev/ng-select2) - An updated fork of [select2-component](https://github.com/plantain-00/select2-component).
 * [ngx-super-select](https://github.com/HesamKashefi/ngx-super-select) - A multi-select input component for Angular.
 * [ngx-super-select-tree](https://github.com/HesamKashefi/ngx-super-select-tree) - A single/multiple choice drop down tree for Angular!
 * [ngx-mat-table-multi-sort](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
@@ -1959,11 +1957,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-zen](https://github.com/kstepien3/ng-zen) - Create customizable, production‑ready Angular UI components seamlessly within your project.
 * [ngwr](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
 * [Windmillcode-Angular-CDK](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
-* [ng-vcl](https://github.com/vcl/ng-vcl) - Angular VCL ‒ an Angular component library based on the [VCL](https://vcl.github.io) CSS eco system.
+* [ng-vcl](https://github.com/vcl/ng-vcl) - Angular component library based on the VCL CSS eco-system.
 * [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia): standalone Angular components, blocks, and templates for landing pages and marketing materials.
 * [po-angular](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
 * [ngx-nighthawk](https://github.com/evenuxjs/ngx-nighthawk) - Comprehensive, user‑friendly components with Bootstrip integration—streamlined Bootstrap for Grid and Utility features.
-* [@ng-verse/ui](https://github.com/ngverse/ui) - Collection of feature‑rich Angular components, directives, and pipes—no install needed, just copy‑paste. See [docs](https://ui.ngverse.dev/) for more.
+* [@ng-verse/ui](https://github.com/ngverse/ui) - Production Ready Angular Components that you Copy/Paste.
 * [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 * [flexi-ui](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/): reusable, customizable, open‑source UI components for modern, visually appealing front‑end applications.
 * [@koobiq/angular-components](https://github.com/koobiq/angular-components) - Open‑source design system for security‑focused products, offering UI patterns, components, tools, resources, and guidelines.

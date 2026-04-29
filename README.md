@@ -1960,7 +1960,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-vcl](https://github.com/vcl/ng-vcl) - Angular component library based on the VCL CSS eco-system.
 * [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia): standalone Angular components, blocks, and templates for landing pages and marketing materials.
 * [po-angular](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
-* [ngx-nighthawk](https://github.com/evenuxjs/ngx-nighthawk) - Comprehensive, user‑friendly components with Bootstrip integration—streamlined Bootstrap for Grid and Utility features.
+* [ngx-nighthawk](https://github.com/evenuxjs/ngx-nighthawk) - A production-ready, enterprise-grade project developed with Bootstrap, offering extensive custom functionality.
 * [@ng-verse/ui](https://github.com/ngverse/ui) - Production Ready Angular Components that you Copy/Paste.
 * [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 * [flexi-ui](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/): reusable, customizable, open‑source UI components for modern, visually appealing front‑end applications.

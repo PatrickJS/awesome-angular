@@ -578,6 +578,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official website](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.
 * [angular-prerender](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
+* [bot-ssr](https://github.com/patrikx3/bot-ssr) - SSR for bots, instant CSR for users — fast loads and clean prerendered HTML for major crawlers, powered by [isbot](https://github.com/omrilotan/isbot).
 * [ngx-sitemaps](https://github.com/json-derulo/ngx-sitemaps) - Generate sitemaps from Angular prerendered routes.
 * [ngx-bun](https://github.com/pegasusheavy/ngx-bun) - High-performance SSR/SSG adapter for Angular 19+ using Bun's built-in server.
 

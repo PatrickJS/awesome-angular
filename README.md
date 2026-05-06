@@ -181,6 +181,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
 * [angular-parallel-test-runner](https://github.com/mahdi-hajian/angular-parallel-test-runner) - CLI to run Angular tests in parallel across projects; uses available CPU cores.
 * [angular-web-cli](https://github.com/qodalis-solutions/angular-web-cli) - A flexible CLI tool designed to streamline workflows, automate tasks, and provide customizable utilities for developers.
+* [Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready fullstack apps in seconds. Pick your stack from 425 options — the CLI wires everything together.
 * [dotairc](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
 * [firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) to add web framework support.
 * [i18n-fixer](https://github.com/zfurkandurum/i18n-fixer) - Framework-agnostic CLI tool that finds hardcoded strings, missing i18n keys, and unused translations.
@@ -549,6 +550,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-signal-query](https://github.com/Ali7040/ng-signal-query) - A type‑safe Angular querying library built on signals that streamlines server state, infinite queries, mutations, and caching with high performance.
 * [api-caller](https://forge.deejayy.hu/angular-packages/api-caller) - Simple API caller library for Angular.
 * [ngx-lite-cache](https://github.com/Suleeyman/ngx-lite-cache) - An Angular library that caches HTTP responses via HttpClient interceptors to cut redundant requests and boost performance.
+* [ng-qubee](https://github.com/AndreaAlhena/ng-qubee) - Angular query builder with reactive URIs (RxJS + Signals), typed pagination, 495+ tests, and multi‑driver support.
 
 ### Micro-Frontends
 
@@ -624,6 +626,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [glama](https://glama.ai/mcp/servers?query=angular) - Directory of MCP servers filtered for Angular-related entries.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) - The [Hashbrown](https://hashbrown.dev/) framework is for building joyful, AI-powered user experiences.
 * [ngAutoPilot](https://github.com/janpereira-dev/ngAutoPilot) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
+* [ng-mocks-testing-skill](https://github.com/mintarasss/ng-mocks-testing-skill) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
 * [ngx-agents-md](https://github.com/pr4san/ngx-agents-md) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
 * [ngx-bob](https://github.com/scottstraughan/ngx-bob) - Angular chat widget with messaging, local history, error handling, commands, and search.
 * [ngx-gen-ui](https://github.com/alessiopelliccione/ngx-gen-ui) - Lightweight Angular directive and service for streaming generative UI content via Firebase AI.
@@ -654,6 +657,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rybbit](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
 * [ngx-segment-community](https://github.com/behdi/ngx-segment-community) - The community-maintained successor to [ngx-segment-analytics](https://github.com/opendecide/ngx-segment-analytics).
 * [swetrix](https://github.com/Swetrix/swetrix) - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant.
+* [@grandgular/logrocket-angular](https://github.com/Grandgular/logrocket) - Wrapper for the LogRocket Web SDK with DI‑friendly init, lazy loading, typed options, privacy helpers, and DOM directives for data‑private/data‑public.
 
 ### Code Analysis
 
@@ -1026,6 +1030,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Cypress to Playwright](https://www.cy2pw.com/) - A curated collection of resources that can help you to migrate your test suite from Cypress to Playwright.
 * [Playwright Chrome Recorder](https://chromewebstore.google.com/detail/playwright-chrome-recorde/bfnbgoehgplaehdceponclakmhlgjlpd) - Export Chromium recorder tab data to Playwright tests. This gives you a nice starting point that you can refine to modern Playwright.
 * [playwright-mcp](https://github.com/microsoft/playwright-mcp) - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright.
+* [twd](https://github.com/BRIKEV/twd) - In‑browser test runner with instant feedback, Testing Library support, Vite discovery, and built‑in API mocking—framework‑agnostic and easy to use in Angular.
 
 ### Component
 
@@ -1305,6 +1310,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ogrid](https://github.com/alaarab/ogrid) - The lightweight, multi-framework data grid with enterprise features and zero enterprise cost.
 * [angular-datatables.net](https://github.com/Vinccool96/angular-datatables.net) - Angular plus [DataTables](https://datatables.net/).
 * [uiGrid](https://github.com/orneryd/uiGrid) - Open‑source, multi‑platform data grid rebuilt from the original [ui‑grid](https://github.com/angular-ui/ui-grid) with the same API and modern Angular signals, supporting Angular, Web Components, React, and Rust.
+* [ngx-datawindow](https://github.com/sugitter/ngx-datawindow) - Table component modernizing the classic DataWindow with zero‑config CRUD, computed columns, multi‑buffer state, offline sync, and granular change tracking.
 
 ### Dates
 
@@ -1525,6 +1531,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [nicematic-emoji-picker](https://github.com/myposty/nicematic-emoji-picker) - High‑performance, zero‑dependency emoji picker for Angular 17+ with 929 emojis, auto‑theming, i18n, and responsive design.
 * [ngx-starflow](https://github.com/ahmadfakher/ngx-starflow) - A lightweight Angular component for displaying fractional star ratings with full precision.
 * [combobox](https://github.com/ng-matero/combobox) - An all‑in‑one Angular Select solution with built‑in multiselect and autocomplete features.
+* [BlossomColorPicker](https://github.com/dayflow-js/BlossomColorPicker) - A polished, blooming color picker for the Web, offered as a standalone JS library with lightweight wrappers for Angular, React, Vue, and Svelte.
 
 ### JSON Forms
 
@@ -2189,6 +2196,7 @@ for the creation of web applications developed with Angular.
 * [gong](https://github.com/fullstack-lang/gong) - Full‑stack framework with Go (Gin, Gorm, pure SQLite) backend and Angular Material frontend.
 * [@retejs/angular-plugin](https://github.com/retejs/angular-plugin) - Angular plugin with a classic preset of node, connection, socket, and control components, built on [Rete.js](https://retejs.org/).
 * [Stencil](https://stenciljs.com/docs/angular) - Generate Angular component wrappers for your web components.
+* [AnQst](https://github.com/DusteDdk/AnQst) - Generates Angular services and native Qt widgets from a shared DSL, letting Angular apps compile into QWidget‑based C++ UIs via the AnQst CLI and host libraries.
 
 ### External Integration
 

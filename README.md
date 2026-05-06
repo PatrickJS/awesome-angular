@@ -1531,6 +1531,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-starflow](https://github.com/ahmadfakher/ngx-starflow) - A lightweight Angular component for displaying fractional star ratings with full precision.
 * [combobox](https://github.com/ng-matero/combobox) - An all‑in‑one Angular Select solution with built‑in multiselect and autocomplete features.
 * [BlossomColorPicker](https://github.com/dayflow-js/BlossomColorPicker) - A polished, blooming color picker for the Web, offered as a standalone JS library with lightweight wrappers for Angular, React, Vue, and Svelte.
+* [ngx-intl-phone-input](https://github.com/JoaoHenriqueAlmeida/ngx-intl-phone-input) - Accessible, headless Angular  international phone input with CDK-powered country selector.
 
 ### JSON Forms
 

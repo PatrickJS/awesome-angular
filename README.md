@@ -1960,6 +1960,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### UI Libraries
 
 * [Dev Extreme](https://js.devexpress.com/Overview/Angular/) - Feature-Complete 65+ Angular Component Suite.
+* [Zyra UI](https://zyraui.dev/) - Modern Angular component library with design tokens, signals, dark-mode-first theming, and WCAG 2.1 AA accessibility.
 * [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
 * [ej2-angular-ui-components](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI library with 70+ lightweight, responsive, modular, touch‑friendly components.
 * [Nebular](https://github.com/akveo/nebular) - Customizable Angular UI Library based on Eva Design System.

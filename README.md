@@ -698,6 +698,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### IDE Extensions
 
+* [AngularCliPlus](https://github.com/danisss9/AngularCliPlus) - Angular CLI commands, schematics generator, and project tools for VS Code.
 * [angular-code-quality-toolkit](https://github.com/Arul1998/angular-code-quality-toolkit) - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=arul1998.angular-code-quality-toolkit) to run Angular code-quality tools (depcheck, ts-prune, ESLint) and help clean unused code and dependencies.
 * [Angular Dev Tools](https://angular.dev/tools/devtools) - Browser extension for debugging and profiling Angular applications.
 * [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) - This extension pack packages some of the most popular VS Code Angular extensions.

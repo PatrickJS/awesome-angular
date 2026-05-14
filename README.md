@@ -616,7 +616,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool for AI that installs and configures rules to guide agents in technology stack best practices.
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
-* [angular-skills](https://github.com/analogjs/angular-skills) - A collection of skills that provide coding agents with up-to-date Angular v20+ patterns, best practices, and code examples.
+* [@analogjs/angular-skills](https://github.com/analogjs/angular-skills) - A collection of skills that provide coding agents with up-to-date Angular v20+ patterns, best practices, and code examples.
+* [@Kobolden/angular-skills](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodingFleet](https://codingfleet.com/code-generator/angular/) - An innovative AI-powered tool that transforms your instructions into efficient Angular code.
 * [context7](https://github.com/upstash/context7) - MCP Server with up-to-date code documentation for LLMs and AI code editors.

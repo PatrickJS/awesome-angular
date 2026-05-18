@@ -2030,6 +2030,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eagami-design-system](https://github.com/mwiraszka/eagami-design-system) - Lightweight, accessible Angular UI component library built on CSS custom properties.
 * [angular-liquid-glass](https://github.com/thiagopac/angular-liquid-glass) - A standalone Angular component library for liquid glass and glassmorphism interfaces.
 * [ngx-pk-ui](https://github.com/superpck/ngx-pk-ui) - An Angular 21 component library providing UI components and CSS utilities.
+* [magary](https://github.com/JhoanGon/magary) - A modern, standalone-first Angular UI library monorepo.
 
 ### UI Libraries built on Bootstrap
 

@@ -1275,6 +1275,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cookie-ssr](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 * [ngx-gdpr-cookie-consent](https://github.com/KoblerS/ngx-gdpr-cookie-consent) - A beautiful Cookie consent library, easy to use.
 * [smallest-cookie-banner](https://github.com/DreadfulCode/smallest-cookie-banner) - Minimal framework-agnostic cookie consent banner.
+* [ngrithms-cookie-consent](https://github.com/aboudbadra/ngrithms-cookie-consent) - Modern Angular cookie consent — standalone components, signal-based state, `provideCookieConsent()` functional setup, SSR-safe, and zero runtime dependencies.
 
 ### CSV
 

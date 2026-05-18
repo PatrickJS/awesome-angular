@@ -2248,6 +2248,7 @@ for the creation of web applications developed with Angular.
 * [angular-calendly](https://github.com/tolutronics/angular-calendly) - A modern Angular library that provides standalone components for embedding [Calendly](https://calendly.com/) scheduling widgets.
 * [angular-email-editor](https://github.com/unlayer/angular-email-editor) - Drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as an Angular wrapper component.
 * [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
+* [atlas-editor](https://github.com/sumanthnagireddi/atlas-editor) - Angular wrappers that dynamically load the React‑based Atlaskit editor and side‑navigation web components.
 * [chat-widget-adapters](https://github.com/livechat/chat-widget-adapters) - Angular wrapper for the [LiveChat](https://developers.livechat.com/) Chat Widget (JavaScript API).
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 * [cytoscape-angular](https://github.com/michaelbushe/cytoscape-angular) - A production-ready Angular library providing sophisticated graph visualization capabilities using [Cytoscape.js](https://js.cytoscape.org/).

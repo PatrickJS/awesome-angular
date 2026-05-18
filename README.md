@@ -867,6 +867,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Super JSS](https://github.com/rsantoyo-dev/super-jss-workspace) - Super JavaScript Stylesheets is a tiny Angular runtime library that generates atomic CSS with breakpoints and theming.
 * [Theme-Kit](https://github.com/M1tsumi/Theme-Kit) - A unified design‑token SDK that centralizes your colors, typography, and spacing for seamless use across React, Vue, Angular, or any JavaScript project.
 * [tokiforge](https://github.com/TokiForge/tokiforge) - Framework-agnostic design token engine for React, Vue, Angular, Svelte & vanilla JS.
+* [ukit-css](https://github.com/vcalderondev/ukit-css) - JIT utility-first CSS engine — Tailwind-style on-demand class generation for any frontend stack (React, Vue, Angular, Svelte, Next.js, Astro, plain HTML).
 
 ## Security and Authentication
 

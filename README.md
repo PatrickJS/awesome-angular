@@ -1445,6 +1445,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-json-editor](https://github.com/RonnyValdivieso/ngx-json-editor) - A minimal, themeable JSON editor for Angular.
 * [ngx-ace-signal](https://github.com/WebArtWork/ngx-ace-signal) - A modern Angular signals-based wrapper for the Ace editor.
 * [ngx-rwriter](https://github.com/ReiAg/ngx-rwriter) - A modern Rich Text Editor component for Angular 21+ with native support for images, alignment, lists, color pickers, and translations.
+* [ngx-pro-editor](https://github.com/ChauhanShubham8758/ngx-pro-editor) - A feature-rich WYSIWYG editor for Angular with auto-save, special characters, and advanced formatting.
 
 ### File Upload
 

@@ -1845,6 +1845,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [web-notifier](https://github.com/andreasnicolaou/web-notifier) - Lightweight, flexible web notification library with simple RxJS‑based API for browser notifications.
 * [ngx-dynamic-toast](https://github.com/ederjavs/ngx-dynamic-toast) - An elegant, liquid-smooth toast notification library for Angular, heavily inspired by the beautiful [Sileo](https://github.com/hiaaryan/sileo) project.
 * [flexi-toast](https://github.com/FlexiUI-labs/flexi-toast) - Angular toast notification component with title, message, icon types, auto-dismiss, manual close, animations, theme, and positioning support.
+* [ngx-notitia](https://github.com/klajdm/ngx-notitia) - Updated fork of `ngx-toastr` with additional features, fixes, and modernizations for Angular 21+.
 
 ### Onboarding and Product Tours
 

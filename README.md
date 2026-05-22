@@ -1327,6 +1327,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-datawindow](https://github.com/sugitter/ngx-datawindow) - Table component modernizing the classic DataWindow with zero‑config CRUD, computed columns, multi‑buffer state, offline sync, and granular change tracking.
 * [simple-table](https://github.com/petera2c/simple-table) - Framework-agnostic data grid and table component for building modern, scalable applications.
 * [toolbox](https://github.com/OysteinAmundsen/toolbox) - High-performance, framework-agnostic web components for data-intensive applications.
+* [gp-grid](https://github.com/GioPat/gp-grid) - Data grid library built with a modular architecture that cleanly separates core logic from framework integrations to efficiently handle massive datasets with millions of rows.
 
 ### Dates
 

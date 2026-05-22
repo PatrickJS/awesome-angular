@@ -2085,6 +2085,7 @@ for the creation of web applications developed with Angular.
 * [FlyonUI](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 * [Galaxy UI](https://github.com/buikevin/galaxy-design) - Universal Component Library that brings beautiful, accessible components to Angular.
 * [koala-ui](https://github.com/igordrangel/koala-ui) - A modern and accessible component library designed to speed up interface development.
+* [ng-brutalism](https://github.com/khangtrannn/ng-brutalism) - Neo-brutalist Angular UI library with signals, zoneless, and Tailwind CSS v4. Bold borders, offset shadows, opinionated aesthetic end-to-end.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - Comprehensive Tailwind CSS UI toolkit for building modern, scalable web applications efficiently.
 * [ngx-lite-suite](https://github.com/michaelsch72/ngx-lite-suite) - Angular UI library with a "Lite Suite" design system of glassmorphism, gradients, and fluid animations.
 * [ngx-tailwindcss](https://github.com/pegasusheavy/ngx-tailwindcss) - A customizable Angular UI library for Tailwind CSS 4+, offering accessible, beautifully designed components with full styling control.

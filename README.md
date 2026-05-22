@@ -660,7 +660,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [oculr-ngx](https://github.com/Progressive-Insurance/oculr-ngx) - An analytics library that makes collecting data in an Angular app simple.
 * [plausible](https://github.com/plausible/analytics) - Lightweight, open‑source, privacy‑friendly analytics with SPA support—see [SPA support](https://plausible.io/docs/spa-support).
 * [rybbit](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
-* [gizmo](https://gizmoanalytics.io/) - An AI native alternative to Google Analytics, with a more generous free tier than competitors. 
+* [gizmo](https://gizmoanalytics.io/) - An AI native alternative to Google Analytics, with a more generous free tier than competitors.
 * [ngx-segment-community](https://github.com/behdi/ngx-segment-community) - The community-maintained successor to [ngx-segment-analytics](https://github.com/opendecide/ngx-segment-analytics).
 * [swetrix](https://github.com/Swetrix/swetrix) - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant.
 * [@grandgular/logrocket-angular](https://github.com/Grandgular/logrocket) - Wrapper for the LogRocket Web SDK with DI‑friendly init, lazy loading, typed options, privacy helpers, and DOM directives for data‑private/data‑public.
@@ -1604,7 +1604,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@ngverse/icons](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 * [ngxi](https://github.com/adrian-ub/ngxi) - Comprehensive SVG icon set for Angular with seamless integration of thousands of popular icons.
 * [animated-icons](https://github.com/ajitzero/animated-icons) - Animated icons for Angular based on [moving icons](https://www.movingicons.dev/).
-* [hugeicons-angular](https://github.com/hugeicons/angular) - 4,600+ free MIT-licensed stroke-rounded icons for Angular.
+* [hugeicons-angular](https://github.com/hugeicons/angular) - 5,100+ free MIT-licensed stroke-rounded icons for Angular.
 * [@quikturn-sdk/logos-angular](https://github.com/quikturn-sdk/Company-Logos) - TypeScript SDK for the [Quikturn Logos API](https://getquikturn.io/) - Fetch any company's logo by domain name.
 
 ### Images

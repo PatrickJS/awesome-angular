@@ -811,6 +811,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eslint-config-angular](https://github.com/noneforge/eslint-config-angular) - Comprehensive Angular ESLint configuration with TypeScript support, component/template rules, accessibility, and CSS linting.
 * [linters](https://github.com/developer239/linters) - Collection of super strict configurations for ESLint / StyleLint and other code quality tools.
 * [eslint-plugin-angular-class-ordering](https://github.com/Leritas/eslint-plugin-angular-class-ordering) - ESLint plugin that keeps Angular class members (fields and methods) in a consistent order with auto-fix functionality.
+* [lint-a-lot](https://github.com/JanKru/lint-a-lot) - An opinionated ESLint and Stylelint configuration for Angular projects using modern Flat Config.
 
 ### Networking
 

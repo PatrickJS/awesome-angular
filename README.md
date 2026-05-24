@@ -673,6 +673,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-mermaider](https://github.com/earthdmitriy/angular-mermaider) - Static code analyzer that produces Mermaid dataflow diagrams.
 * [compuse](https://github.com/jakub-hajduk/compuse) - Unified API for analyzing Angular component usage across your codebase.
 * [modulens](https://github.com/sinanyilmaz0/modulens) - A suite of architecture, structure, and quality analysis tools for frontend workspaces.
+* [ngcompass](https://github.com/RoadmapDevelop/ngcompass) - Angular-aware static analysis for architecture, performance, SSR, security, and code quality.
 * [ng-di-graph](https://github.com/m-yoshiro/ng-di-graph) - A command-line tool that analyzes Angular TypeScript codebases to extract dependency injection relationships.
 * [ng-lens](https://github.com/MerrittMelker/ng-lens) - A Node.js tool that uses `ts-morph` to analyze Angular components and detect service usage patterns from any API library.
 * [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular codebase to JSON abstraction - Great for displaying APIs and analysis.

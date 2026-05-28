@@ -690,6 +690,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngrx-devtool](https://github.com/AmadeusITGroup/ngrx-devtool) - A development tool for visualizing and debugging NgRx state management.
 * [ngx-dev-toolbar](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 * [omelet-angular-debug-panel](https://github.com/maycuatroi1/omelet-angular-debug-panel) - Angular debug dashboard providing visibility into SQL activity, server timing, and authentication debugging.
+* [angular-scan](https://github.com/husseinAbdElaziz/angular-scan) - Automatically detects and highlights Angular components that are re-rendering.
 
 ### Documentation Tools
 

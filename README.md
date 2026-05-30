@@ -1962,6 +1962,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-zoneless-scrollbar](https://github.com/Legalfina/ngx-zoneless-scrollbar) - A lightweight Angular scrollbar built for zoneless mode, using native scrolling with CSS styling.
 * [ngx-scrollbar-ultimate](https://github.com/andrew-dev283/ngx-scrollbar-ultimate) - A lightweight library for vertical scrolling.
 * [ngx-scrollspy](https://github.com/uniprank/ngx-scrollspy) - Angular Scroll Spy Service with events.
+* [ngx-virtual-grid](https://github.com/theryansmee/ngx-virtual-grid) - A responsive, virtual‑scrolling Angular grid that supports infinite loading, uses CSS Grid, automatically measures item sizes, and renders only the visible elements.
 
 ### Storage
 

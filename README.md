@@ -619,6 +619,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool for AI that installs and configures rules to guide agents in technology stack best practices.
 * [agentskit](https://github.com/AgentsKit-io/agentskit) - Composable toolkit and headless chat components for building AI agents in Angular, with streaming, tools, memory and RAG.
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
+* [angular-agent-framework](https://github.com/cacheplane/angular-agent-framework) - Angular SDK for Building Agentic Apps + Generative UI.
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [@Kobolden/angular-skills](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.

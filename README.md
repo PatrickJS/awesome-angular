@@ -1029,6 +1029,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngStato](https://github.com/becher/ngStato) - State management for Angular that uses async/await instead of RxJS.
 * [ng-eagleeye.js](https://github.com/webKrafters/ng-eagleeye.js) - A framework-agnostic, native JavaScript immutable state manager with change-streams, deployable anywhere.
 * [ngx-deep-signals](https://github.com/simplesoftsoul/ngx-deep-signals) - Deeply reactive, zero‑ceremony nested state for Angular—turn any object into a signal graph without calls, setters, or boilerplate.
+* [editate](https://github.com/inokawa/editate) - An experimental, type-safe, framework agnostic and small (5kB+) contenteditable state manager.
 
 ## Testing
 

@@ -2059,6 +2059,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-liquid-glass](https://github.com/thiagopac/angular-liquid-glass) - A standalone Angular component library for liquid glass and glassmorphism interfaces.
 * [ngx-pk-ui](https://github.com/superpck/ngx-pk-ui) - An Angular 21 component library providing UI components and CSS utilities.
 * [magary](https://github.com/JhoanGon/magary) - A modern, standalone-first Angular UI library monorepo.
+* [ngx-core-components](https://github.com/prajaktadube/ngx-core-components) - Angular 19+ component library — production-ready UI components built with signals, OnPush change detection, and zero runtime dependencies.
 
 ### UI Libraries built on Bootstrap
 

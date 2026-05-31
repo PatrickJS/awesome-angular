@@ -955,6 +955,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [SafeDep](https://safedep.io/) - It continuously scans open source code for vulnerabilities and malware, helping security engineering teams proactively mitigate inherited OSS risks.
 * [Snyk](https://snyk.io/) - A developer security platform that integrates directly into development tools, workflows, and automation pipelines.
 * [Socket](https://socket.dev/) - A developer-first security platform that protects your code from both vulnerable and malicious dependencies.
+* [supply-chain-inspector](https://github.com/DenysVuika/supply-chain-inspector) - A standalone, zero-dependency Node.js script for supply chain security analysis of npm dependencies.
 * [Vulert](https://vulert.com) - Secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports JS, PHP, Java, Python, and more.
 
 ## State Management

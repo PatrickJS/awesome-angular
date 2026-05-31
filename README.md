@@ -1150,6 +1150,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [base-angular-monorepo](https://github.com/myvictorlife/base-angular-monorepo) - A production-ready base project for developing scalable Angular applications (Nx, NgRx, Tailwind CSS, Jest, ESLint, Prettier).
 * [nx-ng-starter](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, Node, Nest, Firebase.
 * [elements-template](https://github.com/giacomo/elements-template) - A modern, opinionated starter kit for building custom Web Components powered by Angular 21, Tailwind CSS v4, and Vitest.
+* [realworld-angular](https://github.com/realworld-angular/realworld-angular) - RealWorld Angular examples apps showcasing Angular libraries in action.
 
 ### Paid Templates
 

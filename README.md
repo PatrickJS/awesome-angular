@@ -693,6 +693,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [omelet-angular-debug-panel](https://github.com/maycuatroi1/omelet-angular-debug-panel) - Angular debug dashboard providing visibility into SQL activity, server timing, and authentication debugging.
 * [angular-scan](https://github.com/husseinAbdElaziz/angular-scan) - Automatically detects and highlights Angular components that are re-rendering.
 * [angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan) - A visual debugging overlay for Angular change detection.
+* [rxjs-leak-finder](https://github.com/FlorinCiocirlan/rxjs-leak-finder) - A dev-mode tool that finds leaked RxJS subscriptions in Angular apps.
 
 ### Documentation Tools
 

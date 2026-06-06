@@ -1553,7 +1553,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gradient-picker](https://github.com/acrodata/gradient-picker) - A powerful and beautiful gradient picker.
 * [ngxsmk-datepicker](https://github.com/toozuuu/ngxsmk-datepicker) - A modern, highly customizable Angular date range picker component.
 * [ngx-country-selector](https://github.com/evicio1/ngx-country-selector) - A sleek, customizable Angular Material country selector offering accessible dropdowns with flags, codes, local names, and more.
-* [angular-datepicker2](https://github.com/nsnayp13/angular-datepicker2) - Lightweight Angular 16+ datepicker with standalone support, range and multi-date selection, and customizable templates—no external dependencies.
+* [@nsnayp1/angular-datepicker2](https://github.com/nsnayp13/angular-datepicker2) - Lightweight Angular 16+ datepicker with standalone support, range and multi-date selection, and customizable templates—no external dependencies.
 * [ngx-phone](https://github.com/manishpatidar028/ngx-phone) - Angular phone input with auto country detection, real-time formatting, validation, and full forms support.
 * [ngx-phone-country-input](https://github.com/mostafaM212/ngx-phone-country-input) - Comprehensive Angular library for phone input and country selection with reactive forms support.
 * [ngx-mat-period-picker](https://github.com/felixdulfer/ngx-mat-period-picker) - A modern Angular Material period picker component built with standalone components.
@@ -1575,6 +1575,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-signal-datetimepicker](https://github.com/dominikmodrzejewski99/ngx-signal-datetimepicker) - Angular datetime picker built on Signal Forms — date + time in one control, zero deps, WCAG 2.2 AAA out of the box.
 * [ngx-multi-field-dropdown](https://github.com/luismtapiab/ngx-multi-field-dropdown) - A customizable Angular searchable dropdown component with multi-field search support.
 * [angular-multiselect-dropdown](https://github.com/alexandroit/angular-multiselect-dropdown) - A maintained Angular multiselect dropdown built for template-driven and reactive forms.
+* [@koenz/angular-datepicker](https://github.com/koenz/angular-datepicker) - An animating datepicker for Angular 21+.
 
 ### JSON Forms
 

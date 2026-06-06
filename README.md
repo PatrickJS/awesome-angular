@@ -769,6 +769,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [i18n-keygen](https://github.com/gagle/i18n-keygen) - Type-safe i18n keys for every build tool. One package, zero lock-in.
 * [i18n-scanner-toolkit](https://github.com/58bcbedf47bd91439c/i18n-scanner-toolkit) - Extract, detect missing translations, and manage multilingual content with CSV export/import.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
+* [langsync](https://github.com/mariokreitz/langsync) - CLI tooling for localization workflows in TypeScript projects.
 * [localess](https://github.com/Lessify/localess) - A powerful translation management tool and content management system built using Angular and Firebase.
 * [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.
 * [ng-linguo](https://github.com/jmwierzbicki/linguo) - Modern Angular 18+ i18n toolkit built on SignalStore — a reactive, from‑scratch alternative to `@ngx‑translate/core` and Transloco with zero RxJS in components.

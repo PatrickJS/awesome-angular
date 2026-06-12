@@ -305,7 +305,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Angular Experts on X
 
-* [@PatrickJS__](https://x.com/PatrickJS__)
+* [@PatrickJS](https://x.com/PatrickJS)
 * [@eggheadio](https://x.com/eggheadio)
 * [@hirez_io](https://x.com/hirez_io)
 * [@cedric_exbrayat](https://x.com/cedric_exbrayat)

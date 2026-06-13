@@ -1444,7 +1444,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-aztreya-editor](https://github.com/aztreya/ngx-aztreya-editor) - A lightweight, customizable Angular Rich Text Editor component with built-in toolbar, headings, text formatting, and alignment options.
 * [ngx-simple-text-editor](https://github.com/Raiper34/ngx-simple-text-editor) - Ngx Simple Text editor or ST editor is a simple native text editor component for Angular 9+.
 * [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - Angular components for the Quill Rich Text Editor.
-* [ngx-editor](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
+* [@sibiraj-s/ngx-editor](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
+* [@bobbyquantum/ngx-editor](https://github.com/bobbyquantum/ngx-editor) - Angular 21+ fork of `sibiraj-s/ngx-editor`.
 * [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular WYSIWYG HTML Rich Text Editor.
 * [ngx-property-editor](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
 * [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).

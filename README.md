@@ -1753,6 +1753,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-streamdown](https://github.com/dina-kar/ngx-streamdown) - Angular port of [Streamdown](https://streamdown.ai/), a streaming Markdown renderer optimized for AI‑driven applications.
 * [mark-down](https://github.com/mzebley/mark-down) - A framework‑agnostic snippet engine with an Angular adapter that indexes Markdown at build time and renders HTML at runtime with optional sanitization.
 * [m-render](https://github.com/Foblex/m-render) - A library for rendering Markdown with extended support for Angular components and code snippets.
+* [markstream](https://github.com/Simon-He95/markstream-vue) - Render Markdown while it is still streaming.
 
 ### Media
 

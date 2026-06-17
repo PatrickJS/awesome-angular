@@ -247,6 +247,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Caniuse](https://www.angular.courses/caniuse/features) - Track Angular features from preview to stable stages.
 * [Depfixer](https://depfixer.com/sample-report/angular) - Smart dependency analysis for JS/TS projects; detects compatibility conflicts and provides step‑by‑step fixes.
 * [migration-planificator](https://github.com/silvestv/migration-planificator-documentation) - Plan Angular migrations with precision AST analysis, calculate workload estimates, and generate interactive HTML dashboards.
+* [NgReady](https://www.ngready.dev/) - Stop Wasting Days on Angular Upgrades.
 
 ## Angular Pulse
 

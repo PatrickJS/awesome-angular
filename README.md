@@ -2081,6 +2081,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [magary](https://github.com/JhoanGon/magary) - A modern, standalone-first Angular UI library monorepo.
 * [ngx-core-components](https://github.com/prajaktadube/ngx-core-components) - Angular 19+ component library — production-ready UI components built with signals, OnPush change detection, and zero runtime dependencies.
 * [ngx-cupertino](https://github.com/gacc94/ngx-cupertino) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
+* [kanso-protocol](https://github.com/GregNBlack/kanso-protocol) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
 
 ### UI Libraries built on Bootstrap
 

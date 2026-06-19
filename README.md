@@ -2197,7 +2197,7 @@ for the creation of web applications developed with Angular.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
 * [ngx-font-picker](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 * [ngx-gauge](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
-* [ngx-glassy-effect](https://github.com/anassmdi/ngx-glassy-effect) - An Angular directive that applies a glassy effect to your html elements.
+* [ngx-glassy-effect](https://github.com/anassmdi/ngx-glassy-effect) - An Angular directive that applies a glassy effect to your HTML elements.
 * [ngx-globe](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
 * [ngx-gooey](https://github.com/wadie/ngx-gooey) - The gooey effect for Angular, used for shape blobbing / metaballs.
 * [ngx-lamp](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.

@@ -1035,7 +1035,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rs-x](https://github.com/robert-sanders-software-ontwikkeling/rs-x) - A reactive engine that unifies sync and async data into one transparent model, giving Angular fine‑grained automatic change detection without manual async handling.
 * [stateloom](https://github.com/sujeet-pro/stateloom) - A universal state‑management SDK featuring a signal‑driven reactive core, along with paradigm adapters (Store, Atom, Proxy) and framework adapters for React, Angular, and more.
 * [ngx-state-crafter](https://github.com/irvrodflo/ngx-state-crafter) - A lightweight, signal‑driven state library for Angular with a clean, boilerplate‑free API.
-* [coaction](https://github.com/unadlib/coaction) - An efficient and flexible state management library for building high-performance, multithreading web applications.
+* [coaction](https://github.com/coactionjs/coaction) - An efficient and flexible state management library for building high-performance, multithreading web applications.
 * [flurryx](https://github.com/fmflurry/flurryx) - A signal-first reactive state toolkit for Angular that bridges RxJS streams into structured, cache-aware stores.
 * [ngStato](https://github.com/becher/ngStato) - State management for Angular that uses async/await instead of RxJS.
 * [ng-eagleeye.js](https://github.com/webKrafters/ng-eagleeye.js) - A framework-agnostic, native JavaScript immutable state manager with change-streams, deployable anywhere.
@@ -2361,7 +2361,7 @@ for the creation of web applications developed with Angular.
 * [angular-style-injector](https://github.com/emmat-york/angular-style-injector) - A lightweight dependency injection container inspired by Angular's Injector.
 * [di](https://github.com/kaokei/di) - This library is a lightweight dependency injection library, similar to [InversifyJS](https://github.com/inversify/InversifyJS) and [typedi](https://github.com/typestack/typedi).
 * [flexdi](https://github.com/AndreyShashlovDev/flexdi) - Flexible, lightweight DI library for React, React Native, and Vue3, inspired by NestJS and Angular.
-* [gapi](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex Node.js GraphQL Backend applications with minimum effort.
+* [gapi](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex Node.js GraphQL Backend applications with minimal effort.
 * [GTPL](https://github.com/garag-lib/GTPL) - TypeScript library for reactive templates using Direct DOM and Proxy, inspired by Vue, Angular AOT, and JSX, in a compact 9KB package.
 * [illuma](https://github.com/git-illuma/core) - Angular-style dependency injection for TypeScript.
 * [indulgent](https://github.com/frodi-karlsson/indulgent) - A lightweight set of TypeScript utilities designed for web development, free of external dependencies and optimized for solid runtime performance.

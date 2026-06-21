@@ -1529,6 +1529,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [formsync](https://github.com/sudhucodes/formsync) - A developer‑friendly Angular‑ready form backend that lets you collect and manage submissions without server‑side code.
 * [@neutro-web/form](https://github.com/neutro-web/form) - High-performance, zero-dependency, framework-agnostic reactive form engine.
 * [forge-form](https://github.com/mspas/forge-form) - Generates reactive, signal-based forms, validation, and conditional fields from a single TypeScript object.
+* [NgSimplicityForms](https://github.com/BryanGWalsh/NgSimplicityForms) - Composable Angular dynamic forms framework with shared core APIs and renderer packages for Bootstrap and Angular Material.
 
 ### Form Controls
 

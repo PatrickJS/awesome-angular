@@ -1856,6 +1856,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [async-modal-ngx](https://github.com/antonioconselheiro/async-modal-ngx) - This library renders Angular components with flexible data flow, while all styling and modal-host design remain your responsibility.
 * [rnd-dialog](https://github.com/acrodata/rnd-dialog) - Resizable and draggable dialog based on CDK dialog.
 * [prettier-modals](https://github.com/antuuanyf/prettier-modals) - Angular directives and an injectable service for Prettier Modals — beautiful open/close animations for native `<dialog>` elements, powered by GSAP Flip.
+* [ngx-call](https://github.com/hebus/ngx-call) - Imperative, type-safe, and promise-based dialogs for Angular, inspired by [React Call](https://github.com/desko27/react-call)'s `createCallable`.
 
 ### Notifications
 

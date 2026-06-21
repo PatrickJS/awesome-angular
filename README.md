@@ -1352,6 +1352,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [toolbox](https://github.com/OysteinAmundsen/toolbox) - High-performance, framework-agnostic web components for data-intensive applications.
 * [gp-grid](https://github.com/GioPat/gp-grid) - Data grid library built with a modular architecture that cleanly separates core logic from framework integrations to efficiently handle massive datasets with millions of rows.
 * [ngx-powerful-tree](https://github.com/raknjarasoa/ngx-powerful-tree) - A virtualized tree with HTML5 drag‑and‑drop, fast search, locked subtrees, and file‑picker modes, built on `@angular/cdk/scrolling` for smooth performance at 100k+ rows.
+* [agrid](https://github.com/thkl/agrid) - Angular data grid with spreadsheet-like editing, virtual scrolling, filtering, sorting, grouping, clipboard workflows, row operations, pagination, and custom cell renderers.
 
 ### Dates
 

@@ -1230,7 +1230,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 * [CalendarJS](https://github.com/componade/calendarjs) - Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
 * [hss-calendar](https://github.com/HawkerSoftwares/hss-calendar) - A premium, lightweight, and fully customizable calendar library for Angular 19+.
-* [datelane](https://github.com/devendramilmile121/datelane) - An customizable, zero-dependency Angular calendar featuring 12 views and multiple date layers.
+* [datelane](https://github.com/devendramilmile121/datelane) - A customizable, zero-dependency Angular calendar featuring 12 views and multiple date layers.
 
 ### Captcha
 

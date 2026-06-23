@@ -1163,6 +1163,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [nx-ng-starter](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, Node, Nest, Firebase.
 * [elements-template](https://github.com/giacomo/elements-template) - A modern, opinionated starter kit for building custom Web Components powered by Angular 21, Tailwind CSS v4, and Vitest.
 * [realworld-angular](https://github.com/realworld-angular/realworld-angular) - RealWorld Angular example apps showcasing Angular libraries in action.
+* [Swarm Wiki](https://github.com/JohTandou/agent-swarm) - ![GitHub stars](https://img.shields.io/github/stars/JohTandou/agent-swarm) Dark-mode exclusively technical wiki documenting a 9-agent AI pipeline. Built with Angular 19 standalone components, Tailwind v4, GSAP animations, Angular CDK, and ngx-markdown. Features SSR pre-rendering, Prism.js syntax highlighting, Mermaid.js diagrams, and Fuse.js fuzzy search. Deployed on Vercel.
 
 ### Paid Templates
 

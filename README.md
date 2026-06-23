@@ -1989,11 +1989,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [usal](https://github.com/italoalmeida0/usal) - Framework agnostic ultimate scroll animation library.
 * [ar-virtual-scroll](https://github.com/artomenwork/ar-virtual-scroll) - Lightweight Angular virtual scroll with automatic dynamic height, ideal for chats, feeds, and variable lists.
 * [angular-infinity-scroller](https://github.com/Jayant061/angular-infinity-scroller) - A lightweight, high‑performance infinite‑scrolling directive built to work seamlessly with modern Angular and SSR setups.
-* [cerious-scroll](https://github.com/ceriousdevtech/cerious-scroll) - High-performance virtual scrolling for web applications.
 * [ngx-zoneless-scrollbar](https://github.com/Legalfina/ngx-zoneless-scrollbar) - A lightweight Angular scrollbar built for zoneless mode, using native scrolling with CSS styling.
 * [ngx-scrollbar-ultimate](https://github.com/andrew-dev283/ngx-scrollbar-ultimate) - A lightweight library for vertical scrolling.
 * [ngx-scrollspy](https://github.com/uniprank/ngx-scrollspy) - Angular Scroll Spy Service with events.
 * [ngx-virtual-grid](https://github.com/theryansmee/ngx-virtual-grid) - A responsive, virtual‑scrolling Angular grid that supports infinite loading, uses CSS Grid, automatically measures item sizes, and renders only the visible elements.
+* [ngx-cerious-scroll](https://github.com/ceriousdevtech/ngx-cerious-scroll) - Angular bindings for [Cerious Scroll](https://github.com/ceriousdevtech/cerious-scroll), a high-performance virtual scrolling implementation.
 
 ### Storage
 

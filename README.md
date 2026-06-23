@@ -375,7 +375,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
 * [ninja-squad](https://blog.ninja-squad.com/)
 * [marmicode](https://marmicode.io/learn/everything)
-* [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/)
 * [Chau Tran](https://nartc.me/)
 * [Minko Gechev](https://blog.mgechev.com/)

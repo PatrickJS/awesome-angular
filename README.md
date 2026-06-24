@@ -1534,6 +1534,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@neutro-web/form](https://github.com/neutro-web/form) - High-performance, zero-dependency, framework-agnostic reactive form engine.
 * [forge-form](https://github.com/mspas/forge-form) - Generates reactive, signal-based forms, validation, and conditional fields from a single TypeScript object.
 * [NgSimplicityForms](https://github.com/BryanGWalsh/NgSimplicityForms) - Composable Angular dynamic forms framework with shared core APIs and renderer packages for Bootstrap and Angular Material.
+* [ng-modular-forms](https://github.com/ronbodnar/ng-modular-forms) - A lightweight architectural layer with built-in components for modular Angular reactive forms.
 
 ### Form Controls
 

@@ -1106,6 +1106,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [qc-auto-package](https://github.com/KareemMostafa77/qc-auto-package) - Effortless, reliable test IDs for Angular — managed by testers, independent of code.
 * [ng-magic-test-bed](https://github.com/peejay-solutions/ng-magic-test-bed) - Angular test bed wrapper that allows you to remove a lot of bloat code from your spec files.
 * [schmock](https://github.com/khalic-lab/schmock) - Create callable mock APIs from OpenAPI specs or hand-crafted routes using a plugin pipeline and framework adapters.
+* [vitest-auto-spy](https://github.com/ASDAlexey/vitest-auto-spy) - A drop-in replacement for [jest-auto-spies](https://github.com/hirezio/auto-spies).
 
 ## Site Templates
 

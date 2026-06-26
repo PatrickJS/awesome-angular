@@ -2103,6 +2103,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-core-components](https://github.com/prajaktadube/ngx-core-components) - Angular 19+ component library — production-ready UI components built with signals, OnPush change detection, and zero runtime dependencies.
 * [ngx-cupertino](https://github.com/gacc94/ngx-cupertino) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
 * [kanso-protocol](https://github.com/GregNBlack/kanso-protocol) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
+* [frame-ui](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
 
 ### UI Libraries built on Bootstrap
 
@@ -2193,7 +2194,6 @@ for the creation of web applications developed with Angular.
 * [@luminacn/ui](https://github.com/luminacn/ui) - Signal-first, headless UI primitives for Angular.
 * [Bloc UI](https://github.com/debasish1996/BLOC-UI) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
 * [angular-primitives](https://github.com/snatuva/angular-primitives) - Signal-first Angular primitives for building scalable, accessible UI systems.
-* [frame-ui](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
 
 ### Viewers
 

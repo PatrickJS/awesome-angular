@@ -1619,6 +1619,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-formwork](https://github.com/TheNordicOne/ngx-formwork) - Framework for Angular Reactive Forms built from JSON or TypeScript configuration.
 * [ngx-formbar](https://github.com/TheNordicOne/ngx-formbar) - A highly flexible framework for generating declarative reactive forms.
 * [formitiva](https://github.com/formitiva/formitiva-monorepo) - A framework-agnostic runtime form engine for building forms from JSON schemas.
+* [filter](https://github.com/some-angular-utils/filter) - Define fields once to get a ready-to-use JSON object and URL query string on every search.
 
 ### Form Validation
 

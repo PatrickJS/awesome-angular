@@ -1716,6 +1716,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-flex-layout](https://github.com/alessiobianchini/ng-flex-layout) - Angular library that provides a responsive, flexible layout API built on Flexbox and mediaQuery observables.
 * [dockview-angular](https://www.npmjs.com/package/dockview-angular) - Zero dependency layout manager supporting tabs, groups, grids, and splitviews.
 * [ngx-compactable-row](https://github.com/MikeVensel/ngx-compactable-row) - Provides a responsive button row that moves excess buttons into a menu when space is limited.
+* [ng-cmdk](https://github.com/wadie/ng-cmdk) - Fast, composable, unstyled command menu for Angular — a port of [cmdk](https://github.com/pacocoursey/cmdk).
 
 ### Loaders
 

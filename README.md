@@ -1914,6 +1914,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [flexi-toast](https://github.com/FlexiUI-labs/flexi-toast) - Angular toast notification component with title, message, icon types, auto-dismiss, manual close, animations, theme, and positioning support.
 * [ngx-notitia](https://github.com/klajdm/ngx-notitia) - Updated fork of `ngx-toastr` with additional features, fixes, and modernizations for Angular 21+.
 * [ngx-herald](https://github.com/HoplaGeiss/ngx-herald) - A lightweight, modern Angular toast notification library. Signals-first, zoneless-compatible, zero runtime dependencies, and an easy-to-use alternative to ngx-toastr.
+* [ngx-gooey-toast](https://github.com/juanvieiraprado99/ngx-gooey-toast) - A morphing pill‑to‑blob toast component for Angular, serving as an Angular port of the React [gooey‑toast](https://goey-toast.vercel.app/).
 
 ### Onboarding and Product Tours
 

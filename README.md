@@ -603,7 +603,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [WAVE](https://wave.webaim.org/) - Web Accessibility Evaluation Tools.
 * [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter) - Accessibility linting for HTML, Angular, React, Markdown, Vue, and React Native.
 * [Angular Material CDK - a11y](https://material.angular.io/cdk/a11y/overview) - The a11y package provides a number of tools to improve accessibility.
-* [PrimeNG](https://primeng.dev/guides/accessibility) - Accessibility guide from PrimeNG.
+* [PrimeNG Accessibility Guide](https://primeng.dev/guides/accessibility) - Accessibility guide from PrimeNG.
 * [astral-accessibility](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
 * [angular-vlibras](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates VLibras to automatically translate content into Brazilian Sign Language (Libras).
 * [a11y-libraries](https://github.com/LDV2k3/a11y-libraries) - A range of accessibility solutions for Angular.

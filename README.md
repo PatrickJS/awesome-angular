@@ -603,7 +603,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [WAVE](https://wave.webaim.org/) - Web Accessibility Evaluation Tools.
 * [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter) - Accessibility linting for HTML, Angular, React, Markdown, Vue, and React Native.
 * [Angular Material CDK - a11y](https://material.angular.io/cdk/a11y/overview) - The a11y package provides a number of tools to improve accessibility.
-* [PrimeNG](https://primeng.org/guides/accessibility) - Accessibility guide from PrimeNG.
+* [PrimeNG](https://primeng.dev/guides/accessibility) - Accessibility guide from PrimeNG.
 * [astral-accessibility](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
 * [angular-vlibras](https://github.com/angular-a11y/angular-vlibras) - An Angular library that integrates VLibras to automatically translate content into Brazilian Sign Language (Libras).
 * [a11y-libraries](https://github.com/LDV2k3/a11y-libraries) - A range of accessibility solutions for Angular.
@@ -1122,7 +1122,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [ng-matero](https://github.com/ng-matero/ng-matero) - Angular Material admin dashboard template.
 * [coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular admin template based on Bootstrap 5.
-* [sakai-ng](https://github.com/primefaces/sakai-ng) - Free Angular Admin Template by PrimeNG.
 * [devextreme-angular-template](https://github.com/DevExpress/devextreme-angular-template) - Responsive Application Layout Templates​ based on DevExtreme Angular Components.
 * [QuickApp](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular startup project template with complete login, user and role management. Plus other useful services for Quick Application Development.
 * [material-pro-angular-lite](https://github.com/wrappixel/material-pro-angular-lite) - MaterialPro Angular Lite is high quality free Angular Material template / theme from WrapPixel. You can download and use for Personal as well as Commercial Projects.
@@ -1848,7 +1847,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [reactive-kit](https://github.com/max-scopp/reactive-kit) - Lightweight utilities for reactive Angular apps, reducing boilerplate and pairing well with `ngxtension`.
 * [fireng](https://github.com/BhanukaDev/fireng) - A collection of Angular libraries to simplify responsive development using signals.
 * [xprng](https://github.com/ziv/xprng) - Micro packages of simple and smart components for Angular.
-* [ngx-primeng-toolkit](https://github.com/saiful-70/ngx-primeng-toolkit) - Comprehensive TypeScript utilities for Angular state management with PrimeNG helpers, `ng-select`, storage, and NgRx caching.
+* [ngx-primeng-toolkit](https://github.com/md-redwan-hossain/ngx-primeng-toolkit) - Comprehensive TypeScript utilities for Angular state management with PrimeNG helpers, `ng-select`, storage, and NgRx caching.
 * [@ibenvandeveire opensource](https://github.com/IbenTesara/opensource) - A monorepo hosting multiple packages—both Angular and non-Angular—developed and maintained by [Iben Van de Veire](https://github.com/IbenTesara).
 * [@farfadev/ngx-lib](https://github.com/farfadev/ngx-lib) - Repository of Angular libraries from [Farfadev](https://github.com/farfadev), usable in any application.
 * [ngx-security](https://github.com/xbranch/ngx-security) - A modular Angular library for authentication, roles, and permissions management.
@@ -2054,7 +2053,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [NG-ALAIN](https://github.com/ng-alain/ng-alain/) - NG-ZORRO admin panel front-end framework.
 * [zardui](https://github.com/zard-ui/zardui) - Collection of beautiful, accessible Angular components based on [shadcn-ui](https://github.com/shadcn-ui/ui) and NG‑ZORRO, fully open source and free.
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
-* [prime-ng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library.
+* [open-prime](https://github.com/openng-foundation/open-prime) - A fork of [PrimeNG](https://github.com/primefaces/primeng).
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
 * [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
 * [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library.

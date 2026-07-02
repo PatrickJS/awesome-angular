@@ -203,7 +203,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng new command generator](https://ng.gridatek.com/) - Generate optimized `ng new` commands.
 * [svger-cli](https://github.com/faezemohades/svger-cli) - A lightweight CLI that transforms SVGs into optimized Angular components with zero dependencies.
 * [tailwind-init-cli](https://github.com/ImLeoNova/tailwind-init-cli) - A one-command setup tool for Tailwind CSS in Angular, React, or Next.js projects!
-* [fanstack](https://github.com/PrestomediaLLC/fanstack) - A lightweight CLI and architecture that automatically watches your Firebase Functions and generates a strictly typed Angular service.
+* [fanstack](https://github.com/PrestomediaLLC/fanstack) - A lightweight CLI and architecture that automatically watches your Firebase functions and generates a strictly typed Angular service.
 
 ### Deployment
 

@@ -2118,6 +2118,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cupertino](https://github.com/gacc94/ngx-cupertino) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
 * [kanso-protocol](https://github.com/GregNBlack/kanso-protocol) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
 * [frame-ui](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
+* [coss-ui-angular](https://github.com/lordsarcastic/coss-ui-angular) - Accessible Angular components inspired by the public [COSS UI catalogue](https://www.coss.com/ui/docs).
 
 ### UI Libraries built on Bootstrap
 

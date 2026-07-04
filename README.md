@@ -1871,6 +1871,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@alvaromarinho/libs](https://github.com/alvaromarinho/libs) - A collection of Angular libraries for common UI needs, compatible with Angular 14+.
 * [angular-helpers](https://github.com/Gaspar1992/angular-helpers) - A suite of Angular libraries that help you build secure, browser-integrated applications with a clean developer experience.
 * [ngneat-archive](https://github.com/ngneat-archive) - A read-only preservation archive of the [ngneat](https://github.com/ngneat) repositories.
+* [Indice.Angular](https://github.com/indice-co/Indice.Angular) - A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.
 
 ### Modals
 

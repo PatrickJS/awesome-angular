@@ -222,6 +222,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@railwayapp-templates/angular-starter](https://github.com/railwayapp-templates/angular-starter) - One-click default Angular TS starter, utilizing Caddy to serve!
 * [angular-deploy-bunny](https://github.com/lostium/angular-deploy-bunny) - Angular Architect builder (`ng deploy`) that syncs your build to a Bunny.net CDN Storage Zone using SHA256 incremental diffing, then purges the corresponding Pull Zone.
 * [ngx-ssh-deploy](https://bitbucket.org/dkhang97/ngx-ssh-deploy/src/master/) - Deploy Angular projects using SSH.
+* [front-ready](https://github.com/czfabrics/front-ready) - Detects your Angular build settings, compiles the project, and uploads it to AWS S3 with optimized cache headers using a single command.
 
 ### Desktop Applications
 

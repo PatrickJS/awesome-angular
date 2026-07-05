@@ -2047,11 +2047,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [popover](https://github.com/ncstate-sat/popover) - Angular popover component.
 * [ngx-tooltip-directives](https://github.com/mkeller1992/ngx-tooltip-directives) - Library with three tooltip directives (string, HTML, template), inspired by [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
-* [angular-tooltip](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
+* [@babybeet/angular-tooltip](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 * [ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular wrapper for [Tippy.js](https://github.com/atomiks/tippyjs).
-* [angular-tooltip](https://github.com/lazycuh/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
+* [@lazycuh/angular-tooltip](https://github.com/lazycuh/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 * [ngx-overlay](https://github.com/bastienmoulia/ngx-overlay) - Lightweight Angular library for modern CSS/HTML overlays—modals, tooltips, and popups—browser‑compatible and elegant.
 * [ngx-smart-tooltip](https://github.com/techasif/ngx-smart-tooltip) - A lightweight, customizable tooltip library for Angular 18 that uses signals, the Web Animations API, and OnPush change detection.
+* [angular-tooltips](https://github.com/h-k-dev/angular-tooltips) - Modern, lightweight Angular tooltips using a single CSS‑anchored popover element with no overlays, no scroll listeners, and no per‑trigger DOM.
 
 ### UI Libraries
 

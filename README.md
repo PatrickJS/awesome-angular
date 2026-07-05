@@ -723,6 +723,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [easy-template-x-angular-expressions](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x](https://github.com/alonrbar/easy-template-x).
 * [story-ui](https://github.com/southleft/story-ui) - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
 * [envguards](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
+* [ngmd](https://github.com/erkamyaman/ngmd) - Angular docs starter. Drop a markdown file, get a route.
 
 ### IDE Extensions
 

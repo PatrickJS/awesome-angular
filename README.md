@@ -1505,7 +1505,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ wrapper for [flow.js](https://github.com/flowjs/flow.js) for file upload.
 * [ngx-uploadx](https://github.com/kukhariev/ngx-uploadx) - Angular Resumable Upload Module.
 * [file-upload](https://github.com/pIvan/file-upload) - Angular module used for file upload.
-* [ngx-file-drop](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
+* [@georgipeltekov/ngx-file-drop](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
 * [Uppy](https://github.com/transloadit/uppy) - A sleek, modular JavaScript file uploader that [integrates seamlessly with Angular](https://uppy.io/docs/angular/).
 * [ngx-custom-material-file-input](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
 * [ngx-file-preview](https://github.com/wh131462/ngx-file-preview) - A powerful preview tool for many file types.
@@ -1513,6 +1513,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-file-uploader](https://github.com/uniprank/ngx-file-uploader) - Angular upload components and directives with built‑in file preview.
 * [file-uploader](https://github.com/uploadcare/file-uploader) - A Web Components–based file upload widget compatible with any JavaScript framework — React, Next.js, Vue, Angular, and Svelte — without adapters.
 * [ngx-accessible-dropzone](https://github.com/mahmoudQq2023/ngx-accessible-dropzone) - A tiny, zero-dependency, fully accessible drag-and-drop file upload component for Angular with keyboard and screen-reader support.
+* [@h-k-dev/angular-file-drop](https://github.com/h-k-dev/angular-file-drop) - A lightweight Angular drag‑and‑drop directive for files and folders with traversal, filtering, and click‑to‑pick—no stylesheets, no XHR, no DOM mutation.
 
 ### Forms
 

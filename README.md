@@ -1962,6 +1962,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dynamic-search](https://github.com/mustafaer/ngx-dynamic-search) - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
 * [ngx-name-capitalize](https://github.com/gabo2151/ngx-name-capitalize) - Angular pipe for name capitalization that formats compound surnames, linguistic particles, hyphenated names, apostrophes, and Unicode characters.
 * [ngx-transforms](https://github.com/mofirojean/ngx-transforms) - 90+ standalone, tree-shakable pipes for strings, numbers, dates, arrays, objects, and more.
+* [@unirate/angular](https://github.com/UniRate-API/angular-unirate) - Angular pipes (`currencyRate`, `currencyConvert`) and `UniRateService` (Observable-based) for live currency exchange rates from the [UniRate](https://unirateapi.com) API. Supports Angular 16–22 with `UniRateModule.forRoot()` or `provideUniRate()`.
 
 ### Printing
 

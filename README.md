@@ -1231,6 +1231,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-motion](https://github.com/ScriptType/ng-motion) - Angular animation library built on [motion-dom](https://github.com/motiondivision/motion).
 * [ngx-digit-flow](https://github.com/ayangabryl/ngx-digit-flow) - Individual digit animations for Angular. Each digit has a vertical reel (0-9) that scrolls to the new value when the number changes - slot-machine / odometer style.
 * [angular-movement](https://github.com/Andersseen/angular-movement) - An Angular motion ecosystem combining a reusable animation‑directive library with a demo and documentation site in one repository.
+* [ngx-transition-content](https://github.com/ciriousjoker/ngx-transition-content) - An Angular library to seamlessly transition dialog content by fading out old content, animating to new dimensions, and fading in new content.
 
 ### Calendars
 

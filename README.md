@@ -1305,6 +1305,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-chartist](https://github.com/willsoto/ng-chartist) - Angular component for [Chartist.js](https://github.com/chartist-js/chartist).
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) - Angular library for building interactive, customizable diagrams, node-based editors, and visual workflows.
 * [ng-draw-flow](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes.
+* [ng-flowchart](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular library for building drag and drop flow charts.
 * [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/incubator-echarts).
 * [ngx-flexmonster](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting and data visualization.
 * [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.

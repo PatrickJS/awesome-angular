@@ -1894,6 +1894,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [prettier-modals](https://github.com/antuuanyf/prettier-modals) - Angular directives and an injectable service for Prettier Modals — beautiful open/close animations for native `<dialog>` elements, powered by GSAP Flip.
 * [ngx-call](https://github.com/hebus/ngx-call) - Imperative, type-safe, and promise-based dialogs for Angular, inspired by [React Call](https://github.com/desko27/react-call)'s `createCallable`.
 * [ngx-dialog-forge](https://github.com/HoplaGeiss/ngx-dialog-forge) - Declarative, signals-native Angular dialog library built on the native dialog element.
+* [ngx-modalieur](https://github.com/kazepis/ngx-modalieur) - Bootstrap-styled modals using Angular CDK Dialog.
 
 ### Notifications
 

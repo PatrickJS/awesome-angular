@@ -2250,7 +2250,7 @@ for the creation of web applications developed with Angular.
 * [@DerStimmler/ngx-analog-clock](https://github.com/DerStimmler/ngx-analog-clock) - Customizable analog clock for your Angular app.
 * [ngx-color-scheme](https://github.com/rbalet/ngx-color-scheme) - Add dark mode to your Angular applications with ease.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
-* [ngx-fancy](https://github.com/ineam/ngx-fancy) - Fancy divider beween template elements.
+* [ngx-fancy](https://github.com/ineam/ngx-fancy) - Fancy divider between template elements.
 * [ngx-font-picker](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 * [ngx-gauge](https://github.com/ashish-chopra/ngx-gauge) - A highly customizable Gauge component for Angular apps and dashboards.
 * [ngx-glassy-effect](https://github.com/anassmdi/ngx-glassy-effect) - An Angular directive that applies a glassy effect to your HTML elements.

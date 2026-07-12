@@ -725,6 +725,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [story-ui](https://github.com/southleft/story-ui) - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
 * [envguards](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 * [ngmd](https://github.com/erkamyaman/ngmd) - Angular docs starter. Drop a markdown file, get a route.
+* [storybook-addon-angular-manifest](https://github.com/anrouxel/storybook-addon-angular-manifest) - A Storybook addon that builds an Angular component manifest from your stories and Compodoc documentation.
 
 ### IDE Extensions
 

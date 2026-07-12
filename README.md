@@ -492,6 +492,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Kobi Hari](https://www.youtube.com/@kobihari)
 * [Programming Practicals](https://www.youtube.com/@programmingpracticals)
 * [Daniil Rabizo](https://www.youtube.com/@daniilrabizo)
+* [Loiane Groner](https://www.youtube.com/@loianegroner)
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - In Japanese.
 * [Code with Keys](https://www.youtube.com/@codewithkeys) - In Persian.
 

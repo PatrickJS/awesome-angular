@@ -653,6 +653,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [reangular](https://github.com/AleksanderBodurri/reangular) - A coding-agent skill that converts a React library into a modern Angular library with full feature parity, automated browser validation, and a side-by-side parity review.
 * [repomix](https://github.com/yamadashy/repomix) - A tool that packs your entire repository into a single, AI-friendly file.
 * [rxjs-mcp-server](https://github.com/shuji-bonji/rxjs-mcp-server) - Execute, debug, and visualize RxJS streams directly from AI assistants like Claude.
+* [senior-angular-architect](https://github.com/itsdishant/senior-angular-architect) - An expert AI skill for senior-level Angular architecture guidance.
 * [superconnect](https://github.com/bitovi/superconnect) - An AI-powered tool that scans your Figma file, explores your React or Angular repo, generates `.figma.tsx` or `.figma.ts` mappings, and publishes them back via Figma’s CLI.
 * [Threadplane](https://github.com/cacheplane/angular-agent-framework) - Angular-native agent UI framework: streaming chat, durable threads, interrupts, subagents, planning, memory, and generative UI for LangGraph and AG-UI backends.
 * [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.

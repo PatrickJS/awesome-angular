@@ -2082,7 +2082,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [NG-ALAIN](https://github.com/ng-alain/ng-alain/) - NG-ZORRO admin panel front-end framework.
 * [zardui](https://github.com/zard-ui/zardui) - Collection of beautiful, accessible Angular components based on [shadcn-ui](https://github.com/shadcn-ui/ui) and NG‑ZORRO, fully open source and free.
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
-* [open-prime](https://github.com/openng-foundation/open-prime) - A fork of [PrimeNG](https://github.com/primefaces/primeng).
+* [optimus-ui](https://github.com/openng-org/optimus-ui) - A fork of [PrimeNG](https://github.com/primefaces/primeng).
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
 * [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
 * [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library.

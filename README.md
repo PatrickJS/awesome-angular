@@ -1678,7 +1678,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@ngverse/icons](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 * [ngxi](https://github.com/adrian-ub/ngxi) - Comprehensive SVG icon set for Angular with seamless integration of thousands of popular icons.
 * [animated-icons](https://github.com/ajitzero/animated-icons) - Animated icons for Angular based on [moving icons](https://www.movingicons.dev/).
-* [hugeicons-angular](https://github.com/hugeicons/angular) - 5,100+ free MIT-licensed stroke-rounded icons for Angular.
+* [@hugeicons/angular](https://github.com/hugeicons/hugeicons/tree/main/packages/angular) - 5,400+ free MIT-licensed stroke-rounded icons for Angular.
 * [@quikturn-sdk/logos-angular](https://github.com/quikturn-sdk/Company-Logos) - TypeScript SDK for the [Quikturn Logos API](https://getquikturn.io/) - Fetch any company's logo by domain name.
 * [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region as tree-shakable Angular standalone components.
 

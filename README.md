@@ -1509,6 +1509,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dragble-angular-editor](https://github.com/Dragble/dragble-angular-editor) - Dual‑mode Angular component blending a designer‑friendly visual editor with an AI‑driven conversational interface.
 * [ngx-email-studio](https://github.com/edward124689/ngx-email-studio) - An Angular 21 frontend email builder for composing, importing, editing, previewing, and exporting responsive email templates.
 * [qalma](https://github.com/cdskill/qalma) - Angular-first, headless rich text editor toolkit built on ProseMirror.
+* [ngx-mermaid-canvas](https://github.com/Nigelli/ngx-mermaid-canvas) - A visual flowchart editor for Angular that outputs Mermaid syntax.
 
 ### File Upload
 

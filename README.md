@@ -1309,6 +1309,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [michi-vz-mono](https://github.com/beany-vu/michi-vz-mono) - One engine powering 17 interactive, accessible chart types with seamless support for Angular and more, all emitting LLM‑ready data for reports, dashboards, and AI features.
 * [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations.
 * [ng-chartist](https://github.com/willsoto/ng-chartist) - Angular component for [Chartist.js](https://github.com/chartist-js/chartist).
+* [ng-charts](https://github.com/AleksanderBodurri/ng-charts) - Reangular port of `recharts`.
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) - Angular library for building interactive, customizable diagrams, node-based editors, and visual workflows.
 * [ng-draw-flow](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes.
 * [ng-flowchart](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular library for building drag and drop flow charts.

@@ -1383,6 +1383,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-powerful-tree](https://github.com/raknjarasoa/ngx-powerful-tree) - A virtualized tree with HTML5 drag‑and‑drop, fast search, locked subtrees, and file‑picker modes, built on `@angular/cdk/scrolling` for smooth performance at 100k+ rows.
 * [agrid](https://github.com/thkl/agrid) - Angular data grid with spreadsheet-like editing, virtual scrolling, filtering, sorting, grouping, clipboard workflows, row operations, pagination, and custom cell renderers.
 * [ngx-datatables-net](https://github.com/ascentspark/ngx-datatables-net) - Angular wrapper for `DataTables.net` supporting Angular 20+.
+* [angular-advanced-table](https://github.com/VaggelisKa/angular-advanced-table) -  Angular monorepo featuring `ng-advanced-table`—a signals-first, accessible data table library—and its documentation site.
 
 ### Dates
 

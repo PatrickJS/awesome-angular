@@ -2141,7 +2141,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-support-chat](https://github.com/avs2001/ngx-support-chat) - A pure presentational Angular component library for customer support chat interfaces.
 * [luma-ui](https://github.com/lumaui/luma-ui) - Neo-Minimal design system for Angular applications.
 * [Mundane UI](https://github.com/waga97/Mundane-UI) - Framework-agnostic, zero-dependency, lightweight UI component library.
-* [eagami-design-system](https://github.com/mwiraszka/eagami-design-system) - Lightweight, accessible Angular UI component library built on CSS custom properties.
+* [eagami](https://github.com/mwiraszka/eagami) - Lightweight, accessible Angular UI component library built on CSS custom properties.
 * [angular-liquid-glass](https://github.com/thiagopac/angular-liquid-glass) - A standalone Angular component library for liquid glass and glassmorphism interfaces.
 * [ngx-pk-ui](https://github.com/superpck/ngx-pk-ui) - An Angular 21 component library providing UI components and CSS utilities.
 * [magary](https://github.com/JhoanGon/magary) - A modern, standalone-first Angular UI library monorepo.

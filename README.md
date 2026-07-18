@@ -563,6 +563,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-trpc-client](https://github.com/BeGj/ngx-trpc-client) - Reworked fork of Analog's [TRPC package](https://github.com/analogjs/analog/tree/beta/packages/trpc).
 * [zx-angular-lazy-resource](https://github.com/zxnc/zx-angular-lazy-resource) - Lazy helpers for Angular's signal-based `resource()` — defer loading until first access, and await the first settled value as a promise.
 * [@stitchapi/angular](https://github.com/rejifald/StitchAPI/tree/main/packages/angular) - Streaming-first StitchAPI bindings: `injectStitch` / `injectStitchStream` expose a typed, validated call as both Angular signals and an RxJS observable, re-rendering as response deltas arrive.
+* [angular-fetcher](https://github.com/aliomnt/angular-fetcher) - A modern, signal-based Angular library for seamless, type-safe remote API data management, handling fetching, mutations, and error tracking reactively.
 
 ### Micro-Frontends
 

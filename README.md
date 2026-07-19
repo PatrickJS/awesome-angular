@@ -793,6 +793,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Crowdin](https://crowdin.com/) - AI-powered localization software, automating content translation with 600+ apps and [integrations](https://store.crowdin.com/search?query=angular).
 * [doloc](https://doloc.io/) - Instant translations in your [Angular](https://doloc.io/getting-started/frameworks/angular/) workflow.
 * [I18N](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for `.NET`, Angular and Delphi.
+* [i18n-egy](https://github.com/abdelfattahqandil21-oss/i18n-egy) - A modern, lightweight, and tree-shakable Angular internationalization library powered by Signals that is safe for server-side rendering.
 * [i18n-keygen](https://github.com/gagle/i18n-keygen) - Type-safe i18n keys for every build tool. One package, zero lock-in.
 * [i18n-scanner-toolkit](https://github.com/58bcbedf47bd91439c/i18n-scanner-toolkit) - Extract, detect missing translations, and manage multilingual content with CSV export/import.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).

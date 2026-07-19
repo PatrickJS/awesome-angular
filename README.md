@@ -652,6 +652,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-gen-ui](https://github.com/alessiopelliccione/ngx-gen-ui) - Lightweight Angular directive and service for streaming generative UI content via Firebase AI.
 * [ngx-prompt-kit](https://github.com/PianoNic/ngx-prompt-kit) - Angular components for AI chat interfaces, built on Spartan UI.
 * [ngx-testbox-agent-skill](https://github.com/kirill-kolomin/ngx-testbox-agent-skill) - AI Agent skill for the `ngx-testbox` testing package.
+* [point-grab](https://github.com/Nacho-Labs-LLC/point-grab) - Point at any web app element to instantly send its full context—HTML, component name, source file, and ancestors—to your AI agent via MCP.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular application UIs 50% faster with PureCode AI.
 * [reangular](https://github.com/AleksanderBodurri/reangular) - A coding-agent skill that converts a React library into a modern Angular library with full feature parity, automated browser validation, and a side-by-side parity review.
 * [repomix](https://github.com/yamadashy/repomix) - A tool that packs your entire repository into a single, AI-friendly file.

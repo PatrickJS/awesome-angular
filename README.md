@@ -687,6 +687,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@grandgular/logrocket-angular](https://github.com/Grandgular/logrocket) - Wrapper for the LogRocket Web SDK with DI‑friendly init, lazy loading, typed options, privacy helpers, and DOM directives for data‑private/data‑public.
 * [ngx-umami](https://github.com/mitsuru17/ngx-umami) - Angular integration for [Umami Analytics](https://umami.is/) — a lightweight, privacy‑first tracking solution tailored for Angular applications.
 * [takt-angular](https://github.com/vskstudio/takt-angular) - Idiomatic Angular wrapper for [Takt](https://github.com/vskstudio/takt-core) privacy-friendly analytics.
+* [inspect-ng-collector](https://github.com/oneteme/inspect-ng-collector) - A comprehensive front-end telemetry and monitoring library for Angular applications.
 
 ### Code Analysis
 

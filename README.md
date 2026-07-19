@@ -1631,6 +1631,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-multiselect-dropdown](https://github.com/alexandroit/angular-multiselect-dropdown) - A maintained Angular multiselect dropdown built for template-driven and reactive forms.
 * [@koenz/angular-datepicker](https://github.com/koenz/angular-datepicker) - An animating datepicker for Angular 21+.
 * [ngx-dual-rangepicker](https://github.com/olivierpetitjean/ngx-dual-rangepicker) - Dual-calendar date range picker for Angular 20+ and Angular Material M3.
+* [ngx-libs-workspace](https://github.com/dineeek/ngx-libs-workspace) - A small family of reactive form controls—built on Signal Forms, customizable via CSS custom properties, and free of Angular Material, Angular CDK, and `ControlValueAccessor`.
 
 ### JSON Forms
 

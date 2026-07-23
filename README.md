@@ -1954,6 +1954,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-herald](https://github.com/HoplaGeiss/ngx-herald) - A lightweight, modern Angular toast notification library. Signals-first, zoneless-compatible, zero runtime dependencies, and an easy-to-use alternative to ngx-toastr.
 * [ngx-gooey-toast](https://github.com/juanvieiraprado99/ngx-gooey-toast) - A morphing pill‑to‑blob toast component for Angular, serving as an Angular port of the React [gooey‑toast](https://goey-toast.vercel.app/).
 * [ngx-yet-another-toast-library](https://github.com/Zeeraa/ngx-yet-another-toast-library) - A lightweight, signal-based Angular toast notification library with Bootstrap 5 color palette support.
+* [ngx-mat-toast](https://github.com/Robin-Bley/ngx-mat-toast) - Angular toast notification library built on top of Angular Material `MatSnackBar`.
 
 ### Onboarding and Product Tours
 

@@ -2199,6 +2199,7 @@ for the creation of web applications developed with Angular.
 * [NgxMatFacetToolkit](https://github.com/drsutphin/NgxMatFacetToolkit) - Angular standalone facet filtering toolkit with Material UI.
 * [ngx-dynamic-stepper](https://github.com/yingyu-projects/ngx-dynamic-stepper) - A powerful, flexible Angular library for creating dynamic wizard-style steppers built on top of Angular Material Stepper.
 * [BuilderKit](https://builderkit.dev/) - A complete UI toolkit and modern design system built on Angular Material, with blocks, templates, and a solid foundation for building Angular applications.
+* [angular-material-extended](https://github.com/reisi007/angular-material-extended) - Community extensions for Angular Material (Standalone, Signals, Zoneless, SSR, M3 Theming).
 
 ### UI Libraries built on Tailwind CSS
 

@@ -2163,6 +2163,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [frame-ui](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
 * [coss-ui-angular](https://github.com/lordsarcastic/coss-ui-angular) - Accessible Angular components inspired by the public [COSS UI catalogue](https://www.coss.com/ui/docs).
 * [OpenMFP Web Components Library](https://github.com/openmfp/webcomponents) - A modern Angular 21 web components library featuring declarative UI components built with the latest signal-based APIs.
+* [ngxsmk-ui-kit](https://github.com/NGXSMK/ngxsmk-ui-kit) - 170+ free Angular components. Signals-native. Zoneless. Token-themed. Dark mode built in.
 
 ### UI Libraries built on Bootstrap
 

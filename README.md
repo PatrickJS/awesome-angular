@@ -786,6 +786,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [prism](https://github.com/arclight-digital/prism) - Auto-generate framework wrappers (React, Vue, Svelte, Angular, Solid, Preact) and HTML/CSS examples from Lit web components.
 * [momentum-cms](https://github.com/DonaldMurillo/momentum-cms) - An Angular-based headless CMS. Define collections in TypeScript, auto-generate an Admin UI, REST API, and database schema.
 * [ng-openapi-signals](https://github.com/ynnckrkn/ng-openapi-signals) - Signal-first OpenAPI client generator for Angular using `resource()` and `fetch()`.
+* [NGX View Builder](https://ngxviewbuilder.io/) - Drag-and-drop low-code builder to visually design entire pages, dashboards, and forms rendered natively via JSON.
 
 ### Internationalization
 

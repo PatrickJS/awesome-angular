@@ -1070,6 +1070,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-deep-signals](https://github.com/simplesoftsoul/ngx-deep-signals) - Deeply reactive, zero‑ceremony nested state for Angular—turn any object into a signal graph without calls, setters, or boilerplate.
 * [editate](https://github.com/inokawa/editate) - An experimental, type-safe, framework agnostic and small (5kB+) contenteditable state manager.
 * [sdux-vault](https://github.com/sdux-vault/vault) - A framework-agnostic, deterministic state management system.
+* [ngx-tosijs](https://github.com/tonioloewald/ngx-tosijs) - Insanely simple state management for Angular — and an off-ramp from Angular. Take your pick.
 
 ## Testing
 

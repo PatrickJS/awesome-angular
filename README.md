@@ -2173,6 +2173,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [coss-ui-angular](https://github.com/lordsarcastic/coss-ui-angular) - Accessible Angular components inspired by the public [COSS UI catalogue](https://www.coss.com/ui/docs).
 * [OpenMFP Web Components Library](https://github.com/openmfp/webcomponents) - A modern Angular 21 web components library featuring declarative UI components built with the latest signal-based APIs.
 * [ngxsmk-ui-kit](https://github.com/NGXSMK/ngxsmk-ui-kit) - 200+ free Angular components. Signals-native. Zoneless. Token-themed. Dark mode built in.
+* [NgBracket](https://ngbracket.com) - Accessibility-first Angular component packs (forms, data table, scheduler, charts, and more), signals-native on v22+ with Signal Forms; WCAG AA, keyboard + screen-reader tested by hand.
 
 ### UI Libraries built on Bootstrap
 

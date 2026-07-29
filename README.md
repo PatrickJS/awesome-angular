@@ -2210,6 +2210,7 @@ for the creation of web applications developed with Angular.
 * [ngx-dynamic-stepper](https://github.com/yingyu-projects/ngx-dynamic-stepper) - A powerful, flexible Angular library for creating dynamic wizard-style steppers built on top of Angular Material Stepper.
 * [BuilderKit](https://builderkit.dev/) - A complete UI toolkit and modern design system built on Angular Material, with blocks, templates, and a solid foundation for building Angular applications.
 * [angular-material-extended](https://github.com/reisi007/angular-material-extended) - Community extensions for Angular Material (Standalone, Signals, Zoneless, SSR, M3 Theming).
+* [mat-exp](https://github.com/Angular-Material-Dev/mat-exp) - A library of components and styles for Angular Material, built on the latest Material Design 3 Expressive Design System.
 
 ### UI Libraries built on Tailwind CSS
 

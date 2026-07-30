@@ -2223,6 +2223,7 @@ for the creation of web applications developed with Angular.
 
 * [angular-superui](https://github.com/bhaimicrosoft/angular-superui) - Comprehensive Angular UI library with 50+ production‑ready components, built on Tailwind CSS v4, TypeScript, and Angular 17+ Signals.
 * [angular-tailwind-ui](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
+* [bpdm/ng](https://github.com/bpdm-hq/bpdm-ui) - Accessible, themeable Angular component library on the Angular CDK and Tailwind CSS, driven by a shared design-token set with a native React version.
 * [elbe-ui](https://github.com/marcjulian/elbe-ui) - Angular UI components built with Tailwind CSS and Spartan UI.
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 * [FlyonUI](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.

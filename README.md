@@ -567,6 +567,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-fetcher](https://github.com/aliomnt/angular-fetcher) - A modern, signal-based Angular library for seamless, type-safe remote API data management, handling fetching, mutations, and error tracking reactively.
 * [@some-angular-utils/paginator](https://github.com/some-angular-utils/paginator) - Simple, reliable pagination with two inputs: sliding window, jump buttons, disabled edges, and CSS-variable theming.
 * [ngx-request-lock](https://github.com/SalvatoreDiGenua/ngx-request-lock-docs) - An Angular library that binds a UI flow to the lifecycle of its HTTP requests.
+* [ngx-api-client](https://github.com/ismailza/ngx-api-client) - This configurable `ApiService` extracts and standardizes ad-hoc `HttpClient` logic for handling base URLs, errors, retries, and loading states.
 
 ### Micro-Frontends
 

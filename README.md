@@ -1691,6 +1691,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cross-field-validation](https://github.com/soc221b/ngx-cross-field-validation) - Angular library providing conditional, equality, inequality, and sequence-based validations on form controls.
 * [validauth](https://github.com/adiksuu/validauth) - Lightweight, powerful authentication validators for JavaScript applications.
 * [ngx-validation-messages](https://github.com/lagoshny/ngx-validation-messages) - This module simplifies the display of form validator messages by using a single component.
+* [ngx-validx](https://github.com/EngYouniss/ngx-validx-package) - A lightweight, high-performance, and automatic Angular form validation error handling library.
 
 ### Icons
 

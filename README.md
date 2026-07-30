@@ -1959,6 +1959,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-toast](https://github.com/aminekun90/ngx-toast) - A lightweight, high-performance, and Zoneless-ready toast notification library for Angular 21+ and React 18+.
 * [@IQXLimited/ngx-toastr](https://github.com/IQXLimited/ngx-toastr) - A fork of `ngx-toastr` that adds extra features, improvements, and customizations.
 * [ngx-toastr-notifier](https://github.com/Mazen-Embaby/ngx-toastr-notifier) - Lightweight, customizable Angular 20+ toast notifications with Material design and flexible APIs, replacing `toastr`.
+* [Notiflow](https://github.com/schimmer123/Notiflow) - A modern toast/notification library for Angular — signal-based, standalone, and zoneless-safe, built without `@angular/animations`.
 * [notifyx](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - Integrate OneSignal into Angular apps with [onesignal-ngx](https://github.com/OneSignal/onesignal-ngx) for push and in‑app messaging.
 * [toastify](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.

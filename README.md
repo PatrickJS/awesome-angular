@@ -1858,6 +1858,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-streaming-player](https://github.com/jhonsferg/ngx-streaming-player) - A unified, plug-and-play video player component that handles HLS, DASH, MP4, and YouTube through a single API.
 * [ngx-pro-media-player](https://github.com/kamal-dev1/ngx-pro-media-player) - Angular media player with audio, video, queue, crossfade, lyrics, and RTL support.
 * [MediaSFU-Angular](https://github.com/MediaSFU/MediaSFU-Angular) - Angular SDK for WebRTC video conferencing, webinars, livestreams, chat, screen sharing, recording, breakout rooms, whiteboards, polls, live subtitles, and translation.
+* [ngx-sync-videos](https://github.com/goodbaguette/ngx-sync-videos) - An Angular directive to simultaneously play, synchronize, and offset multiple videos.
 
 ### Mixed Utilities
 

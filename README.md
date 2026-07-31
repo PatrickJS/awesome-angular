@@ -2220,6 +2220,7 @@ for the creation of web applications developed with Angular.
 * [BuilderKit](https://builderkit.dev/) - A complete UI toolkit and modern design system built on Angular Material, with blocks, templates, and a solid foundation for building Angular applications.
 * [angular-material-extended](https://github.com/reisi007/angular-material-extended) - Community extensions for Angular Material (Standalone, Signals, Zoneless, SSR, M3 Theming).
 * [mat-exp](https://github.com/Angular-Material-Dev/mat-exp) - A library of components and styles for Angular Material, built on the latest Material Design 3 Expressive Design System.
+* [angular-material-components](https://github.com/fbf-prog64/angular-material-components) - Provides extra components for Angular Material projects: Datetime picker, Time picker, Color picker, etc.
 
 ### UI Libraries built on Tailwind CSS
 

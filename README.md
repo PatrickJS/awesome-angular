@@ -1714,6 +1714,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@hugeicons/angular](https://github.com/hugeicons/hugeicons/tree/main/packages/angular) - 5,400+ free MIT-licensed stroke-rounded icons for Angular.
 * [@quikturn-sdk/logos-angular](https://github.com/quikturn-sdk/Company-Logos) - TypeScript SDK for the [Quikturn Logos API](https://getquikturn.io/) - Fetch any company's logo by domain name.
 * [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region as tree-shakable Angular standalone components.
+* [ngx-iconify-stack](https://github.com/WanderleeDev/ngx-iconify-stack) - A lightweight, SSR-safe Angular wrapper for [Iconify](https://iconify.design/).
 
 ### Images
 

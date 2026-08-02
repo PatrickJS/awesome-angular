@@ -1538,6 +1538,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mermaid-canvas](https://github.com/Nigelli/ngx-mermaid-canvas) - A visual flowchart editor for Angular that outputs Mermaid syntax.
 * [@bloklabs/angular](https://github.com/JackUait/blok) - Angular adapter for [Blok](https://blokeditor.com), a headless block-based rich text editor that outputs JSON instead of HTML.
 * [angular-tiptap-editor](https://github.com/FloGeez/angular-tiptap-editor) - A modern, customizable Angular rich-text editor, built with Tiptap.
+* [ngx-richtext](https://github.com/eliranbar/ng-rich-text-editor) - A professional rich text editor with free and premium feature tiers.
 
 ### File Upload
 

@@ -1783,6 +1783,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Loaders
 
 * [angular-busy](https://github.com/tiberiuzuld/angular-busy) - Show busy/loading indicators on any element during a promise/Observable.
+* [angular-smart-skeleton](https://github.com/Nikmakwana94/angular-smart-skeleton) - A flexible and reusable Angular skeleton loader for dynamic rows, columns, cards, lists, tables, and custom layouts.
 * [angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
 * [boneyard](https://github.com/0xGF/boneyard) - Auto-generated skeleton-loading framework that works with React, Preact, Vue, Svelte, Angular, and React Native.
 * [groupix-spinner-library](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!

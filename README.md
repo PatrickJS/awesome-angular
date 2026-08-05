@@ -1987,6 +1987,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-gooey-toast](https://github.com/juanvieiraprado99/ngx-gooey-toast) - A morphing pill‑to‑blob toast component for Angular, serving as an Angular port of the React [gooey‑toast](https://goey-toast.vercel.app/).
 * [ngx-yet-another-toast-library](https://github.com/Zeeraa/ngx-yet-another-toast-library) - A lightweight, signal-based Angular toast notification library with Bootstrap 5 color palette support.
 * [ngx-mat-toast](https://github.com/Robin-Bley/ngx-mat-toast) - Angular toast notification library built on top of Angular Material `MatSnackBar`.
+* [ngx-retoast](https://github.com/EliasVal/ngx-retoast) - A rewrite of the archived `ngx-toastr` library, designed for modern Angular applications.
 
 ### Onboarding and Product Tours
 

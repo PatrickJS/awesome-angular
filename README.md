@@ -992,6 +992,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxsmk-gatekeeper](https://github.com/NGXSMK/ngxsmk-gatekeeper) - A lightweight, developer‑friendly middleware engine for Angular that secures routes and HTTP requests through one composable setup.
 * [permit](https://www.permit.io/) - An authorization-as-a-service solution that can be used with [Angular](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular).
 * [ng-ability](https://github.com/topaxi/ng-ability) - Define access control lists in Angular.
+* [urbac](https://github.com/kasoir/urbac) - A complete, production-ready boilerplate designed to help you scaffold secure, multi-level access control systems in minutes.
 
 ### Security Best Practices
 

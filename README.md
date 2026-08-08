@@ -604,6 +604,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [bot-ssr](https://github.com/patrikx3/bot-ssr) - SSR for bots, instant CSR for users — fast loads and clean prerendered HTML for major crawlers, powered by [isbot](https://github.com/omrilotan/isbot).
 * [ngx-sitemaps](https://github.com/json-derulo/ngx-sitemaps) - Generate sitemaps from Angular prerendered routes.
 * [ngx-bun](https://github.com/pegasusheavy/ngx-bun) - High-performance SSR/SSG adapter for Angular 19+ using Bun's built-in server.
+* [ng-ssr-caching](https://www.npmjs.com/package/ng-ssr-caching) - Cache for server-side rendered pages in Angular SSR.
 
 ## Development Utilities
 

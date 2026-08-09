@@ -1956,6 +1956,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-call](https://github.com/hebus/ngx-call) - Imperative, type-safe, and promise-based dialogs for Angular, inspired by [React Call](https://github.com/desko27/react-call)'s `createCallable`.
 * [ngx-dialog-forge](https://github.com/HoplaGeiss/ngx-dialog-forge) - Declarative, signals-native Angular dialog library built on the native dialog element.
 * [ngx-modalieur](https://github.com/kazepis/ngx-modalieur) - Bootstrap-styled modals using Angular CDK Dialog.
+* [ngx-minimal-modal](https://github.com/ThePipeFox/ngx-minimal-modal) - A small, unopinionated library that provides a straightforward way to work with modals (pop-ups) in an Angular app.
 
 ### Notifications
 

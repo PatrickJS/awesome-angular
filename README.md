@@ -712,6 +712,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngcompass](https://github.com/RoadmapDevelop/ngcompass) - Angular-aware static analysis for architecture, performance, SSR, security, and code quality.
 * [ng-di-graph](https://github.com/m-yoshiro/ng-di-graph) - A command-line tool that analyzes Angular TypeScript codebases to extract dependency injection relationships.
 * [ng-lens](https://github.com/MerrittMelker/ng-lens) - A Node.js tool that uses `ts-morph` to analyze Angular components and detect service usage patterns from any API library.
+* [ng-loom](https://github.com/xonaib/ng-loom) - A CLI that scans an Angular project and emits a shareable, self-contained static HTML report of the app's architecture: components, directives, pipes, services, wrappers, imports, and injections.
 * [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular codebase to JSON abstraction - Great for displaying APIs and analysis.
 * [ng-vitals](https://github.com/TechSpiritSS/ng-vitals) - Static analysis tool that evaluates health, architecture, maintainability, and modernization readiness.
 * [ngx-genie](https://github.com/SparrowVic/ngx-genie) - A tool to visualize the dependency injection tree, analyze service states, track component relationships, and identify memory or architectural issues.

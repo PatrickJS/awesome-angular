@@ -807,6 +807,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer](https://github.com/aymericzip/intlayer) package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
 * [angular-locale-chain](https://github.com/i18n-agent/angular-locale-chain) - Smart locale fallback chains for Angular and Transloco.
 * [angular-translation-checker](https://github.com/ricardoferreirades/angular-translation-checker) - A tool for `ngx-translate` that detects unused or missing keys to keep i18n files clean.
+* [Angular Translation Extractor](https://github.com/devremoto/angular-translation-extractor) - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=AdilsondeAlmeidaPedro.angular-translation-extractor) that extracts hard-coded strings from templates and TypeScript into `ngx-translate` keys, generates and auto-translates the locale JSONs, and wires up the loader and a language selector.
 * [Crowdin](https://crowdin.com/) - AI-powered localization software, automating content translation with 600+ apps and [integrations](https://store.crowdin.com/search?query=angular).
 * [doloc](https://doloc.io/) - Instant translations in your [Angular](https://doloc.io/getting-started/frameworks/angular/) workflow.
 * [I18N](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for `.NET`, Angular and Delphi.

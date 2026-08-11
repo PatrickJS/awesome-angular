@@ -1125,6 +1125,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [swc-angular](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
 * [swc-angular-plugin](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
 * [vitest-browser-angular](https://github.com/vitest-community/vitest-browser-angular) - This community package renders Angular components in [Vitest Browser Mode](https://vitest.dev/guide/browser).
+* [@MRinaldi9/vitest-browser-angular](https://github.com/MRinaldi9/vitest-browser-angular) - This independent fork of the official `vitest-browser-angular` library features isolated implementations not shared with the original project.
 * [wdio-harness](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 * [testronaut](https://github.com/testronaut/testronaut) - By removing mocks and guesswork, [Testronaut](https://testronaut.github.io/testronaut/) enables developers to visually inspect output and write precise tests with Playwright’s robust API.
 

@@ -1038,6 +1038,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [easy-ngrx-distinct-selector](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
 * [ngrx-store-wrapper](https://github.com/himanshuarora111/ngrx-store-wrapper) - Angular library for NgRx state management with built-in session and local storage, no manual actions or reducers needed.
 * [ngx-rehydrate](https://github.com/solidexpert-ltd/ngx-rehydrate) - NgRx state rehydration library for Angular SSR applications.
+* [ngrx-offline](https://github.com/poodlelab/ngrx-offline) - Durable, optimistic, offline mutation handling for Angular applications that use NgRx.
 
 ### NGXS
 

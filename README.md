@@ -1793,6 +1793,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-compactable-row](https://github.com/MikeVensel/ngx-compactable-row) - Provides a responsive button row that moves excess buttons into a menu when space is limited.
 * [ng-cmdk](https://github.com/wadie/ng-cmdk) - Fast, composable, unstyled command menu for Angular — a port of [cmdk](https://github.com/pacocoursey/cmdk).
 * [ngx-dock-layout](https://github.com/mickael-pezzoni/ngx-dock-layout) - An Angular library for creating IDE-style, resizable panel layouts.
+* [layn](https://github.com/laynjs/layn) - A framework-agnostic layout engine featuring virtualized, SSR-deterministic masonry and justified packing layouts.
 
 ### Loaders
 

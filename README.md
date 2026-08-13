@@ -1420,7 +1420,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-advanced-table](https://github.com/VaggelisKa/angular-advanced-table) -  Angular monorepo featuring `ng-advanced-table`—a signals-first, accessible data table library—and its documentation site.
 * [angular-tree](https://github.com/h-k-dev/angular-tree) - A high-performance, headless tree component that is zoneless, signal-powered, and fully virtualized, with `@angular/cdk` as its sole runtime dependency.
 * [@some-angular-utils/table](https://github.com/some-angular-utils/table) - Remote or local data, pagination, filters, responsive layouts and full template control — wired into one declarative `<sau-table>` element.
-* [QueryGrid](https://github.com/Laczynski/DataGrid) - Server-driven pagination, filtering, and sorting for .NET and Angular — as a standalone, reusable library.
+* [DataGrid](https://github.com/Laczynski/DataGrid) - Server-driven pagination, filtering, and sorting for .NET and Angular — as a standalone, reusable library.
 
 ### Dates
 

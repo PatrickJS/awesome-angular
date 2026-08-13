@@ -1708,6 +1708,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [validauth](https://github.com/adiksuu/validauth) - Lightweight, powerful authentication validators for JavaScript applications.
 * [ngx-validation-messages](https://github.com/lagoshny/ngx-validation-messages) - This module simplifies the display of form validator messages by using a single component.
 * [ngx-validx](https://github.com/EngYouniss/ngx-validx-package) - A lightweight, high-performance, and automatic Angular form validation error handling library.
+* [kits-ngx-validation-package](https://github.com/EngYouniss/kits-ngx-validation-package/tree/main/projects/kits-ngx-validation) - Provides a centralized validation system, including state management, messages, visibility strategies, localization, and reusable form-fields.
 
 ### Icons
 

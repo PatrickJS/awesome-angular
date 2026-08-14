@@ -657,6 +657,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mushi-mushi](https://github.com/kensaurus/mushi-mushi) - Fix your AI-built app instantly with plain-English diagnoses and ready-to-use fixes directly in your editor.
 * [ngAutoPilot](https://github.com/janpereira-dev/ngAutoPilot) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
 * [ng-mocks-testing-skill](https://github.com/mintarasss/ng-mocks-testing-skill) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
+* [ng-pr-review](https://richa-29.github.io/angular-pr-reviewer/) - AI code review that actually understands Angular.
 * [ngx-agents-md](https://github.com/pr4san/ngx-agents-md) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
 * [ngx-ai](https://github.com/Arul1998/ngx-ai) - RxJS-friendly Angular client for OpenAI-compatible chat APIs (OpenAI, xAI Grok, or your own proxy) with first-class streaming.
 * [ngx-ai-devtools](https://github.com/ahmedkhan1/ngx-ai-devtools) -  See every prompt, response, token, and dollar your app spends without leaving the browser tab.

@@ -2325,6 +2325,7 @@ for the creation of web applications developed with Angular.
 * [ngx-voyage](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 * [ngx-file-peek](https://github.com/valtonngara/ngx-file-peek) - An Angular standalone component library that renders real file content as thumbnails from any URL or storage source.
 * [ngx-json-explorer](https://github.com/Swaraj55/ngx-json-explorer) - An interactive, fully-customizable Angular JSON tree component featuring inline editing, search, and comprehensive option-based configuration.
+* [ngx-superlite-img-viewer](https://github.com/david-marquez-44/ngx-superlite-img-viewer) - An ultra-lightweight Angular library designed to display image galleries in a fast and intuitive viewer.
 
 ### Visual Effects
 

@@ -1558,6 +1558,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-tiptap-editor](https://github.com/FloGeez/angular-tiptap-editor) - A modern, customizable Angular rich-text editor, built with Tiptap.
 * [ngx-richtext](https://github.com/eliranbar/ng-rich-text-editor) - A professional rich text editor with free and premium feature tiers.
 * [ngx-image-editor](https://github.com/eliranbar/ngx-edit-images) - A professional image editor with a free forever tier and offline Ed25519-licensed premium tools.
+* [Scryb](https://scryb.dev/) - A $39/month flat-rate TypeScript WYSIWYG editor built on Tiptap that offers unlimited loads, end users, and documents.
 
 ### File Upload
 

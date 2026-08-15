@@ -1424,6 +1424,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-tree](https://github.com/h-k-dev/angular-tree) - A high-performance, headless tree component that is zoneless, signal-powered, and fully virtualized, with `@angular/cdk` as its sole runtime dependency.
 * [@some-angular-utils/table](https://github.com/some-angular-utils/table) - Remote or local data, pagination, filters, responsive layouts and full template control — wired into one declarative `<sau-table>` element.
 * [DataGrid](https://github.com/Laczynski/DataGrid) - Server-driven pagination, filtering, and sorting for .NET and Angular — as a standalone, reusable library.
+* [fastgrid-angular](https://github.com/coqsoft/fastgrid-frameworks/tree/main/fastgrid-angular) - The official Angular wrapper for [FastGrid](https://www.treegrid.com/FDoc/FastGridAngular.html) and FastSheet by COQsoft.
 
 ### Dates
 

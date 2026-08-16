@@ -643,6 +643,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [Angularize](https://beta.angularize.dev/) - Vibe code your Angular app with a human coder in your corner.
+* [angular-nest-ai-kit](https://github.com/eusouwilson/angular-nest-ai-kit) - Skills and AI agents for standalone Angular + PrimeNG (frontend) and NestJS + Prisma (backend) monorepos, organized in Nx.
 * [@full-stack-skills/angular-skills](https://github.com/full-stack-skills/angular-skills) - Angular framework development skills for AI coding agents.
 * [@Kobolden/angular-skills](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
 * [angular-vibe-kit](https://github.com/vuanhtung10/angular-vibe-kit) - Bootstrap a vibe coding workflow into any Angular project—complete with a `CLAUDE.md`, project docs, and Claude Code slash-commands tailored to your Angular version.

@@ -1000,6 +1000,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [permit](https://www.permit.io/) - An authorization-as-a-service solution that can be used with [Angular](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular).
 * [ng-ability](https://github.com/topaxi/ng-ability) - Define access control lists in Angular.
 * [urbac](https://github.com/kasoir/urbac) - A complete, production-ready boilerplate designed to help you scaffold secure, multi-level access control systems in minutes.
+* [rulegate](https://github.com/fotbiler-lab/rulegate) - Local-first, provider-independent authorization for `.NET` and Angular.
 
 ### Security Best Practices
 

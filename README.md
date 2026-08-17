@@ -1045,6 +1045,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngrx-store-wrapper](https://github.com/himanshuarora111/ngrx-store-wrapper) - Angular library for NgRx state management with built-in session and local storage, no manual actions or reducers needed.
 * [ngx-rehydrate](https://github.com/solidexpert-ltd/ngx-rehydrate) - NgRx state rehydration library for Angular SSR applications.
 * [ngrx-offline](https://github.com/poodlelab/ngrx-offline) - Durable, optimistic, offline mutation handling for Angular applications that use NgRx.
+* [ngrx-graph](https://github.com/ammarnajjar/ngrx-graph) - A CLI scanner to generate JSON and DOT/SVG dependency graphs.
 
 ### NGXS
 

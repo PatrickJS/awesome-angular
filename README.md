@@ -896,6 +896,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-script-optimizer](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
 * [ngx-unused](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
 * [ngx-worker-bridge](https://github.com/yashwantyashu/worker-bridge) - A lightweight, zero-boilerplate reactive bridge for Angular and React that makes Web Workers (Dedicated and Shared) as simple as calling a regular method.
+* [rere-benchmark](https://github.com/NullVoxPopuli/rere-benchmark) - Performance benchmark evaluating reactivity and rendering across frontend frameworks.
 * [sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
 
 ### Runtime

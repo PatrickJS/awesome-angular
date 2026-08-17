@@ -2485,6 +2485,7 @@ for the creation of web applications developed with Angular.
 * [ngx-neoline](https://github.com/smartargs/ngx-neoline) - Angular wrapper for [NeoLine](https://tutorial.neoline.io/) N3 dAPI, detecting provider, awaiting READY, and exposing typed methods.
 * [ngx-open-web-ui-chat](https://github.com/JealousyM/ngx-open-web-ui-chat) - Angular component library for embedding [Open WebUI](https://openwebui.com/) chat with Socket.IO streaming, conversation history and markdown support.
 * [ngx-pendo](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
+* [ngx-pixel-code](https://github.com/Dev-AlienX/ngx-pixel-code/tree/main/ngx-pixel-code) - Standalone Angular `highlight.js` wrapper featuring dynamic theme loading and custom styles.
 * [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript).
 * [ngx-serializer](https://github.com/paddls/ngx-serializer) - Angular wrapper of `@paddls/ts-serializer` library.
 * [ngx-simple-text-diff](https://github.com/jjtortosa/ngx-simple-text-diff) - Angular library for displaying text differences using the [diff](https://www.npmjs.com/package/diff) library.

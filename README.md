@@ -1583,6 +1583,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [file-uploader](https://github.com/uploadcare/file-uploader) - A Web Components–based file upload widget compatible with any JavaScript framework — React, Next.js, Vue, Angular, and Svelte — without adapters.
 * [ngx-accessible-dropzone](https://github.com/mahmoudQq2023/ngx-accessible-dropzone) - A tiny, zero-dependency, fully accessible drag-and-drop file upload component for Angular with keyboard and screen-reader support.
 * [@h-k-dev/angular-file-drop](https://github.com/h-k-dev/angular-file-drop) - A lightweight Angular drag‑and‑drop directive for files and folders with traversal, filtering, and click‑to‑pick—no stylesheets, no XHR, no DOM mutation.
+* [upup](https://github.com/DevinoSolutions/upup) - A headless upload engine featuring byte-identical UI packages for six major frontend frameworks, supporting server-mode, cloud drives, and multi-source media imports.
 
 ### Forms
 

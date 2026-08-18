@@ -1839,6 +1839,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-spinner-loading](https://github.com/thalsi/ngx-spinner-loading) - Lightweight, customizable Angular spinner with global, section, inline loaders, HTTP interceptors, and signal-based state.
 * [ngxsmk-skeleton-loader](https://github.com/Cholki2025/ngxsmk-skeleton-loader) - A lightweight skeleton loader featuring SCSS animations and easy theming.
 * [ngx-ui-loader](https://github.com/t-ho/ngx-ui-loader) - Versatile Angular loader/spinner with foreground/background modes, progress bars, and multi-loader support.
+* [phantom-ui](https://github.com/Aejkatappaja/phantom-ui) - Structure-aware skeleton loader. One Web Component. Every framework.
 * [shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A React, Vue, Svelte, & Angular shimmer/skeleton library that automatically adapts to your component's runtime structure.
 * [skedapt](https://github.com/z4k7/skedapt) - A zero‑config adaptive skeleton loader for Angular that decorates the host element so the skeleton automatically matches the container’s natural layout.
 * [skeletonizer](https://github.com/lukaVarga/skeletonizer) - Lightweight, customizable package for creating skeleton views with Vue and Angular adapters.

@@ -1110,6 +1110,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
 * [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics) - Adds [Puppeteer-based](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 * [ngx-playwright](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
+* [ngx-playwright-schematics](https://github.com/raknjarasoa/ngx-playwright-schematics) - Angular Schematics package that automates production-ready Playwright E2E testing architecture setup.
 * [playwright-ng-schematics](https://github.com/jfgreffier/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 * [playwright-coverage](https://github.com/bgotink/playwright-coverage) - Report coverage on Playwright tests using v8 coverage, without requiring any instrumentation.
 * [Cypress to Playwright](https://www.cy2pw.com/) - A curated collection of resources that can help you to migrate your test suite from Cypress to Playwright.

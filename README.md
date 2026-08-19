@@ -1507,6 +1507,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-signal-combinators](https://github.com/alessiopelliccione/ngx-signal-combinators) - Composable boolean helpers for Angular signals, enabling cleaner reactive template logic.
 * [viewport-truth](https://github.com/AntonVoronezh/viewport-truth) - A tiny VisualViewport‑first store for accurate CSS‑pixel viewport size that detects virtual keyboards, reduces resize/scroll jitter, and works with SSR across frameworks.
 * [angular-inport](https://github.com/ajaysinghj8/angular-inport) - Angular In-Viewport Detector.
+* [ngx-mentions](https://github.com/m1z23r/ngx-mentions) - Signals-first mentions wrapper using non-editable atomic DOM pills inside contenteditable elements.
 
 ### Drag and Drop
 

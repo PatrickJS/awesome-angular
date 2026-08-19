@@ -2230,6 +2230,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [OpenMFP Web Components Library](https://github.com/openmfp/webcomponents) - A modern Angular 21 web components library featuring declarative UI components built with the latest signal-based APIs.
 * [ngxsmk-ui-kit](https://github.com/NGXSMK/ngxsmk-ui-kit) - 200+ free Angular components. Signals-native. Zoneless. Token-themed. Dark mode built in.
 * [NgBracket](https://ngbracket.com) - Accessibility-first Angular component packs (forms, data table, scheduler, charts, and more), signals-native on v22+ with Signal Forms; WCAG AA, keyboard + screen-reader tested by hand.
+* [Gleks Web UI](https://github.com/GuildOfGleks/gleks_web_ui) - Accessible, standalone Angular components using Signals, OnPush, and CSS variables, with zero Material or CDK dependencies.
 
 ### UI Libraries built on Bootstrap
 

@@ -2459,6 +2459,7 @@ for the creation of web applications developed with Angular.
 * [ngx-wp-shortcode](https://codeberg.org/tomaszatoo/ngx-wp-shortcode.git) - A library that lets Angular applications render WordPress shortcodes as native Angular components.
 * [ngx-iobroker](https://github.com/pottio/ngx-iobroker) - This library offers the possibility to integrate a [ioBroker](https://www.iobroker.net/) server quickly and easily into an Angular application.
 * [AngularDart](https://github.com/flutterdocteur/angulardart) - A web framework that separates cleanly into a template language and a component model, making it easy to build complex, maintainable web applications.
+* [ng-xtend](https://github.com/dont-code/ng-xtend) - Empower your Angular applications with a flexible, scalable plugin ecosystem.
 
 ### Wrappers
 

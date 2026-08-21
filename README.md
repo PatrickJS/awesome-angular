@@ -1628,6 +1628,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [NgSimplicityForms](https://github.com/BryanGWalsh/NgSimplicityForms) - Composable Angular dynamic forms framework with shared core APIs and renderer packages for Bootstrap and Angular Material.
 * [ng-modular-forms](https://github.com/ronbodnar/ng-modular-forms) - A lightweight architectural layer with built-in components for modular Angular reactive forms.
 * [ngx-form-signals](https://github.com/xonaib/ngx-form-signals) - A headless, signal-native form coordination library for Angular that manages field state and cross-field rules without enforcing components, CSS, layouts, or adapters.
+* [GolemUI](https://github.com/golemui/golemui) - Declarative Form Engine.
 
 ### Form Controls
 

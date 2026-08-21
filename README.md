@@ -2273,7 +2273,7 @@ for the creation of web applications developed with Angular.
 
 * [angular-superui](https://github.com/bhaimicrosoft/angular-superui) - Comprehensive Angular UI library with 50+ production‑ready components, built on Tailwind CSS v4, TypeScript, and Angular 17+ Signals.
 * [angular-tailwind-ui](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
-* [Arena by Dravensoft](https://github.com/dravensoft-dev/arena) - Token-driven Angular components on a shared Tailwind layer, published as the same design system for React, with every component API and accessibility pattern written as a contract file a gate holds. Brings no palette or fonts of its own.
+* [Arena by Dravensoft](https://github.com/dravensoft-dev/arena) - Token-driven Angular and React components sharing a Tailwind layer, governed by strict API and accessibility contract files, with no built-in palette or fonts.
 * [bpdm/ng](https://github.com/bpdm-hq/bpdm-ui) - Accessible, themeable Angular component library on the Angular CDK and Tailwind CSS, driven by a shared design-token set with a native React version.
 * [elbe-ui](https://github.com/marcjulian/elbe-ui) - Angular UI components built with Tailwind CSS and Spartan UI.
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.

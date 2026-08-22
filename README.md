@@ -2147,6 +2147,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) - Rust/WebAssembly local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
 * [ngx-secure-storage](https://github.com/MadeByRaymond/ngx-secure-storage) - SSR-compatible Angular service to securely store, retrieve, and manage encrypted data in localStorage and sessionStorage using AES encryption.
 * [ngx-local-vault](https://github.com/ysndmr/ngx-local-vault) - A reactive, encrypted browser storage for Angular—built on Signals, under 2KB gzipped, with zero runtime dependencies.
+* [typed-storage-angular](https://github.com/JeanHaro/typed-storage-angular) - Angular wrapper for [@jeanharo98/typed-storage](https://github.com/JeanHaro/typed-storage) with native Angular Signals integration and automatic localStorage sync.
 
 ### Tooltips
 

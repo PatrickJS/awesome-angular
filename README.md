@@ -1629,6 +1629,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-modular-forms](https://github.com/ronbodnar/ng-modular-forms) - A lightweight architectural layer with built-in components for modular Angular reactive forms.
 * [ngx-form-signals](https://github.com/xonaib/ngx-form-signals) - A headless, signal-native form coordination library for Angular that manages field state and cross-field rules without enforcing components, CSS, layouts, or adapters.
 * [GolemUI](https://github.com/golemui/golemui) - Declarative Form Engine.
+* [formular.dev](https://github.com/binaryjack/formular.dev) - An advanced, high-performance, schema-first form management and validation engine for modern TypeScript and JavaScript applications.
 
 ### Form Controls
 

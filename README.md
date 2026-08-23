@@ -626,6 +626,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [a11yguard](https://github.com/shamaz332/a11yguard) - Delivers a zero‑dependency accessibility toolkit with cross‑framework primitives, idiomatic adapters, and a runtime audit mapped to EAA / EN 301 549.
 * [ulam](https://github.com/mikeyil/ulam) - Accessibility utilities for the modern web. Vanilla-first, with optional React, Remix, Vue, and Angular adapters.
 * [aria-reach](https://github.com/manichandra/aria-reach) - ARIA accessibility anti-pattern analyzer for shared component libraries.
+* [rgaa-source](https://github.com/oussamaLaribi/RGAA) - Scans a built Angular app with axe-core and reports every violation with its template file and line instead of a CSS selector, plus safe automatic fixes and the French RGAA 4.1.2 audit grid.
 
 ### AI
 

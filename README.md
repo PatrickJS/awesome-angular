@@ -990,6 +990,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mp-payments](https://github.com/JosemaCeballos/ngx-mp-payments) - Angular library for integration with [Mercado Pago](https://www.mercadopago.com.ar/).
 * [ngx-stripe](https://github.com/richnologies/ngx-stripe) - Angular bindings for StripeJS and [Stripe Elements](https://stripe.com/docs/stripe-js).
 * [ngx-supabase-stripe](https://github.com/dotted-labs/ngx-supabase-stripe) - Ready‑made Angular components for Supabase + Stripe payments/subscriptions.
+* [openreceive](https://github.com/openreceive/openreceive) - Accept Bitcoin payments on your website, app, or point of sale, straight into a wallet you control.
 * [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
 
 ### Role-Based Access Control

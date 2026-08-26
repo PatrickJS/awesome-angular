@@ -2239,6 +2239,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxsmk-ui-kit](https://github.com/NGXSMK/ngxsmk-ui-kit) - 200+ free Angular components. Signals-native. Zoneless. Token-themed. Dark mode built in.
 * [NgBracket](https://ngbracket.com) - Accessibility-first Angular component packs (forms, data table, scheduler, charts, and more), signals-native on v22+ with Signal Forms; WCAG AA, keyboard + screen-reader tested by hand.
 * [Gleks Web UI](https://github.com/GuildOfGleks/gleks_web_ui) - Accessible, standalone Angular components using Signals, OnPush, and CSS variables, with zero Material or CDK dependencies.
+* [fold-ng](https://github.com/hugoheynard/fold-ng) - A dark-first, accessible Angular UI library and design system. Built with modern standards: signals-first, standalone, zoneless, and SSR-ready.
 
 ### UI Libraries built on Bootstrap
 

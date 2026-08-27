@@ -573,6 +573,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-api-client](https://github.com/ismailza/ngx-api-client) - This configurable `ApiService` extracts and standardizes ad-hoc `HttpClient` logic for handling base URLs, errors, retries, and loading states.
 * [ngx-task](https://github.com/MahmoudAdelJR/ngx-task-suite) - Signal-first controlled asynchronous actions for Angular with cancellation, lifecycle cleanup, and explicit concurrency policies.
 * [ngx-smart-interceptor](https://github.com/ErickG123/ngx-smart-interceptor) - Enterprise-grade, resilient, and intelligent HTTP Interceptor for modern Angular applications.
+* [angular-query](https://github.com/klheb/angular-query) - An Angular-first data fetching library inspired by TanStack Query that uses Angular Signals for reactive queries, caching, and state management.
 
 ### Micro-Frontends
 

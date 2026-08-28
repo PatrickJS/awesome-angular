@@ -1830,6 +1830,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
 * [boneyard](https://github.com/0xGF/boneyard) - Auto-generated skeleton-loading framework that works with React, Preact, Vue, Svelte, Angular, and React Native.
 * [groupix-spinner-library](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
+* [loadersz](https://github.com/lumberjacque/loadersz-core) - Framework-agnostic, dependency-free Canvas loaders for the browser.
 * [loaderx-arun](https://github.com/Arun44764/loaderx-arun) - 500+ Next-Generation Animated UI Loaders.
 * [loadingTrace](https://github.com/lucapiciollo/loadingTrace) - Angular loading overlay with zero boilerplate, 76 animations, auto‑tracking, named overlays, determinate progress, runtime config, and Signals.
 * [ng-overlay-skeleton-loader](https://github.com/ebrahim-salehipanah/ng-overlay-skeleton-loader) - A lightweight Angular directive to add customizable skeleton loading states to your components.

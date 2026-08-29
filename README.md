@@ -1401,8 +1401,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [jsgrids](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - A popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
 * [slickgrid-universal](https://github.com/ghiscoding/slickgrid-universal) - A monorepo which includes all editors, filters, extensions, and services related to framework agnostic [SlickGrid](https://github.com/6pac/SlickGrid) usage.
-* [revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
-* [angular-datagrid](https://github.com/revolist/angular-datagrid) - Powerful Angular Data Grid component built on top of `RevoGrid`.
+* [angular-datagrid](https://github.com/revolist/angular-datagrid) - Powerful Angular Data Grid component built on top of [RevoGrid](https://github.com/revolist/revogrid).
 * [ZingGrid](https://github.com/ZingGrid/zinggrid) -  A JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can be used in [Angular](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) and many more frameworks.
 * [ngx-panemu-table](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
 * [@guiexpert/angular-table](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).

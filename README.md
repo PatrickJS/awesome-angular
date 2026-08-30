@@ -1696,6 +1696,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dual-rangepicker](https://github.com/olivierpetitjean/ngx-dual-rangepicker) - Dual-calendar date range picker for Angular 20+ and Angular Material M3.
 * [ngx-libs-workspace](https://github.com/dineeek/ngx-libs-workspace) - A small family of reactive form controls—built on Signal Forms, customizable via CSS custom properties, and free of Angular Material, Angular CDK, and `ControlValueAccessor`.
 * [@some-angular-utils/date-range-picker](https://github.com/some-angular-utils/date-range-picker) - A date range picker that drops straight into your reactive forms.
+* [ng-jvx-multiselect](https://github.com/giovanni-venturelli/ng-jvx-multiselect) - Angular-based select supporting single/multiple selection and asynchronous options.
 
 ### JSON Forms
 

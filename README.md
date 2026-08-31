@@ -1102,6 +1102,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-tosijs](https://github.com/tonioloewald/ngx-tosijs) - Insanely simple state management for Angular — and an off-ramp from Angular. Take your pick.
 * [ngx-zero](https://github.com/ivan-anchev/ngx-zero) - Signals-first, zoneless-ready Angular bindings for [Rocicorp Zero](https://zero.rocicorp.dev/), a general-purpose sync solution.
 * [ng-craft](https://github.com/ng-angular-stack/ng-craft) - A Signal-based Angular toolkit for modeling state, asynchronous work, services, forms, dependency injection, and routes with explicit dependencies and strong TypeScript inference.
+* [object-recipes](https://github.com/royhansen99/object-recipes) - Lightweight, type-safe Immer alternative using string paths for immutable nested updates, featuring deep-equal optimization and universal state management integration.
 
 ## Testing
 

@@ -581,7 +581,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-micro-frontends](https://nx.dev/docs/kb/angular-micro-frontends) - Micro-frontends with Angular and Nx.
 * [luigi](https://github.com/luigi-project/luigi) - Enterprise-ready, technology-agnostic micro-frontend orchestration framework with out-of-the-box navigation and authorization features.
 * [micro-frontends-mindmaps](https://github.com/santoshshinde2012/micro-frontends-mindmaps) - A mindmap summarizing micro-frontend concepts.
-* [ngx-mfe](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and the Module Federation plugin.
 
 ### Module Federation Vite
 
@@ -596,6 +595,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mfe-crossframework](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular host and cross-framework remotes built without Nx.
 * [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - Plugin integrating Module Federation with Angular CLI for loading micro-frontends or plugins.
 * [ng-dynamic-mf](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
+* [ngx-mfe](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and the Module Federation plugin.
 * [webpack-module-federation-with-angular](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
 
 ### Monorepos

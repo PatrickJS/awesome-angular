@@ -723,6 +723,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-doctor](https://github.com/antonygiomarxdev/angular-doctor) - Scans your project for Angular-specific lint issues and dead code, then produces a 0–100 health score plus actionable diagnostics.
 * [angular-mermaider](https://github.com/earthdmitriy/angular-mermaider) - Static code analyzer that produces Mermaid dataflow diagrams.
 * [compuse](https://github.com/jakub-hajduk/compuse) - Unified API for analyzing Angular component usage across your codebase.
+* [enola](https://github.com/enola-labs/enola) - Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.
 * [modulens](https://github.com/sinanyilmaz0/modulens) - A suite of architecture, structure, and quality analysis tools for frontend workspaces.
 * [ngcompass](https://github.com/RoadmapDevelop/ngcompass) - Angular-aware static analysis for architecture, performance, SSR, security, and code quality.
 * [ng-di-graph](https://github.com/m-yoshiro/ng-di-graph) - A command-line tool that analyzes Angular TypeScript codebases to extract dependency injection relationships.

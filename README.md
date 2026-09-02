@@ -1473,6 +1473,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [lifecycle-timeline](https://github.com/ericreboisson/lifecycle-timeline) - An interactive Vanilla JS component for visualizing product lifecycle stages, accompanied by an Angular integration guide.
 * [weekly-availability-picker](https://github.com/squareetlabs/weekly-availability-picker) - A standalone Angular weekly availability picker with drag & resize support.
 * [ng-date-hour-range-selector](https://github.com/deciosfernandes/ng-date-hour-range-selector) - A flexible Angular date / date-time range selector built on Angular CDK Overlay.
+* [ngx-pm-wheel-date-picker](https://github.com/PeymanMH/ngx-pm-wheel-date-picker) - Angular wheel-style date and time picker for the Jalali (Persian) calendar.
 
 ### Directives
 

@@ -1644,6 +1644,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-form-signals](https://github.com/xonaib/ngx-form-signals) - A headless, signal-native form coordination library for Angular that manages field state and cross-field rules without enforcing components, CSS, layouts, or adapters.
 * [GolemUI](https://github.com/golemui/golemui) - Declarative Form Engine.
 * [formular.dev](https://github.com/binaryjack/formular.dev) - An advanced, high-performance, schema-first form management and validation engine for modern TypeScript and JavaScript applications.
+* [formisch](https://github.com/open-circle/formisch) - A schema-based, headless JS form library that delivers fast, type-safe state management and validation within a lightweight, modular bundle.
 
 ### Form Controls
 

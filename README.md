@@ -2118,6 +2118,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-url-params](https://github.com/shlomog12/ngx-url-params) - Lightweight Angular service for managing and synchronizing URL query parameters with a concise, reactive API.
 * [ngx-history](https://github.com/lumentut/ngx-history) - Modern Angular navigation history service with reactive programming support.
 * [angular-typed-router](https://github.com/dominicbachmann/angular-typed-router) - Type‑safe Angular navigation from a single Routes array, yielding inferred path unions and typed navigate tuples with zero codegen or runtime cost.
+* [real-router](https://github.com/greydragon888/real-router) - Data-first router for JavaScript — the most declarative router for client applications.
 
 ### Scroll
 

@@ -721,6 +721,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [angular-compiler-output](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given Angular template.
 * [angular-doctor](https://github.com/antonygiomarxdev/angular-doctor) - Scans your project for Angular-specific lint issues and dead code, then produces a 0–100 health score plus actionable diagnostics.
+* [Angular Health Check](https://www.angularhc.dev/) - Scan your project, get a 0–100 health score, and auto-fix issues. Version-aware rules for Signals, RxJS, and performance — noise-free.
 * [angular-mermaider](https://github.com/earthdmitriy/angular-mermaider) - Static code analyzer that produces Mermaid dataflow diagrams.
 * [compuse](https://github.com/jakub-hajduk/compuse) - Unified API for analyzing Angular component usage across your codebase.
 * [enola](https://github.com/enola-labs/enola) - Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.

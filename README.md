@@ -1895,6 +1895,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [markular](https://github.com/larswaechter/markular) - A lightweight Markdown editor for Angular.
 * [mdbook-angular](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns Angular code samples into running Angular applications.
 * [md-juice](https://github.com/aruidev/md-juice) - A lightweight, tokenized CSS theme for Markdown HTML output.
+* [mdzip-editor](https://github.com/mdzip-project/mdzip-editor) - A reusable JavaScript, Angular, React and Vue viewer/editor for Markdown and MDZip (.mdz) files.
 * [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
 * [ngx-markdown-pages](https://github.com/jamesmandrews/ngx-markdown-pages) - An Angular library for rendering markdown files as routable pages.
 * [ngx-md-editable](https://codeberg.org/tomaszatoo/ngx-md-editable) - A lightweight Angular component that edits Markdown and renders expressive HTML content.

@@ -581,6 +581,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-micro-frontends](https://nx.dev/docs/kb/angular-micro-frontends) - Micro-frontends with Angular and Nx.
 * [luigi](https://github.com/luigi-project/luigi) - Enterprise-ready, technology-agnostic micro-frontend orchestration framework with out-of-the-box navigation and authorization features.
 * [micro-frontends-mindmaps](https://github.com/santoshshinde2012/micro-frontends-mindmaps) - A mindmap summarizing micro-frontend concepts.
+* [LoomWeaver](https://loomweaver.dev/?ref=awesome-angular) - Open-source plugin platform for Angular workbenches; an alternative to micro-frontends for products built as plugins.
 
 ### Module Federation Vite
 

@@ -667,6 +667,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [hashbrown](https://github.com/liveloveapp/hashbrown) - The [Hashbrown](https://hashbrown.dev/) framework is for building joyful, AI-powered user experiences.
 * [mushi-mushi](https://github.com/kensaurus/mushi-mushi) - Fix your AI-built app instantly with plain-English diagnoses and ready-to-use fixes directly in your editor.
 * [ngAutoPilot](https://github.com/janpereira-dev/ngAutoPilot) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
+* [ng-agentic-skills](https://github.com/L-X-T/ng-agentic-skills) - Agent skills for Angular development. The official companion repo for the [Agentic Engineering series](https://www.angulararchitects.io/blog/best-llms-for-angular/).
 * [ng-mocks-testing-skill](https://github.com/mintarasss/ng-mocks-testing-skill) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
 * [ng-pr-review](https://richa-29.github.io/angular-pr-reviewer/) - AI code review that actually understands Angular.
 * [ngx-agents-md](https://github.com/pr4san/ngx-agents-md) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).

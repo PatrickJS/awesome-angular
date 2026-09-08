@@ -551,6 +551,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@native-federation/angular-adapter](https://github.com/native-federation/angular-adapter) - The official reference implementation and starter template for using Native Federation with Angular.
 * [@angulardevelopment/micro-frontend-monorepo](https://github.com/angulardevelopment/micro-frontend-monorepo) - A scalable micro-frontend monorepo architecture using modern tooling (e.g., Nx / Turborepo / Webpack Module Federation / Vite).
 * [micro-frontend-vite-vue-react-angular-ts](https://github.com/Eraybulut34/micro-frontend-vite-vue-react-angular-ts) - Multi-framework micro-frontends (Vue, React, Angular) integrated into a Vue.js shell using Module Federation.
+* [Zephyr Cloud](https://github.com/ZephyrCloudIO/zephyr-examples/tree/main/frameworks/angular-vite) - An Angular application built with Vite bundler, showcasing fast development experience with modern tooling and [Zephyr Cloud](https://docs.zephyr-cloud.io/) integration.
 
 ### Module Federation Webpack
 

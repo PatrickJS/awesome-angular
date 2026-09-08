@@ -38,7 +38,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Cheat Sheets](#cheat-sheets)
   * [Exercises](#exercises)
   * [Training](#training)
-  * [Style Guides](#style-guides)
   * [YouTube Channels](#youtube-channels)
 * [Architecture and Advanced Topics](#architecture-and-advanced-topics)
   * [Feature Flags](#feature-flags)
@@ -147,10 +146,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Site](https://angular.dev)
 * [Blog](https://blog.angular.dev/)
-* [Documentation](https://angular.dev/overview)
 * [Getting Started Tutorial](https://angular.dev/tutorials/learn-angular)
 * [GitHub Repo](https://github.com/angular/angular)
-* [Past Documentation Site](https://v17.angular.io/docs)
+* [Style Guide](https://angular.dev/style-guide)
 
 ### Builders
 
@@ -189,7 +187,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-chrome-extension](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
 * [ng-create-with-config](https://github.com/tranvo-dev/ng-create-with-config) - A minimal tool to initialize a new Angular project with pre-configured Prettier, ESLint, Husky and Lint-staged.
 * [ngTooLazy](https://github.com/Iram0598/ng-toolazy) - A Node.js CLI that scaffolds an Angular app with modern conventions, opinionated architecture, and starter boilerplate (guards, interceptors, layouts).
-* [ngx-ws](https://github.com/art-ws/ngx-ws) - Easily split a large `angular.json` into modular, project-local files using the power of [JSON References](https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser), with the convenience of [YAML](https://yaml.org/) and [JSON5](https://json5.org/) formats.
 * [ng new command generator](https://ng.gridatek.com/) - Generate optimized `ng new` commands.
 * [svger-cli](https://github.com/faezemohades/svger-cli) - A lightweight CLI that transforms SVGs into optimized Angular components with zero dependencies.
 * [tailwind-init-cli](https://github.com/ImLeoNova/tailwind-init-cli) - A one-command setup tool for Tailwind CSS in Angular, React, or Next.js projects!
@@ -233,7 +230,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official update reference](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 * [Official migrations reference](https://angular.dev/reference/migrations) - Angular schematics help update projects by enabling conversion to standalone components, new control flow syntax, and more.
 * [ng-morph](https://github.com/taiga-family/ng-morph) - Code mutations in your project or schematics were never easier than now.
-* [ngx-libs](https://github.com/eneajaho/ngx-libs) - Angular Libraries Support lists community libs support for each Angular version.
 * [@fast-facts/ng-update](https://github.com/fast-facts/ng-update) - A GitHub Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
 * [npx-app-updater](https://github.com/DSI-HUG/ngx-app-updater) - Alerts users to available updates when a new version is deployed.
 * [ngx-update-app](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
@@ -259,9 +255,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
 * [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
 * [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
-* [Angular Talents](https://www.angulartalents.com/) - Independent developers can highlight their availability for upcoming projects, eliminating the need to endlessly scroll through job boards.
 * [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Explore the NgSphere to discover repositories with overlapping stargazers.
-* [Good First Issues](https://www.dolmen.tools/en/angular/good-first-issues/explorer) - Find beginner-friendly issues and start contributing to Angular open-source projects.
 * [Angular Popularity Analysis](https://github.com/ProjectBay/angular-popularity-analysis) - An AI-era normalized statistical analysis of Angular’s popularity.
 * [Jobs in JS](https://jobsinjs.com/angular-developer-jobs/) - Angular developer jobs in the US, Canada and UK. Updated daily.
 
@@ -362,10 +356,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [simplified courses](https://blog.simplified.courses/) - Blog articles written with love, just for you!
 * [Just Angular](https://justangular.com/) - Shares the newest and most important updates about Angular, along with useful tips and tricks.
 * [Angular Love](https://angular.love/) - (Polish) Excellent up-to-date resource for Angular.
-* [Angular Minds](https://www.angularminds.com/blog)
 * [Angular Architects](https://www.angulararchitects.io/en/blog/)
 * [House of Angular](https://houseofangular.io/blog/)
-* [thisdot labs](https://www.thisdot.co/blog?tags=angular)
 * [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
 * [ninja-squad](https://blog.ninja-squad.com/)
 * [marmicode](https://marmicode.io/learn/everything)
@@ -383,7 +375,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Philosophies](https://github.com/tomavic/angular-philosophies)
 * [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
 * [Angular Tips](https://ngtips.com/) - Best practices and recommendations for building complex, large and maintainable applications with Angular.
-* [Practical Angular Guide](https://practical-angular.donaldmurillo.com/) - Real-world-ish solutions for Angular developers by [Donald Murillo](https://github.com/DonaldMurillo).
 
 ### Books
 
@@ -414,14 +405,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Cheat Sheets
 
-* [Official Angular Version 17 Cheatsheet](https://v17.angular.io/guide/cheatsheet)
 * [List of 100 Angular Interview questions and answers](https://github.com/sudheerj/angular-interview-questions)
 * [Angular Developer Roadmap](https://roadmap.sh/angular)
 * [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React, & Vue all at once.
 * [Marmicode Cookbook](https://cookbook.marmicode.io/) - Ingredients & Recipes for Cooking Delicious Apps.
 * [angular-interview-questions](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview.
 * [dotnet_angular_cli_cheatsheet](https://github.com/shashinvision/dotnet_angular_cli_cheatsheet) - A comprehensive guide for full-stack developers working with .NET and Angular.
-* [Signals in Angular](https://slicker.me/angular/signals.html) - From basics to advanced patterns with Signals.
 * [TMS Outsource Angular Cheat Sheet](https://tms-outsource.com/cs/angular-cheat-sheet/) - You'll find every decorator, block, operator and CLI flag worth remembering. Searchable, filterable, copy-ready.
 
 ### Exercises
@@ -435,32 +424,22 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Training
 
 * [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
-* [Angular Boot Camp](https://angularbootcamp.com)
 * [Angular Start](https://angularstart.com/) - Learn to build professional-grade Angular applications using new features with modern best practices.
 * [Angular Training](https://www.angulartraining.com/) - The Angular Coach You Need.
 * [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
 * [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem.
 * [Angular.Schule (in Germany)](https://angular.schule/)
-* [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 * [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/). Content either in Italian or English.
 * [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
 * [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
 * [ng.guide](https://ng.guide/) - Learn Angular by building real-world apps.
 * [Tech OS](https://tech-os.org/) - Offers high-level Angular training designed for demanding developers and ambitious teams.
 * [Udemy: Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
-* [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to become an Angular expert.
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
-
-### Style Guides
-
-* [Official Angular style guide](https://angular.dev/style-guide)
-* [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
-* [TypeScript style guide](https://mkosir.github.io/typescript-style-guide/)
 
 ### YouTube Channels
 
 * [Angular](https://www.youtube.com/@Angular)
-* [NG CONF](https://www.youtube.com/@ngconfonline)
 * [Procademy](https://www.youtube.com/@procademy)
 * [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
 * [Joshua Morony](https://www.youtube.com/@JoshuaMorony)
@@ -903,7 +882,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@davidlj95/ngx-meta](https://ngx-meta.dev) - Quickly set Angular site metadata (meta tags, Open Graph, X Cards, JSON-LD) with SSR support.
 * [ngx-seo](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
 * [Angular React SEO](https://github.com/ganatan/angular-react-seo) - Angular & React Examples SEO (Search engine optimization).
-* [unhead](https://www.npmjs.com/package/@unhead/angular) - Full-stack `<head>` management for Angular applications.
+* [unhead](https://github.com/unjs/unhead) - Full-stack `<head>` management for Angular applications.
 
 ### Styling
 
@@ -944,7 +923,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [hanko](https://github.com/teamhanko/hanko) - Follow this [quickstart](https://docs.hanko.io/quickstarts/frontend/angular) to integrate [Hanko](https://www.hanko.io/), an open source authentication and user management solution, into your Angular app.
 * [keycloak-angular](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
 * [Logto](https://logto.io/) - Open‑source Auth0 alternative (OIDC/OAuth2/SAML). Angular [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites).
-* [Melody Auth](https://github.com/ValueMelody/melody-auth) - Its [SDK](https://www.npmjs.com/package/@melody-auth/angular) enables seamless Angular–melody auth integration with automated state, redirects, and token handling.
 * [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
 * [msal-angular](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/lib/msal-angular) - MSAL for Angular allows Angular apps to authenticate users via [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), Microsoft accounts, and social providers through [Azure AD B2C](https://docs.microsoft.com/azure/active-directory-b2c/active-directory-b2c-overview#identity-providers), and to acquire tokens for Microsoft services like [Graph](https://graph.microsoft.io).
 * [ng-awesome-node-auth](https://github.com/nik2208/ng-awesome-node-auth) - Angular Interceptor and Guards for [awesome-node-auth](https://github.com/nik2208/awesome-node-auth).
@@ -1444,7 +1422,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
 * [ngx-speech-button](https://github.com/JayChase/ngx-speech-button) - An Angular directive that provides an easy-to-use wrapper for the Web Speech API, enabling voice input functionality with minimal setup.
 * [ngxture](https://github.com/gianpierreVelasquez/ngxture) - A lightweight and modular Angular library that provides ready-to-use animations and gesture directives.
-* [@maxime1jacquet/npm-directives](https://github.com/maxime1jacquet/npm-directives) - Angular Directives including [ngx-cursor](https://www.npmjs.com/package/ngx-cursor) and [ngx-simple-countdown](https://www.npmjs.com/package/ngx-simple-countdown).
 * [ngx-mat-menu-hover](https://github.com/Gamekohl/ngx-mat-menu-hover) - This Angular directive provides functionality to handle hover menu behavior, allowing menus to open when hovered over and close when the mouse leaves.
 * [ngx-highlight](https://github.com/SynTronic/ngx-highlight) - Angular directives for highlighting search matches in text, built on the [CSS Custom Highlight API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Custom_Highlight_API).
 * [ngx-liquid-glass](https://github.com/anushsharma27/ngx-liquid-glass) - Angular directive for Apple-inspired liquid glass effects with DOM-backed refraction and configurable edges.

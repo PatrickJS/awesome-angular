@@ -724,6 +724,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [envguards](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 * [ngmd](https://github.com/erkamyaman/ngmd) - Angular docs starter. Drop a markdown file, get a route.
 * [storybook-addon-angular-manifest](https://github.com/anrouxel/storybook-addon-angular-manifest) - A Storybook addon that builds an Angular component manifest from your stories and Compodoc documentation.
+* [FeastDocs](https://github.com/Mindfeast/feastdocs) - Docusaurus-style documentation framework built on Angular, with live Angular components inside Markdown. [FeastDocsDemo](https://feastdocs.feast-labs.com/)
 
 ### IDE Extensions
 

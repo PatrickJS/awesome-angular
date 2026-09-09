@@ -2146,6 +2146,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fold-ng](https://github.com/hugoheynard/fold-ng) - A dark-first, accessible Angular UI library and design system. Built with modern standards: signals-first, standalone, zoneless, and SSR-ready.
 * [mk-kit](https://github.com/mk-kit/mk-kit) - MIT component library for admin panels: 180 signals-based, zoneless-ready components themed with CSS variables, WCAG 2.1 AA, with a PrimeNG migration schematic. [Documentation](https://mk-kit.dev), [npm](https://www.npmjs.com/package/@mk-kit/ui).
 * [Hub UI](https://hubui.dev/) - Reusable Angular UI components for standalone apps, Angular Signals workflows, accessibility, CSS variables and production-ready documentation.
+* [atomic-angular](https://github.com/coveo/ui-kit/tree/main/packages/atomic-angular) - A component library that wraps core [Atomic](https://docs.coveo.com/en/atomic/latest/) web components to build modern Angular UIs interfacing with the Coveo platform.
 
 ### UI Libraries built on Bootstrap
 

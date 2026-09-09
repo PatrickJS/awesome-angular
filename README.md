@@ -967,6 +967,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-ability](https://github.com/topaxi/ng-ability) - Define access control lists in Angular.
 * [urbac](https://github.com/kasoir/urbac) - A complete, production-ready boilerplate designed to help you scaffold secure, multi-level access control systems in minutes.
 * [rulegate](https://github.com/fotbiler-lab/rulegate) - Local-first, provider-independent authorization for `.NET` and Angular.
+* [SailPoint Angular SDK](https://github.com/sailpoint-oss/angular-sdk) - Use this SDK to interface between [SailPoint](https://developer.sailpoint.com/) APIs and your Angular applications.
 
 ### Security Best Practices
 

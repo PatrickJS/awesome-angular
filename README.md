@@ -1511,6 +1511,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Scryb](https://scryb.dev/) - A $39/month flat-rate TypeScript WYSIWYG editor built on Tiptap that offers unlimited loads, end users, and documents.
 * [nge-ide](https://github.com/cisstech/nge-ide) - Via a single `<ide-root />` component, NGE IDE embeds a full desktop editor shell into Angular apps.
 * [ngx-exitus-tiptap-editor](https://github.com/marcelinombb/ngx-exitus-tiptap-editor) - A powerful, feature-rich Tiptap-based Rich Text Editor for Angular 18+, specifically designed for educational and technical content.
+* [notectl](https://github.com/Samyssmile/notectl) - Modern accessible WYSIWYG rich text editor built as a framework-agnostic web component that works everywhere.
 
 ### File Upload
 

@@ -845,6 +845,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eslint-plugin-angular-class-ordering](https://github.com/Leritas/eslint-plugin-angular-class-ordering) - ESLint plugin that keeps Angular class members (fields and methods) in a consistent order with auto-fix functionality.
 * [lint-a-lot](https://github.com/JanKru/lint-a-lot) - An opinionated ESLint and Stylelint configuration for Angular projects using modern Flat Config.
 * [neighbor](https://github.com/a11yfred/neighbor) - Catch accessibility issues in your markup, CSS, and copy before they ship.
+* [JunoLint](https://github.com/Myxelium/JunoLint) - This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using `eslint --fix`.
 
 ### Networking
 

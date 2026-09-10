@@ -237,7 +237,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Depfixer](https://depfixer.com/sample-report/angular) - Smart dependency analysis for JS/TS projects; detects compatibility conflicts and provides step‑by‑step fixes.
 * [migration-planificator](https://github.com/silvestv/migration-planificator-documentation) - Plan Angular migrations with precision AST analysis, calculate workload estimates, and generate interactive HTML dashboards.
 * [NgReady](https://www.ngready.dev/) - Stop Wasting Days on Angular Upgrades.
-* [ng-ceiling](https://github.com/korolvitalii/ng-ceiling) - Checks your maximum upgradeable Angular version and lists upgrade blockers.
+* [ng-ceiling](https://github.com/korolvitalii/ng-ceiling) - Estimates the highest Angular version allowed by declared package compatibility and lists upgrade blockers.
 
 ## Angular Pulse
 

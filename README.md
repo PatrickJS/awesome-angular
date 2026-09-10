@@ -1383,6 +1383,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@some-angular-utils/table](https://github.com/some-angular-utils/table) - Remote or local data, pagination, filters, responsive layouts and full template control — wired into one declarative `<sau-table>` element.
 * [DataGrid](https://github.com/Laczynski/DataGrid) - Server-driven pagination, filtering, and sorting for .NET and Angular — as a standalone, reusable library.
 * [fastgrid-angular](https://github.com/coqsoft/fastgrid-frameworks/tree/main/fastgrid-angular) - The official Angular wrapper for [FastGrid](https://www.treegrid.com/FDoc/FastGridAngular.html) and FastSheet by COQsoft.
+* [angular-generic-table](https://github.com/hjalmers/angular-generic-table) - Angular table component supporting sorting, pagination, search highlighting, keyboard navigation, custom templates, and footer calculations.
 
 ### Dates
 

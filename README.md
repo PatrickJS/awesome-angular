@@ -2147,6 +2147,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mk-kit](https://github.com/mk-kit/mk-kit) - MIT component library for admin panels: 180 signals-based, zoneless-ready components themed with CSS variables, WCAG 2.1 AA, with a PrimeNG migration schematic. [Documentation](https://mk-kit.dev), [npm](https://www.npmjs.com/package/@mk-kit/ui).
 * [Hub UI](https://hubui.dev/) - Reusable Angular UI components for standalone apps, Angular Signals workflows, accessibility, CSS variables and production-ready documentation.
 * [atomic-angular](https://github.com/coveo/ui-kit/tree/main/packages/atomic-angular) - A component library that wraps core [Atomic](https://docs.coveo.com/en/atomic/latest/) web components to build modern Angular UIs interfacing with the Coveo platform.
+* [solanda-ui](https://gitlab.com/federa-social/libraries/solanda-ui) - Minimalist Web Components UI library for Vue, Nuxt, React, Angular, Svelte, and vanilla JavaScript.
 
 ### UI Libraries built on Bootstrap
 

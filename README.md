@@ -1187,6 +1187,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [elite-angular-zen](https://github.com/saiyan666-4Wk/elite-angular-zen) - 2026 Angular 17 Pro Admin Template with Clean Minimal Design.
 * [spike-angular-pro-starter](https://github.com/juwairiyah09/spike-angular-pro-starter) - Spike Angular 2026: Ultimate Free Material Admin Template for Modern Dashboards.
 * [appblink](https://github.com/workern/appblink-workspace) - Production-ready Angular + Flutter + Firebase monorepo starter. Web, mobile & backend in one repo.
+* [exo-dash-angular](https://github.com/exouidev/exo-dash-angular) - A modern Angular and Tailwind CSS admin dashboard template.
 
 ### Paid Templates
 

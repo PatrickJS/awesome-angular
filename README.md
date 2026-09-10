@@ -624,6 +624,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodingFleet](https://codingfleet.com/code-generator/angular/) - An innovative AI-powered tool that transforms your instructions into efficient Angular code.
 * [context7](https://github.com/upstash/context7) - MCP Server with up-to-date code documentation for LLMs and AI code editors.
+* [context7-widget-angular](https://github.com/DeSource-Labs/context7-widget/tree/main/packages/angular) - Embed custom-styled Angular widgets to deliver real-time Context7 documentation answers directly inside your application.
 * [cursor.directory](https://cursor.directory/?q=angular) - The home for Cursor enthusiasts.
 * [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 * [Feature Search Agent - Angular PR Scout](https://github.com/dnlrbz/feature_search_agent) - An AI-powered agent built with Google's Agent Development Kit (ADK) that automatically searches and analyzes Angular's GitHub pull requests for new features.

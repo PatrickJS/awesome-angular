@@ -563,6 +563,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-dynamic-mf](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 * [ngx-mfe](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and the Module Federation plugin.
 * [webpack-module-federation-with-angular](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
+* [web-fragments-migration-demo](https://github.com/anfibiacreativa/web-fragments-migration-demo) - Migration path from Angular monolithic SPA app, to micro-frontends featuring Qwik, Analog and Angular SSR.
 
 ### Monorepos
 

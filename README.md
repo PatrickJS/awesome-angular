@@ -2153,6 +2153,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Hub UI](https://hubui.dev/) - Reusable Angular UI components for standalone apps, Angular Signals workflows, accessibility, CSS variables and production-ready documentation.
 * [atomic-angular](https://github.com/coveo/ui-kit/tree/main/packages/atomic-angular) - A component library that wraps core [Atomic](https://docs.coveo.com/en/atomic/latest/) web components to build modern Angular UIs interfacing with the Coveo platform.
 * [solanda-ui](https://gitlab.com/federa-social/libraries/solanda-ui) - Minimalist Web Components UI library for Vue, Nuxt, React, Angular, Svelte, and vanilla JavaScript.
+* [xiri-ng](https://github.com/xiriframework/xiri-ng) - A configuration-driven Angular component library where a [Go backend](https://github.com/xiriframework/xiri-go) controls the UI via JSON structures.
 
 ### UI Libraries built on Bootstrap
 

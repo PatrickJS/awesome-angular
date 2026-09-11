@@ -1907,6 +1907,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Indice.Angular](https://github.com/indice-co/Indice.Angular) - A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.
 * [trt-web-utils](https://github.com/therightthings/trt-web/tree/dev) - Monorepo for the `@trt-web` packages, which includes a Firebase admin helper library and more.
 * [dgkit](https://github.com/grynyk/dgkit) - A growing collection of open-source frontend agnostic and Angular libraries, developer tools, and frontend utilities.
+* [grafloria](https://github.com/grafloria/grafloria) - An MIT diagram and dashboard engine for JavaScript: one headless core, native Angular, React and Vue bindings, one document format and one undo stack.
 
 ### Modals
 

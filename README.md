@@ -1190,6 +1190,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [spike-angular-pro-starter](https://github.com/juwairiyah09/spike-angular-pro-starter) - Spike Angular 2026: Ultimate Free Material Admin Template for Modern Dashboards.
 * [appblink](https://github.com/workern/appblink-workspace) - Production-ready Angular + Flutter + Firebase monorepo starter. Web, mobile & backend in one repo.
 * [exo-dash-angular](https://github.com/exouidev/exo-dash-angular) - A modern Angular and Tailwind CSS admin dashboard template.
+* [electron-angular-boilerplate](https://github.com/skelesp/electron-angular-boilerplate) - An Angular and Electron desktop app utilizing a SQLite database via TypeORM, connected by a shared, runtime-validated API.
 
 ### Paid Templates
 

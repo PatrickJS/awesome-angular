@@ -646,6 +646,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-prompt-kit](https://github.com/PianoNic/ngx-prompt-kit) - Angular components for AI chat interfaces, built on Spartan UI.
 * [ngx-quill-ink](https://github.com/AhsanAyaz/ngx-quill-ink) - TypeScript engine and Angular wrapper animating text streams as handwriting and capturing pen strokes for Vision LLMs.
 * [ngx-testbox-agent-skill](https://github.com/kirill-kolomin/ngx-testbox-agent-skill) - AI Agent skill for the `ngx-testbox` testing package.
+* [ngx-transformers](https://github.com/qwertymuzaffar/ngx-transformers) - Run Hugging Face [Transformers.js](https://github.com/huggingface/transformers.js) models in Angular - on-device ML with a signals API.
 * [point-grab](https://github.com/Nacho-Labs-LLC/point-grab) - Point at any web app element to instantly send its full context—HTML, component name, source file, and ancestors—to your AI agent via MCP.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular application UIs 50% faster with PureCode AI.
 * [reangular](https://github.com/AleksanderBodurri/reangular) - A coding-agent skill that converts a React library into a modern Angular library with full feature parity, automated browser validation, and a side-by-side parity review.

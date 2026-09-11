@@ -376,6 +376,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Philosophies](https://github.com/tomavic/angular-philosophies)
 * [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
 * [Angular Tips](https://ngtips.com/) - Best practices and recommendations for building complex, large and maintainable applications with Angular.
+* [Modern Angular Insights](https://medium.com/modern-angular-insights) - Advanced strategies for modern Angular development.
 
 ### Books
 

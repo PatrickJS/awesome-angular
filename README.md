@@ -828,6 +828,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-translate-routes](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 * [ngx-translate-toolkit](https://github.com/robmanganelly/ngx-translate-toolkit) - An Angular library designed to extend `@ngx-translate/core` and streamline the process of managing translations in large projects.
 * [ngx-translate-version](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
+* [rerune](https://rerune.io/angular-localization) - Add OTA translations with [@rerune/angular](https://www.npmjs.com/package/@rerune/angular) by replacing the `ngx-translate` or Transloco root provider.
 * [runtime-localizer](https://forge.deejayy.hu/angular-packages/runtime-localizer) - Runtime localizer for Angular.
 * [rust-ngx-translate-lint](https://github.com/hafnerpw/rust-ngx-translate-lint) - A Rust port of `ngx-translate-lint` for improved performance.
 * [signal-translate](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.

@@ -177,6 +177,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [alterforge](https://github.com/themodulardev/alterforge) - A CLI tool that scaffolds and manages modular microservice architectures with optional React or Angular frontends.
 * [@MohamedBouattour/angular-clean-architecture](https://github.com/MohamedBouattour/angular-clean-architecture) - A CLI tool that generates Clean Architecture–based, production‑ready Angular features with clear, maintainable layers.
 * [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
+* [angular-cli-helper](https://github.com/bibangjoseph/ng-cli-helper) - A CLI tool that can initialize a full project structure with a built-in API service, authentication system, and HTTP interceptor.
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
 * [angular-web-cli](https://github.com/qodalis-solutions/angular-web-cli) - A flexible CLI tool designed to streamline workflows, automate tasks, and provide customizable utilities for developers.
 * [Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready fullstack apps in seconds. Pick your stack from 425 options — the CLI wires everything together.

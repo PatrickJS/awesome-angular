@@ -1363,6 +1363,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [weekly-availability-picker](https://github.com/squareetlabs/weekly-availability-picker) - A standalone Angular weekly availability picker with drag & resize support.
 * [ng-date-hour-range-selector](https://github.com/deciosfernandes/ng-date-hour-range-selector) - A flexible Angular date / date-time range selector built on Angular CDK Overlay.
 * [ngx-pm-wheel-date-picker](https://github.com/PeymanMH/ngx-pm-wheel-date-picker) - Angular wheel-style date and time picker for the Jalali (Persian) calendar.
+* [ngx-mat-datetime-panel](https://github.com/VlV-515/ngx-mat-datetime-panel) - A compact, single-view date and time picker for Angular Material 21+.
 
 ### Directives
 

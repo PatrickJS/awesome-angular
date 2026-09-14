@@ -2299,6 +2299,7 @@ for the creation of web applications developed with Angular.
 * [Stencil](https://stenciljs.com/docs/angular) - Generate Angular component wrappers for your web components.
 * [AnQst](https://github.com/DusteDdk/AnQst) - Generates Angular services and native Qt widgets from a shared DSL, letting Angular apps compile into QWidget‑based C++ UIs via the AnQst CLI and host libraries.
 * [rozie.js](https://github.com/One-Learning-Community/rozie.js) - A cross-framework compiler that transforms single Vue/Alpine-flavored component files into native Angular code without runtime overhead or wrapper boilerplate.
+* [aktion](https://github.com/asfand-dev/aktion) - A single web component that turns a compact, streaming-first DSL into a rich, interactive UI inside its shadow DOM.
 
 ### External Integration
 

@@ -1337,6 +1337,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [DataGrid](https://github.com/Laczynski/DataGrid) - Server-driven pagination, filtering, and sorting for .NET and Angular — as a standalone, reusable library.
 * [fastgrid-angular](https://github.com/coqsoft/fastgrid-frameworks/tree/main/fastgrid-angular) - The official Angular wrapper for [FastGrid](https://www.treegrid.com/FDoc/FastGridAngular.html) and FastSheet by COQsoft.
 * [angular-generic-table](https://github.com/hjalmers/angular-generic-table) - Angular table component supporting sorting, pagination, search highlighting, keyboard navigation, custom templates, and footer calculations.
+* [PivotHead](https://github.com/mindfiredigital/PivotHead) - A powerful and flexible library for creating interactive pivot tables in JavaScript/Typescript applications.
 
 ### Dates
 

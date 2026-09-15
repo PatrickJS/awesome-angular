@@ -627,6 +627,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [takt-angular](https://github.com/vskstudio/takt-angular) - Idiomatic Angular wrapper for [Takt](https://github.com/vskstudio/takt-core) privacy-friendly analytics.
 * [inspect-ng-collector](https://github.com/oneteme/inspect-ng-collector) - A comprehensive front-end telemetry and monitoring library for Angular applications.
 * [ngx-piano](https://gitlab.com/SNCF/ngx-piano) - This library integrates [Piano Analytics](https://www.piano.io/) into Angular applications.
+* [fingerprint](https://dev.fingerprint.com/docs/angular) - An easy way to integrate Fingerprint into your Angular application.
 
 ### Code Analysis
 
@@ -869,7 +870,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [authress-angular](https://github.com/mikepattyn/authress-angular) - This package only contains a module for easy setup and registration of the [Authress](https://authress.io/) LoginClient.
 * [@badisi/ngx-auth](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
 * [corbado](https://www.corbado.com/#signup-init) - [Integrate](https://docs.corbado.com/corbado-complete/frontend-integration/angular) Corbado with Angular to use passkeys for authentication.
-* [fingerprint](https://dev.fingerprint.com/docs/angular) - An easy way to integrate Fingerprint into your Angular application.
 * [frontegg-angular](https://github.com/frontegg/frontegg-angular) - Hosted login SDK for Angular; see the [quickstart](https://developers.frontegg.com/ciam/sdks/frontend/angular/hosted-login).
 * [FusionAuth Angular SDK](https://fusionauth.io/docs/sdks/angular-sdk) - Angular SDK for login/registration, logout, and refresh token handling.
 * [hanko](https://github.com/teamhanko/hanko) - Follow this [quickstart](https://docs.hanko.io/quickstarts/frontend/angular) to integrate [Hanko](https://www.hanko.io/), an open source authentication and user management solution, into your Angular app.
@@ -940,7 +940,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngrx-course](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
 * [ngrx-store-localstorage](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between `@ngrx/store` and local storage.
 * [ngrx-toolkit](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store.
-* [ngrx-traits](https://github.com/gabrielguerrero/ngrx-traits) - A library to help you compose and reuse a set NgRx actions, selectors, effects, and reducers across your app.
+* [ngrx-traits](https://github.com/gabrielguerrero/ngrx-traits) - A library to help you compose and reuse a set of NgRx actions, selectors, effects, and reducers across your app.
 * [ngrx-addons](https://github.com/Michsior14/ngrx-addons) - A collection of NgRx addons, including state persistence.
 * [ngrx-store-storagesync](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
 * [ngrx-wieder](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.

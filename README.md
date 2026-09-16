@@ -1343,7 +1343,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mat-datetimepicker](https://github.com/kuhnroyal/mat-datetimepicker) - Material datetimepicker for `@angular/material`.
 * [ngx-multiple-dates](https://github.com/lekhmanrus/ngx-multiple-dates) - Multiple dates picker based on Angular Material.
 * [ng-datetime](https://github.com/ressurectit/ng-datetime) - Angular library containing components used for handling datetime.
-* [time2blocks-ngx](https://github.com/antonioconselheiro/time2blocks-ngx) - An Angular library to identify and format the timestamp of past blockchain blocks.
+* [time2blocks-ngx](https://github.com/antonioconselheiro/time2blocks-ngx) - An Angular library to identify and format the timestamp of past Blockchain blocks.
 * [@dhutaryan/ngx-mat-timepicker](https://github.com/dhutaryan/ngx-mat-timepicker) - Material timepicker based on material design.
 * [ngx-timeline](https://github.com/omnedia/ngx-timeline) - A simple component library to add an animated timeline view.
 * [frxjs-Ngx-Timeline](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.

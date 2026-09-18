@@ -1678,6 +1678,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools.
 * [ngx-keyboard-shortcuts](https://github.com/phalgunv/ngx-keyboard-shortcuts) - An actively maintained fork of the archived [ngx-keyboard-shortcuts](https://github.com/milestechnologies/ngx-keyboard-shortcuts) package, adding Angular 16+ support and modern tooling.
 * [ngx-command-palette](https://github.com/theryansmee/ngx-command-palette) - Zero-setup, keyboard-driven Angular command palette with auto-registered routes, custom commands, async search, and contextual visibility.
+* [gigamenu](https://github.com/flxg-de/gigamenu) - A keyboard-driven command palette menu for Angular applications.
 
 ### Layout
 

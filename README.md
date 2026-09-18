@@ -1648,6 +1648,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-iconify-stack](https://github.com/WanderleeDev/ngx-iconify-stack) - A lightweight, SSR-safe Angular wrapper for [Iconify](https://iconify.design/).
 * [vadivam](https://github.com/praveenjuge/vadivam) - Pixel-perfect 24px outline icons for SVG, React, React Native, Vue, Svelte, Solid, Angular, Astro, and Preact.
 * [ycon.cc](https://ycon.cc) - Search 300,000+ Iconify icons and copy ready-to-use code for React, Vue, Symfony, Next.js, Astro, Svelte, Angular, Laravel and more.
+* [glyphflow](https://glyph-flow-zeta.vercel.app/) - Lucide icons hand-choreographed per icon and animated on the native Web Animations API — zero animation dependencies, real tree-shaking.
 
 ### Images
 

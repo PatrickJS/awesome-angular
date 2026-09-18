@@ -1134,6 +1134,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [appblink](https://github.com/workern/appblink-workspace) - Production-ready Angular + Flutter + Firebase monorepo starter. Web, mobile & backend in one repo.
 * [exo-dash-angular](https://github.com/exouidev/exo-dash-angular) - A modern Angular and Tailwind CSS admin dashboard template.
 * [electron-angular-boilerplate](https://github.com/skelesp/electron-angular-boilerplate) - An Angular and Electron desktop app utilizing a SQLite database via TypeORM, connected by a shared, runtime-validated API.
+* [angular-starter-ui](https://github.com/JoanRoucoux/angular-starter-ui) - Angular starter for building a design system: a publishable component library (standalone, zoneless, signals) and a Storybook workshop.
 
 ### Paid Templates
 

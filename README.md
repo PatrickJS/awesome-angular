@@ -795,7 +795,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [lint-a-lot](https://github.com/JanKru/lint-a-lot) - An opinionated ESLint and Stylelint configuration for Angular projects using modern Flat Config.
 * [neighbor](https://github.com/a11yfred/neighbor) - Catch accessibility issues in your markup, CSS, and copy before they ship.
 * [JunoLint](https://github.com/Myxelium/JunoLint) - This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using `eslint --fix`.
-* [angular-estree-parser](https://github.com/prettier/angular-estree-parser) - A parser that converts Angular template expressions and bindings into an ESTree-compatible AST."
+* [angular-estree-parser](https://github.com/prettier/angular-estree-parser) - A parser that converts Angular template expressions and bindings into an ESTree-compatible AST.
 
 ### Networking
 
@@ -2399,7 +2399,9 @@ for the creation of web applications developed with Angular.
 ## Angular-Inspired Solutions
 
 * [angular-style-injector](https://github.com/emmat-york/angular-style-injector) - A lightweight dependency injection container inspired by Angular's Injector.
+* [armature](https://github.com/quinnjr/armature) - A modern, type-safe HTTP framework for Rust heavily inspired by Angular and NestJS.
 * [di](https://github.com/kaokei/di) - A lightweight dependency injection library, similar to [InversifyJS](https://github.com/inversify/InversifyJS) and [typedi](https://github.com/typestack/typedi).
+* [dom-harness](https://github.com/koorchik/dom-harness) - Framework agnostic DOM component test harness library inspired by Angular CDK's `ComponentHarness`.
 * [gapi](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex Node.js GraphQL Backend applications with minimal effort.
 * [GTPL](https://github.com/garag-lib/GTPL) - TypeScript library for reactive templates using Direct DOM and Proxy, inspired by Vue, Angular AOT, and JSX, in a compact 9KB package.
 * [illuma](https://github.com/git-illuma/core) - Angular-style dependency injection for TypeScript.
@@ -2407,6 +2409,7 @@ for the creation of web applications developed with Angular.
 * [injection-js](https://github.com/mgechev/injection-js) - A fast, well‑tested JavaScript/TypeScript dependency injection library extracted from Angular’s `ReflectiveInjector`.
 * [ioc](https://github.com/Isqanderm/ioc) - A powerful and flexible Inversion of Control (IoC) container for TypeScript applications. Inspired by Angular and NestJS.
 * [knifecycle](https://github.com/nfroidure/knifecycle) - Manage your Node.js processes' lifecycle automatically with an unobtrusive dependency injection implementation.
+* [media-observer](https://github.com/tonysamperi/media-observer) - JavaScript observable resize (event listener) inspired by Angular Flex Layout Media Observer.
 * [named-slots](https://github.com/maybebot/named-slots) - Declarative "holes" for React components, inspired by slots in Vue, Svelte, Angular, and WebComponents.
 * [needle-di](https://github.com/needle-di/needle-di) - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects.
 * [npm-clang-format-node](https://github.com/lumirlumir/npm-clang-format-node) - Node wrapper for LLVM Clang's clang-format and git-clang-format native binaries inspired by [clang-format](https://github.com/angular/clang-format).
@@ -2415,12 +2418,16 @@ for the creation of web applications developed with Angular.
 * [reaktiv](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
 * [rgenex](https://github.com/asengar14/rgenex) - An Angular‑CLI–style generator for React that instantly scaffolds components, hooks, and pages.
 * [rxor](https://github.com/nsevendev/rxor) - Brings reactive signals to React, inspired by Angular Signals, Vue 3's `ref/computed`, and SolidJS.
-* [Signals](https://github.com/dmytrodemchenko/Signals) - Zero‑dependency, glitch‑free reactive signals for TypeScript and JavaScript using an optimized Angular‑inspired push/pull architecture.
+* [semantic-react-cli](https://github.com/ashmit152000/semantic-react-cli) - A CLI tool that scaffolds React components, inspired by Angular's `ng generate`.
+* [@coregx/signals](https://github.com/coregx/signals) - Type-safe reactive state management for Go, inspired by Angular Signals.
+* [@dmytrodemchenko/Signals](https://github.com/dmytrodemchenko/Signals) - Zero‑dependency, glitch‑free reactive signals for TypeScript and JavaScript using an optimized Angular‑inspired push/pull architecture.
+* [sigsharp](https://github.com/bowlerhats/sigsharp) - A computational dependency library for .Net inspired by Angular signals.
 * [sio](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 * [UnReact.js](https://github.com/arnvjshi/unreactpjs) - A modern framework combining the best of Angular and React for enhanced component communication.
 * [use-component-store](https://github.com/jalbr74/use-component-store) - Provides a bare minimum implementation of a component store for React using RxJS.
 * [use-vue-service](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
 * [weave](https://github.com/weave-framework/weave) - A fine-grained reactive, signal-native UI framework.
+* [x-injection-reactjs](https://github.com/AdiMarianMutu/x-injection-reactjs) - Powerful IoC library built on-top of InversifyJS inspired by Angular's DI for ReactJS.
 
 ## External Lists
 

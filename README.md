@@ -837,6 +837,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-seo](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
 * [Angular React SEO](https://github.com/ganatan/angular-react-seo) - Angular & React Examples SEO (Search engine optimization).
 * [unhead](https://github.com/unjs/unhead) - Full-stack `<head>` management for Angular applications.
+* [ngx-seo-kit](https://github.com/CesurPolat/ngx-seo-kit) - A type-safe SEO toolkit that generates `sitemap.xml` and `robots.txt` files for Angular applications at build time.
 
 ### Styling
 

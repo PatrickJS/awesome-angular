@@ -481,6 +481,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-smart-interceptor](https://github.com/ErickG123/ngx-smart-interceptor) - Enterprise-grade, resilient, and intelligent HTTP Interceptor for modern Angular applications.
 * [angular-query](https://github.com/klheb/angular-query) - An Angular-first data fetching library inspired by TanStack Query that uses Angular Signals for reactive queries, caching, and state management.
 * [fetchwise](https://github.com/poluru-labs/fetchwise) - Simplify API integration with automatic retries, response validation, request and response interceptors, and generated API types.
+* [ngx-nest-http](https://github.com/SyntaxHertz/ngx-nest-http) - Angular HTTP client with Nest-style controllers, DTO validation, and declarative routing.
 
 ### Micro Frontends
 

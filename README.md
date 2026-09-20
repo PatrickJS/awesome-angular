@@ -1491,6 +1491,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@h-k-dev/angular-file-drop](https://github.com/h-k-dev/angular-file-drop) - A lightweight Angular drag‑and‑drop directive for files and folders with traversal, filtering, and click‑to‑pick—no stylesheets, no XHR, no DOM mutation.
 * [upup](https://github.com/DevinoSolutions/upup) - A headless upload engine featuring byte-identical UI packages for six major frontend frameworks, supporting server-mode, cloud drives, and multi-source media imports.
 * [filestack](https://www.filestack.com/sdks/angular/) - Integrate powerful file uploads into Angular with a single command using the Filestack SDK to seamlessly ingest, process, and deliver files behind a unified provider call.
+* [ngx-bulk-uploader](https://github.com/suraj-26/ngx-bulk-uploader) - A schema-driven bulk Excel upload grid for Angular, built on `Handsontable`.
 
 ### Forms
 

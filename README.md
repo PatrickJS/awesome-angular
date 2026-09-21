@@ -2186,7 +2186,7 @@ for the creation of web applications developed with Angular.
 * [tailng](https://github.com/tociva/tailng) - Angular components styled with Tailwind to achieve a Material‑like look.
 * [volt-ui](https://github.com/Andersseen/volt-ui) - Fully accessible, themeable Angular components built with signals, Tailwind CSS v4, CVA, and `ng-primitives`.
 * [zapui](https://github.com/zapuilib/zapui) - Build scalable Angular apps with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
-* [Base UI (Angular)](https://github.com/Base-ui-ng/base-ui) - CLI-first Angular + Tailwind copy-in component library (shadcn-style): `npx base-ui-cli add` copies source into your repo. Docs at [base-ui.net](https://base-ui.net). Not MUI Base UI (React).
+* [Ply](https://github.com/ply-ui-ng/ply) - CLI-first Angular + Tailwind copy-in component library (formerly Base UI (Angular)): `npx ply-ui-cli add` copies source into your repo. 127 free MIT components; Pro stays paid. Docs at [ply-ui.com](https://ply-ui.com). Not MUI Base UI (React).
 * [ngnova-ui](https://github.com/chiragpatel273/ngnova-ui) - Angular 22 component library built with standalone components, focused package entry points, accessible interaction contracts, and Tailwind CSS theming.
 
 ### UI Library and Framework Ionic

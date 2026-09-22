@@ -797,6 +797,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [neighbor](https://github.com/a11yfred/neighbor) - Catch accessibility issues in your markup, CSS, and copy before they ship.
 * [JunoLint](https://github.com/Myxelium/JunoLint) - This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using `eslint --fix`.
 * [angular-estree-parser](https://github.com/prettier/angular-estree-parser) - A parser that converts Angular template expressions and bindings into an ESTree-compatible AST.
+* [eslint-plugin-ng-perfectionist](https://github.com/ChrisAraneo/eslint-plugin-ng-perfectionist) - An ESLint plugin that enforces alphabetical sorting for Angular objects.
 
 ### Networking
 

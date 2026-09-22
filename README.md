@@ -1443,6 +1443,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@sibiraj-s/ngx-editor](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
 * [@bobbyquantum/ngx-editor](https://github.com/bobbyquantum/ngx-editor) - Angular 21+ fork of `sibiraj-s/ngx-editor`.
 * [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular WYSIWYG HTML Rich Text Editor.
+* [RichTextEditor](https://richtexteditor.com/angular-rich-text-editor) - Standalone Angular component for a WYSIWYG HTML editor with image upload, tables, track changes and comments. Commercial, perpetual license.
 * [ngx-property-editor](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
 * [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
 * [tinymce-angular](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.

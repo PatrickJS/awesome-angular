@@ -2217,6 +2217,7 @@ for the creation of web applications developed with Angular.
 * [Bloc UI](https://github.com/debasish1996/BLOC-UI) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
 * [angular-primitives](https://github.com/snatuva/angular-primitives) - Signal-first Angular primitives for building scalable, accessible UI systems.
 * [NeuralTech](https://github.com/hasanaydin7/NeuralTech) - AI-first, headless and Signal-native Angular UI components with machine-readable contracts.
+* [aria-ng-ui](https://github.com/phalla-doll/aria-ng-ui) - A modern, accessible Angular component library inspired by `shadcn/ui` — built with Angular-native patterns, Tailwind CSS, and accessibility-first primitives.
 
 ### Viewers
 

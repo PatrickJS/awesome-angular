@@ -1245,6 +1245,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-carousel-modern](https://github.com/Aizaz-ul-haq/ngx-carousel-modern) - A modern, customizable carousel component for Angular 16+ with support for both standalone and NgModule-based applications.
 * [fslightbox-angular](https://github.com/banthagroup/fslightbox-angular) - Angular version of [Fullscreen Lightbox](https://fslightbox.com/).
 * [whirli-ng](https://github.com/babbage42/whirli-ng) - Angular carousel with drag, looping, virtual slides, projected content, thumbs, SSR‑friendly responsive layouts, external controls, and a rich event API.
+* [@reelkit/angular](https://github.com/KonstantinKai/reelkit/tree/main/packages/reelkit-angular) - Virtualized Angular slider for full-screen vertical feeds that keeps 3 slides in the DOM for 10,000+ items, with ready-made reel player, stories player and lightbox packages and no third-party dependencies.
 
 ### Charts
 

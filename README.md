@@ -483,6 +483,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-query](https://github.com/klheb/angular-query) - An Angular-first data fetching library inspired by TanStack Query that uses Angular Signals for reactive queries, caching, and state management.
 * [fetchwise](https://github.com/poluru-labs/fetchwise) - Simplify API integration with automatic retries, response validation, request and response interceptors, and generated API types.
 * [ngx-nest-http](https://github.com/SyntaxHertz/ngx-nest-http) - Angular HTTP client with Nest-style controllers, DTO validation, and declarative routing.
+* [ngx-signal-query](https://github.com/dhutaryan/ngx-signal-query) - Signal-first data fetching, caching, and mutations for Angular — inspired by TanStack Query.
 
 ### Micro Frontends
 

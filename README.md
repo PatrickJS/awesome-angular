@@ -848,6 +848,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Angular-Material-Tailwind-Integration](https://github.com/adandedjanstephane-git/Angular-Material-Tailwind-Integration) - A stable, themeable set of CSS custom properties mapping Material Design System tokens to Tailwind CSS utility classes.
 * [Material Theme Builder](https://www.materialthemebuilder.com/) - Real-time Angular Material theming for your app.
+* [ng-stylex](https://github.com/design4pro/ng-stylex) - Compiled atomic CSS for Angular, inspired by [StyleX](https://stylexjs.com/).
 * [ngx-angora-css](https://github.com/LynxPardelle/ngx-angora-css) - A JavaScript-based CSS framework that dynamically generates styles on page load.
 * [ngx-classed](https://github.com/lukonik/ngx-classed) - A library allows you to dynamically add or remove classes based on state.
 * [ngx-css](https://github.com/squidit/ngx-css) - An Angular abstraction for [Squid CSS](https://github.com/squidit/css).

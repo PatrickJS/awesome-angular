@@ -2128,6 +2128,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [solanda-ui](https://gitlab.com/federa-social/libraries/solanda-ui) - Minimalist Web Components UI library for Vue, Nuxt, React, Angular, Svelte, and vanilla JavaScript.
 * [xiri-ng](https://github.com/xiriframework/xiri-ng) - A configuration-driven Angular component library where a [Go backend](https://github.com/xiriframework/xiri-go) controls the UI via JSON structures.
 * [crosskit](https://github.com/saeedkolivand/crosskit) - Framework-agnostic UI components that use a single behavior core and stylesheet with adapters for React, Vue, Svelte, and Angular.
+* [ngx-semantic](https://github.com/ngx-semantic/ngx-semantic) - A modern Angular-native idiomatic port of Semantic UI for the Angular ecosystem.
 
 ### UI Libraries built on Bootstrap
 

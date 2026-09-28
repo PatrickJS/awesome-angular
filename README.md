@@ -364,6 +364,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
 * [modern-angular-exercises](https://github.com/kobi-hari-courses/modern-angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
 * [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/angular-interview) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+* [Angular HTTP Cancellation Lab](https://frontendatlas.com/angular/trivia/angular-http-what-actually-cancels-request) - Free interactive lab comparing request cancellation with ignoring stale responses.
 
 ### Training
 

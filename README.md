@@ -588,7 +588,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-ai](https://github.com/Arul1998/ngx-ai) - RxJS-friendly Angular client for OpenAI-compatible chat APIs (OpenAI, xAI Grok, or your own proxy) with first-class streaming.
 * [ngx-ai-devtools](https://github.com/ahmedkhan1/ngx-ai-devtools) -  See every prompt, response, token, and dollar your app spends without leaving the browser tab.
 * [ngx-beautiful-ui](https://github.com/djordjejanjic/ngx-beautiful-ui) - Signal-based Angular components for AI chat interfaces: prompt bar, streaming markdown, thinking states, tool calls and approval cards. Unofficial port of Beautiful UI, no Tailwind or UI framework required.
-* [ngx-bob](https://github.com/scottstraughan/ngx-bob) - Angular chat widget with messaging, local history, error handling, commands, and search.
 * [ngx-gen-ui](https://github.com/alessiopelliccione/ngx-gen-ui) - Lightweight Angular directive and service for streaming generative UI content via Firebase AI.
 * [ngx-json-render](https://github.com/shteynu/ngx-json-render) - Angular renderer for Vercel's json-render — an LLM streams a JSON spec constrained to your component catalog, rendered progressively as real Angular components with signals.
 * [ngx-prompt-kit](https://github.com/PianoNic/ngx-prompt-kit) - Angular components for AI chat interfaces, built on Spartan UI.
@@ -835,14 +834,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-eval](https://github.com/zvenigora/ng-eval) - Expression parsing and evaluation for Angular applications.
 * [ng-noop](https://github.com/joeskeen/ng-noop) - A minimal, DOM‑less Angular platform for custom runtimes, CLIs, servers, and experimental renderers.
 * [ngx-api-mimic](https://github.com/mateuszbilicz/ngx-api-mimic) - This library allows you to mock data and simulate a fake API using Angular’s HTTP Interceptor.
-* [ngx-json-reader](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
 * [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) - Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 * [worker-bridge](https://github.com/hardcopycortex461/worker-bridge/tree/master) - Bridge Angular and React to web workers with simple reactive methods and no boilerplate.
 
 ### SEO
 
 * [@davidlj95/ngx-meta](https://ngx-meta.dev) - Quickly set Angular site metadata (meta tags, Open Graph, X Cards, JSON-LD) with SSR support.
-* [ngx-seo](https://github.com/samvloeberghs/kwerri-oss/tree/main) - Kwerri OSS: samvloeberghs.be + ngx-seo.
 * [Angular React SEO](https://github.com/ganatan/angular-react-seo) - Angular & React Examples SEO (Search engine optimization).
 * [unhead](https://github.com/unjs/unhead) - Full-stack `<head>` management for Angular applications.
 * [ngx-seo-kit](https://github.com/CesurPolat/ngx-seo-kit) - A type-safe SEO toolkit that generates `sitemap.xml` and `robots.txt` files for Angular applications at build time.
@@ -997,7 +994,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-simple-state-management](https://github.com/LionMarc/ng-simple-state-management) - Simple state management implementation for Angular applications.
 * [signaltree](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications.
 * [ngx-simple-signal-store](https://github.com/adamcsk1/ngx-simple-signal-store) - A simple way to create signal stores with a read-only interface.
-* [angulator](https://github.com/angulator-dev/angulator) - A lightweight Angular [mediator](https://refactoring.guru/design-patterns/mediator) library, designed to simplify communication between different parts of your application using a request/response and notification/handler pattern.
 * [ngx-query](https://github.com/CoreSyncHub/ngx-query) - A lightweight, observable-based query library that helps you manage server state, caching, and synchronization between your backend and UI.
 * [@tanstack/angular-db](https://github.com/TanStack/db/tree/main/packages/angular-db) - Angular hooks for TanStack DB, a reactive client store that lets you build fast, sync‑driven apps with a backend‑agnostic real‑time data layer.
 * [usm](https://github.com/unadlib/usm) - A modular state management library compatible with Angular.
@@ -1117,7 +1113,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [sanity-template-angular-clean](https://github.com/sanity-io/sanity-template-angular-clean) - A clean Angular SPA that gets content from [Sanity](https://www.sanity.io/).
 * [angular-templates](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
 * [LightNap](https://github.com/SharpLogic/LightNap) - A full-stack SPA starter kit with `ASP.NET` Core Identity, JWT management, and admin identity features.
-* [Angspire](https://github.com/tbarracha/Angspire) - Angular + `.NET` monorepo template with built-in auth, themes, and a scalable foundation for faster development.
 * [keycloakify-starter-angular-vite](https://github.com/keycloakify/keycloakify-starter-angular-vite) - Angular and Vite Starter for [Keycloakify 11](https://www.keycloakify.dev/).
 * [extreme-angular](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
 * [@wlucha/angular-starter](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
@@ -1324,9 +1319,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-multi-sort-table](https://github.com/Maxl94/ngx-multi-sort-table) - This library features a multiple sortable table based on Angular Material Design, with a focus on server-side loaded and sorted data.
 * [angular2-smart-table](https://github.com/dj-fiorex/angular2-smart-table) - Angular Smart Data Table component.
 * [ngx-flamegraph](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
-* [ng-virtual-grid](https://github.com/DjonnyX/ng-virtual-grid) - Maximum performance for extremely large grids.
 * [ngx-simple-datatables](https://github.com/rinturaj/ngx-simple-datatables) - A lightweight, high-performance Angular data table component with features like virtual scrolling, column freezing, and customizable templates.
-* [ngx-list-manager](https://github.com/RzoDev/ngx-list-manager) - An Angular service tool to manage lists efficiently.
 * [cerious-grid](https://github.com/ryoucerious/cerious-widgets) - A seriously powerful Angular grid for developers who demand control, flexibility, and performance.
 * [ngxsmk-datatable](https://github.com/toozuuu/ngxsmk-datatable) - Modern Angular 17+ datatable focused on performance, customization, and developer experience.
 * [ngx-column-filter](https://github.com/kakarotx10/ngx-column-filter) - A powerful, reusable Angular column filter component with support for multiple field types, advanced filtering rules, and customizable match modes.
@@ -1397,7 +1390,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-overflow-reveal](https://github.com/hosembafer/ngx-overflow-reveal) - An Angular directive that elegantly reveals truncated text on hover.
 * [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
 * [ngx-speech-button](https://github.com/JayChase/ngx-speech-button) - An Angular directive that provides an easy-to-use wrapper for the Web Speech API, enabling voice input functionality with minimal setup.
-* [ngxture](https://github.com/gianpierreVelasquez/ngxture) - A lightweight and modular Angular library that provides ready-to-use animations and gesture directives.
 * [ngx-mat-menu-hover](https://github.com/Gamekohl/ngx-mat-menu-hover) - This Angular directive provides functionality to handle hover menu behavior, allowing menus to open when hovered over and close when the mouse leaves.
 * [ngx-highlight](https://github.com/SynTronic/ngx-highlight) - Angular directives for highlighting search matches in text, built on the [CSS Custom Highlight API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Custom_Highlight_API).
 * [ngx-liquid-glass](https://github.com/anushsharma27/ngx-liquid-glass) - Angular directive for Apple-inspired liquid glass effects with DOM-backed refraction and configurable edges.
@@ -1442,7 +1434,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Editors
 
-* [Angular-JSON-Tree-Editor-Component](https://github.com/stefonalfaro/Angular-JSON-Tree-Editor-Component) - Angular JSON Tree Editor Component that actually works.
 * [@acrodata/code-editor](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
 * [angular2-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg) - Angular wrapper for Froala WYSIWYG HTML Editor.
 * [ckeditor](https://ckeditor.com/docs/ckeditor5/latest/installation/getting-started/frameworks/angular.html) - Plugin for Angular.
@@ -1714,9 +1705,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [berg-layout](https://github.com/blidblid/berg-layout) - This monorepo contains versions of the [Berg Layout for Angular](https://www.npmjs.com/package/@berg-layout/angular), React, and Web Components.
 * [static-columns](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
 * [ngx-flex-layout](https://github.com/jtc10005/ngx-flex-layout) - Port of [Angular Flex Layout](https://github.com/angular/flex-layout) to provide support after EOL.
-* [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - A tiny library for polymorphic templates in Angular.
+* [polymorpheus](https://github.com/taiga-family/polymorpheus) - A tiny library for polymorphic templates in Angular.
 * [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
-* [ngx-zoomable](https://github.com/json-k/ngx-zoomable) - A zoomable, pannable container component for Angular applications.
 * [ngx-material-drawer](https://github.com/ansarisufiyan777/ngx-material-drawer) - Configurable Angular Material Drawer and Toolbar.
 * [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Simple Angular Grid Module for modern grid layouts.
 * [ng-flex-layout](https://github.com/alessiobianchini/ng-flex-layout) - Angular library that provides a responsive, flexible layout API built on Flexbox and mediaQuery observables.
@@ -2050,7 +2040,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [popover](https://github.com/ncstate-sat/popover) - Angular popover component.
 * [ngx-tooltip-directives](https://github.com/mkeller1992/ngx-tooltip-directives) - Library with three tooltip directives (string, HTML, template), inspired by [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
-* [@babybeet/angular-tooltip](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
 * [ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular wrapper for [Tippy.js](https://github.com/atomiks/tippyjs).
 * [ngx-smart-tooltip](https://github.com/techasif/ngx-smart-tooltip) - A lightweight, customizable tooltip library for Angular 18 that uses signals, the Web Animations API, and OnPush change detection.
 * [angular-tooltips](https://github.com/h-k-dev/angular-tooltips) - Modern, lightweight Angular tooltips using a single CSS‑anchored popover element with no overlays, no scroll listeners, and no per‑trigger DOM.
@@ -2195,7 +2184,6 @@ for the creation of web applications developed with Angular.
 * [semantic-components](https://github.com/gridatek/semantic-components) - Modular Angular CDK + Tailwind UI elements with semantic HTML, full accessibility, and lightweight flexibility.
 * [simui](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
 * [starting-point-ui](https://github.com/gufodotdev/starting-point-ui) - Framework‑agnostic Tailwind CSS components inspired by shadcn/ui, fully compatible with Angular.
-* [synerity-ui](https://github.com/synerity-ai/synerity-ui) - Enterprise‑grade Angular 20+ library with 90+ accessible, performant Tailwind‑styled components for modern apps.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, customizable, fully responsive Tailwind CSS components, templates, and tools for your projects.
 * [tailng](https://github.com/tociva/tailng) - Angular components styled with Tailwind to achieve a Material‑like look.
 * [volt-ui](https://github.com/Andersseen/volt-ui) - Fully accessible, themeable Angular components built with signals, Tailwind CSS v4, CVA, and `ng-primitives`.
@@ -2215,7 +2203,6 @@ for the creation of web applications developed with Angular.
 * [ionic-angular-collect-icons](https://github.com/rdlabo-team/ionic-angular-collect-icons) - Library to group ionIcons and auto‑generate export files, simplifying addIcons() management in small projects.
 * [IDEA-Ionic8-extra](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
 * [ionic-header-parallax](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
-* [ionic-state](https://github.com/godenji/ionic-state) - Provides utilities for working with state in Ionic applications.
 * [ionx-search-select](https://github.com/kisimediaDE/ionx-search-select) - Modern Angular/Ionic search & select with standalone components, signals, and full `ControlValueAccessor` support.
 * [ionic-insta-api-wrapper](https://github.com/appit-online/ionic-insta-api-wrapper) - Lightweight Ionic/Cordova library for fetching Instagram content (Stories, Reels, posts, profiles) with login and cookie support.
 * [ionic-adv-tooltip](https://github.com/PhaZRic/ionic-adv-tooltip) - Media rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
@@ -2243,7 +2230,6 @@ for the creation of web applications developed with Angular.
 * [ngx-omniview](https://github.com/binapani-edu/ngx-omniview) - An all-in-one content viewer for Angular that seamlessly displays raw string inputs as Plain Text, HTML, Markdown, LaTeX, MathJax, JSON, and more—using just a single component.
 * [ngx-profile-comparison](https://github.com/singharsh0/ngx-profile-comparison) - A high-quality, production-ready Angular component library that visually compares two user profiles by highlighting their similarities and differences.
 * [ngx-serial-console](https://github.com/binuud/ngx-serial-console) - Angular component and service to monitor output from a serial device.
-* [ngx-universal-viewer](https://github.com/Imishu29/ngx-universal-viewer) - An Angular component for viewing PDFs, Word, Excel, and PowerPoint files in continuous scroll or page-by-page modes.
 * [ngx-voyage](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 * [ngx-file-peek](https://github.com/valtonngara/ngx-file-peek) - An Angular standalone component library that renders real file content as thumbnails from any URL or storage source.
 * [ngx-json-explorer](https://github.com/Swaraj55/ngx-json-explorer) - An interactive, fully-customizable Angular JSON tree component featuring inline editing, search, and comprehensive option-based configuration.
@@ -2306,7 +2292,6 @@ for the creation of web applications developed with Angular.
 * [trpc](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 * [ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place.
 * [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
-* [ts-serializer](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed TypeScript classes.
 * [tsconfig](https://github.com/smartrecruiters/tsconfig) - SmartRecruiters' tsconfig contains all strict rules and improves your project type-safety.
 * [typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript.
 * [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
@@ -2399,7 +2384,6 @@ for the creation of web applications developed with Angular.
 * [ngx-pendo](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
 * [ngx-pixel-code](https://github.com/Dev-AlienX/ngx-pixel-code/tree/main/ngx-pixel-code) - Standalone Angular `highlight.js` wrapper featuring dynamic theme loading and custom styles.
 * [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript).
-* [ngx-serializer](https://github.com/paddls/ngx-serializer) - Angular wrapper of `@paddls/ts-serializer` library.
 * [ngx-simple-text-diff](https://github.com/jjtortosa/ngx-simple-text-diff) - Angular library for displaying text differences using the [diff](https://www.npmjs.com/package/diff) library.
 * [ngx-socket-io](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 * [ngx-tagify](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify](https://github.com/yaireo/tagify/).

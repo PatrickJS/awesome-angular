@@ -232,7 +232,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official Ionic GitHub repository](https://github.com/ionic-team/ionic-framework)
 * [Capacitor](https://github.com/ionic-team/capacitor) - The official cross-platform native runtime that powers modern Ionic applications.
 * [Ionic Academy](https://ionicacademy.com/) - The fastest way to learn Ionic.
-* [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
+* [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create next-level native web applications.
 * [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
 * [awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 * [ionic-angular-library](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
@@ -241,7 +241,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ionic-header-parallax](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
 * [ionx-search-select](https://github.com/kisimediaDE/ionx-search-select) - Modern Angular/Ionic search & select with standalone components, signals, and full `ControlValueAccessor` support.
 * [ionic-insta-api-wrapper](https://github.com/appit-online/ionic-insta-api-wrapper) - Lightweight Ionic/Cordova library for fetching Instagram content (Stories, Reels, posts, profiles) with login and cookie support.
-* [ionic-adv-tooltip](https://github.com/PhaZRic/ionic-adv-tooltip) - Media rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
+* [ionic-adv-tooltip](https://github.com/PhaZRic/ionic-adv-tooltip) - Media-rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
 * [PushApp-Capacitor](https://github.com/mehery-soccom/PushApp-Capacitor) - A Capacitor plugin for push notifications, in-app messaging, event tracking, and session handling in Ionic/Angular/Capacitor apps.
 * [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
 

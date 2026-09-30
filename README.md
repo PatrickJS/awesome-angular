@@ -1563,6 +1563,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [formular.dev](https://github.com/binaryjack/formular.dev) - An advanced, high-performance, schema-first form management and validation engine for modern TypeScript and JavaScript applications.
 * [formisch](https://github.com/open-circle/formisch) - A schema-based, headless JS form library that delivers fast, type-safe state management and validation within a lightweight, modular bundle.
 * [form-nodes](https://github.com/gastonmesseri/form-nodes) - Typed Signal-based forms for Angular.
+* [@ngx-signal-forms/toolkit](https://github.com/ngx-signal-forms/ngx-signal-forms) - An Angular signal form wrapper that manages error timing, automatic ARIA accessibility wiring, warnings, focus management, hints, and custom CSS theming.
 
 ### Form Controls
 

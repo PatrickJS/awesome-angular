@@ -547,6 +547,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ulam](https://github.com/mikeyil/ulam) - Accessibility utilities for the modern web. Vanilla-first, with optional React, Remix, Vue, and Angular adapters.
 * [aria-reach](https://github.com/manichandra/aria-reach) - ARIA accessibility anti-pattern analyzer for shared component libraries.
 * [rgaa-source](https://github.com/oussamaLaribi/RGAA) - Axe-core accessibility scanner mapping violations directly to source template lines. Features safe auto-fixes and French RGAA 4.1.2 audit grids.
+* [a11y-devtools](https://github.com/ngbracket/a11y-devtools) - Dev-only accessibility devtools overlay/scanner for Angular.
 
 ### AI
 

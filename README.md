@@ -22,6 +22,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [CLI Tools](#cli-tools)
   * [Deployment](#deployment)
   * [Desktop Applications](#desktop-applications)
+  * [Mobile Applications](#mobile-applications)
   * [Updating Angular](#updating-angular)
 * [Angular Pulse](#angular-pulse)
   * [Community](#community)
@@ -122,7 +123,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [UI Libraries built on Bootstrap](#ui-libraries-built-on-bootstrap)
   * [UI Libraries built on Material](#ui-libraries-built-on-material)
   * [UI Libraries built on Tailwind CSS](#ui-libraries-built-on-tailwind-css)
-  * [UI Library and Framework Ionic](#ui-library-and-framework-ionic)
   * [UI Primitives](#ui-primitives)
   * [Viewers](#viewers)
   * [Visual Effects](#visual-effects)
@@ -223,6 +223,27 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 * [wails](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
 * [MōBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps using TypeScript, HTML, and CSS, with source code protection built in.
+
+### Mobile Applications
+
+* [ng-native](https://github.com/ng-native/ng-native) - Angular apps rendered as real native iOS and Android views.
+* [symbiote-native](https://github.com/OneEyed1366/symbiote-native) - A stable native runtime utilizing React Native's core engine to drive real iOS/Android stacks directly from Angular.
+* [Official Ionic website](https://ionicframework.com)
+* [Official Ionic GitHub repository](https://github.com/ionic-team/ionic-framework)
+* [Capacitor](https://github.com/ionic-team/capacitor) - The official cross-platform native runtime that powers modern Ionic applications.
+* [Ionic Academy](https://ionicacademy.com/) - The fastest way to learn Ionic.
+* [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
+* [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
+* [awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
+* [ionic-angular-library](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
+* [ionic-angular-collect-icons](https://github.com/rdlabo-team/ionic-angular-collect-icons) - Library to group ionIcons and auto‑generate export files, simplifying addIcons() management in small projects.
+* [IDEA-Ionic8-extra](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
+* [ionic-header-parallax](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
+* [ionx-search-select](https://github.com/kisimediaDE/ionx-search-select) - Modern Angular/Ionic search & select with standalone components, signals, and full `ControlValueAccessor` support.
+* [ionic-insta-api-wrapper](https://github.com/appit-online/ionic-insta-api-wrapper) - Lightweight Ionic/Cordova library for fetching Instagram content (Stories, Reels, posts, profiles) with login and cookie support.
+* [ionic-adv-tooltip](https://github.com/PhaZRic/ionic-adv-tooltip) - Media rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
+* [PushApp-Capacitor](https://github.com/mehery-soccom/PushApp-Capacitor) - A Capacitor plugin for push notifications, in-app messaging, event tracking, and session handling in Ionic/Angular/Capacitor apps.
+* [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
 
 ### Updating Angular
 
@@ -2194,24 +2215,6 @@ for the creation of web applications developed with Angular.
 * [Ply](https://github.com/ply-ui-ng/ply) - CLI-first Angular + Tailwind copy-in component library (formerly Base UI (Angular)): `npx ply-ui-cli add` copies source into your repo. 127 free MIT components; Pro stays paid. Docs at [ply-ui.com](https://ply-ui.com). Not MUI Base UI (React).
 * [ngnova-ui](https://github.com/chiragpatel273/ngnova-ui) - Angular 22 component library built with standalone components, focused package entry points, accessible interaction contracts, and Tailwind CSS theming.
 
-### UI Library and Framework Ionic
-
-* [Official website](https://ionicframework.com)
-* [Official GitHub repository](https://github.com/ionic-team/ionic-framework)
-* [Ionic Academy](https://ionicacademy.com/) - The fastest way to learn Ionic.
-* [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
-* [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
-* [awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
-* [ionic-angular-library](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
-* [ionic-angular-collect-icons](https://github.com/rdlabo-team/ionic-angular-collect-icons) - Library to group ionIcons and auto‑generate export files, simplifying addIcons() management in small projects.
-* [IDEA-Ionic8-extra](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
-* [ionic-header-parallax](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
-* [ionx-search-select](https://github.com/kisimediaDE/ionx-search-select) - Modern Angular/Ionic search & select with standalone components, signals, and full `ControlValueAccessor` support.
-* [ionic-insta-api-wrapper](https://github.com/appit-online/ionic-insta-api-wrapper) - Lightweight Ionic/Cordova library for fetching Instagram content (Stories, Reels, posts, profiles) with login and cookie support.
-* [ionic-adv-tooltip](https://github.com/PhaZRic/ionic-adv-tooltip) - Media rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
-* [PushApp-Capacitor](https://github.com/mehery-soccom/PushApp-Capacitor) - A Capacitor plugin for push notifications, in-app messaging, event tracking, and session handling in Ionic/Angular/Capacitor apps.
-* [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
-
 ### UI Primitives
 
 * [ng-primitives](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
@@ -2368,7 +2371,6 @@ for the creation of web applications developed with Angular.
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - [IO Connect](https://interop.io/) Angular wrapper to simplify initializing and using IO Connect libraries in projects.
 * [ng-elementum](https://github.com/MillerSvt/ng-elementum) - A modern fork of `@angular/elements` that enhances the integration of Angular components with the Web Components standard.
 * [ngfire](https://github.com/qarapace/ngfire) - A minimal Angular wrapper around the Firebase JS SDK.
-* [ng-native](https://github.com/ng-native/ng-native) - Angular apps rendered as real native iOS and Android views.
 * [ng-number-flow](https://github.com/phalla-doll/ng-number-flow) - Angular wrapper around [number-flow](https://github.com/barvian/number-flow) — an accessible, animated number component.
 * [ngx-apexgantt](https://github.com/apexcharts/ngx-apexgantt) - Angular wrapper for [ApexGantt](https://github.com/apexcharts/apexgantt), a JavaScript library to create Gantt diagrams built on SVG.
 * [ngx-apexsankey](https://github.com/apexcharts/ngx-apexsankey) - Angular wrapper for [ApexSankey](https://github.com/apexcharts/apexsankey) - A JavaScript library to create Sankey diagrams.

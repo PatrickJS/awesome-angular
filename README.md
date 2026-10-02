@@ -1505,6 +1505,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [svg-engine](https://github.com/mosaicoo/svg-engine) - An embeddable, headless-first SVG editor built on Angular signals.
 * [Updog](https://docs.updog.tech/getting-started/other-frameworks/) - A client-side data importer and spreadsheet editor.
 * [trevixal-editor](https://github.com/adityabhalsod/trevixal-editor) - An independent, custom-engineered WYSIWYG rich-text engine with an Angular integration.
+* [kritzel](https://github.com/kasual1/kritzel) - Infinite canvas editor with first-class support for Angular.
 
 ### File Upload
 

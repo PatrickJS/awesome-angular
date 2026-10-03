@@ -2154,6 +2154,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [xiri-ng](https://github.com/xiriframework/xiri-ng) - A configuration-driven Angular component library where a [Go backend](https://github.com/xiriframework/xiri-go) controls the UI via JSON structures.
 * [crosskit](https://github.com/saeedkolivand/crosskit) - Framework-agnostic UI components that use a single behavior core and stylesheet with adapters for React, Vue, Svelte, and Angular.
 * [ngx-semantic](https://github.com/ngx-semantic/ngx-semantic) - A modern Angular-native idiomatic port of Semantic UI for the Angular ecosystem.
+* [@tooark/web-components](https://github.com/Tooark/web-components) - A framework-agnostic component library built on native Web Components with first-class wrappers for React, Vue, and Angular.
 
 ### UI Libraries built on Bootstrap
 

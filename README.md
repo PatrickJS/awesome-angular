@@ -605,6 +605,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
 * [glama](https://glama.ai/mcp/servers?query=angular) - Directory of MCP servers filtered for Angular-related entries.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) - Framework for building joyful, AI-powered user experiences.
+* [MacroQuest](https://github.com/Soverius-AI/angular-a2ui-macroquest) - An Angular demo application showcasing CopilotKit Angular A2UI, CopilotKit chat controls, NgRx Signal Store, and a local Gemma 4 model server.
 * [mushi-mushi](https://github.com/kensaurus/mushi-mushi) - Plain-English AI app debugger delivering in-editor diagnoses and fixes.
 * [ngAutoPilot](https://github.com/janpereira-dev/ngAutoPilot) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
 * [ng-agentic-skills](https://github.com/L-X-T/ng-agentic-skills) - Agent skills for Angular development. The official companion repo for the [Agentic Engineering series](https://www.angulararchitects.io/blog/best-llms-for-angular/).

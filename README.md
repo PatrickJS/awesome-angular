@@ -1629,6 +1629,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-libs-workspace](https://github.com/dineeek/ngx-libs-workspace) - A small family of reactive form controls—built on Signal Forms, customizable via CSS custom properties, and free of Angular Material, Angular CDK, and `ControlValueAccessor`.
 * [@some-angular-utils/date-range-picker](https://github.com/some-angular-utils/date-range-picker) - A date range picker that drops straight into your reactive forms.
 * [ng-jvx-multiselect](https://github.com/giovanni-venturelli/ng-jvx-multiselect) - Angular-based select supporting single/multiple selection and asynchronous options.
+* [ngx-bootstrap-icons-picker](https://github.com/gdgvda/ngx-bootstrap-icons-picker) - This icon picker manages the free, high quality, open source [Bootstrap Icons](https://icons.getbootstrap.com/) library.
 
 ### JSON Forms
 

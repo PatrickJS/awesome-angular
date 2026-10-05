@@ -681,6 +681,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-locator](https://github.com/Ea-st-ring/ngx-locator) - Angular development utility to open components and templates from the browser like [LocatorJS](https://www.locatorjs.com/).
 * [oxc-angular-compiler](https://github.com/voidzero-dev/oxc-angular-compiler) - A high-performance Angular template compiler written in Rust, leveraging the [Oxc](https://github.com/oxc-project/oxc) infrastructure for blazing-fast compilation.
 * [ts-analyzer](https://github.com/amir-valizadeh/ts-analyzer) - A comprehensive TypeScript codebase analyzer that provides detailed metrics on type safety, code complexity, and quality.
+* [ui-manifest](https://github.com/BrainRidge/ui-manifest) - Generate a single, unified JSON schema that maps out routes, components, and UI element trees (including conditional logic) from both Angular and React source code.
 
 ### Debugging
 

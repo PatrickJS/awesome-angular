@@ -861,6 +861,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-eval](https://github.com/zvenigora/ng-eval) - Expression parsing and evaluation for Angular applications.
 * [ng-noop](https://github.com/joeskeen/ng-noop) - A minimal, DOM‑less Angular platform for custom runtimes, CLIs, servers, and experimental renderers.
 * [ngx-api-mimic](https://github.com/mateuszbilicz/ngx-api-mimic) - This library allows you to mock data and simulate a fake API using Angular’s HTTP Interceptor.
+* [ngx-runtime-config](https://gitlab.com/nxt/public/ngx-runtime-config) - This project provides a way to load runtime configuration for an Angular application from a remote endpoint during the initialization of Angular.
 * [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) - Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 * [worker-bridge](https://github.com/hardcopycortex461/worker-bridge/tree/master) - Bridge Angular and React to web workers with simple reactive methods and no boilerplate.
 

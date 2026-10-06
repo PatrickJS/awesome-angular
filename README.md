@@ -2090,6 +2090,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [zardui](https://github.com/zard-ui/zardui) - Collection of beautiful, accessible Angular components based on [shadcn-ui](https://github.com/shadcn-ui/ui) and NG‑ZORRO, fully open source and free.
 * [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 * [optimus-ui](https://github.com/openng-org/optimus-ui) - A fork of [PrimeNG](https://github.com/primefaces/primeng).
+* [angulux](https://github.com/anguless-com/angulux) - Angular 22 UI component library — a curated community fork of the last MIT release of PrimeNG.
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.
 * [Taiga UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular!
 * [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library.

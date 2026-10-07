@@ -2257,6 +2257,7 @@ for the creation of web applications developed with Angular.
 * [ngx-json-explorer](https://github.com/Swaraj55/ngx-json-explorer) - An interactive, fully-customizable Angular JSON tree component featuring inline editing, search, and comprehensive option-based configuration.
 * [ngx-superlite-img-viewer](https://github.com/david-marquez-44/ngx-superlite-img-viewer) - An ultra-lightweight Angular library designed to display image galleries in a fast and intuitive viewer.
 * [file-preview-viewer](https://github.com/patelsumit5192/file-preview-viewer) - Universal client-side file preview library for web, React, Angular, and Vue.
+* [ooxml](https://github.com/ChristopherVR/ooxml) - Client-side TypeScript library and ready-made Angular editors to open, edit, validate, and save Office and Visio documents entirely in the browser without a backend.
 
 ### Visual Effects
 

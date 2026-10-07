@@ -697,6 +697,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [form-lens-angular](https://github.com/hebertdelima13/form-lens-angular) - Inspect form structure, control state, validation errors, and nested form trees directly inside your app during development.
 * [allstak-angular](https://github.com/AllStak/allstak-angular) - Captures exceptions, logs, navigation, HTTP requests, and render timings with standalone and NgModule support.
 * [inspect-value](https://github.com/HuakunShen/inspect-value) - Web Component value inspector — works in React, Vue, Angular, Svelte, or vanilla JavaScript.
+* [ng-perf-inspector](https://github.com/VitalieCondorache/ng-perf-inspector) - A lightweight debugging and performance monitoring toolkit for modern Angular applications.
 
 ### Documentation Tools
 

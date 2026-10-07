@@ -2163,6 +2163,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [crosskit](https://github.com/saeedkolivand/crosskit) - Framework-agnostic UI components that use a single behavior core and stylesheet with adapters for React, Vue, Svelte, and Angular.
 * [ngx-semantic](https://github.com/ngx-semantic/ngx-semantic) - A modern Angular-native idiomatic port of Semantic UI for the Angular ecosystem.
 * [@tooark/web-components](https://github.com/Tooark/web-components) - A framework-agnostic component library built on native Web Components with first-class wrappers for React, Vue, and Angular.
+* [OGE UI](https://github.com/oge-ui/oge-ui) - Signal-based, zoneless Angular components (also native React): virtualized Data Grid, Tree List, Pivot Grid, Charts, Scheduler, Gantt, Kanban, BPMN modeler, rich-text editor, inputs and forms; SSR-ready, axe-tested against WCAG 2.2 AA, ten locale packs. [Documentation](https://www.ogeui.com), [npm](https://www.npmjs.com/package/oge-ui).
 
 ### UI Libraries built on Bootstrap
 

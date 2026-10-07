@@ -1292,6 +1292,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - A thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [Foblex Flow](https://github.com/Foblex/f-flow) - Angular-native library for node editors, workflow builders and interactive diagrams: drag-and-drop nodes and connections, minimap, auto-layout, virtualization, and a keyboard accessibility layer.
 * [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
+* [mayacharts](https://github.com/BbekShr/mayacharts) - A framework-agnostic, zero-dependency web component that renders beautiful, accessible charts in just a few lines of code, powered entirely by the browser.
 * [michi-vz-mono](https://github.com/beany-vu/michi-vz-mono) - One engine powering 17 interactive, accessible chart types with seamless support for Angular and more, all emitting LLM‑ready data for reports, dashboards, and AI features.
 * [mochart-angular](https://github.com/mocharts/mochart/blob/main/packages/mochart-angular/README.md) - Angular components for the [@mochart/core](https://github.com/mocharts/mochart) charting library.
 * [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations.

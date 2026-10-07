@@ -1950,6 +1950,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-retoast](https://github.com/EliasVal/ngx-retoast) - A rewrite of the archived `ngx-toastr` library, designed for modern Angular applications.
 * [snackng](https://github.com/xgreymx/snackng) - Toasts for Angular with a glass design, zero UI dependencies and CSS-variable theming.
 * [toastify-all](https://github.com/VeereshPoojari/toastify-all) - Universal, modern toast notification engine for all JavaScript frameworks and platforms.
+* [ngx-toastf](https://github.com/darioegb/ngx-toast) - A lightweight, standalone-first toast notification service for Angular that requires zero template markup or `ViewContainerRef`.
 
 ### Onboarding and Product Tours
 

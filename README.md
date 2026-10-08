@@ -1635,6 +1635,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@some-angular-utils/date-range-picker](https://github.com/some-angular-utils/date-range-picker) - A date range picker that drops straight into your reactive forms.
 * [ng-jvx-multiselect](https://github.com/giovanni-venturelli/ng-jvx-multiselect) - Angular-based select supporting single/multiple selection and asynchronous options.
 * [ngx-bootstrap-icons-picker](https://github.com/gdgvda/ngx-bootstrap-icons-picker) - This icon picker manages the free, high quality, open source [Bootstrap Icons](https://icons.getbootstrap.com/) library.
+* [@telixon/angular](https://github.com/martsinlabs/telixon) - A phone field as a directive on your own input, with a region picker, formatting as you type, E.164 in the model, and validation matching Google libphonenumber. Supports reactive forms, Signal Forms, and Angular Material.
 
 ### JSON Forms
 

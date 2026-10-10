@@ -452,6 +452,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-circuit](https://github.com/pjlamb12/ngx-circuit) - Streamlines feature‑toggle management with flexible options like boolean flags and percentage rollouts.
 * [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) - Simplify managing feature toggles with this Angular directive.
 * [@rollgate/sdk-angular](https://github.com/rollgate/sdks/tree/main/packages/sdk-angular) - Angular SDK for [Rollgate](https://rollgate.io), a feature‑flag platform with scheduled releases and gradual rollouts.
+* [flagtide](https://github.com/adiyy2001/flagtide) - A self-hosted feature flag service built with a Quarkus backend that pushes real-time updates via WebSockets to an Angular SDK for server-consistent local evaluation.
 
 ### GraphQL
 

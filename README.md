@@ -2172,6 +2172,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-semantic](https://github.com/ngx-semantic/ngx-semantic) - A modern Angular-native idiomatic port of Semantic UI for the Angular ecosystem.
 * [@tooark/web-components](https://github.com/Tooark/web-components) - A framework-agnostic component library built on native Web Components with first-class wrappers for React, Vue, and Angular.
 * [OGE UI](https://github.com/oge-ui/oge-ui) - Angular components (with a React version) for data-heavy apps: data grid, inputs and forms under MIT, plus paid pivot, charts, scheduler and Gantt. [Docs and demos](https://www.ogeui.com).
+* [kiln-ui](https://github.com/arafatomer66/kiln-ui) - An Angular component library inspired by Bangladeshi visual heritage.
 
 ### UI Libraries built on Bootstrap
 

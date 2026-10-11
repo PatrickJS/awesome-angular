@@ -766,6 +766,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [momentum-cms](https://github.com/DonaldMurillo/momentum-cms) - An Angular-based headless CMS. Define collections in TypeScript, auto-generate an Admin UI, REST API, and database schema.
 * [ng-openapi-signals](https://github.com/ynnckrkn/ng-openapi-signals) - Signal-first OpenAPI client generator for Angular using `resource()` and `fetch()`.
 * [NGX View Builder](https://ngxviewbuilder.io/) - Drag-and-drop low-code builder to visually design entire pages, dashboards, and forms rendered natively via JSON.
+* [openapi-ng](https://github.com/AVSystem/openapi-ng) - Generate TypeScript models and Angular services from OpenAPI 3.x specs — fast, deterministic, Rust-powered.
 
 ### Internationalization
 

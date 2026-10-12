@@ -2461,6 +2461,7 @@ for the creation of web applications developed with Angular.
 * [@dmytrodemchenko/Signals](https://github.com/dmytrodemchenko/Signals) - Zero‑dependency, glitch‑free reactive signals for TypeScript and JavaScript using an optimized Angular‑inspired push/pull architecture.
 * [sigsharp](https://github.com/bowlerhats/sigsharp) - A computational dependency library for .Net inspired by Angular signals.
 * [sio](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
+* [Socketeer](https://github.com/lookMyCode/Socketeer) - Structured, decorator-free WebSocket framework featuring native typing and an architecture inspired by NestJS and Angular patterns (controllers, pipes, guards).
 * [UnReact.js](https://github.com/arnvjshi/unreactpjs) - A modern framework combining the best of Angular and React for enhanced component communication.
 * [use-component-store](https://github.com/jalbr74/use-component-store) - Provides a bare minimum implementation of a component store for React using RxJS.
 * [use-vue-service](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.

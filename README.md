@@ -1579,6 +1579,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [form-nodes](https://github.com/gastonmesseri/form-nodes) - Typed Signal-based forms for Angular.
 * [@ngx-signal-forms/toolkit](https://github.com/ngx-signal-forms/ngx-signal-forms) - An Angular signal form wrapper that manages error timing, automatic ARIA accessibility wiring, warnings, focus management, hints, and custom CSS theming.
 * [fieldia](https://github.com/fieldia-dev/fieldia) - A form engine and form builder for JavaScript: one JSON page format, rendered in Angular, React, Vue or plain JavaScript, from a simple survey to a full ERP screen.
+* [formancy.ai](https://github.com/sharkysan/formancy.ai) - An open-source visual form builder for Angular and React.
 
 ### Form Controls
 

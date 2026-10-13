@@ -2459,6 +2459,7 @@ for the creation of web applications developed with Angular.
 * [semantic-react-cli](https://github.com/ashmit152000/semantic-react-cli) - A CLI tool that scaffolds React components, inspired by Angular's `ng generate`.
 * [@coregx/signals](https://github.com/coregx/signals) - Type-safe reactive state management for Go, inspired by Angular Signals.
 * [@dmytrodemchenko/Signals](https://github.com/dmytrodemchenko/Signals) - Zero‑dependency, glitch‑free reactive signals for TypeScript and JavaScript using an optimized Angular‑inspired push/pull architecture.
+* [@woubuc/signals](https://github.com/woubuc/signals) - A simple standalone signals implementation, inspired by Angular.
 * [sigsharp](https://github.com/bowlerhats/sigsharp) - A computational dependency library for .Net inspired by Angular signals.
 * [sio](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 * [Socketeer](https://github.com/lookMyCode/Socketeer) - Structured, decorator-free WebSocket framework featuring native typing and an architecture inspired by NestJS and Angular patterns (controllers, pipes, guards).

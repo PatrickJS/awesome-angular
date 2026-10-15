@@ -2065,6 +2065,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-scrollspy](https://github.com/uniprank/ngx-scrollspy) - Angular Scroll Spy Service with events.
 * [ngx-virtual-grid](https://github.com/theryansmee/ngx-virtual-grid) - A responsive, virtual‑scrolling Angular grid that supports infinite loading, uses CSS Grid, automatically measures item sizes, and renders only the visible elements.
 * [ngx-cerious-scroll](https://github.com/ceriousdevtech/ngx-cerious-scroll) - Angular bindings for [Cerious Scroll](https://github.com/ceriousdevtech/cerious-scroll), a high-performance virtual scrolling implementation.
+* [ngx-virtual-dnd](https://github.com/gultyayev/ngx-virtual-dnd) - Angular drag and drop for virtual scrolling.
 
 ### Storage
 

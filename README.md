@@ -782,6 +782,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [i18n-egy](https://github.com/abdelfattahqandil21-oss/i18n-egy) - A modern, lightweight, and tree-shakable Angular internationalization library powered by Signals that is safe for server-side rendering.
 * [i18n-keygen](https://github.com/gagle/i18n-keygen) - Type-safe i18n keys for every build tool. One package, zero lock-in.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
+* [KeyLint](https://github.com/Wigtertainment-Ltd/key-lint) - Catch missing, unused and inconsistent Angular translation keys before they reach production.
 * [langsync](https://github.com/mariokreitz/langsync) - CLI tooling for localization workflows in TypeScript projects.
 * [localess](https://github.com/Lessify/localess) - A powerful translation management tool and content management system built using Angular and Firebase.
 * [localive](https://github.com/Arigatouz/localive) - Update text directly inside running React, Vue, Angular, or Svelte apps, saving changes instantly to your locale files without searching JSON keys.

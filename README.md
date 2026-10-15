@@ -1413,6 +1413,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-date-hour-range-selector](https://github.com/deciosfernandes/ng-date-hour-range-selector) - A flexible Angular date / date-time range selector built on Angular CDK Overlay.
 * [ngx-pm-wheel-date-picker](https://github.com/PeymanMH/ngx-pm-wheel-date-picker) - Angular wheel-style date and time picker for the Jalali (Persian) calendar.
 * [ngx-mat-datetime-panel](https://github.com/VlV-515/ngx-mat-datetime-panel) - A compact, single-view date and time picker for Angular Material 21+.
+* [ngx-daterangepicker-material](https://github.com/fetrarij/ngx-daterangepicker-material) - Date range picker with predefined ranges, a time picker and a Material look, for Angular 16+ with SSR and zoneless support.
 
 ### Directives
 

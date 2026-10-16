@@ -672,6 +672,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [bundleradar](https://github.com/sonuKumar03/bundleradar) - Lightning-fast bundle inspector, dependency tracer, optimization advisor, and CI budget gate for Angular esbuild.
 * [compuse](https://github.com/jakub-hajduk/compuse) - Unified API for analyzing Angular component usage across your codebase.
 * [enola](https://github.com/enola-labs/enola) - Architecture intelligence for developers, coding agents, and CI - understand codebases, analyze change impact, and catch architectural regressions.
+* [ide-byebye](https://github.com/bo-516/ide-byebye) - Click an element in the running app, describe the change, and send its template source location to AI coding agents such as Claude Code, Codex and Cursor.
 * [modulens](https://github.com/sinanyilmaz0/modulens) - A suite of architecture, structure, and quality analysis tools for frontend workspaces.
 * [ngcompass](https://github.com/RoadmapDevelop/ngcompass) - Angular-aware static analysis for architecture, performance, SSR, security, and code quality.
 * [ng-di-graph](https://github.com/m-yoshiro/ng-di-graph) - A command-line tool that analyzes Angular TypeScript codebases to extract dependency injection relationships.

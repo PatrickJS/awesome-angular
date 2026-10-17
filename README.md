@@ -723,6 +723,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [GraphLens](https://github.com/GraphLens/graphlens) - Interactive architecture visualizer for Angular projects.
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
 * [mini-typescript-hero](https://github.com/angular-schule/mini-typescript-hero) - A lightweight, modern VSCode extension that automatically manages your import statements.
+* [ng-tab-grouper](https://github.com/marfrede/ng-tab-grouper) - Keeps the files of an Angular component next to each other in your tab bar.
 * [ngx-html-syntax](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [Sublime Text](https://www.sublimetext.com/).
 * [ngx-translatorex](https://github.com/MarcinKurylo/ngx-translatorex) - A VS Code extension that extracts hard-coded strings from Angular templates and components into `ngx-translate` i18n keys.
 * [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
@@ -1300,7 +1301,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-draw-flow](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes.
 * [ng-flowchart](https://github.com/joel-wenzel/ng-flowchart) - A lightweight Angular library for building drag and drop flow charts.
 * [ngx-circle-chart](https://github.com/angx-libs/ngx-circle-chart) - Beautiful, auto-scaling circle (doughnut) progress chart for Angular.
-* [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/incubator-echarts).
+* [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/echarts).
 * [ngx-flexmonster](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting and data visualization.
 * [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
 * [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular.
@@ -1335,7 +1336,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in `Ignite UI` provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
 * [sheetjs](https://docs.sheetjs.com/docs/demos/frontend/angular) - A JavaScript library for reading and writing data from spreadsheets.
 * [active-table](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
-* [jsgrids](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - A popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
 * [slickgrid-universal](https://github.com/ghiscoding/slickgrid-universal) - A monorepo which includes all editors, filters, extensions, and services related to framework agnostic [SlickGrid](https://github.com/6pac/SlickGrid) usage.
 * [angular-datagrid](https://github.com/revolist/angular-datagrid) - Powerful Angular Data Grid component built on top of [RevoGrid](https://github.com/revolist/revogrid).
@@ -1346,20 +1346,20 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - Angular components for data visualization and reporting. Embed reports with [ActiveReportsJS](https://developer.mescius.com/activereportsjs).
 * [mat-datatable](https://github.com/BePo65/mat-datatable) - A simple data table with virtual scrolling using Angular Material.
 * [@Trixwell/data-grid](https://github.com/Trixwell/data-grid) - An Angular data table component with filtering, sorting, pagination, CSV export, sub-grids, and Material integration.
-* [ngx-multi-sort-table](https://github.com/Maxl94/ngx-multi-sort-table) - This library features a multiple sortable table based on Angular Material Design, with a focus on server-side loaded and sorted data.
+* [ngx-multi-sort-table](https://github.com/ngx-multi-sort/ngx-multi-sort-table) - This library features a multiple sortable table based on Angular Material Design, with a focus on server-side loaded and sorted data.
 * [angular2-smart-table](https://github.com/dj-fiorex/angular2-smart-table) - Angular Smart Data Table component.
 * [ngx-flamegraph](https://github.com/mgechev/ngx-flamegraph) - Flame graph for stack trace visualization written in Angular.
 * [ngx-simple-datatables](https://github.com/rinturaj/ngx-simple-datatables) - A lightweight, high-performance Angular data table component with features like virtual scrolling, column freezing, and customizable templates.
 * [cerious-grid](https://github.com/ryoucerious/cerious-widgets) - A seriously powerful Angular grid for developers who demand control, flexibility, and performance.
 * [ngxsmk-datatable](https://github.com/toozuuu/ngxsmk-datatable) - Modern Angular 17+ datatable focused on performance, customization, and developer experience.
-* [ngx-column-filter](https://github.com/kakarotx10/ngx-column-filter) - A powerful, reusable Angular column filter component with support for multiple field types, advanced filtering rules, and customizable match modes.
+* [ngx-column-filter](https://github.com/DevShivamSharma/ngx-column-filter) - A powerful, reusable Angular column filter component with support for multiple field types, advanced filtering rules, and customizable match modes.
 * [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) - Canvas‑based spreadsheet/datagrid engine with zero dependencies, 100K+ rows at 60fps, full editing, and real‑time collaboration. Check their [website](https://spreadsheet.witqq.dev/).
 * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Open source JavaScript spreadsheet and data grid component, can be used in Angular apps when wrapped or consumed via Angular elements.
 * [TabularJS](https://github.com/jspreadsheet/tabularjs) - Lightweight JavaScript table and data grid library for advanced table features in Angular.
 * [uni-table](https://github.com/Unify-India/uni-table) - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.
 * [ogrid](https://github.com/alaarab/ogrid) - The lightweight, multi-framework data grid with enterprise features and zero enterprise cost.
 * [angular-datatables.net](https://github.com/Vinccool96/angular-datatables.net) - Angular plus [DataTables](https://datatables.net/).
-* [uiGrid](https://github.com/orneryd/uiGrid) - Open‑source, multi‑platform data grid rebuilt from the original [ui‑grid](https://github.com/angular-ui/ui-grid) with the same API and modern Angular signals, supporting Angular, Web Components, React, and Rust.
+* [uiGrid](https://github.com/orneryd/uiGrid) - Open‑source, multi‑platform data grid with modern Angular signals, Web Components, React, and Rust.
 * [ngx-datawindow](https://github.com/sugitter/ngx-datawindow) - Table component modernizing the classic DataWindow with zero‑config CRUD, computed columns, multi‑buffer state, offline sync, and granular change tracking.
 * [simple-table](https://github.com/petera2c/simple-table) - Framework-agnostic data grid and table component for building modern, scalable applications.
 * [toolbox](https://github.com/OysteinAmundsen/toolbox) - High-performance, framework-agnostic web components for data-intensive applications.
@@ -1450,7 +1450,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Drag and Drop
 
 * [Official Angular Docs](https://angular.dev/guide/drag-drop)
-* [ngx-drag-drop](https://github.com/reppners/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API.
+* [ngx-drag-drop](https://github.com/ChristofFritz/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API.
 * [@hackingharold/ngx-dropzone](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
 * [ng-dnd](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
 * [angular-drag-drop-layout](https://github.com/skutam/angular-drag-drop-layout) - A lightweight, dependency-free Angular library for creating highly customizable, responsive grid layouts with drag-and-drop functionality.
@@ -1475,7 +1475,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) - Angular components for the Quill Rich Text Editor.
 * [@sibiraj-s/ngx-editor](https://github.com/sibiraj-s/ngx-editor) - Rich Text Editor for Angular using ProseMirror.
 * [@bobbyquantum/ngx-editor](https://github.com/bobbyquantum/ngx-editor) - Angular 21+ fork of `sibiraj-s/ngx-editor`.
-* [ngx-wig](https://github.com/stevermeister/ngx-wig) - Angular WYSIWYG HTML Rich Text Editor.
+* [ngx-wig](https://github.com/bampakoa/ngx-wig) - Angular WYSIWYG HTML Rich Text Editor.
 * [RichTextEditor](https://richtexteditor.com/angular-rich-text-editor) - Standalone Angular component for a WYSIWYG HTML editor with image upload, tables, track changes and comments. Commercial, perpetual license.
 * [ngx-property-editor](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
 * [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
@@ -1505,7 +1505,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-image-editor](https://github.com/eliranbar/ngx-edit-images) - A professional image editor with a free forever tier and offline Ed25519-licensed premium tools.
 * [Scryb](https://scryb.dev/) - A $39/month flat-rate TypeScript WYSIWYG editor built on Tiptap that offers unlimited loads, end users, and documents.
 * [nge-ide](https://github.com/cisstech/nge-ide) - Via a single `<ide-root />` component, NGE IDE embeds a full desktop editor shell into Angular apps.
-* [ngx-exitus-tiptap-editor](https://github.com/marcelinombb/ngx-exitus-tiptap-editor) - A powerful, feature-rich Tiptap-based Rich Text Editor for Angular 18+, specifically designed for educational and technical content.
+* [ngx-tiptap-editor](https://github.com/marcelinombb/ngx-tiptap-editor) - A powerful, feature-rich Tiptap-based Rich Text Editor for Angular 18+, specifically designed for educational and technical content.
 * [notectl](https://github.com/Samyssmile/notectl) - Modern accessible WYSIWYG rich text editor built as a framework-agnostic web component that works everywhere.
 * [svg-engine](https://github.com/mosaicoo/svg-engine) - An embeddable, headless-first SVG editor built on Angular signals.
 * [Updog](https://docs.updog.tech/getting-started/other-frameworks/) - A client-side data importer and spreadsheet editor.
@@ -1588,13 +1588,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-otp-input](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
 * [ngx-show-hide-password](https://github.com/osahner/ngx-show-hide-password) - Add split input button to password or text input. Toggles input type between "text" and "password".
 * [ngx-phone-field](https://github.com/alex-mirankov/ngx-phone-field) - Angular directive for international phone input with flag dropdowns, supporting Reactive and Template-Driven Forms.
-* [ngx-mat-birthday-input](https://github.com/rbalet/ngx-mat-birthday-input) - An Angular Material library for entering a birthday.
+* [ngx-mat-date-input](https://github.com/rbalet/ngx-mat-date-input) - An Angular Material library for entering a birthday.
 * [ngx-countries-dropdown](https://github.com/kapilkumar0037/ngx-countries-dropdown) - Angular library with customizable countries dropdown component with flags, dial code, language and currency details.
 * [ngx-mat-split-button](https://github.com/feature23/ngx-mat-split-button) - Angular Material split button with a primary action and dropdown for secondary options.
 * [ng-select2](https://github.com/Harvest-Dev/ng-select2) - An updated fork of [select2-component](https://github.com/plantain-00/select2-component).
 * [ngx-super-select](https://github.com/HesamKashefi/ngx-super-select) - A multi-select input component for Angular.
 * [ngx-super-select-tree](https://github.com/HesamKashefi/ngx-super-select-tree) - A single/multiple choice drop down tree for Angular!
-* [ngx-mat-table-multi-sort](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
+* [ngx-mat-table-multi-sort](https://github.com/lion-and-bear/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
 * [ng-country-select](https://github.com/wlucha/ng-country-select) - A smart, multilingual country search with flags and codes.
 * [ngx-cron](https://github.com/swimlane/ngx-cron) - User-friendly cron input.
 * [@amirsavand/ngx-input](https://www.npmjs.com/package/@amirsavand/ngx-input) - Awesome all-in-one Angular package for inputs and forms handling.
@@ -1647,7 +1647,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [DynamicAngularForm](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
 * [dynamic-forms](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
 * [json-forms-zorro-wrapper](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
-* [ngx-formwork](https://github.com/TheNordicOne/ngx-formwork) - Framework for Angular Reactive Forms built from JSON or TypeScript configuration.
 * [ngx-formbar](https://github.com/TheNordicOne/ngx-formbar) - A highly flexible framework for generating declarative reactive forms.
 * [formitiva](https://github.com/formitiva/formitiva-monorepo) - A framework-agnostic runtime form engine for building forms from JSON schemas.
 * [filter](https://github.com/some-angular-utils/filter) - Define fields once to get a ready-to-use JSON object and URL query string on every search.
@@ -1658,7 +1657,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-valdemort](https://github.com/Ninja-Squad/ngx-valdemort) - Simpler, cleaner Angular validation error messages.
 * [validointi](https://github.com/validointi/validointi) - A library to help you validate your template driven forms.
 * [angular-reactive-validation](https://github.com/davidwalschots/angular-reactive-validation) - This library simplifies Reactive Forms validation by eliminating the need for extensive HTML.
-* [ngx-validator-pack](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed to simplify usage and allow quick customization.
+* [ngx-validator-pack](https://github.com/omnidyon/ngx-validator-pack) - A collection of validators designed to simplify usage and allow quick customization.
 * [ngx-reactive-form-class-validator](https://github.com/abarghoud/ngx-reactive-form-class-validator) - A lightweight library for dynamically validate Angular reactive forms using [class-validator](https://github.com/typestack/class-validator) library.
 * [ng-error-tooltips](https://github.com/mkeller1992/ng-error-tooltips) - Angular reactive forms library that shows error tooltips for user-friendly validation messages.
 * [angular-password-checker](https://github.com/akehir/angular-password-checker) - Protect your users from re-using a password known to be hacked with this simple Angular directive.
@@ -1682,7 +1681,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-line-awesome](https://github.com/marco-martins/angular-line-awesome) - An Angular component to manage [Line Awesome](https://icons8.com/line-awesome) icons.
 * [angular-techs-logos](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
 * [ngx-x-browser-svg-mask](https://github.com/bmartinson/ngx-x-browser-svg-mask) - Directive to easily achieve cross browser compliance while creating SVG masks.
-* [Semantic Icons](https://github.com/khalilou88/semantic-icons) - Free, open-source icon collection for Angular projects via component selector and SVG tag.
+* [Semantic Icons](https://github.com/gridatek/semantic-icons) - Free, open-source icon collection for Angular projects via component selector and SVG tag.
 * [coolshapes](https://github.com/ngxpert/coolshapes) -  An Angular library aiming at allowing developers to use cool-looking abstract shapes with little grainy gradients from [coolshapes](https://coolshap.es/).
 * [lucide](https://github.com/lucide-icons/lucide) - Open-source icon library with 1000+ SVGs, featuring an [official Angular package](https://lucide.dev/guide/packages/lucide-angular) for easy integration.
 * [@ngverse/icons](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
@@ -1732,9 +1731,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Layout
 
-* [angular-split](https://github.com/bertrandg/angular-split) - Angular split component.
+* [angular-split](https://github.com/angular-split/angular-split) - Angular split component.
 * [ngx-layout](https://github.com/ngbracket/ngx-layout) - Clone of Angular FlexLayout.
-* [ng-sortgrid](https://github.com/kreuzerk/ng-sortgrid) - A grid that allows you to sort all items via drag & drop.
+* [ng-sortgrid](https://github.com/nivekcode/ng-sortgrid) - A grid that allows you to sort all items via drag & drop.
 * [angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2.
 * [gridstack](https://github.com/gridstack/gridstack.js/tree/master/angular/) - Mobile-friendly TypeScript library for drag-and-drop, multi-column responsive dashboards with Angular support.
 * [ngx-flickering-grid](https://github.com/omnedia/ngx-flickering-grid) - A simple component library to create a container with an animated grid pattern background.

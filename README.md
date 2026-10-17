@@ -159,7 +159,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Bazel](https://github.com/just-jeb/angular-builders/tree/master/packages/bazel) - Provides an Angular CLI Builder, which can execute Bazel when triggered by ng build, ng test, etc.
 * [Timestamp](https://github.com/just-jeb/angular-builders/tree/master/packages/timestamp) - This is explained in this [article](https://medium.com/angular-in-depth/angular-cli-under-the-hood-builders-demystified-v2-e73ee0f2d811).
 * [ngx-build-plus](https://github.com/manfredsteyer/ngx-build-plus) - Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements.
-* [ngx-electron](https://github.com/bampakoa/ngx-electron) - Angular CLI builder that runs your application in the desktop using Electron.
+* [ngx-electron](https://github.com/bampakoa/ngx-electron/tree/master/packages/builder) - Angular CLI builder that runs your application in the desktop using Electron.
 * [dotenv-run](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, Rollup, Vite, Webpack, Angular, ESM and Monorepos.
 * [ng-packagr](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 * [angular-env-builder](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
@@ -179,7 +179,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
 * [Qodalis Web CLI](https://github.com/qodalis-solutions/web-cli) - A flexible CLI tool designed to streamline workflows, automate tasks, and provide customizable utilities for developers.
 * [Better-Fullstack](https://github.com/Marve10s/Better-Fullstack) - Scaffold production-ready fullstack apps in seconds. Pick your stack from 425 options — the CLI wires everything together.
-* [firebase addhosting adapters](https://github.com/firebase/apphosting-adapters) - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) to add web framework support.
+* [Firebase App Hosting adapters](https://github.com/firebase/apphosting-adapters) - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) to add web framework support.
 * [ignite-ng](https://github.com/wilfriedtankwe/ignite-ng) - Start a new Angular 22 app with authentication, guards and a feature-based structure already in place.
 * [i18n-fixer](https://github.com/zfurkandurum/i18n-fixer) - Framework-agnostic CLI tool that finds hardcoded strings, missing i18n keys, and unused translations.
 * [js-stack](https://github.com/vipinyadav01/js-stack) - Modern CLI for scaffolding production-ready JavaScript full-stack projects, with customization and best-practice presets.

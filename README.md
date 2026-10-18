@@ -1512,6 +1512,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Updog](https://docs.updog.tech/getting-started/other-frameworks/) - A client-side data importer and spreadsheet editor.
 * [trevixal-editor](https://github.com/adityabhalsod/trevixal-editor) - An independent, custom-engineered WYSIWYG rich-text engine with an Angular integration.
 * [kritzel](https://github.com/kasual1/kritzel) - Infinite canvas editor with first-class support for Angular.
+* [ngx-editor-rtl-ltr-edition](https://github.com/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition) - A text editor for Angular, built on ProseMirror, with first-class right-to-left and left-to-right text, Persian and Arabic locales and fonts, richer tables, image upload, and video embeds.
 
 ### File Upload
 

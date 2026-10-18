@@ -2165,6 +2165,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [OGE UI](https://github.com/oge-ui/oge-ui) - Angular components (with a React version) for data-heavy apps: data grid, inputs and forms under MIT, plus paid pivot, charts, scheduler and Gantt. [Docs and demos](https://www.ogeui.com).
 * [kiln-ui](https://github.com/arafatomer66/kiln-ui) - An Angular component library inspired by Bangladeshi visual heritage.
 * [sushi-angular](https://github.com/RAMEN-Suite/sushi-angular) - An open-source, accessible, and themeable Angular component library built on the CDK and native HTML semantics with typed signal APIs.
+* [helix](https://github.com/GravionLabs/helix) - A signal-based, token-driven Angular UI ecosystem featuring plain CSS components, an application shell, Zod-powered dynamic forms, and AG Grid helpers.
 
 ### UI Libraries built on Bootstrap
 

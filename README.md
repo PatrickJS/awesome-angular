@@ -1773,6 +1773,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-promise-buttons](https://github.com/meysamsahragard/ngx-promise-buttons) - Chilled loading buttons for Angular.
 * [ngx-signal-loading-bar](https://github.com/KennySchl/ngx-signal-loading-bar) - A lightweight, signal-based, zoneless loading bar for Angular.
 * [ngx-skeleton-loader](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
+* [ngx-skeleton-suite](https://github.com/MahmoudAdelJR/ngx-skeleton-suite) - An enterprise-grade, declarative, renderer-agnostic structural directive suite for Angular.
 * [ngx-spinner](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
 * [ngxsmk-skeleton-loader](https://github.com/Cholki2025/ngxsmk-skeleton-loader) - A lightweight skeleton loader featuring SCSS animations and easy theming.
 * [ngx-ui-loader](https://github.com/t-ho/ngx-ui-loader) - Versatile Angular loader/spinner with foreground/background modes, progress bars, and multi-loader support.

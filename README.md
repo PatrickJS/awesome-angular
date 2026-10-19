@@ -1531,6 +1531,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [upup](https://github.com/DevinoSolutions/upup) - A headless upload engine featuring byte-identical UI packages for six major frontend frameworks, supporting server-mode, cloud drives, and multi-source media imports.
 * [filestack](https://www.filestack.com/sdks/angular/) - Integrate powerful file uploads into Angular with a single command using the Filestack SDK to seamlessly ingest, process, and deliver files behind a unified provider call.
 * [ngx-bulk-uploader](https://github.com/suraj-26/ngx-bulk-uploader) - A schema-driven bulk Excel upload grid for Angular, built on `Handsontable`.
+* [ngx-photo-uploader](https://github.com/pablomillaquen/ngx-photo-uploader) - Standalone Angular component for uploading images via click, drag-and-drop, or camera, with built-in preview and full Reactive Forms support.
 
 ### Forms
 

@@ -1757,6 +1757,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dock-layout](https://github.com/mickael-pezzoni/ngx-dock-layout) - An Angular library for creating IDE-style, resizable panel layouts.
 * [layout-virtual](https://github.com/itihon/layout-virtual) - Framework agnostic virtualization engine for responsive list and grid layout.
 * [masonry-angular](https://github.com/MeAkib/masonry-angular) - Zero-dependency masonry for Angular — signal-based, zoneless and SSR-safe.
+* [ngx-magazine](https://github.com/JoseM97/ngx-magazine) - Angular components for a 3D magazine collection gallery with a modal-based, 3D page-flipping HTML reader.
 
 ### Loaders
 

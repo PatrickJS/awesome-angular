@@ -1656,6 +1656,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [formitiva](https://github.com/formitiva/formitiva-monorepo) - A framework-agnostic runtime form engine for building forms from JSON schemas.
 * [filter](https://github.com/some-angular-utils/filter) - Define fields once to get a ready-to-use JSON object and URL query string on every search.
 * [ngx-json-forms](https://github.com/Raghav-Pal-dev/ngx-json-forms) - A zero-template, JSON-driven Angular form engine featuring over 40 field types, advanced validation, conditional logic, wizards, and repeaters.
+* [dynoForm](https://github.com/kowsyap/dynoForm) - Build dynamic reactive forms in Angular from a simple config array.
 
 ### Form Validation
 

@@ -1828,6 +1828,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mark-down](https://github.com/mzebley/mark-down) - A framework‑agnostic snippet engine with an Angular adapter that indexes Markdown at build time and renders HTML at runtime with optional sanitization.
 * [m-render](https://github.com/Foblex/m-render) - A library for rendering Markdown with extended support for Angular components and code snippets.
 * [markstream](https://github.com/Simon-He95/markstream-vue) - Render Markdown while it is still streaming.
+* [slide.ng](https://github.com/slide-ng/slide.ng) - Presentations written in markdown, with real Angular template syntax inside.
 * [streamdown-angular](https://github.com/XurshidJurayev1/streamdown-angular) - Stream‑safe Markdown rendering for Angular, built for AI chat UIs. Angular port of [Vercel Streamdown](https://github.com/vercel/streamdown).
 * [@render-policy/angular](https://github.com/shteynu/render-policy/tree/main/packages/angular) - Renders streaming agent/LLM Markdown and HTML without `[innerHTML]` or `bypassSecurityTrustHtml`: sanitized to a fragment, image hosts allowlisted, Trusted Types-compatible.
 

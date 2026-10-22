@@ -1051,6 +1051,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rheo](https://github.com/japuentem/rheo-framework) - Ultra-fast reactive state, SWR in-memory caching, request deduplication & optimistic data-flow micro-framework.
 * [ng-signal-state-manager](https://github.com/EugBoy/ng-signal-state-manager) - Standalone, lightweight, and type-safe async query cache and state manager for Angular powered by Angular Signals and RxJS.
 * [ngx-signal-flow](https://github.com/danseid/ngx-signal-flow) - Manages state with Angular Signals, updates via Immer, and handles async side effects using RxJS.
+* [homeostate](https://github.com/mixedrays/homeostate) - Keep the store you already use in sync with any CRDT.
 
 ## Testing
 

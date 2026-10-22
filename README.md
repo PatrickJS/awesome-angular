@@ -999,6 +999,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-rehydrate](https://github.com/solidexpert-ltd/ngx-rehydrate) - NgRx state rehydration library for Angular SSR applications.
 * [ngrx-offline](https://github.com/poodlelab/ngrx-offline) - Durable, optimistic, offline mutation handling for Angular applications that use NgRx.
 * [ngrx-graph](https://github.com/ammarnajjar/ngrx-graph) - A CLI scanner to generate JSON and DOT/SVG dependency graphs.
+* [evst](https://github.com/fredyang/evst) - A minimalist, event-driven programming model for applications using the Redux pattern, with implementations for Angular/NgRx and React/Redux Toolkit.
 
 ### NGXS
 

@@ -1991,6 +1991,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-pdf-viewer](https://github.com/subedigaurav/ngx-pdf-viewer) - A lightweight PDF viewer library for Angular applications.
 * [pdf-viewer-kit](https://github.com/AmanKrr/pdf-viewer-kit) - A modern, high-performance, framework-agnostic, lightweight PDF viewer and annotation library built on top of `pdf.js`.
 * [rm-ng-pdf-export](https://github.com/malikrajat/rm-ng-pdf-export) - Angular library for generating and exporting ultra-high-quality PDFs from HTML content with smart page breaking and crystal-clear rendering.
+* [ngpdf](https://github.com/ngpdf/ngpdf) - Write PDFs as Angular components: pdf-* elements laid out with flexbox, paginated tables with repeating headers, page numbers and selectable text, rendered in the browser.
 
 ### Pipes
 

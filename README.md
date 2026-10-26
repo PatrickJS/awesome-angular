@@ -750,7 +750,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [skulljs](https://skulljs.github.io/) - Provides a standardized file structure for building web applications using popular JavaScript and TypeScript frameworks.
 * [teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications.
 * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality.
-* [jangular-cli](https://github.com/nathangtg/jangular-cli) - A Spring Boot + Angular starter kit with JWT auth, Flyway migrations, route protection, and CLI setup.
 * [enterprise-java-saas-starter-kit](https://github.com/zukovlabs/enterprise-java-saas-starter-kit) - Production-ready SaaS starter with Java 21, Spring Boot 3.4, Angular 21 (Standalone + Signals), MSSQL, JWT auth, and Docker Compose.
 * [SaaS Starter](https://github.com/sayahweb2-png/saas-starter-lite) - Production-ready NestJS + Angular 21 SaaS boilerplate with JWT/OAuth/2FA auth, Stripe payments, multi-tenancy, RBAC, BullMQ, Docker, Terraform, and 55+ tests.
 * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular.
@@ -1348,7 +1347,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-datagrid](https://github.com/revolist/angular-datagrid) - Powerful Angular Data Grid component built on top of [RevoGrid](https://github.com/revolist/revogrid).
 * [ZingGrid](https://github.com/ZingGrid/zinggrid) - A JavaScript Web Component that integrates seamlessly with [Angular](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) and many other frameworks.
 * [ngx-panemu-table](https://github.com/panemu/ngx-panemu-table) - An easy-to-use Angular table component configured primarily in TypeScript, requiring only a simple `panemu-table` tag in your HTML.
-* [GuiExpert Table](https://github.com/guiexperttable/ge-table) - Framework-agnostic table library designed to seamlessly integrate with major frameworks, including [Angular](https://gui.expert/getstarted/angular/) (see [Angular 22 example](https://github.com/guiexperttable/angular-22-table)).
+* [GuiExpert Table](https://github.com/guiexperttable/mono/tree/main/packages/angular-table) - Framework-agnostic table library featuring seamless, built-in [Angular integration](https://gui.expert/getstarted/angular/) alongside support for other major frameworks.
 * [ngx-tabulator-tables](https://github.com/knackstedt/ngx-tabulator-tables) - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
 * [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - Angular components for data visualization and reporting. Embed reports with [ActiveReportsJS](https://developer.mescius.com/activereportsjs).
 * [mat-datatable](https://github.com/BePo65/mat-datatable) - A simple data table with virtual scrolling using Angular Material.

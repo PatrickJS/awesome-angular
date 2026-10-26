@@ -2392,6 +2392,7 @@ for the creation of web applications developed with Angular.
 * [AngularDart](https://github.com/flutterdocteur/angulardart) - A web framework that separates cleanly into a template language and a component model, making it easy to build complex, maintainable web applications.
 * [ng-xtend](https://github.com/dont-code/ng-xtend) - Empower your Angular applications with a flexible, scalable plugin ecosystem.
 * [ngx-opentui](https://github.com/quinnjr/ngx-opentui) - Experimental Angular renderer for OpenTUI that uses templates and signals to drive native terminal UIs.
+* [LogBrew](https://github.com/LogBrewCo/sdk/tree/main/js/logbrew-angular) - Angular providers and optional ErrorHandler capture that send errors, logs, and traces to LogBrew, which has a free plan.
 
 ### Wrappers
 

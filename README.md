@@ -2183,6 +2183,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [helix](https://github.com/GravionLabs/helix) - A signal-based, token-driven Angular UI ecosystem featuring plain CSS components, an application shell, Zod-powered dynamic forms, and AG Grid helpers.
 * [ndop-ui](https://github.com/ndop-ui/ui) - An agent-native, signals-first Angular component ecosystem.
 * [jig](https://github.com/awdlab/jig) - A signal-based component library for Angular 22+.
+* [lyra-ui](https://github.com/aceshooting/lyra-ui) - A free, MIT-licensed, framework-agnostic web component library for building accessible production interfaces and chat UIs.
 
 ### UI Libraries built on Bootstrap
 

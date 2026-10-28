@@ -377,6 +377,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dotnet_angular_cli_cheatsheet](https://github.com/shashinvision/dotnet_angular_cli_cheatsheet) - A comprehensive guide for full-stack developers working with .NET and Angular.
 * [TMS Outsource Angular Cheat Sheet](https://tms-outsource.com/cs/angular-cheat-sheet/) - You'll find every decorator, block, operator and CLI flag worth remembering. Searchable, filterable, copy-ready.
 * [angular-interview-flashcards-free](https://github.com/tomaszs/angular-interview-flashcards-free) - Walk into your Angular interview prepared with 100 curated questions and clear, structured answers accessible across all your devices.
+* [learn-angular](https://github.com/TheLearningHubOrg/learn-angular) - An exhaustive, production-grade masterclass from absolute zero to staff-level Angular platform architecture.
 
 ### Exercises
 

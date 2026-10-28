@@ -1055,6 +1055,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-signal-state-manager](https://github.com/EugBoy/ng-signal-state-manager) - Standalone, lightweight, and type-safe async query cache and state manager for Angular powered by Angular Signals and RxJS.
 * [ngx-signal-flow](https://github.com/danseid/ngx-signal-flow) - Manages state with Angular Signals, updates via Immer, and handles async side effects using RxJS.
 * [homeostate](https://github.com/mixedrays/homeostate) - Keep the store you already use in sync with any CRDT.
+* [rivium-push-web-sdk](https://github.com/Rivium-co/rivium-push-web-sdk) - A framework-agnostic, TypeScript-supported SDK that delivers real-time and background web push notifications via WebSockets and VAPID without Firebase.
 
 ## Testing
 

@@ -243,6 +243,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ionic-adv-tooltip](https://github.com/PhaZRic/ionic-adv-tooltip) - Media-rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
 * [PushApp-Capacitor](https://github.com/mehery-soccom/PushApp-Capacitor) - A Capacitor plugin for push notifications, in-app messaging, event tracking, and session handling in Ionic/Angular/Capacitor apps.
 * [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
+* [AngularLynx](https://github.com/Blotch-Smart-Frames/AngularLynx) - Renders Angular components to native iOS, Android, and Web UI via the [Lynx](https://lynxjs.org/) runtime by ByteDance.
 
 ### Updating Angular
 

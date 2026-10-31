@@ -2189,6 +2189,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [jig](https://github.com/awdlab/jig) - A signal-based component library for Angular 22+.
 * [lyra-ui](https://github.com/aceshooting/lyra-ui) - A free, MIT-licensed, framework-agnostic web component library for building accessible production interfaces and chat UIs.
 * [slotted](https://github.com/andrelopes-code/slotted) - A UI kit engineered for information-dense, product-focused web applications, offering native React and Angular integrations.
+* [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) - Tableau-style components for Angular 22: form controls, selects, a virtual table with sorting and selection, dialogs and menus, signal-based and SSR-safe.
 
 ### UI Libraries built on Bootstrap
 

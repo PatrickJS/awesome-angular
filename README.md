@@ -512,6 +512,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [signal-http-cache](https://github.com/frontkit-ng/signal-http-cache) - Angular Signal-based HTTP caching library (queries, mutations, TTL, SWR).
 * [ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) - A lightweight Angular v20+ adapter for JSON API.
 * [ngx-native-middlewares](https://github.com/dkhrunov/ngx-native-middlewares/tree/development/projects/ngx-native-middlewares) - Write your HTTP middleware once to cover all underlying web transports and their wrapper libraries.
+* [ng-signal-request](https://github.com/theunal/ng-signal-request) - A signal-based HTTP layer for Angular (v22+).
 
 ### Micro Frontends
 

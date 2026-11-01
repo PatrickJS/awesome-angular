@@ -1972,6 +1972,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [toastify-all](https://github.com/VeereshPoojari/toastify-all) - Universal, modern toast notification engine for all JavaScript frameworks and platforms.
 * [ngx-toastf](https://github.com/darioegb/ngx-toast) - A lightweight, standalone-first toast notification service for Angular that requires zero template markup or `ViewContainerRef`.
 * [rivium-push-web-sdk](https://github.com/Rivium-co/rivium-push-web-sdk) - A framework-agnostic web SDK with TypeScript support for real-time and background push notifications, persistent message inboxes, and event-triggered in-app messaging.
+* [ng-toast](https://github.com/stefankuburovic/ng-toast) - A lightweight, zoneless Angular toast notification utility powered strictly by Signals and RxJS, with zero external dependencies.
 
 ### Onboarding and Product Tours
 

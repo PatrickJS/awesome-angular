@@ -1233,6 +1233,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-transition-content](https://github.com/ciriousjoker/ngx-transition-content) - An Angular library to seamlessly transition dialog content by fading out old content, animating to new dimensions, and fading in new content.
 * [web-scrolling-text](https://github.com/mehardiknaik/web-scrolling-text) - A lightweight, customizable text animation library for creating smooth scrolling text effects with support for React, Next.js, Angular, and Vanilla JavaScript.
 * [Motionary](https://github.com/HarrisonCN/Motionary) - Scroll animations, animated Web Components and a zero-dependency motion runtime for the web.
+* [exodeui-angular](https://github.com/exodeUI/exodeui-angular) - Angular runtime for the ExodeUI animation engine to render interactive vector animations, physics, and state machines inside standalone components.
 
 ### Calendars
 

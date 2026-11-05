@@ -704,6 +704,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [allstak-angular](https://github.com/AllStak/allstak-angular) - Captures exceptions, logs, navigation, HTTP requests, and render timings with standalone and NgModule support.
 * [inspect-value](https://github.com/HuakunShen/inspect-value) - Web Component value inspector — works in React, Vue, Angular, Svelte, or vanilla JavaScript.
 * [ng-perf-inspector](https://github.com/VitalieCondorache/ng-perf-inspector) - A lightweight debugging and performance monitoring toolkit for modern Angular applications.
+* [GenClass](https://github.com/genclass-dev/GenClass) - Reports race conditions in the browser while they happen (duplicate submits, failure storms and, once signal state is registered by hand, stale responses); one import in `main.ts`, a small on-device model, report-only by default.
 
 ### Documentation Tools
 

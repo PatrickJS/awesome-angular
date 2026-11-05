@@ -2024,6 +2024,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-qrcode](https://github.com/GNURub/ngx-qrcode) - A simple Angular 18+ component to generate QR codes. Based on [react-native-qrcode-skia](https://github.com/enzomanuelmangano/react-native-qrcode-skia) library.
 * [qrcode-angular](https://github.com/selfxyz/self/tree/main/sdk/qrcode-angular) - A streamlined Angular library that creates verification QR codes for [Self.xyz](https://self.xyz/).
 * [qr-code-label-designer](https://github.com/shashi089/qr-code-label-designer) - Framework-agnostic QR code label & badge designer for React, Angular, Vue, Svelte, & Node.js.
+* [angular-qr-code-scanner](https://github.com/Thai-Informatics-System/angular-qr-code-scanner) - A lightweight Angular camera QR scanner featuring continuous scanning, touch control, and iOS recovery.
 
 ### Router
 

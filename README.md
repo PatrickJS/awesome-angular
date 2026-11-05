@@ -1766,6 +1766,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [layout-virtual](https://github.com/itihon/layout-virtual) - Framework agnostic virtualization engine for responsive list and grid layout.
 * [masonry-angular](https://github.com/MeAkib/masonry-angular) - Zero-dependency masonry for Angular — signal-based, zoneless and SSR-safe.
 * [ngx-magazine](https://github.com/JoseM97/ngx-magazine) - Angular components for a 3D magazine collection gallery with a modal-based, 3D page-flipping HTML reader.
+* [fold.js](https://github.com/christophe77/fold.js) - An open-source JavaScript library that makes web apps work properly on foldable phones.
 
 ### Loaders
 

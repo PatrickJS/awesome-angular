@@ -2192,6 +2192,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [slotted](https://github.com/andrelopes-code/slotted) - A UI kit engineered for information-dense, product-focused web applications, offering native React and Angular integrations.
 * [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) - Tableau-style components for Angular 22: form controls, selects, a virtual table with sorting and selection, dialogs and menus, signal-based and SSR-safe.
 * [LiberaUI](https://github.com/gioelevalori/liberaui) - Accessible, zoneless-ready Angular components with a live Theme Studio that exports theme CSS and Angular code. [Documentation](https://liberaui.js.org).
+* [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed UI components for building reports and dashboards in Angular, including form controls, pickers, and dialogs. [Docs](https://ui.rv-grid.com/frameworks/angular/).
 
 ### UI Libraries built on Bootstrap
 

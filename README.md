@@ -1326,7 +1326,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [silverpoint](https://github.com/ecrespo/silverpoint) - React and Angular charting components featuring a historical drafting aesthetic.
 * [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
-* [RevoGrid Charts](https://pro.rv-grid.com/guides/charts/) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial).
+* [RevoGrid Charts](https://github.com/revolist/charts) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/charts/).
 
 ### Cookies
 

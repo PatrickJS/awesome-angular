@@ -1251,6 +1251,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [hss-calendar](https://github.com/HawkerSoftwares/hss-calendar) - A premium, lightweight, and fully customizable calendar library for Angular 19+.
 * [datelane](https://github.com/devendramilmile121/datelane) - A customizable, zero-dependency Angular calendar featuring 12 views and multiple date layers.
 * [ngx-modern-calendar](https://github.com/angx-libs/ngx-modern-calendar) - A small, themeable, multi-language calendar component for Angular.
+* [RevoGrid Scheduler](https://pro.rv-grid.com/guides/event-scheduler/introduction/) - Event and resource scheduling with calendar and timeline views. Commercial, with a [30-day trial](https://rv-grid.com/trial).
 
 ### Captcha
 
@@ -1325,6 +1326,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [silverpoint](https://github.com/ecrespo/silverpoint) - React and Angular charting components featuring a historical drafting aesthetic.
 * [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
+* [RevoGrid Charts](https://pro.rv-grid.com/guides/charts/) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial).
 
 ### Cookies
 
@@ -1386,6 +1388,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [PivotHead](https://github.com/mindfiredigital/PivotHead) - A powerful and flexible library for creating interactive pivot tables in JavaScript/TypeScript applications.
 * [ngx-deebodata-community](https://github.com/deebodata/ngx-deebodata-community) - Open-source data grid with virtual scroll, column resizing, cell editing, tab accessibility, row selection, sorting, and filtering.
 * [Lattice Grid](https://github.com/toclocoinc/latticegrid) - A high-performance JavaScript data grid with a data router that keeps grids, charts, boards, Gantts, and KPI tiles instantly synchronized.
+* [RevoGrid Pivot](https://pro.rv-grid.com/guides/pivot/) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a [30-day trial](https://rv-grid.com/trial).
 
 ### Dates
 
@@ -2193,6 +2196,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) - Tableau-style components for Angular 22: form controls, selects, a virtual table with sorting and selection, dialogs and menus, signal-based and SSR-safe.
 * [LiberaUI](https://github.com/gioelevalori/liberaui) - Accessible, zoneless-ready Angular components with a live Theme Studio that exports theme CSS and Angular code. [Documentation](https://liberaui.js.org).
 * [Revo UI](https://ui.rv-grid.com/frameworks/angular/) - MIT-licensed UI components for building reports and dashboards in Angular, including form controls, pickers, and dialogs.
+* [RevoGrid Gantt](https://pro.rv-grid.com/guides/gantt/) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a [30-day trial](https://rv-grid.com/trial).
+* [RevoGrid Kanban](https://pro.rv-grid.com/guides/kanban/) - Kanban boards for organizing work into columns and moving cards between them. Commercial, with a [30-day trial](https://rv-grid.com/trial).
 
 ### UI Libraries built on Bootstrap
 

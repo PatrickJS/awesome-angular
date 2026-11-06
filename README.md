@@ -1386,6 +1386,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [PivotHead](https://github.com/mindfiredigital/PivotHead) - A powerful and flexible library for creating interactive pivot tables in JavaScript/TypeScript applications.
 * [ngx-deebodata-community](https://github.com/deebodata/ngx-deebodata-community) - Open-source data grid with virtual scroll, column resizing, cell editing, tab accessibility, row selection, sorting, and filtering.
 * [Lattice Grid](https://github.com/toclocoinc/latticegrid) - A high-performance JavaScript data grid with a data router that keeps grids, charts, boards, Gantts, and KPI tiles instantly synchronized.
+* [RevoGrid Pivot](https://github.com/revolist/pivot) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/pivot/).
 
 ### Dates
 

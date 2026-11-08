@@ -969,6 +969,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Security Best Practices
 
 * [Official Angular Security](https://angular.dev/best-practices/security) - Best Practices.
+* [AfterPack](https://www.afterpack.dev/) - Free JavaScript obfuscator for Angular production builds: it encodes the strings and property names that minification leaves readable, and each build produces a different program. [Angular docs](https://www.afterpack.dev/docs/frameworks/angular).
 * [Aikido](https://www.aikido.dev/) - Secure your code, cloud, and runtime in one central system. Find and fix vulnerabilities automatically.
 * [GitHub Code Scanning](https://docs.github.com/en/code-security/concepts/code-scanning) - Learn core concepts for GitHub's code scanning features.
 * [GitHub Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.

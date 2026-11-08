@@ -600,6 +600,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-nest-ai-kit](https://github.com/eusouwilson/angular-nest-ai-kit) - Skills and AI agents for standalone Angular + PrimeNG (frontend) and NestJS + Prisma (backend) monorepos, organized in Nx.
 * [@full-stack-skills/angular-skills](https://github.com/full-stack-skills/angular-skills) - Angular framework development skills for AI coding agents.
 * [angular-vibe-kit](https://github.com/vuanhtung10/angular-vibe-kit) - Bootstrap a vibe coding workflow into any Angular project—complete with a `CLAUDE.md`, project docs, and Claude Code slash-commands tailored to your Angular version.
+* [aparté](https://github.com/apartejs/aparte) - AI chat UI as Web Components with an Angular wrapper: streaming Markdown, tool calls a user approves, AG-UI agents and any LLM backend.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodingFleet](https://codingfleet.com/code-generator/angular/) - An innovative AI-powered tool that transforms your instructions into efficient Angular code.
 * [context7](https://github.com/upstash/context7) - MCP Server with up-to-date code documentation for LLMs and AI code editors.

@@ -279,6 +279,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Discover repositories with overlapping stargazers across the NgSphere.
 * [Angular Popularity Analysis](https://github.com/ProjectBay/angular-popularity-analysis) - An AI-era normalized statistical analysis of Angular’s popularity.
 * [Jobs in JS](https://jobsinjs.com/angular-developer-jobs/) - Angular developer jobs in the US, Canada and UK. Updated daily.
+* [Angularians](https://github.com/erkamyaman/angularians) - The ultimate leaderboard for everyone who has contributed to Angular.
 
 ### Newsletters
 

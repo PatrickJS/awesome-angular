@@ -1253,6 +1253,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [hss-calendar](https://github.com/HawkerSoftwares/hss-calendar) - A premium, lightweight, and fully customizable calendar library for Angular 19+.
 * [datelane](https://github.com/devendramilmile121/datelane) - A customizable, zero-dependency Angular calendar featuring 12 views and multiple date layers.
 * [ngx-modern-calendar](https://github.com/angx-libs/ngx-modern-calendar) - A small, themeable, multi-language calendar component for Angular.
+* [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Event and resource scheduling with calendar and timeline views. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/event-scheduler/introduction/).
 
 ### Captcha
 

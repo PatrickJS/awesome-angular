@@ -1254,6 +1254,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [datelane](https://github.com/devendramilmile121/datelane) - A customizable, zero-dependency Angular calendar featuring 12 views and multiple date layers.
 * [ngx-modern-calendar](https://github.com/angx-libs/ngx-modern-calendar) - A small, themeable, multi-language calendar component for Angular.
 * [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Event and resource scheduling with calendar and timeline views. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/event-scheduler/introduction/).
+* [ngx-lanes](https://github.com/dmartinezzm/ngx-lanes) - Virtualized resource timeline for Angular 19+ that keeps 1,000 rows and 10,000 bars smooth, built with signals and zoneless-ready.
 
 ### Captcha
 

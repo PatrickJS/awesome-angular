@@ -387,7 +387,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-fundamental-lessons](https://github.com/MarkTechson/angular-fundamentals-lessons)
 * [Angular Challenges](https://angular-challenges.vercel.app/) - A repository of 60+ Angular, Nx, RxJS, NgRx, and TypeScript challenges designed to sharpen real-world skills.
 * [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs offer guided, hands-on tutorials to build apps or add new features.
-* [rxjs-fruits](https://www.rxjs-fruits.com/subscribe) - Interactive lessons covering a range of operators in RxJS.
+* [rxjs-fruits](https://www.rxjs-fruits.com/) - Interactive lessons covering a range of operators in RxJS.
 * [modern-angular-exercises](https://github.com/kobi-hari-courses/modern-angular-exercises) - Exercises on various Angular topics, including solutions and solution videos.
 * [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/angular-interview) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Angular HTTP Cancellation Lab](https://frontendatlas.com/angular/trivia/angular-http-what-actually-cancels-request) - Free interactive lab comparing request cancellation with ignoring stale responses.
@@ -618,7 +618,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngAutoPilot](https://github.com/janpereira-dev/ngAutoPilot) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
 * [ng-agentic-skills](https://github.com/L-X-T/ng-agentic-skills) - Agent skills for Angular development. The official companion repo for the [Agentic Engineering series](https://www.angulararchitects.io/blog/best-llms-for-angular/).
 * [ng-mocks-testing-skill](https://github.com/mintarasss/ng-mocks-testing-skill) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
-* [ng-pr-review](https://richa-29.github.io/angular-pr-reviewer/) - AI code review that actually understands Angular.
 * [ngx-agents-md](https://github.com/suprasannaojha/ngx-agents-md) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
 * [ngx-ai](https://github.com/Arul1998/ngx-ai) - RxJS-friendly Angular client for OpenAI-compatible chat APIs (OpenAI, xAI Grok, or your own proxy) with first-class streaming.
 * [ngx-ai-devtools](https://github.com/ahmedkhan1/ngx-ai-devtools) -  See every prompt, response, token, and dollar your app spends without leaving the browser tab.
@@ -716,7 +715,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-doc](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects.
 * [docgeni](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 * [story-ui](https://github.com/southleft/story-ui) - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
-* [envguards](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 * [ngmd](https://github.com/erkamyaman/ngmd) - Angular docs starter. Drop a markdown file, get a route.
 * [FeastDocs](https://github.com/Mindfeast/feastdocs) - Docusaurus-style documentation framework built on Angular, with live Angular components inside Markdown. [FeastDocsDemo](https://feastdocs.feast-labs.com/).
 * [ng-prism](https://github.com/ng-prism/ng-prism) - A component showcase for modern Angular, without story files.
@@ -895,7 +893,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-responsive-signals](https://github.com/irvrodflo/ngx-responsive-signals) - Signal-based responsive breakpoints for Angular.
 * [ngx-theme-stack](https://github.com/WanderleeDev/ngx-theme-stack) - Modern, SSR-safe Angular library for managing dark mode, light mode, and custom themes via Angular Signals.
 * [ngx-themes-plus](https://github.com/fzankl/ngx-themes-plus) - An Angular theme engine with an integrated switcher that supports system preferences and custom themes.
-* [panda](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
+* [panda](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/get-started/angular).
 * [prime-ng-theme-fe](https://github.com/mkccl/prime-ng-theme-fe) - A visual theme designer for PrimeNG.
 * [Super JSS](https://github.com/rsantoyo-dev/super-jss-workspace) - A tiny Angular runtime library that generates atomic CSS with breakpoints and theming.
 * [Theme-Kit](https://github.com/M1tsumi/Theme-Kit) - A unified design‑token SDK that centralizes your colors, typography, and spacing for seamless use across React, Vue, Angular, or any JavaScript project.
@@ -1180,7 +1178,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [elements-template](https://github.com/giacomo/elements-template) - A modern, opinionated starter kit for building custom Web Components powered by Angular 21, Tailwind CSS v4, and Vitest.
 * [realworld-angular](https://github.com/realworld-angular/realworld-angular) - Real world Angular example apps showcasing Angular libraries in action.
 * [spartan-admin-dashboard](https://github.com/Oussemasahbeni/spartan-admin-dashboard) - A production-ready, Angular admin dashboard template built with Spartan UI components and Tailwind CSS.
-* [elite-angular-zen](https://github.com/saiyan666-4Wk/elite-angular-zen) - 2026 Angular 17 Pro Admin Template with Clean Minimal Design.
 * [spike-angular-pro-starter](https://github.com/juwairiyah09/spike-angular-pro-starter) - Spike Angular 2026: Ultimate Free Material Admin Template for Modern Dashboards.
 * [appblink](https://github.com/workern/appblink-workspace) - Production-ready Angular + Flutter + Firebase monorepo starter. Web, mobile & backend in one repo.
 * [exo-dash-angular](https://github.com/exouidev/exo-dash-angular) - A modern Angular and Tailwind CSS admin dashboard template.
@@ -1274,7 +1271,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Carousels
 
 * [@daelmaak/ngx-gallery](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
-* [@MurhafSousli/ngx-gallery](https://github.com/MurhafSousli/ngx-gallery/tree/release/13.0.0) - Simplifies the process of creating beautiful image galleries for the web and mobile devices.
+* [@MurhafSousli/ngx-gallery](https://github.com/MurhafSousli/ngx-gallery) - Simplifies the process of creating beautiful image galleries for the web and mobile devices.
 * [@vinlos/ngx-gallery](https://github.com/vinlos/ngx-gallery) - A simple native gallery component for Angular.
 * [ngu-carousel](https://github.com/uiuniversal/ngu-carousel) - Angular Universal carousel.
 * [ngx-slider](https://github.com/angular-slider/ngx-slider) - Self-contained, mobile friendly slider component for Angular based on [angularjs-slider](https://github.com/angular-slider/angularjs-slider).
@@ -1690,7 +1687,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-validation-messages](https://github.com/lagoshny/ngx-validation-messages) - This module simplifies the display of form validator messages by using a single component.
 * [ngx-validx](https://github.com/EngYouniss/ngx-validx-package) - A lightweight, high-performance, and automatic Angular form validation error handling library.
 * [kits-ngx-validation-package](https://github.com/EngYouniss/kits-ngx-validation-package/tree/main/projects/kits-ngx-validation) - Provides a centralized validation system, including state management, messages, visibility strategies, localization, and reusable form-fields.
-* [ngx-form-validation](https://github.com/such-code/ngx-workspace/blob/main/projects/ngx-form-validation/README.md) - This library adds reactive-style validation to template-driven forms.
+* [ngx-form-validation](https://github.com/such-code/ngx-workspace/blob/main/projects/ngx-forms-validation/README.md) - This library adds reactive-style validation to template-driven forms.
 
 ### Icons
 
@@ -1840,7 +1837,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-md-editable](https://codeberg.org/tomaszatoo/ngx-md-editable) - A lightweight Angular component that edits Markdown and renders expressive HTML content.
 * [ngx-md-slides](https://github.com/ngx-md-slides/ngx-md-slides) - Create multi-language presentations, using Markdown, HTML, and Angular components for live examples.
 * [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
-* [ngx-streamdown](https://github.com/dina-kar/ngx-streamdown) - Angular port of [Streamdown](https://streamdown.ai/), a streaming Markdown renderer optimized for AI‑driven applications.
 * [mark-down](https://github.com/mzebley/mark-down) - A framework‑agnostic snippet engine with an Angular adapter that indexes Markdown at build time and renders HTML at runtime with optional sanitization.
 * [m-render](https://github.com/Foblex/m-render) - A library for rendering Markdown with extended support for Angular components and code snippets.
 * [markstream](https://github.com/Simon-He95/markstream-vue) - Render Markdown while it is still streaming.

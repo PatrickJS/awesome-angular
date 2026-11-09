@@ -2263,6 +2263,7 @@ for the creation of web applications developed with Angular.
 * [zapui](https://github.com/zapuilib/zapui) - Build scalable Angular apps with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 * [Ply](https://github.com/ply-ui-ng/ply) - CLI-first Angular + Tailwind copy-in component library (formerly Base UI (Angular)): `npx ply-ui-cli add` copies source into your repo. 127 free MIT components; Pro stays paid. Docs at [ply-ui.com](https://ply-ui.com). Not MUI Base UI (React).
 * [ngnova-ui](https://github.com/chiragpatel273/ngnova-ui) - Angular 22 component library built with standalone components, focused package entry points, accessible interaction contracts, and Tailwind CSS theming.
+* [ivorie](https://github.com/Inlaylab/ivorie) - Angular UI components with the `shadcn/ui` look and behavior.
 
 ### UI Primitives
 

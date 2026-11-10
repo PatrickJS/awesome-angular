@@ -1083,6 +1083,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [twd](https://github.com/BRIKEV/twd) - In‑browser test runner with instant feedback, Testing Library support, Vite discovery, and built‑in API mocking—framework‑agnostic and easy to use in Angular.
 * [serenity-js](https://github.com/serenity-js/serenity-js) - A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.
 * [TestMu AI SmartUI](https://www.testmuai.com/visual-testing-tool/) - Visual regression testing for Angular apps that captures and compares screenshots across builds.
+* [e2e](https://github.com/tester-army/e2e) - End-to-end testing with natural-language agent steps and locator assertions, with an Angular example.
 
 ### Component
 

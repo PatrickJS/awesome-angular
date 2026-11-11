@@ -1241,6 +1241,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [web-scrolling-text](https://github.com/mehardiknaik/web-scrolling-text) - A lightweight, customizable text animation library for creating smooth scrolling text effects with support for React, Next.js, Angular, and Vanilla JavaScript.
 * [Motionary](https://github.com/HarrisonCN/Motionary) - Scroll animations, animated Web Components and a zero-dependency motion runtime for the web.
 * [exodeui-angular](https://github.com/exodeUI/exodeui-angular) - Angular runtime for the ExodeUI animation engine to render interactive vector animations, physics, and state machines inside standalone components.
+* [svg-scroll-draw](https://svg-scroll-draw.vercel.app/angular-scroll-animation) - Scroll-driven SVG drawing, reveals and split text for Angular, on CSS scroll timelines where supported.
 
 ### Calendars
 

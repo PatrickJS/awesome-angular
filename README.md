@@ -867,6 +867,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [angular-compile](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
 * [deepequalspure](https://github.com/puckowski/deepequalspure) - JavaScript object deep equals service for Angular projects.
+* [dx-bind-js](https://github.com/okzgn/dx-bind-js) - A lightweight, framework-agnostic, zero-dependency utility designed to simplify dynamic dependency injection and property binding.
 * [ng-eval](https://github.com/zvenigora/ng-eval) - Expression parsing and evaluation for Angular applications.
 * [ng-noop](https://github.com/joeskeen/ng-noop) - A minimal, DOM‑less Angular platform for custom runtimes, CLIs, servers, and experimental renderers.
 * [ngx-api-mimic](https://github.com/mateuszbilicz/ngx-api-mimic) - This library allows you to mock data and simulate a fake API using Angular’s HTTP Interceptor.

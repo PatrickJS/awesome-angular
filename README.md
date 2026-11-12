@@ -1394,6 +1394,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Lattice Grid](https://github.com/toclocoinc/latticegrid) - A high-performance JavaScript data grid with a data router that keeps grids, charts, boards, Gantts, and KPI tiles instantly synchronized.
 * [RevoGrid Pivot](https://github.com/revolist/pivot) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/pivot/).
 * [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
+* [ngx-bs-grid](https://github.com/BlockSurvey/bs-grid) - A zero-dependency MIT-licensed Angular data grid.
 
 ### Dates
 

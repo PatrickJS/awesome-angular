@@ -1331,6 +1331,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 * [RevoGrid Charts](https://github.com/revolist/charts) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/charts/).
+* [RevoGrid Gantt](https://github.com/revolist/gantt) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/gantt/).
 
 ### Cookies
 
@@ -1778,6 +1779,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [masonry-angular](https://github.com/MeAkib/masonry-angular) - Zero-dependency masonry for Angular — signal-based, zoneless and SSR-safe.
 * [ngx-magazine](https://github.com/JoseM97/ngx-magazine) - Angular components for a 3D magazine collection gallery with a modal-based, 3D page-flipping HTML reader.
 * [fold.js](https://github.com/christophe77/fold.js) - An open-source JavaScript library that makes web apps work properly on foldable phones.
+* [RevoGrid Kanban](https://github.com/revolist/kanban) - Kanban boards for organizing work into columns and moving cards between them. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/kanban/).
 
 ### Loaders
 
@@ -2201,6 +2203,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) - Tableau-style components for Angular 22: form controls, selects, a virtual table with sorting and selection, dialogs and menus, signal-based and SSR-safe.
 * [LiberaUI](https://github.com/gioelevalori/liberaui) - Accessible, zoneless-ready Angular components with a live Theme Studio that exports theme CSS and Angular code. [Documentation](https://liberaui.js.org).
 * [Kometa UI](https://github.com/InomjonIsmaylov/kometa-ui-kit) - Angular 22 UI kit of standalone, OnPush, signal-input components themed by CSS custom properties, light and dark, with no third-party UI dependency.
+* [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed UI components for building reports and dashboards in Angular, including form controls, pickers, and dialogs. [Docs](https://ui.rv-grid.com/frameworks/angular/).
 
 ### UI Libraries built on Bootstrap
 

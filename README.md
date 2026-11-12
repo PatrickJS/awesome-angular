@@ -654,7 +654,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-material-tracking](https://github.com/Service-Soft/ngx-material-tracking) - Provides GDPR-compliant tracking for Angular sites with built-in Google Analytics, Meta Pixel, and custom options.
 * [ngx-matomo-client](https://github.com/EmmanuelRoux/ngx-matomo-client) - Matomo analytics client for Angular applications.
 * [ngx-piwik-pro](https://github.com/PiwikPRO/ngx-piwik-pro) - A dedicated [Piwik PRO](https://piwik.pro/) Angular library for implementing Tag Manager and tracking.
-* [oculr-ngx](https://github.com/Progressive-Insurance/oculr-ngx) - An analytics library that makes collecting data in an Angular app simple.
 * [plausible](https://github.com/plausible/analytics) - Lightweight, open‑source, privacy‑friendly analytics with SPA support—see [SPA support](https://plausible.io/docs/spa-support).
 * [rybbit](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
 * [gizmo](https://gizmoanalytics.io/) - An AI native alternative to Google Analytics, with a more generous free tier than competitors.

@@ -364,7 +364,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Certification Programs
 
-* [Certificates.dev](https://certificates.dev/angular) - Official Certification of Competence for Angular developers.
+* [Certificates.dev](https://certificates.dev) - Proctored Angular certification exams developed with Google Developer Experts. *(Free Mid-Level prep weekend: Nov 14–15, 2026)*
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Hands‑on, instructor‑led Angular training in Canada.
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Automated foundational skills verification test.
 * [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Multi-level corporate and full-stack certification courses.

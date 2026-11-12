@@ -1532,7 +1532,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-editor-rtl-ltr-edition](https://github.com/ahpcoir-lgtm/ngx-editor-rtl-ltr-edition) - A text editor built on ProseMirror featuring native RTL/LTR support, Persian/Arabic fonts and locales, advanced tables, and media embeds.
 * [ngx-editra](https://github.com/Khatri-Sanjay/ngx-editra) - A CKEditor-inspired rich text editor for Angular, featuring a customizable toolbar, tables, images, formatting, and extensible plugins.
 * [Sqwig](https://sqwig.com/) - Rich text editor with spellcheck built in.
-* [angular-mrydex-editor](https://github.com/MRydex/angular-mrydex-editor) - Generic, plugin-driven rich text editor built on Tiptap for Angular 21+.
+* [angular-mrydex-editor](https://github.com/MRydex/angular-mrydex-editor) - Generic, plugin-driven rich text editor built on Tiptap for Angular 21.2+.
 
 ### File Upload
 

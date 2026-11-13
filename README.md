@@ -666,6 +666,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-piano](https://gitlab.com/SNCF/ngx-piano) - This library integrates [Piano Analytics](https://www.piano.io/) into Angular applications.
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - An easy way to integrate Fingerprint into your Angular application.
 * [ngx-google-tag-manager](https://github.com/bloomscorp/ngx-google-tag-manager) - SSR-safe Google Tag Manager integration for Angular 18+.
+* [consent-analytics](https://github.com/clearideas/consent-analytics) - An MIT-licensed, privacy-focused browser analytics client with a built-in consent banner.
 
 ### Code Analysis
 

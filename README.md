@@ -58,7 +58,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Generators and Scaffolding](#generators-and-scaffolding)
   * [Internationalization](#internationalization)
   * [Linting](#linting)
-  * [Networking](#networking)
   * [Performance](#performance)
   * [Runtime](#runtime)
   * [SEO](#seo)
@@ -840,12 +839,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [JunoLint](https://github.com/Myxelium/JunoLint) - This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using `eslint --fix`.
 * [angular-estree-parser](https://github.com/prettier/angular-estree-parser) - A parser that converts Angular template expressions and bindings into an ESTree-compatible AST.
 * [eslint-plugin-ng-perfectionist](https://github.com/ChrisAraneo/eslint-plugin-ng-perfectionist) - An ESLint plugin that enforces alphabetical sorting for Angular objects.
-
-### Networking
-
-* [angular-http-server](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
-* [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
-* [ngx-offline-indicator](https://github.com/thdang1009/ngx-offline-indicator) - A simple and customizable way to inform users about their internet connection status within their Angular applications.
 
 ### Performance
 
@@ -1936,6 +1929,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dgkit](https://github.com/grynyk/dgkit) - A growing collection of open-source frontend agnostic and Angular libraries, developer tools, and frontend utilities.
 * [grafloria](https://github.com/grafloria/grafloria) - An MIT diagram and dashboard engine for JavaScript: one headless core, native Angular, React and Vue bindings, one document format and one undo stack.
 * [ngx-signal-operators](https://github.com/wassim-k/ngx-signal-operators) - Transform Angular signals with functional operators.
+* [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular library to detect the device, OS, and browser details.
 
 ### Modals
 

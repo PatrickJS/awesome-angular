@@ -1306,6 +1306,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [apexstock](https://github.com/apexcharts/apexstock) - A comprehensive, feature-rich stock chart library built on top of ApexCharts.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - A thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [Foblex Flow](https://github.com/Foblex/f-flow) - Angular-native library for node editors, workflow builders and interactive diagrams: drag-and-drop nodes and connections, minimap, auto-layout, virtualization, and a keyboard accessibility layer.
+* [gantryjs](https://github.com/ErlonRr/gantryjs) - A free, full-featured, open-source Gantt chart for every framework — Angular, React, Vue, Svelte, or plain JavaScript.
 * [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
 * [mayacharts](https://github.com/BbekShr/mayacharts) - A framework-agnostic, zero-dependency web component that renders beautiful, accessible charts in just a few lines of code, powered entirely by the browser.
 * [mochart-angular](https://github.com/mocharts/mochart/blob/main/packages/mochart-angular/README.md) - Angular components for the [@mochart/core](https://github.com/mocharts/mochart) charting library.

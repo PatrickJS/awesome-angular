@@ -1783,6 +1783,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-magazine](https://github.com/JoseM97/ngx-magazine) - Angular components for a 3D magazine collection gallery with a modal-based, 3D page-flipping HTML reader.
 * [fold.js](https://github.com/christophe77/fold.js) - An open-source JavaScript library that makes web apps work properly on foldable phones.
 * [RevoGrid Kanban](https://github.com/revolist/kanban) - Kanban boards for organizing work into columns and moving cards between them. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/kanban/).
+* [LeafThrough](https://github.com/dmtrbrl/leafthrough) - Realistic 3D page-turning magazine for the web.
 
 ### Loaders
 

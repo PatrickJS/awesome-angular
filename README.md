@@ -209,6 +209,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-ssh-deploy](https://bitbucket.org/dkhang97/ngx-ssh-deploy/src/master/) - Deploy Angular projects using SSH.
 * [front-ready](https://github.com/czfabrics/front-ready) - Detects your Angular build settings, compiles the project, and uploads it to AWS S3 with optimized cache headers using a single command.
 * [oSStack Deploy](https://github.com/sanketpadhyal/oSStack-Deploy) - A high-performance deployment platform inspired by Vercel; features zero-config deployments, automated framework detection, and real-time build streaming.
+* [Buddy](https://buddy.works/docs/basics/workflows/angular) - Agentic cloud whose pipelines build and test Angular apps with the Angular CLI on every push, then deploy them to your servers or to AWS, Google Cloud, or Azure.
 
 ### Desktop Applications
 

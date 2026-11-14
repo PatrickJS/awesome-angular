@@ -2204,6 +2204,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [LiberaUI](https://github.com/gioelevalori/liberaui) - Accessible, zoneless-ready Angular components with a live Theme Studio that exports theme CSS and Angular code. [Documentation](https://liberaui.js.org).
 * [Kometa UI](https://github.com/InomjonIsmaylov/kometa-ui-kit) - Angular 22 UI kit of standalone, OnPush, signal-input components themed by CSS custom properties, light and dark, with no third-party UI dependency.
 * [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed UI components for building reports and dashboards in Angular, including form controls, pickers, and dialogs. [Docs](https://ui.rv-grid.com/frameworks/angular/).
+* [tectra-ng](https://github.com/kulakovskyi/tectra-ng) - Open-source Angular UI kit for consoles and admin apps.
 
 ### UI Libraries built on Bootstrap
 

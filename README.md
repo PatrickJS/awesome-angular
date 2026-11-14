@@ -1328,6 +1328,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 * [RevoGrid Charts](https://github.com/revolist/charts) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/charts/).
 * [RevoGrid Gantt](https://github.com/revolist/gantt) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/gantt/).
+* [moguchart-core](https://github.com/hiro-murakami/moguchart-core) - A lightweight yet feature-rich Gantt chart Web Component built with Lit.
 
 ### Cookies
 

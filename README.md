@@ -1055,6 +1055,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-signal-flow](https://github.com/danseid/ngx-signal-flow) - Manages state with Angular Signals, updates via Immer, and handles async side effects using RxJS.
 * [homeostate](https://github.com/mixedrays/homeostate) - Keep the store you already use in sync with any CRDT.
 * [soucouyant](https://github.com/julienetie/soucouyant) - A simple, framework-agnostic JavaScript state management library with optional time travel and animation support.
+* [sp00ky](https://github.com/mono424/sp00ky) - Local-first sync engine and reactive data layer for SurrealDB with optimistic updates, live queries, and offline support.
 
 ## Testing
 

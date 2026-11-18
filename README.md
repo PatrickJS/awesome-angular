@@ -2065,6 +2065,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-typed-router](https://github.com/dominicbachmann/angular-typed-router) - Type‑safe Angular navigation from a single Routes array, yielding inferred path unions and typed navigate tuples with zero codegen or runtime cost.
 * [real-router](https://github.com/greydragon888/real-router) - Data-first router for JavaScript — the most declarative router for client applications.
 * [ssgoi](https://github.com/meursyphus/ssgoi) - Animates the change between routes without taking over navigation.
+* [ngx-urlik](https://github.com/tsopeh/ngx-urlik) - Type-safe URL parameters and navigation for Angular.
 
 ### Scroll
 

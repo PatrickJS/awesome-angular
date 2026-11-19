@@ -641,6 +641,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Workik](https://workik.com/angular-code-generator) - Free AI-Powered Angular code generator | Your Context-Driven AI Partner!
 * [Yes Chat AI](https://www.yeschat.ai/gpts-ZxX35UdX-Angular-Ninja-%F0%9F%A5%B7) - Angular Ninja - Angular Development Assistant.
 * [Zipy](https://www.zipy.ai/online-tools/ai-angular-code-generator) - AI Angular Code Generator.
+* [Angular TypeScript Developer](https://github.com/dimitriskl/angular-typescript-developer) - Claude Code and Codex agent for typed Angular components, signals, accessibility, and frontend tests.
 
 ### Analytics
 

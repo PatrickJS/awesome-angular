@@ -1994,6 +1994,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-toast](https://github.com/stefankuburovic/ng-toast) - A lightweight, zoneless Angular toast notification utility powered strictly by Signals and RxJS, with zero external dependencies.
 * [Kodon](https://github.com/Kokkinis99/Kodon) - Sonner-style toast notifications built on Angular Primitives.
 * [ngx-callout](https://github.com/vishaalsharmaa/ngx-callout) - Beautiful, accessible callouts for Angular.
+* [ngx-flyout](https://github.com/vishaalsharmaa/ngx-flyout) - An accessible side flyout panel for Angular.
 
 ### Onboarding and Product Tours
 

@@ -1954,6 +1954,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dialog-forge](https://github.com/HoplaGeiss/ngx-dialog-forge) - Declarative, signals-native Angular dialog library built on the native dialog element.
 * [ngx-modalieur](https://github.com/kazepis/ngx-modalieur) - Bootstrap-styled modals using Angular CDK Dialog.
 * [ngx-minimal-modal](https://github.com/ThePipeFox/ngx-minimal-modal) - A small, unopinionated library that provides a straightforward way to work with modals (pop-ups) in an Angular app.
+* [ngx-flyout](https://github.com/vishaalsharmaa/ngx-flyout) - An accessible side flyout panel for Angular.
 
 ### Notifications
 

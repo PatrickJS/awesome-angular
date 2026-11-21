@@ -2303,6 +2303,7 @@ for the creation of web applications developed with Angular.
 * [NeuralTech](https://github.com/hasanaydin7/NeuralTech) - AI-first, headless and Signal-native Angular UI components with machine-readable contracts.
 * [aria-ng-ui](https://github.com/phalla-doll/aria-ng-ui) - A modern, accessible Angular component library inspired by `shadcn/ui` — built with Angular-native patterns, Tailwind CSS, and accessibility-first primitives.
 * [lily-design-system](https://github.com/LilyDesignSystem/lily-design-system) - A free, headless design system with hundreds of accessible components across seven frameworks, complete with themes and example apps.
+* [Kirana UI](https://github.com/kirana-style/primitives) - Framework-agnostic headless components with an idiomatic Angular adapter, backed by a single core that also targets React, Vue, Svelte, Solid, and Custom Elements.
 
 ### Viewers
 

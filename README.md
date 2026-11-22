@@ -2307,6 +2307,7 @@ for the creation of web applications developed with Angular.
 * [aria-ng-ui](https://github.com/phalla-doll/aria-ng-ui) - A modern, accessible Angular component library inspired by `shadcn/ui` — built with Angular-native patterns, Tailwind CSS, and accessibility-first primitives.
 * [lily-design-system](https://github.com/LilyDesignSystem/lily-design-system) - A free, headless design system with hundreds of accessible components across seven frameworks, complete with themes and example apps.
 * [Kirana UI](https://github.com/kirana-style/primitives) - Framework-agnostic headless components with an idiomatic Angular adapter, backed by a single core that also targets React, Vue, Svelte, Solid, and Custom Elements.
+* [ui-sdk-angular](https://github.com/efuturetoday/ui-sdk-angular) - Headless Angular directives for [ui-sdk](https://github.com/vercel-labs/ui)—bring your own markup and styles while it handles ARIA, focus, keyboard navigation, popups, and dismissal.
 
 ### Viewers
 

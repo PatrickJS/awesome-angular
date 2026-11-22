@@ -843,6 +843,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [JunoLint](https://github.com/Myxelium/JunoLint) - This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using `eslint --fix`.
 * [angular-estree-parser](https://github.com/prettier/angular-estree-parser) - A parser that converts Angular template expressions and bindings into an ESTree-compatible AST.
 * [eslint-plugin-ng-perfectionist](https://github.com/ChrisAraneo/eslint-plugin-ng-perfectionist) - An ESLint plugin that enforces alphabetical sorting for Angular objects.
+* [shadcn-lint-angular](https://github.com/ChernyshovA/shadcn-lint-angular) - Checks Tailwind design system rules in Angular templates and suggests fixes based on your theme and component variants.
 
 ### Performance
 

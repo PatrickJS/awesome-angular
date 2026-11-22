@@ -1559,6 +1559,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [filestack](https://www.filestack.com/sdks/angular/) - Integrate powerful file uploads into Angular with a single command using the Filestack SDK to seamlessly ingest, process, and deliver files behind a unified provider call.
 * [ngx-bulk-uploader](https://github.com/suraj-26/ngx-bulk-uploader) - A schema-driven bulk Excel upload grid for Angular, built on `Handsontable`.
 * [ngx-photo-uploader](https://github.com/pablomillaquen/ngx-photo-uploader) - Standalone Angular component for uploading images via click, drag-and-drop, or camera, with built-in preview and full Reactive Forms support.
+* [PageSignal](https://www.pagesignal.studio/) - Native Angular 21 document workspace with multi-file upload, editable extracted fields, document previews, and JSON export through an application-provided backend adapter.
 
 ### Forms
 

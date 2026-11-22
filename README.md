@@ -621,6 +621,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngAutoPilot](https://github.com/janpereira-dev/ngAutoPilot) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
 * [ng-agentic-skills](https://github.com/L-X-T/ng-agentic-skills) - Agent skills for Angular development. The official companion repo for the [Agentic Engineering series](https://www.angulararchitects.io/blog/best-llms-for-angular/).
 * [ng-mocks-testing-skill](https://github.com/mintarasss/ng-mocks-testing-skill) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
+* [ng-point](https://github.com/abiramcodes/ng-point) - Dev-mode Angular package for capturing LLM-ready element context via `Alt+Click`.
 * [ngx-agents-md](https://github.com/suprasannaojha/ngx-agents-md) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
 * [ngx-ai](https://github.com/Arul1998/ngx-ai) - RxJS-friendly Angular client for OpenAI-compatible chat APIs (OpenAI, xAI Grok, or your own proxy) with first-class streaming.
 * [ngx-ai-devtools](https://github.com/ahmedkhan1/ngx-ai-devtools) -  See every prompt, response, token, and dollar your app spends without leaving the browser tab.

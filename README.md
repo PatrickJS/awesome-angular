@@ -1389,6 +1389,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
 * [ngx-bs-grid](https://github.com/BlockSurvey/bs-grid) - A zero-dependency MIT-licensed Angular data grid.
 * [argus-table](https://github.com/Joessst-Dev/argus-table) - A framework-agnostic, virtualized data table web component built with Lit and TanStack.
+* [dzgrid](https://github.com/plinthworks/dzgrid) - A data grid written from scratch in TypeScript, for applications where right-to-left text, Arabic, time zones and screen readers are not an afterthought.
 
 ### Dates
 

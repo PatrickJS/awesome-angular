@@ -341,6 +341,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Material Dev](https://angular-material.dev/home)
 * [Angular Tips](https://ngtips.com/)
 * [Modern Angular Insights](https://medium.com/modern-angular-insights)
+* [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 ### Books
 

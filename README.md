@@ -387,6 +387,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rxjs-fruits](https://www.rxjs-fruits.com/) - Interactive lessons covering a range of operators in RxJS.
 * [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/angular-interview) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Angular HTTP Cancellation Lab](https://frontendatlas.com/angular/trivia/angular-http-what-actually-cancels-request) - Free interactive lab comparing request cancellation with ignoring stale responses.
+* [DiffDojo Angular Code Review Practice](https://app.diffdojo.com/angular) - Review realistic AI-written Angular pull requests with planted bugs, leave inline comments and get graded against a canonical review. One PR is free with no signup.
 
 ### Training
 

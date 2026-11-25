@@ -554,6 +554,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-ssr-caching](https://github.com/nigrosimone/ng-ssr-caching) - Cache for server-side rendered pages in Angular SSR.
 * [fastang](https://github.com/daclab-dev/fastang) - An experimental, all-in-one web framework that unifies Angular on the frontend, Fastify on the backend, and integrated SSR.
 * [strata](https://github.com/Andersseen/strata) - Server Components and structured server APIs for Angular and Analog.
+* [Angular SSR Monitor-Mode Example](https://github.com/WebDecoy/node/tree/main/examples/angular-monitor) - A runnable Angular 22 and Express 5 example for observing bot decisions and testing middleware on the built server without an API key.
 
 ## Development Utilities
 

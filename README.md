@@ -2202,6 +2202,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed UI components for building reports and dashboards in Angular, including form controls, pickers, and dialogs. [Docs](https://ui.rv-grid.com/frameworks/angular/).
 * [tectra-ng](https://github.com/kulakovskyi/tectra-ng) - Open-source Angular UI kit for consoles and admin apps.
 * [Blocks](https://github.com/filipmazev/Blocks) - A modular Angular UI library for responsive, accessible applications.
+* [ExhaustiveUI](https://github.com/e-xiste/exhaustive-ui) - MIT licensed Angular 22 component library, with every component on the Signals API; a fork of Optimus UI and PrimeNG v21.
 
 ### UI Libraries built on Bootstrap
 

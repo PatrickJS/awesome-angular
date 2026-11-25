@@ -193,10 +193,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [AWS Amplify](https://docs.amplify.aws/angular/)
 * [Vercel](https://vercel.com/solutions/angular)
 * [Firebase Hosting](https://firebase.google.com/docs/app-hosting/get-started)
-* [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular apps on Netlify gain automatic framework detection and redirects via the [Angular Runtime](https://github.com/netlify/angular-runtime) plugin.
+* [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular apps on Netlify gain automatic framework detection and redirects via the [Angular Runtime](https://github.com/netlify/framework-adapters/tree/main/packages/angular-runtime) plugin.
 * [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 * [analog-publish-gh-pages](https://github.com/k9n-dev/analog-publish-gh-pages) - A GitHub Action for the Deployment of an `Analog.js` app on GitHub Pages.
-* [Genezio](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 * [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
 * [SST](https://sst.dev/) - A framework that makes it easy to build and automate modern full-stack applications.
 * [ngx-config-orchestrator](https://github.com/xhani-manolis-trungu/ngx-config-orchestrator) - Angular library for runtime configuration via external JSON, enabling “Build Once, Deploy Anywhere.”
@@ -444,7 +443,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@openfeature/go-feature-flag-web-provider](https://www.npmjs.com/package/@openfeature/go-feature-flag-web-provider) - [GO Feature Flag](https://gofeatureflag.org/) provider allows you to [connect](https://gofeatureflag.org/docs/sdk/client_providers/openfeature_angular) to your GO Feature Flag instance with the `@openfeature/web-sdk`.
 * [Flagsmith](https://www.flagsmith.com/) - Ship Faster and Control Releases with Feature Flag Management.
 * [@statsig/angular-bindings](https://www.npmjs.com/package/@statsig/angular-bindings) - The [Statsig](https://www.statsig.com/) Angular bindings package provides a `StatsigService` that can be injected into your components. See the [Statsig docs](https://docs.statsig.com/client/javascript-sdk/Angular/) for more details.
-* [@configcat/js-sdk](https://github.com/configcat/js-sdk) - ConfigCat SDK for JavaScript provides easy integration for your application to [ConfigCat](https://configcat.com/).
+* [@configcat/sdk](https://github.com/configcat/js-unified-sdk) - ConfigCat SDK for JavaScript provides easy integration for your application to [ConfigCat](https://configcat.com/).
 * [@configcat-labs/feature-flags-in-angular-sample-app](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
 * [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash; reactive and type-safe flag management with minimal setup.
 * [ngx-feature-flags](https://github.com/pavan-98/ngx-feature-flags) - An Angular‑first, enterprise‑ready feature‑flag layer that standardizes how flags are resolved, guarded, and rendered across Angular apps.
@@ -1556,7 +1555,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [ngx-mask](https://github.com/NepipenkoIgor/ngx-mask) - Angular Plugin to make masks on form fields and html elements.
 * [maskito](https://github.com/taiga-family/maskito) - Collection of libraries to create an input mask which ensures that user types value according to predefined format.
-* [ngx-sub-form](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
 * [ngx-currency-v2](https://github.com/gabriel-hawerroth/ngx-currency-v2) - A fork of [ngx-currency](https://github.com/nbfontana/ngx-currency) updated for the latest Angular version.
 * [ngx-enhancy-forms](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced Angular forms.
 * [ngx-focus-entities](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel](https://github.com/klee-contrib/topmodel).

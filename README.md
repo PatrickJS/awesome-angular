@@ -443,7 +443,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@openfeature/go-feature-flag-web-provider](https://www.npmjs.com/package/@openfeature/go-feature-flag-web-provider) - [GO Feature Flag](https://gofeatureflag.org/) provider allows you to [connect](https://gofeatureflag.org/docs/sdk/client_providers/openfeature_angular) to your GO Feature Flag instance with the `@openfeature/web-sdk`.
 * [Flagsmith](https://www.flagsmith.com/) - Ship Faster and Control Releases with Feature Flag Management.
 * [@statsig/angular-bindings](https://www.npmjs.com/package/@statsig/angular-bindings) - The [Statsig](https://www.statsig.com/) Angular bindings package provides a `StatsigService` that can be injected into your components. See the [Statsig docs](https://docs.statsig.com/client/javascript-sdk/Angular/) for more details.
-* [@configcat/js-sdk](https://github.com/configcat/js-unified-sdk) - ConfigCat SDK for JavaScript provides easy integration for your application to [ConfigCat](https://configcat.com/).
+* [@configcat/sdk](https://github.com/configcat/js-unified-sdk) - ConfigCat SDK for JavaScript provides easy integration for your application to [ConfigCat](https://configcat.com/).
 * [@configcat-labs/feature-flags-in-angular-sample-app](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
 * [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash; reactive and type-safe flag management with minimal setup.
 * [ngx-feature-flags](https://github.com/pavan-98/ngx-feature-flags) - An Angular‑first, enterprise‑ready feature‑flag layer that standardizes how flags are resolved, guarded, and rendered across Angular apps.

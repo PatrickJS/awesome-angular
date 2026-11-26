@@ -2299,6 +2299,7 @@ for the creation of web applications developed with Angular.
 * [ngx-superlite-img-viewer](https://github.com/david-marquez-44/ngx-superlite-img-viewer) - An ultra-lightweight Angular library designed to display image galleries in a fast and intuitive viewer.
 * [file-preview-viewer](https://github.com/patelsumit5192/file-preview-viewer) - Universal client-side file preview library for web, React, Angular, and Vue.
 * [ooxml](https://github.com/ChristopherVR/ooxml) - A client-side TypeScript library and Angular editors to open, edit, validate, and save Office and limited Visio documents entirely in the browser.
+* [diffwise](https://github.com/pgoch/diffwise) - Side-by-side diffs of rendered HTML and plain text for Angular.
 
 ### Visual Effects
 
